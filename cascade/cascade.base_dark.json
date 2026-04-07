@@ -358,6 +358,7 @@
       "25": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -366,12 +367,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "50": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -380,12 +381,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "100": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -394,12 +395,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "200": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -408,12 +409,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "300": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -422,12 +423,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "400": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -436,8 +437,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "500": {
         "value": "{core.brand-preset.grey}",
@@ -447,6 +447,7 @@
       "600": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -455,8 +456,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "700": {
         "value": "{core.brand-preset.grey}",
@@ -474,6 +474,7 @@
       "800": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -482,12 +483,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1100"
+        }
       },
       "900": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
+        "description": "basic.sand 1000 ( возможно поменять)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -496,12 +497,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 1000 ( возможно поменять)"
+        }
       },
       "a20": {
         "value": "{core.grey.900}",
         "type": "color",
+        "description": "Black 20% (white)\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -510,12 +511,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Black 20% (white)\n"
+        }
       },
       "a25": {
         "value": "{core.grey.900}",
         "type": "color",
+        "description": "Black 20% (white)\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -524,8 +525,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Black 20% (white)\n"
+        }
       },
       "a30": {
         "value": "{core.grey.900}",
@@ -784,6 +784,7 @@
       "a8": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.white 8%\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -792,12 +793,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.white 8%\n"
+        }
       },
       "a10": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.white 8%\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -806,12 +807,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.white 8%\n"
+        }
       },
       "a5": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.white 8%\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -820,12 +821,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.white 8%\n"
+        }
       },
       "a15": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -834,12 +835,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "\n"
+        }
       },
       "a20": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -848,12 +849,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "\n"
+        }
       },
       "a25": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.sand 300 (25%)\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -862,12 +863,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.sand 300 (25%)\n"
+        }
       },
       "a30": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.sand 300 (25%)\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -876,12 +877,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.sand 300 (25%)\n"
+        }
       },
       "a90": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -890,12 +891,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "\n"
+        }
       },
       "a80": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -904,12 +905,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "\n"
+        }
       },
       "a70": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -918,12 +919,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "\n"
+        }
       },
       "a60": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.white 80%",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -932,12 +933,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.white 80%"
+        }
       },
       "a50": {
         "value": "{core.brand-preset.white}",
         "type": "color",
+        "description": "replaceble.white 80%",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -946,8 +947,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replaceble.white 80%"
+        }
       },
       "a40": {
         "value": "{core.brand-preset.white}",
@@ -1062,6 +1062,7 @@
       "800": {
         "value": "{core.brand-preset.tertiary}",
         "type": "color",
+        "description": "basic.sand 900",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1070,12 +1071,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 900"
+        }
       },
       "900": {
         "value": "{core.brand-preset.tertiary}",
         "type": "color",
+        "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1084,8 +1085,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
+        }
       },
       "a10": {
         "value": "{core.brand-60.300}",
@@ -1129,6 +1129,7 @@
       "a15": {
         "value": "{core.brand-60.300}",
         "type": "color",
+        "description": "replacement.sand 300 (15%)\n",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1137,8 +1138,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replacement.sand 300 (15%)\n"
+        }
       },
       "a20": {
         "value": "{core.brand-60.300}",
@@ -1182,6 +1182,7 @@
       "800a25": {
         "value": "{core.brand-60.800}",
         "type": "color",
+        "description": "replacement.sand 300 (25%)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1190,12 +1191,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replacement.sand 300 (25%)"
+        }
       },
       "800a10": {
         "value": "{core.brand-60.800}",
         "type": "color",
+        "description": "replacement.sand 300 (25%)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1204,8 +1205,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "replacement.sand 300 (25%)"
+        }
       },
       "a30": {
         "value": "{core.brand-60.300}",
@@ -1236,6 +1236,7 @@
       "a0": {
         "value": "{core.brand-60.300}",
         "type": "color",
+        "description": "for radial gradient",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1244,12 +1245,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "for radial gradient"
+        }
       },
       "100a0": {
         "value": "{core.brand-60.100}",
         "type": "color",
+        "description": "for radial gradient",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1258,8 +1259,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "for radial gradient"
+        }
       },
       "a40": {
         "value": "{core.brand-60.300}",
@@ -1409,6 +1409,7 @@
       "50": {
         "value": "{core.brand-preset.secondary}",
         "type": "color",
+        "description": "basic.sand 50",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1417,12 +1418,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 50"
+        }
       },
       "100": {
         "value": "{core.brand-preset.secondary}",
         "type": "color",
+        "description": "basic.sand 100",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1431,12 +1432,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 100"
+        }
       },
       "200": {
         "value": "{core.brand-preset.secondary}",
         "type": "color",
+        "description": "basic.sand 200",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1445,12 +1446,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 200"
+        }
       },
       "300": {
         "value": "{core.brand-preset.secondary}",
         "type": "color",
+        "description": "basic.sand 300",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1459,8 +1460,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 300"
+        }
       },
       "400": {
         "value": "{core.brand-preset.secondary}",
@@ -1482,6 +1482,7 @@
       "600": {
         "value": "{core.brand-preset.secondary}",
         "type": "color",
+        "description": "basic.sand 400",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1490,8 +1491,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 400"
+        }
       },
       "700": {
         "value": "{core.brand-preset.secondary}",
@@ -1535,6 +1535,7 @@
       "50a50": {
         "value": "{core.brand-30.50}",
         "type": "color",
+        "description": "basic.sand 50",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1543,8 +1544,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.sand 50"
+        }
       },
       "700a0": {
         "value": "{core.brand-30.700}",
@@ -1786,6 +1786,7 @@
         "50": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1794,8 +1795,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         },
         "100": {
           "value": "{core.white.a0}",
@@ -1825,6 +1825,7 @@
         "600": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 600",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1833,8 +1834,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 600"
+          }
         },
         "700": {
           "value": "{core.white.a0}",
@@ -1854,6 +1854,7 @@
         "a20": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1862,12 +1863,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         },
         "a10": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1876,12 +1877,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         },
         "a5": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1890,12 +1891,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         },
         "a0": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1904,12 +1905,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         },
         "a30": {
           "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "description": "Secondary.red 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1918,14 +1919,14 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.red 500"
+          }
         }
       },
       "success": {
         "50": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1934,8 +1935,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500"
+          }
         },
         "100": {
           "value": "{core.white.a0}",
@@ -1965,6 +1965,7 @@
         "600": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -1973,8 +1974,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500"
+          }
         },
         "700": {
           "value": "{core.white.a0}",
@@ -1994,6 +1994,7 @@
         "a20": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500 20%",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2002,12 +2003,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500 20%"
+          }
         },
         "a10": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500 20%",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2016,12 +2017,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500 20%"
+          }
         },
         "a5": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500 20%",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2030,12 +2031,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500 20%"
+          }
         },
         "a0": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500 20%",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2044,12 +2045,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500 20%"
+          }
         },
         "a30": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",
+          "description": "Primary.emerald 500 20%",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2058,14 +2059,14 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Primary.emerald 500 20%"
+          }
         }
       },
       "warning": {
         "50": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2074,8 +2075,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "100": {
           "value": "{core.white.a0}",
@@ -2105,6 +2105,7 @@
         "600": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2113,8 +2114,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "700": {
           "value": "{core.white.a0}",
@@ -2134,6 +2134,7 @@
         "a30": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2142,12 +2143,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a20": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2156,12 +2157,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a10": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2170,12 +2171,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a5": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2184,12 +2185,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a0": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2198,12 +2199,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "600a30": {
           "value": "{core.validation.warning.600}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2212,14 +2213,14 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         }
       },
       "info": {
         "50": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2228,8 +2229,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "100": {
           "value": "{core.white.a0}",
@@ -2259,6 +2259,7 @@
         "600": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2267,8 +2268,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "700": {
           "value": "{core.white.a0}",
@@ -2288,6 +2288,7 @@
         "a30": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2296,12 +2297,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a20": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2310,12 +2311,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a10": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2324,12 +2325,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a5": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2338,12 +2339,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "a0": {
           "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2352,12 +2353,12 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         },
         "600a30": {
           "value": "{core.validation.info.600}",
           "type": "color",
+          "description": "Secondary.yellow 300",
           "$extensions": {
             "studio.tokens": {
               "modify": {
@@ -2366,8 +2367,7 @@
                 "space": "lch"
               }
             }
-          },
-          "description": "Secondary.yellow 300"
+          }
         }
       }
     },
@@ -2375,6 +2375,7 @@
       "50": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2383,12 +2384,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "100": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2397,12 +2398,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "200": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2411,12 +2412,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "300": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2426,12 +2427,12 @@
               "color": "{core.brand-preset.white}"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "400": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2441,8 +2442,7 @@
               "color": "{core.brand-preset.white}"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "500": {
         "value": "{core.brand-preset.primary}",
@@ -2452,6 +2452,7 @@
       "600": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.amber 600",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2460,12 +2461,12 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.amber 600"
+        }
       },
       "700": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2474,8 +2475,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "800": {
         "value": "{core.brand-preset.primary}",
@@ -2493,6 +2493,7 @@
       "900": {
         "value": "{core.brand-preset.primary}",
         "type": "color",
+        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2501,8 +2502,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "Primary.Amber 800"
+        }
       },
       "a5": {
         "value": "{core.brand-preset.primary}",
@@ -2696,6 +2696,7 @@
       "silver-a25": {
         "value": "{core.additionals.silver}",
         "type": "color",
+        "description": "basic.silver",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2704,8 +2705,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.silver"
+        }
       },
       "bronze": {
         "value": "#EB7F44",
@@ -2715,6 +2715,7 @@
       "bronze-a25": {
         "value": "{core.additionals.bronze}",
         "type": "color",
+        "description": "basic.bronze",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2723,8 +2724,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "basic.bronze"
+        }
       },
       "vip": {
         "value": "#FFC94B",
@@ -2739,6 +2739,7 @@
       "gold-a25": {
         "value": "{core.additionals.gold}",
         "type": "color",
+        "description": "vip",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2747,8 +2748,7 @@
               "space": "lch"
             }
           }
-        },
-        "description": "vip"
+        }
       },
       "pending": {
         "value": "#E5BF00",

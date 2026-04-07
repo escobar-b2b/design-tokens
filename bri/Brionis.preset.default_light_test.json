@@ -3063,7 +3063,7 @@
     "banner": {
       "title": {
         "mob": {
-          "value": "{heading.lg}",
+          "value": "{heading.lg-stronger}",
           "type": "typography"
         },
         "web": {

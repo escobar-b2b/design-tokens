@@ -2547,9 +2547,8 @@
         }
       },
       "200": {
-        "value": "{core.brand-preset.primary}",
+        "value": "{core.brand-10.800}",
         "type": "color",
-        "description": "Primary.Amber 800",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2558,7 +2557,8 @@
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "Primary.Amber 800"
       },
       "300": {
         "value": "{core.brand-preset.primary}",

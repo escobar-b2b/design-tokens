@@ -4828,7 +4828,7 @@
           },
           "fill": {
             "active": {
-              "value": "{core.brand-30.100}",
+              "value": "{contextual.segment-control.item.fill.hover}",
               "type": "color"
             },
             "inactive": {

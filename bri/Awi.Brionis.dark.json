@@ -2005,10 +2005,6 @@
           "active": {
             "value": "{core.brand-30.500}",
             "type": "color"
-          },
-          "active-vip": {
-            "value": "{core.additionals.vip}",
-            "type": "color"
           }
         },
         "text": {
@@ -3117,11 +3113,6 @@
         }
       },
       "loyalty_points": {
-        "fill": {
-          "value": "{core.brand-preset.sport.5}",
-          "type": "color",
-          "description": "contextual.profile.loyalty_points.fill"
-        },
         "points": {
           "slate-1": {
             "fill": {
@@ -4624,40 +4615,6 @@
       },
       "sport": {
         "item": {
-          "fill": {
-            "1": {
-              "value": "{core.brand-preset.sport.1}",
-              "type": "color"
-            },
-            "2": {
-              "value": "{core.brand-preset.sport.2}",
-              "type": "color"
-            },
-            "3": {
-              "value": "{core.brand-preset.sport.3}",
-              "type": "color"
-            },
-            "4": {
-              "value": "{core.brand-preset.sport.4}",
-              "type": "color"
-            },
-            "5": {
-              "value": "{core.brand-preset.sport.5}",
-              "type": "color"
-            },
-            "6": {
-              "value": "{core.brand-preset.sport.6}",
-              "type": "color"
-            },
-            "7": {
-              "value": "{core.brand-preset.sport.7}",
-              "type": "color"
-            },
-            "8": {
-              "value": "{core.brand-preset.sport.8}",
-              "type": "color"
-            }
-          },
           "ellipse": {
             "value": "{core.white.a100}",
             "type": "color"
@@ -4686,10 +4643,6 @@
         "background": {
           "1": {
             "value": "linear-gradient(58deg, {core.brand-10.500} 0%, rgba(58, 110, 254, 0.00) 20%)",
-            "type": "color"
-          },
-          "2": {
-            "value": "radial-gradient(89% 46% at 20% 45%, {core.brand-preset.for-gradients.3} 0%, {core.brand-10.500} 100%)",
             "type": "color"
           }
         }
@@ -4811,10 +4764,6 @@
     },
     "status-icon": {
       "success": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.validation.success.a10} 0%, {core.validation.success.a0} 100%)",
-          "type": "color"
-        },
         "icon": {
           "value": "{core.validation.success.500}",
           "type": "color"
@@ -5419,11 +5368,6 @@
             "value": "{core.white.a100}",
             "type": "color",
             "description": "Tiket"
-          },
-          "winning": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "Tiket"
           }
         },
         "fill": {
@@ -5755,10 +5699,6 @@
       "elipse": {
         "default": {
           "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
           "type": "color"
         },
         "special": {
@@ -6093,11 +6033,6 @@
         }
       },
       "third": {
-        "fill": {
-          "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.5} 0%, {core.brand-preset.for-gradients.4} 100%)",
-          "type": "color",
-          "description": "badge"
-        },
         "text": {
           "value": "{core.white.a100}",
           "type": "color",
@@ -6110,11 +6045,6 @@
         }
       },
       "fifth": {
-        "fill": {
-          "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.7} 0%, {core.brand-preset.for-gradients.6} 100%)",
-          "type": "color",
-          "description": "badge"
-        },
         "text": {
           "value": "{core.white.a100}",
           "type": "color",

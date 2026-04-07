@@ -8391,7 +8391,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.lg}",
+          "value": "{heading.xxl-stronger}",
           "type": "typography"
         }
       },

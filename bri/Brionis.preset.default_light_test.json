@@ -3055,7 +3055,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxxl}",
+          "value": "{heading.xxl-stronger}",
           "type": "typography"
         }
       }
@@ -3330,7 +3330,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg}",
+        "value": "{heading.lg-stronger}",
         "type": "typography"
       }
     }

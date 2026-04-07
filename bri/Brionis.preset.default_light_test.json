@@ -3025,7 +3025,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.sm}",
+        "value": "{heading.ml}",
         "type": "typography"
       }
     },

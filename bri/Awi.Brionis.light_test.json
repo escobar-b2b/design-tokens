@@ -8052,12 +8052,6 @@
         "type": "sizing"
       }
     },
-    "bonus": {
-      "padding-bottom": {
-        "value": "3px",
-        "type": "spacing"
-      }
-    },
     "general": {
       "padding-top": {
         "value": "{blur.100}",
@@ -8395,16 +8389,6 @@
           "type": "typography"
         }
       },
-      "collections-wrap": {
-        "gap": {
-          "value": "28px",
-          "type": "spacing"
-        }
-      },
-      "padding-bottom": {
-        "value": "53px",
-        "type": "spacing"
-      },
       "gap": {
         "value": "{spacing.0}",
         "type": "spacing"
@@ -8709,15 +8693,6 @@
           "letterSpacing": "0%"
         },
         "type": "typography"
-      }
-    },
-    "popup": {
-      "vip-bet-amount": {
-        "width": {
-          "value": "40px",
-          "type": "sizing",
-          "description": "contextual.wheel.popup.vip-bet-amount"
-        }
       }
     }
   },

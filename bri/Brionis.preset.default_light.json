@@ -79,10 +79,6 @@
       }
     },
     "header": {
-      "mobile-top-up": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      },
       "general": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
@@ -485,18 +481,6 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
-    },
-    "error-payments": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "22px",
-        "lineHeight": "24px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "2%"
-      },
-      "type": "typography",
-      "description": "Error payments"
     }
   },
   "core": {
@@ -3339,19 +3323,6 @@
       }
     }
   },
-  "games": {
-    "labels": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
-        "fontSize": "9px",
-        "lineHeight": "9px",
-        "letterSpacing": "3%",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography"
-    }
-  },
   "lottery-tournament": {
     "tiket": {
       "old-price": {
@@ -3477,14 +3448,6 @@
           "lineHeight": "25px",
           "letterSpacing": "0%"
         },
-        "type": "typography"
-      }
-    }
-  },
-  "achivments": {
-    "offers-block": {
-      "title": {
-        "value": "{heading.lg}",
         "type": "typography"
       }
     }

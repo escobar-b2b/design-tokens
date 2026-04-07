@@ -6691,8 +6691,7 @@
     "name": "Brionis.dark",
     "group": "Brionis",
     "selectedTokenSets": {
-      "Brionis.preset.default_dark": "enabled",
-      "Awi.Brionis.dark": "enabled"
+      "Brionis.preset.default_dark": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:9254e11ff7a85c95fb7ae4f01bffea11ac76464e,",

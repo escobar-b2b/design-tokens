@@ -5473,6 +5473,18 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "my-progress": {
+        "fill": {
+          "value": "{core.brand-60.50}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{semantic.divider.default.accent}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "news": {

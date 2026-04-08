@@ -7770,10 +7770,6 @@
           "value": "{core.white.a20}",
           "type": "color"
         },
-        "secondary": {
-          "value": "{core.white.a10}",
-          "type": "color"
-        },
         "accent": {
           "value": "{core.brand-30.a50}",
           "type": "color"

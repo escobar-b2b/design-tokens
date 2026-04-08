@@ -2869,25 +2869,10 @@
       }
     },
     "background": {
-      "1": {
-        "value": "{core.brand-60.800}",
-        "type": "color",
-        "description": "not used\nold #1C1548\n"
-      },
       "2": {
         "value": "{core.brand-60.700}",
         "type": "color",
         "description": "basic.replaceable.sand 1100"
-      },
-      "3": {
-        "value": "{core.brand-60.700}",
-        "type": "color",
-        "description": "not used\n#3D3B4F\n"
-      },
-      "4": {
-        "value": "{core.brand-60.900}",
-        "type": "color",
-        "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
         "value": "{core.white.a100}",

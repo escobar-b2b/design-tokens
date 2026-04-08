@@ -6794,7 +6794,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.500}",
+          "value": "{contextual.achivments.card.fiill.default}",
           "type": "color"
         },
         "secondary": {
@@ -6806,7 +6806,7 @@
           "type": "color"
         },
         "on-brand-secondary": {
-          "value": "{core.brand-60.700}",
+          "value": "{contextual.accordion.text.primary}",
           "type": "color"
         },
         "on-brand-tertiary": {

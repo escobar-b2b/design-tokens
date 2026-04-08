@@ -2370,6 +2370,10 @@
           "value": "{core.brand-60.500a12}",
           "type": "color"
         },
+        "static": {
+          "value": "{core.brand-60.a25}",
+          "type": "color"
+        },
         "active": {
           "value": "{semantic.background.brand.emphasizing.default.primary}",
           "type": "color"

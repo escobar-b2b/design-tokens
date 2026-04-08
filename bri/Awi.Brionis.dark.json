@@ -3348,6 +3348,10 @@
         "small": {
           "value": "{semantic.icon.default.primary}",
           "type": "color"
+        },
+        "static": {
+          "value": "{core.brand-60.a25}",
+          "type": "color"
         }
       },
       "slate1": {

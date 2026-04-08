@@ -4387,7 +4387,7 @@
         },
         "tabs": {
           "background": {
-            "value": "{core.grey.50a50}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "border": {
@@ -4402,11 +4402,11 @@
           },
           "text": {
             "default": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{contextual.segment-control.item.text.default}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{contextual.deals.welcome-bonus-card.tabs.text.default}",
               "type": "color"
             },
             "disabled": {
@@ -4914,12 +4914,12 @@
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{core.grey.500}",
+            "value": "{core.grey.400}",
             "type": "color",
             "description": "Segment Control"
           },
           "active": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.500}",
             "type": "color",
             "description": "Segment Control"
           }

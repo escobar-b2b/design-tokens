@@ -5,6 +5,7 @@
     "Brionis.preset.default_light",
     "Awi.Brionis.light",
     "Brionis.preset.default_dark",
-    "Brionis.preset.default_light_orange"
+    "Brionis.preset.default_light_orange",
+    "Awi.Brionis.dark"
   ]
 }

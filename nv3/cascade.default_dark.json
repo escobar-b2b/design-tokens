@@ -4369,16 +4369,6 @@
           "type": "color"
         }
       },
-      "warning": {
-        "default": {
-          "value": "{core.validation.warning.500}",
-          "type": "color"
-        },
-        "static": {
-          "value": "{core.validation.warning.500}",
-          "type": "color"
-        }
-      },
       "banner-cart": {
         "primary": {
           "value": "{core.white.a100}",

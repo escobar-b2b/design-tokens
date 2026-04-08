@@ -9508,5 +9508,14 @@
     },
     "$figmaCollectionId": "VariableCollectionId:61573:286293",
     "$figmaModeId": "61573:0"
+  },
+  {
+    "id": "9bbfd815c462acf2aff29994136033f1e6f99be6",
+    "name": "darck",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Brionis.preset.default_dark": "enabled",
+      "Awi.Brionis.dark": "enabled"
+    }
   }
 ]

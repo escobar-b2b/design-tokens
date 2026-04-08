@@ -7594,12 +7594,6 @@
         "value": "3px",
         "type": "spacing"
       }
-    },
-    "general": {
-      "padding-top": {
-        "value": "{blur.100}",
-        "type": "spacing"
-      }
     }
   },
   "header": {
@@ -7748,16 +7742,6 @@
       },
       "inside-horisontal": {
         "value": "{spacing.100}",
-        "type": "spacing"
-      }
-    },
-    "textarea": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{spacing.300}",
         "type": "spacing"
       }
     }

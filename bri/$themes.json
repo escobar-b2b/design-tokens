@@ -9516,6 +9516,7 @@
     "selectedTokenSets": {
       "Brionis.preset.default_dark": "enabled",
       "Awi.Brionis.dark": "enabled"
-    }
+    },
+    "$figmaVariableReferences": {}
   }
 ]

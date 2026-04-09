@@ -3119,6 +3119,12 @@
           "type": "color"
         }
       },
+      "balance": {
+        "card": {
+          "value": "{core.grey.500}",
+          "type": "color"
+        }
+      },
       "loyalty_points": {
         "points": {
           "slate-1": {

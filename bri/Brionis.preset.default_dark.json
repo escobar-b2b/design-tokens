@@ -2783,6 +2783,11 @@
         "type": "color",
         "description": "The slate third level on main(white) background"
       },
+      "slate-3": {
+        "value": "{core.white.a5}",
+        "type": "color",
+        "description": "The slate third level on main(white) background"
+      },
       "slate-on-card": {
         "value": "{core.grey.800a60}",
         "type": "color",

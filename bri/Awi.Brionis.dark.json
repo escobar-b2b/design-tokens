@@ -3347,11 +3347,11 @@
     "bullet": {
       "fill": {
         "default": {
-          "value": "{core.grey.500}",
+          "value": "{core.white.a30}",
           "type": "color"
         },
         "active": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "gold": {
@@ -5294,7 +5294,7 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{contextual.lottery-tournament.tiket.background.fill}",
+          "value": "{contextual.lottery-tournament.prize.fill}",
           "type": "color"
         },
         "border": {
@@ -6823,7 +6823,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{contextual.achivments.card.fiill.default}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "secondary": {

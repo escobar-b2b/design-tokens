@@ -2308,7 +2308,7 @@
       },
       "balance": {
         "card": {
-          "value": "{core.grey.500}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }

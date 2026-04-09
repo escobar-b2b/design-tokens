@@ -6735,19 +6735,19 @@
       },
       "default": {
         "primary": {
-          "value": "{core.grey.600}",
+          "value": "{core.grey.25}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.400}",
+          "value": "{core.grey.100}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.200}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.grey.100}",
+          "value": "{core.grey.500}",
           "type": "color"
         }
       },
@@ -7193,7 +7193,7 @@
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "secondary": {

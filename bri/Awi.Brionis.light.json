@@ -2022,6 +2022,13 @@
           }
         }
       },
+      "card": {
+        "border": {
+          "value": "{core.grey.a10}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      },
       "popup": {
         "prize": {
           "item": {

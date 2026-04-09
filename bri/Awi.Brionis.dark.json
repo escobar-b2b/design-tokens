@@ -2896,6 +2896,13 @@
           "type": "color",
           "description": "Lootboxes"
         }
+      },
+      "card": {
+        "border": {
+          "value": "{core.grey.a10}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     },
     "strip": {

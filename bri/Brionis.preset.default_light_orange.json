@@ -328,10 +328,6 @@
           }
         }
       }
-    },
-    "title": {
-      "value": "{heading.xl-stronger}",
-      "type": "typography"
     }
   },
   "Icon": {
@@ -2898,10 +2894,6 @@
   "homepage": {
     "collection": {
       "title": {
-        "mob": {
-          "value": "{heading.xl-stronger}",
-          "type": "typography"
-        },
         "web": {
           "value": "{heading.xxxl}",
           "type": "typography"

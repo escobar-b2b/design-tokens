@@ -5214,6 +5214,10 @@
         "secondary": {
           "value": "{core.brand-60.a20}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-60.a50}",
+          "type": "color"
         }
       },
       "banner-cart": {
@@ -5559,10 +5563,6 @@
           }
         }
       }
-    },
-    "title": {
-      "value": "{heading.xl-stronger}",
-      "type": "typography"
     },
     "bottom": {
       "min-height": {
@@ -6214,10 +6214,6 @@
         "padding-left": {
           "value": "{spacing.1200}",
           "type": "spacing"
-        },
-        "mob": {
-          "value": "{text.lg-stronger}",
-          "type": "typography"
         },
         "web": {
           "value": "{heading.lg}",

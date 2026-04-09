@@ -5792,6 +5792,13 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "my-progress": {
+        "border": {
+          "value": "{semantic.divider.default.accent}",
+          "type": "color",
+          "description": "status-inactive"
+        }
       }
     },
     "news": {

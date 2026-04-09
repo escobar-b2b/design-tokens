@@ -6665,10 +6665,6 @@
         }
       }
     },
-    "title": {
-      "value": "{heading.xl-stronger}",
-      "type": "typography"
-    },
     "bottom": {
       "min-height": {
         "value": "{size.800}",
@@ -7935,10 +7931,6 @@
         "padding-left": {
           "value": "{spacing.1200}",
           "type": "spacing"
-        },
-        "mob": {
-          "value": "{text.lg-stronger}",
-          "type": "typography"
         },
         "web": {
           "value": "{heading.lg}",

@@ -3331,5 +3331,16 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
+  },
+  "contextual": {
+    "lootboxes": {
+      "card": {
+        "border": {
+          "value": "{core.grey.a10}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      }
+    }
   }
 }

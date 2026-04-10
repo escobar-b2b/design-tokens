@@ -6545,7 +6545,7 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.white.a5}",
           "type": "color"
         },
         "text-heading": {
@@ -6720,7 +6720,7 @@
       },
       "prize": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-60.a5}",
           "type": "color",
           "description": "status-inactive"
         }

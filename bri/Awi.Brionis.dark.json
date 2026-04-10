@@ -5489,12 +5489,12 @@
       },
       "my-progress": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-10.a30}",
           "type": "color",
           "description": "status-inactive"
         },
         "border": {
-          "value": "{semantic.divider.default.accent}",
+          "value": "{core.brand-10.a30}",
           "type": "color",
           "description": "status-inactive"
         }

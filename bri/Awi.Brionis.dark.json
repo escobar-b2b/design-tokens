@@ -3210,7 +3210,7 @@
             "type": "color"
           },
           "on-review": {
-            "value": "{core.validation.warning.a30}",
+            "value": "{core.validation.warning.a20}",
             "type": "color"
           },
           "declined": {

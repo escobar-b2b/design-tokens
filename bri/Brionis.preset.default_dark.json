@@ -1659,7 +1659,7 @@
           "description": "Secondary.red 500"
         },
         "600": {
-          "value": "{core.grey.700}",
+          "value": "{core.brand-preset.validation.danger}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {

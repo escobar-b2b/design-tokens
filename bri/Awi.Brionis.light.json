@@ -429,121 +429,6 @@
     }
   },
   "shadow": {
-    "button": {
-      "primary": {
-        "default": {
-          "value": {
-            "x": "0px",
-            "y": "0px",
-            "blur": "0px",
-            "spread": "0px",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        },
-        "hover": {
-          "value": "{shadow.button.primary.default}",
-          "type": "boxShadow"
-        },
-        "active": {
-          "value": "{shadow.button.primary.hover}",
-          "type": "boxShadow"
-        },
-        "disabled": {
-          "value": "{shadow.button.primary.default}",
-          "type": "boxShadow"
-        }
-      },
-      "tertiary": {
-        "default": {
-          "value": {
-            "x": "0px",
-            "y": "0px",
-            "blur": "0px",
-            "spread": "0px",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        },
-        "hover": {
-          "value": "{shadow.button.tertiary.default}",
-          "type": "boxShadow"
-        },
-        "disabled": {
-          "value": "{shadow.button.tertiary.default}",
-          "type": "boxShadow"
-        },
-        "active": {
-          "value": "{shadow.button.tertiary.default}",
-          "type": "boxShadow"
-        }
-      },
-      "secondary": {
-        "default": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        },
-        "disabled": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        },
-        "hover": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        },
-        "active": {
-          "value": "{shadow.button.secondary.hover}",
-          "type": "boxShadow"
-        }
-      },
-      "ghost-popup": {
-        "default": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        },
-        "disabled": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        },
-        "hover": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        },
-        "active": {
-          "value": "{shadow.button.secondary.hover}",
-          "type": "boxShadow"
-        }
-      },
-      "static": {
-        "default": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "{core.white.a0}",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow"
-        }
-      }
-    },
     "header": {
       "general": {
         "value": {
@@ -552,17 +437,6 @@
           "blur": "12px",
           "spread": "{depth.0}",
           "color": "{core.brand-60.800a10}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "general-current": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "8px",
-          "blur": "12px",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -717,34 +591,6 @@
       ],
       "type": "boxShadow"
     },
-    "dropdown menu": {
-      "value": {
-        "x": "0px",
-        "y": "4px",
-        "blur": "16px",
-        "spread": "0px",
-        "color": "{core.grey.a15}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
-    "datepicker": {
-      "value": "{shadow.drop.sm}",
-      "type": "boxShadow"
-    },
-    "tooltip": {
-      "value": [
-        {
-          "x": "{depth.0}",
-          "y": "4px",
-          "blur": "4px",
-          "spread": "{depth.0}",
-          "color": "{core.brand-60.800a10}",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
     "popup": {
       "value": "{shadow.modal}",
       "type": "boxShadow"
@@ -875,10 +721,6 @@
         },
         "type": "boxShadow"
       }
-    },
-    "notification": {
-      "value": "{shadow.drop.ml}",
-      "type": "boxShadow"
     },
     "lottery-tournament": {
       "players-prizes": {

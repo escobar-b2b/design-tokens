@@ -625,16 +625,12 @@
       "item": {
         "fill": {
           "active": {
-            "value": "{shadow.button.secondary.active}",
+            "value": "{shadow.semantic.drop.placeholder}",
             "type": "boxShadow",
             "description": "contextual.segment-control.item.fill.active"
           }
         }
       }
-    },
-    "popover": {
-      "value": "{shadow.notification}",
-      "type": "boxShadow"
     },
     "homepage": {
       "slider": {
@@ -2314,7 +2310,7 @@
           }
         },
         "validation-text": {
-          "value": "{semantic.text.danger.default}",
+          "value": "{semantic.status.error.text.primary}",
           "type": "color"
         }
       },
@@ -3315,11 +3311,11 @@
               "type": "color"
             },
             "error": {
-              "value": "{semantic.text.danger.default}",
+              "value": "{semantic.status.error.text.primary}",
               "type": "color"
             },
             "success": {
-              "value": "{semantic.text.success.default}",
+              "value": "{semantic.status.success.text.primary}",
               "type": "color"
             },
             "secondary": {

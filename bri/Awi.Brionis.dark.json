@@ -778,7 +778,7 @@
       "item": {
         "fill": {
           "active": {
-            "value": "{shadow.button.secondary.active}",
+            "value": "{shadow.semantic.drop.placeholder}",
             "type": "boxShadow",
             "description": "contextual.segment-control.item.fill.active"
           }
@@ -814,10 +814,6 @@
           }
         }
       }
-    },
-    "popover": {
-      "value": "{shadow.notification}",
-      "type": "boxShadow"
     },
     "homepage": {
       "collections": {
@@ -3291,7 +3287,7 @@
           }
         },
         "validation-text": {
-          "value": "{semantic.text.danger.default}",
+          "value": "{semantic.status.error.text.primary}",
           "type": "color"
         },
         "action-right": {
@@ -4486,7 +4482,7 @@
               "type": "color"
             },
             "error": {
-              "value": "{semantic.text.danger.default}",
+              "value": "{semantic.status.error.text.primary}",
               "type": "color"
             },
             "success": {

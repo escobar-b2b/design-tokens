@@ -8220,7 +8220,8 @@
       "contextual.lottery-tournament.my-progress.fill": "S:6219df31912ee3148a36796dbde24dc770ebc302,",
       "contextual.lottery-tournament.my-progress.border": "S:b516603aa0e0eb8184282477a898ca6258521a5a,",
       "contextual.profile.balance.card": "S:41202b6e53cc9d51e1fe7c5d9cfd2f735f6217be,",
-      "semantic.background.slate-3": "S:b7cf111d20585fa7dcc2af63d03b2d4b2c1fc1ed,"
+      "semantic.background.slate-3": "S:b7cf111d20585fa7dcc2af63d03b2d4b2c1fc1ed,",
+      "contextual.progress-bar.normal.primary.text": "S:1673454df57691a46bbff496a65bebbbc2a12c10,"
     },
     "$figmaVariableReferences": {
       "main": "75720515a58ed7175f9d6b9a610826a8b062d1a2",

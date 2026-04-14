@@ -621,17 +621,6 @@
         "type": "boxShadow"
       }
     },
-    "segment-control": {
-      "item": {
-        "fill": {
-          "active": {
-            "value": "{shadow.semantic.drop.placeholder}",
-            "type": "boxShadow",
-            "description": "contextual.segment-control.item.fill.active"
-          }
-        }
-      }
-    },
     "homepage": {
       "slider": {
         "payment-block": {

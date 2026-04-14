@@ -775,15 +775,6 @@
       }
     },
     "segment-control": {
-      "item": {
-        "fill": {
-          "active": {
-            "value": "{shadow.semantic.drop.placeholder}",
-            "type": "boxShadow",
-            "description": "contextual.segment-control.item.fill.active"
-          }
-        }
-      },
       "tabs": {
         "item": {
           "active": {

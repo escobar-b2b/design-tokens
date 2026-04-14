@@ -2172,7 +2172,7 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.500a12}",
             "type": "color"
           },
           "inactive": {

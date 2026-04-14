@@ -2163,6 +2163,10 @@
           "container": {
             "value": "{core.brand-10.a10}",
             "type": "color"
+          },
+          "text": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
           }
         },
         "secondary": {

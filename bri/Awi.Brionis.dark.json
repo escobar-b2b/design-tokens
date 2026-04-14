@@ -3125,6 +3125,10 @@
             "value": "{core.brand-60.300}",
             "type": "color"
           },
+          "text": {
+            "value": "{core.brand-60.400}",
+            "type": "color"
+          },
           "container": {
             "value": "{core.white.a15}",
             "type": "color"

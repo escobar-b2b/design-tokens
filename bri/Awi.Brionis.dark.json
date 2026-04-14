@@ -4891,6 +4891,13 @@
       "border": {
         "value": "{core.grey.a10}",
         "type": "color"
+      },
+      "week-day": {
+        "text": {
+          "value": "{semantic.icon.default.primary}",
+          "type": "color",
+          "description": "basic.sand 1100"
+        }
       }
     },
     "tooltip": {

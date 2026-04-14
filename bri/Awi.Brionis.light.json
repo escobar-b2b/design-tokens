@@ -3664,6 +3664,13 @@
       "bottom-fill": {
         "value": "{core.white.a8}",
         "type": "color"
+      },
+      "week-day": {
+        "text": {
+          "value": "{semantic.icon.default.primary}",
+          "type": "color",
+          "description": "basic.sand 1100"
+        }
       }
     },
     "tooltip": {
@@ -5543,6 +5550,17 @@
         "lineHeight": "48px",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xxl": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-8}",
+        "lineHeight": "{xxl}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     }

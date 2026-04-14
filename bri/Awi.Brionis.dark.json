@@ -2886,24 +2886,24 @@
         "points": {
           "slate-1": {
             "fill": {
-              "value": "{core.brand-60.50}",
+              "value": "{core.grey.500}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a30}",
+              "value": "{core.brand-10.a50}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }
           },
           "slate-2": {
             "fill": {
-              "value": "{core.white.a100}",
+              "value": "{core.grey.600}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a30}",
+              "value": "{core.brand-10.a50}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }
@@ -5305,7 +5305,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.500}",
             "type": "color"
           }
         }

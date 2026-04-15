@@ -4859,15 +4859,15 @@
         "normal": {
           "text": {
             "default": {
-              "value": "{semantic.text.default.secondary}",
+              "value": "{core.brand-10.100}",
               "type": "color"
             },
             "active": {
-              "value": "{semantic.text.brand.secondary}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-30.700}",
+              "value": "{core.brand-10.300}",
               "type": "color"
             },
             "disabled": {
@@ -4881,7 +4881,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
@@ -4895,15 +4895,15 @@
           },
           "icon": {
             "default": {
-              "value": "{semantic.icon.default.secondary}",
+              "value": "{core.brand-10.100}",
               "type": "color"
             },
             "active": {
-              "value": "{semantic.icon.static.disabled}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-30.700}",
+              "value": "{core.brand-10.300}",
               "type": "color"
             },
             "disabled": {
@@ -4915,19 +4915,19 @@
         "banner": {
           "text": {
             "default": {
-              "value": "{core.grey.200}",
+              "value": "{core.brand-10.100}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-10.300}",
               "type": "color"
             },
             "disabled": {
-              "value": "{core.grey.600}",
+              "value": "{contextual.tabs.item.normal.text.disabled}",
               "type": "color"
             }
           },
@@ -4937,7 +4937,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-30.600}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
@@ -4951,15 +4951,15 @@
           },
           "icon": {
             "default": {
-              "value": "{core.grey.200}",
+              "value": "{core.brand-10.100}",
               "type": "color"
             },
             "active": {
-              "value": "{semantic.icon.static.disabled}",
+              "value": "{core.brand-10.400}",
               "type": "color"
             },
             "hover": {
-              "value": "{semantic.icon.brand.secondary}",
+              "value": "{core.brand-10.300}",
               "type": "color"
             },
             "disabled": {

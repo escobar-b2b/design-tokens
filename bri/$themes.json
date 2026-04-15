@@ -6479,7 +6479,9 @@
       "shadow.semantic.inner.placeholder": "S:0a21629ba62dff0358f73e909c12237d53a0c0f3,",
       "contextual.profile.balance.card": "S:d7885d89cd37810ffee873b24b5b1ebddbb3a539,",
       "semantic.background.slate-3": "S:b565118f13289991964c0eb6406ffec6ae04de5d,",
-      "contextual.lootboxes.card.border": "S:3078d401f6d1f0df525129beed3c307272d85155,"
+      "contextual.lootboxes.card.border": "S:3078d401f6d1f0df525129beed3c307272d85155,",
+      "contextual.progress-bar.normal.primary.text": "S:29a2263ac780ff0c7dafdabe76acdffee5730569,",
+      "heading.xxl": "S:0ca2d132f41d08ab2682d0bac8bfbd0482319263,"
     },
     "$figmaVariableReferences": {
       "main": "8857d3a176488155aede40f58b0b056c4b2819d3",

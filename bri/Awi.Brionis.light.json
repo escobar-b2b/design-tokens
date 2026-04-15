@@ -5115,7 +5115,7 @@
     "lg": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Regular}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },

@@ -228,7 +228,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -237,7 +237,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },

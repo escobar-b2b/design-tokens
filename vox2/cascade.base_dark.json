@@ -2758,12 +2758,12 @@
     },
     "brand-preset": {
       "grey": {
-        "value": "#2c2b5b",
+        "value": "#263762",
         "type": "color",
         "description": "500"
       },
       "secondary": {
-        "value": "#492da6",
+        "value": "#1DC468",
         "type": "color"
       },
       "white": {
@@ -2771,12 +2771,12 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#401ecc",
+        "value": "#263762",
         "type": "color",
         "description": "tertiary.    "
       },
       "primary": {
-        "value": "#C30054",
+        "value": "#FF7C0F",
         "type": "color"
       },
       "for-gradients": {

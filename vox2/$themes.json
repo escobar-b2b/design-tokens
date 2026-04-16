@@ -3,10 +3,7 @@
     "id": "5b409a2e0aa92ebefbea85cface1357e96ec77c9",
     "name": "dark",
     "group": "cascade",
-    "selectedTokenSets": {
-      "nv.default": "enabled",
-      "nv.base": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "text.xs": "S:ad5689958358d317ab2c0b1fd6f1918cbb1f1267,",
       "text.xs-strong": "S:a2caf4342062ff7fee9e1d94ff0491e8c55308cb,",

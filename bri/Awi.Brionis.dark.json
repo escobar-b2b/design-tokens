@@ -2211,11 +2211,11 @@
               "type": "color"
             },
             "progress": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.500a12}",
               "type": "color"
             },
             "get": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.500a12}",
               "type": "color"
             }
           },
@@ -2251,7 +2251,7 @@
           "type": "color"
         },
         "fill": {
-          "value": "linear-gradient(165deg, {core.white.a100} 3%, {core.brand-30.50a50} 83%)",
+          "value": "{semantic.gradients.5}",
           "type": "color"
         }
       },

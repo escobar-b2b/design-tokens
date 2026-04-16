@@ -3365,7 +3365,7 @@
     "ingame": {
       "navmenu": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "icon": {
@@ -3424,7 +3424,7 @@
         },
         "navmenu": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "close": {
@@ -3488,7 +3488,7 @@
       },
       "game-search": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "border": {
@@ -5516,11 +5516,11 @@
       "thumb-providers": {
         "background": {
           "fill": {
-            "value": "{core.white.a100}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.brand-60.50a25}",
             "type": "color"
           }
         }

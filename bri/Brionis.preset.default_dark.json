@@ -2916,7 +2916,7 @@
         "description": "gradients.Emerald 600"
       },
       "11": {
-        "value": "{core.brand-60.50}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "gradients.Black 600"
       }

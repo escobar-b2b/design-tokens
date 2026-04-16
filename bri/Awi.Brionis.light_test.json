@@ -2789,7 +2789,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{core.white.a80}",
+            "value": "{core.brand-30.600a25}",
             "type": "color"
           }
         },

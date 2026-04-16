@@ -2262,7 +2262,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{core.white.a80}",
+            "value": "{core.brand-60.a60}",
             "type": "color"
           }
         },

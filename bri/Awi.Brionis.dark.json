@@ -2291,7 +2291,7 @@
       },
       "switcher": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "border": {
@@ -2323,7 +2323,7 @@
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.icon.brand.static}",
+              "value": "{semantic.icon.banner-cart.secondary}",
               "type": "color"
             }
           }
@@ -2347,7 +2347,7 @@
       },
       "overlay": {
         "upper": {
-          "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a100} 100%)",
+          "value": "{semantic.gradients.2}",
           "type": "color"
         },
         "bottom": {

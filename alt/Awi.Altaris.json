@@ -8234,6 +8234,100 @@
         "description": "gradients.Radial"
       }
     },
+    "status": {
+      "warning": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.warning.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "bg": {
+          "primary": {
+            "value": "{core.validation.warning.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{core.validation.warning.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        }
+      },
+      "success": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.success.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "bg": {
+          "primary": {
+            "value": "{core.validation.success.600}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{core.validation.success.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        }
+      },
+      "error": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "bg": {
+          "secondary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        }
+      },
+      "info": {
+        "text": {
+          "primary": {
+            "value": "{core.validation.info.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "bg": {
+          "primary": {
+            "value": "{core.validation.info.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        },
+        "icon": {
+          "primary": {
+            "value": "{core.validation.info.500}",
+            "type": "color",
+            "description": "gradients.yellow 50"
+          }
+        }
+      }
+    },
     "background": {
       "1": {
         "value": "#1C1548",

@@ -7258,7 +7258,7 @@
       },
       "type": "typography"
     },
-    "ml": {
+    "lg": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
@@ -7267,7 +7267,7 @@
       },
       "type": "typography"
     },
-    "ml-strong": {
+    "lg-strong": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
@@ -7276,29 +7276,11 @@
       },
       "type": "typography"
     },
-    "ml-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
-      },
-      "type": "typography"
-    },
-    "lg": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
-      },
-      "type": "typography"
-    },
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-5}",
+        "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
       "type": "typography"
@@ -7374,7 +7356,7 @@
     }
   },
   "heading": {
-    "ml": {
+    "sm": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7385,18 +7367,7 @@
       },
       "type": "typography"
     },
-    "lg-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "lg-stronger": {
+    "md": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -7404,54 +7375,21 @@
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "lg": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
       },
       "type": "typography"
     },
     "xl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xl-stronger": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxl-strong": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
@@ -9184,7 +9122,7 @@
     },
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography"
       }
     },
@@ -9533,7 +9471,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxl-stronger}",
+          "value": "{heading.xl}",
           "type": "typography"
         }
       },
@@ -9897,7 +9835,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.md}",
         "type": "typography"
       }
     }

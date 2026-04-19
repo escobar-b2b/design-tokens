@@ -3201,7 +3201,7 @@
   "header": {
     "desctop": {
       "menu-items": {
-        "value": "{heading.ml}",
+        "value": "{heading.sm}",
         "type": "typography"
       }
     },
@@ -3231,7 +3231,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxl-stronger}",
+          "value": "{heading.xl}",
           "type": "typography"
         }
       }
@@ -3491,7 +3491,7 @@
   "achivments": {
     "offers-block": {
       "title": {
-        "value": "{heading.lg-stronger}",
+        "value": "{heading.md}",
         "type": "typography"
       }
     }

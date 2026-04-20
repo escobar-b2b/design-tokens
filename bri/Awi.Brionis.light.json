@@ -1655,7 +1655,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "linear-gradient(123deg, {core.brand-10.100} , {core.white.a100} )",
+        "value": "linear-gradient(123deg, {core.brand-10.50} , {core.white.a100} )",
         "type": "color"
       },
       "devider": {

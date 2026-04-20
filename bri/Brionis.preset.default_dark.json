@@ -2927,6 +2927,11 @@
         "type": "color",
         "description": "basic.replaceable.sand 1100"
       },
+      "3": {
+        "value": "{core.brand-60.700}",
+        "type": "color",
+        "description": "not used\n#3D3B4F\n"
+      },
       "5": {
         "value": "{core.grey.700}",
         "type": "color",

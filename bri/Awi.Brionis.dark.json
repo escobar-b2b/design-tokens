@@ -2911,12 +2911,6 @@
         }
       },
       "status": {
-        "fill": {
-          "error-2": {
-            "value": "{core.validation.danger.600}",
-            "type": "color"
-          }
-        },
         "text": {
           "default": {
             "value": "{core.white.a100}",

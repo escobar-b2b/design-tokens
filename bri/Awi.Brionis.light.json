@@ -1049,6 +1049,17 @@
           "type": "boxShadow"
         }
       }
+    },
+    "notification": {
+      "value": {
+        "x": "0px",
+        "y": "15px",
+        "blur": "35px",
+        "spread": "0px",
+        "color": "{core.grey.a15}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -1647,8 +1658,12 @@
         "value": "{core.white.a100}",
         "type": "color"
       },
+      "devider": {
+        "value": "{core.grey.a10}",
+        "type": "color"
+      },
       "border": {
-        "value": "{core.grey.a8}",
+        "value": "{core.grey.a10}",
         "type": "color"
       },
       "close": {
@@ -1674,10 +1689,6 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
-      },
-      "devider": {
-        "value": "{core.grey.a10}",
-        "type": "color"
       }
     },
     "lootboxes": {

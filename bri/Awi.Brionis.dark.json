@@ -1515,6 +1515,10 @@
         "type": "boxShadow",
         "description": "contextual.tabs.lottery-tournament.item"
       }
+    },
+    "notification": {
+      "value": "{shadow.drop.ml}",
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -2465,6 +2469,18 @@
       }
     },
     "notifications": {
+      "close": {
+        "value": "{semantic.icon.default.tertiary}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{core.grey.a8}",
+        "type": "color"
+      },
+      "devider": {
+        "value": "{core.grey.a10}",
+        "type": "color"
+      },
       "fill": {
         "value": "{core.grey.500}",
         "type": "color"
@@ -2474,14 +2490,6 @@
           "value": "{semantic.gradients.3}",
           "type": "color"
         }
-      },
-      "border": {
-        "value": "{core.grey.a8}",
-        "type": "color"
-      },
-      "close": {
-        "value": "{semantic.icon.default.tertiary}",
-        "type": "color"
       },
       "text": {
         "primary": {
@@ -2502,10 +2510,6 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
-      },
-      "devider": {
-        "value": "{core.grey.a10}",
-        "type": "color"
       }
     },
     "lootboxes": {

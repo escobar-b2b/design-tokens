@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Inter",
+    "value": "Manrope",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Onest",
+    "value": "Manrope",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
@@ -277,11 +277,11 @@
       "type": "fontWeights"
     },
     "strong": {
-      "value": "{Medium}",
+      "value": "{Semibold}",
       "type": "fontWeights"
     },
     "stronger": {
-      "value": "{Bold}",
+      "value": "{Extrabold}",
       "type": "fontWeights"
     }
   },

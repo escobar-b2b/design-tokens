@@ -1519,6 +1519,20 @@
     "notification": {
       "value": "{shadow.drop.ml}",
       "type": "boxShadow"
+    },
+    "tab-bar": {
+      "value": [
+        {
+          "x": "{depth.0}",
+          "y": "{depth.m100}",
+          "blur": "{blur.100}",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a10}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "0px 0px 4px 0px #E028FD"
     }
   },
   "contextual": {

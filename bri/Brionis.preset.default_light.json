@@ -3408,5 +3408,13 @@
       },
       "type": "typography"
     }
+  },
+  "contextual": {
+    "tab-bar": {
+      "fill": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      }
+    }
   }
 }

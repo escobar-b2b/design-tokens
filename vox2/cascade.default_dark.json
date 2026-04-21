@@ -492,55 +492,55 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.secondary.hover}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.secondary.active}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.secondary.disabled}",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a30}",
+            "value": "{core.white.a60}",
             "type": "color"
           }
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.secondary.default}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.secondary.hover}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.secondary.active}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.secondary.disabled}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }

@@ -1623,7 +1623,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.400}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
@@ -1633,7 +1633,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.400}",
+            "value": "{core.white.a25}",
             "type": "color"
           },
           "invert": {
@@ -1742,6 +1742,10 @@
         },
         "tertiary": {
           "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a25}",
           "type": "color"
         }
       }

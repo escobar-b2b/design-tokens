@@ -1058,7 +1058,8 @@
       "shadow.button.tertiary.default": "S:31d21efb481572972cd0c03cfa885a113049c582,",
       "shadow.button.tertiary.hover": "S:08a0b331333ea0d9aab4d97551b6dc85817bfe4e,",
       "shadow.button.tertiary.active": "S:f3275cf0ae4cf421a7df49cfc3d0ab6f23ecf1c1,",
-      "shadow.button.tertiary.disabled": "S:e25d85e37e224c47cb17e3eade129f60a2a55aa3,"
+      "shadow.button.tertiary.disabled": "S:e25d85e37e224c47cb17e3eade129f60a2a55aa3,",
+      "core.white.a85": "S:a2334e98e4e356431fe3fe5a656da894560af1c9,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

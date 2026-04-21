@@ -4081,15 +4081,15 @@
       },
       "default": {
         "primary": {
-          "value": "{core.grey.50}",
+          "value": "{core.white.a85}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "disabled": {

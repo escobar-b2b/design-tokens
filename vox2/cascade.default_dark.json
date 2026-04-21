@@ -4295,15 +4295,15 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.grey.25}",
+          "value": "{core.white.a85}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.200}",
+          "value": "{core.white.a50}",
           "type": "color"
         }
       },

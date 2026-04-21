@@ -919,6 +919,20 @@
           }
         }
       },
+      "a85": {
+        "value": "{core.brand-preset.white}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.85",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "\n"
+      },
       "a80": {
         "value": "{core.brand-preset.white}",
         "type": "color",

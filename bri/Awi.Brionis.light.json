@@ -1054,9 +1054,9 @@
       "value": {
         "x": "0px",
         "y": "15px",
-        "blur": "35px",
+        "blur": "20px",
         "spread": "0px",
-        "color": "{core.grey.a15}",
+        "color": "{core.grey.a20}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

@@ -1046,7 +1046,19 @@
       "shadow.semantic.inner.secondary-60": "S:44a2ac815573fb379213c60ee1a6a2420f75d78f,",
       "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,",
       "core.grey.300a50": "S:00d046fe9cbc7da63dd1ac2b1127e91d4044068d,",
-      "core.grey.50a30": "S:834171f3aad6397fd9729a6cd462f75c17e281ad,"
+      "core.grey.50a30": "S:834171f3aad6397fd9729a6cd462f75c17e281ad,",
+      "shadow.button.primary.default": "S:25f908c2082279c8843f80558fe1e83aac8d7938,",
+      "shadow.button.primary.hover": "S:a9a4ad961119a9f8b7da6376d2afafee29d9dee8,",
+      "shadow.button.primary.active": "S:89d4ab11c51ea3693b53d0ebbccdac3d39c2548c,",
+      "shadow.button.primary.disabled": "S:91cae3bc178fd252cbd5e8a77c97ea80ac24f164,",
+      "shadow.button.secondary.default": "S:99bf488a5e8ca32aa8dde654b20e9543ea9b658c,",
+      "shadow.button.secondary.hover": "S:f735300570f051f38e7316a282916ba95160a3dd,",
+      "shadow.button.secondary.active": "S:3f08307328b81921b44f858b605553b0257a167c,",
+      "shadow.button.secondary.disabled": "S:ad7de552b5581b11ceaae503622b9f7e378579d8,",
+      "shadow.button.tertiary.default": "S:31d21efb481572972cd0c03cfa885a113049c582,",
+      "shadow.button.tertiary.hover": "S:08a0b331333ea0d9aab4d97551b6dc85817bfe4e,",
+      "shadow.button.tertiary.active": "S:f3275cf0ae4cf421a7df49cfc3d0ab6f23ecf1c1,",
+      "shadow.button.tertiary.disabled": "S:e25d85e37e224c47cb17e3eade129f60a2a55aa3,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

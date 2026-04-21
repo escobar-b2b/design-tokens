@@ -1674,11 +1674,11 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.800}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.700}",
+            "value": "{core.grey.800}",
             "type": "color"
           }
         },
@@ -1711,7 +1711,7 @@
       },
       "border-color": {
         "default": {
-          "value": "{core.brand-30.a20}",
+          "value": "{core.brand-60.a25}",
           "type": "color"
         },
         "hover": {

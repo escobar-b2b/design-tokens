@@ -1903,6 +1903,10 @@
         "hover": {
           "value": "{semantic.text.default.primary}",
           "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a25}",
+          "type": "color"
         }
       },
       "fill": {
@@ -1911,7 +1915,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{core.brand-10.a10}",
+          "value": "{core.brand-30.a10}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a0}",
           "type": "color"
         }
       },
@@ -1923,6 +1931,10 @@
         "hover": {
           "value": "{semantic.icon.default.secondary}",
           "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a25}",
+          "type": "color"
         }
       },
       "border": {
@@ -1932,6 +1944,10 @@
         },
         "hover": {
           "value": "{contextual.tag.border.default}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a25}",
           "type": "color"
         }
       }

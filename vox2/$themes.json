@@ -1044,7 +1044,9 @@
       "shadow.semantic.inner.white": "S:8f9265ace3edccffa46d5259ff87d5596273cc80,",
       "shadow.semantic.inner.accent-60": "S:ea34a034aedbf700746129fb6dc44e352999b275,",
       "shadow.semantic.inner.secondary-60": "S:44a2ac815573fb379213c60ee1a6a2420f75d78f,",
-      "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,"
+      "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,",
+      "core.grey.300a50": "S:00d046fe9cbc7da63dd1ac2b1127e91d4044068d,",
+      "core.grey.50a30": "S:834171f3aad6397fd9729a6cd462f75c17e281ad,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

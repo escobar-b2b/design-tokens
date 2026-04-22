@@ -3963,6 +3963,14 @@
               "type": "color"
             }
           }
+        },
+        "default": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
         }
       },
       "elipse": {

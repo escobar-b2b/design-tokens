@@ -521,18 +521,6 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
-    },
-    "error-payments": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "22px",
-        "lineHeight": "24px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "2%"
-      },
-      "type": "typography",
-      "description": "Error payments"
     }
   },
   "core": {

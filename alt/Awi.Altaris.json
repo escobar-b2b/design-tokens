@@ -132,12 +132,6 @@
       "value": "{spacing.100}",
       "type": "spacing"
     },
-    "item": {
-      "gap": {
-        "value": "-2px",
-        "type": "spacing"
-      }
-    },
     "item-main": {
       "gap": {
         "value": "-4px",
@@ -1226,18 +1220,6 @@
       "validation": {
         "value": "{shadow.drop.small}",
         "type": "boxShadow"
-      },
-      "disabled": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.0}",
-          "blur": "{depth.0}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a0}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow",
-        "description": "border.input.disabled"
       }
     },
     "drop": {
@@ -1304,41 +1286,6 @@
             "type": "innerShadow"
           }
         ],
-        "type": "boxShadow"
-      },
-      "up": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.m200}",
-          "blur": "{depth.400}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a30}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "down": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.200}",
-          "blur": "{blur.400}",
-          "spread": "{depth.0}",
-          "color": "#211D14",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    },
-    "inner": {
-      "small": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.50}",
-          "blur": "{blur.50}",
-          "spread": "{depth.0}",
-          "color": "{core.brand-60.a10}",
-          "type": "innerShadow"
-        },
         "type": "boxShadow"
       }
     },
@@ -1981,36 +1928,6 @@
           }
         ],
         "type": "boxShadow"
-      },
-      "badge": {
-        "value": [
-          {
-            "x": "0px",
-            "y": "0px",
-            "blur": "12px",
-            "spread": "0",
-            "color": "rgba(255, 242, 193, 0.50)",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      }
-    },
-    "progress": {
-      "circle": {
-        "progress": {
-          "value": [
-            {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{depth.0}",
-              "spread": "{depth.50}",
-              "color": "{core.white.a100}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        }
       }
     },
     "ingame": {
@@ -2373,17 +2290,6 @@
       }
     },
     "welcome-bonus": {
-      "progress": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.0}",
-          "blur": "{blur.0}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a0}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
       "card": {
         "value": {
           "x": "{blur.0}",
@@ -2813,10 +2719,6 @@
           "active": {
             "value": "{core.brand-10.400}",
             "type": "color"
-          },
-          "active-vip": {
-            "value": "{core.additionals.vip}",
-            "type": "color"
           }
         },
         "text": {
@@ -2845,10 +2747,6 @@
         },
         "glow": {
           "value": "{core.brand-30.100}",
-          "type": "color"
-        },
-        "light": {
-          "value": "linear-gradient(138deg, rgba(47, 47, 71, 0.00) 43%, rgba(255, 242, 193, 0.15) 54%, rgba(47, 47, 71, 0.00) 65%)",
           "type": "color"
         },
         "border": {
@@ -7463,12 +7361,6 @@
         "value": "{size.800}",
         "type": "sizing"
       }
-    },
-    "loyalty": {
-      "map": {
-        "value": "1816px",
-        "type": "sizing"
-      }
     }
   },
   "error-pages": {
@@ -7528,18 +7420,6 @@
         "letterSpacing": "3%"
       },
       "type": "typography"
-    },
-    "error-payments": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "22px",
-        "lineHeight": "24px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "2%"
-      },
-      "type": "typography",
-      "description": "Error payments"
     }
   },
   "core": {
@@ -9074,12 +8954,6 @@
         "type": "dimension"
       }
     },
-    "news": {
-      "welcome-bonus-card": {
-        "value": "38px",
-        "type": "dimension"
-      }
-    },
     "slate-on-card": {
       "value": "24px",
       "type": "dimension"
@@ -9184,20 +9058,6 @@
       "lg": {
         "value": "{size.500}",
         "type": "sizing"
-      },
-      "xl": {
-        "value": "{size.600}",
-        "type": "sizing"
-      },
-      "xxl": {
-        "value": "{size.800}",
-        "type": "sizing"
-      }
-    },
-    "bonus": {
-      "padding-bottom": {
-        "value": "3px",
-        "type": "spacing"
       }
     },
     "general": {
@@ -9208,12 +9068,6 @@
     }
   },
   "header": {
-    "desktop": {
-      "bottom": {
-        "value": "1px",
-        "type": "spacing"
-      }
-    },
     "desctop": {
       "menu-items": {
         "value": "{heading.sm}",

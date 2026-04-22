@@ -4305,7 +4305,7 @@
             "type": "color"
           },
           "primary": {
-            "value": "{core.validation.danger.a10}",
+            "value": "{core.validation.danger.a20}",
             "type": "color"
           }
         },

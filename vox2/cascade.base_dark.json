@@ -2287,8 +2287,17 @@
           "description": "Secondary.yellow 300"
         },
         "400": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-preset.validation.info}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.15",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.yellow 300"
         },
         "500": {

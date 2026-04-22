@@ -3941,6 +3941,28 @@
         "special": {
           "value": "{core.white.a100}",
           "type": "color"
+        },
+        "background": {
+          "fill": {
+            "default": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a0}",
+              "type": "color"
+            },
+            "special": {
+              "value": "{semantic.gradients.8}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "special": {
+              "value": "{core.white.a10}",
+              "type": "color"
+            }
+          }
         }
       },
       "elipse": {
@@ -3954,6 +3976,22 @@
         },
         "special": {
           "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "active": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "active": {
+          "value": "linear-gradient(90deg, {core.brand-10.a10} 0%, {core.brand-10.500} 25%, {core.brand-10.500}  50%,{core.brand-10.500}  75%, {core.brand-10.a10} 100%)",
           "type": "color"
         }
       }

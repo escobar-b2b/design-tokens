@@ -1064,7 +1064,8 @@
       "contextual.tag.text.disabled": "S:d8d5ef0ded75a75818c6793b82571bb85b652a10,",
       "contextual.tag.fill.disabled": "S:5421b8e181451bde852efa4b133e5e9a09b2507b,",
       "contextual.tag.icon.disabled": "S:06f8c30b3ade10c862f338bd2d441071d98264ac,",
-      "contextual.tag.border.disabled": "S:5a77c80c7f57cc3d5baf2d4d187266e26673104a,"
+      "contextual.tag.border.disabled": "S:5a77c80c7f57cc3d5baf2d4d187266e26673104a,",
+      "contextual.selection-controls.controls.radio-button.border.unselected.error": "S:740928f6f9e0c9b4ebf101a59a680134c5eed7a9,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

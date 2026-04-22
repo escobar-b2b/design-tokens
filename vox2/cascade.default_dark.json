@@ -2016,7 +2016,7 @@
                 "type": "color"
               },
               "error": {
-                "value": "{core.validation.danger.500}",
+                "value": "{core.validation.danger.600}",
                 "type": "color"
               },
               "default": {
@@ -2058,7 +2058,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.brand-10.a10}",
+                "value": "{core.validation.danger.a20}",
                 "type": "color"
               }
             },
@@ -2110,6 +2110,10 @@
               "disabled": {
                 "value": "{core.brand-60.a20}",
                 "type": "color"
+              },
+              "error": {
+                "value": "{core.validation.danger.600}",
+                "type": "color"
               }
             }
           },
@@ -2124,7 +2128,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.brand-10.a25}",
+                "value": "{core.validation.danger.a20}",
                 "type": "color"
               }
             }

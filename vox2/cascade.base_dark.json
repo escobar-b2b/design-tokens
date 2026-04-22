@@ -2849,9 +2849,9 @@
           "type": "color"
         },
         "8": {
-          "value": "#FAC25B",
+          "value": "#FAEB86",
           "type": "color",
-          "description": "new for bonus brogress"
+          "description": "+ badge 3"
         }
       },
       "validation": {
@@ -2939,23 +2939,23 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
+        "value": "linear-gradient(225deg, {core.brand-10.400} 0%, {core.brand-10.700} 100%)",
         "type": "color",
-        "description": "no used"
+        "description": "+ badge primary"
       },
       "8": {
         "value": "radial-gradient(70% 70% at 38% 32%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
         "type": "color",
-        "description": "+ tab bar special button "
+        "description": "tab bar special button "
       },
       "9": {
         "value": "linear-gradient(90deg, {core.brand-10.500} 0%, {core.brand-10.500} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
         "type": "color"
       },
       "10": {
-        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
+        "value": "linear-gradient(225deg, #87C9F3 0%, #0449D2 100%)",
         "type": "color",
-        "description": "gradients.Emerald 600"
+        "description": "+ badge 5"
       },
       "11": {
         "value": "{core.brand-60.50}",

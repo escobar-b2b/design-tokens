@@ -1076,7 +1076,8 @@
       "contextual.label.fourth.icon": "S:3da26c73e49cf5591b46a59ea66bd0bdd0f36c7e,",
       "contextual.label.fifth.fill": "S:f0d5338e52a3ce76ca36ea5ce5d91599815ffa57,",
       "contextual.label.fifth.text": "S:47dfce6cc181dd7d136e7f91c4c63b90abaa67b7,",
-      "contextual.label.fifth.icon": "S:bebf5a8c99dea0282e49ac3d4c570e5b9c3a940b,"
+      "contextual.label.fifth.icon": "S:bebf5a8c99dea0282e49ac3d4c570e5b9c3a940b,",
+      "contextual.menu.quick-pay.item.inform.fill": "S:0169461c7ad2d34e83e739cf076799aef87e07ba,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

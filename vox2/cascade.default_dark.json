@@ -2058,7 +2058,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.validation.danger.a20}",
+                "value": "{core.brand-30.600a25}",
                 "type": "color"
               }
             },
@@ -2128,7 +2128,7 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.validation.danger.a20}",
+                "value": "{core.brand-30.600a25}",
                 "type": "color"
               }
             }

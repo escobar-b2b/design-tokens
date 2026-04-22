@@ -3342,7 +3342,7 @@
       },
       "primary": {
         "fill": {
-          "value": "{contextual.badge.warning.fill}",
+          "value": "{core.brand-30.500}",
           "type": "color",
           "description": "badge"
         },
@@ -3354,12 +3354,12 @@
       },
       "outlined": {
         "border": {
-          "value": "{core.brand-10.300}",
+          "value": "{core.brand-30.500}",
           "type": "color",
           "description": "badge"
         },
         "text": {
-          "value": "{semantic.text.default.secondary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color",
           "description": "badge"
         }

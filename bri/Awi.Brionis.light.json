@@ -3942,6 +3942,20 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "elipse": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "active": {
+          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
+          "type": "color"
+        },
+        "special": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
       }
     },
     "sticky-notifications": {

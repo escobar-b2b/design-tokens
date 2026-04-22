@@ -9093,10 +9093,6 @@
       "value": "{blur.0}",
       "type": "spacing"
     },
-    "padding-bottom": {
-      "value": "{blur.0}",
-      "type": "spacing"
-    },
     "padding-top": {
       "value": "{blur.0}",
       "type": "spacing"
@@ -9104,13 +9100,6 @@
     "max-width": {
       "value": "1560px",
       "type": "sizing"
-    },
-    "tab-bar": {
-      "main-icon": {
-        "value": "{size.600}",
-        "type": "sizing",
-        "description": "Tab menu_main"
-      }
     }
   },
   "letter-spacing": {
@@ -9163,10 +9152,6 @@
         "value": "{size.400}",
         "type": "sizing"
       },
-      "xs": {
-        "value": "{size.300}",
-        "type": "sizing"
-      },
       "md": {
         "value": "{size.600}",
         "type": "sizing"
@@ -9203,10 +9188,6 @@
       },
       "md": {
         "value": "{spacing.300}",
-        "type": "spacing"
-      },
-      "joint": {
-        "value": "{spacing.100}",
         "type": "spacing"
       }
     },

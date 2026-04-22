@@ -9076,13 +9076,6 @@
       "value": "1560px",
       "type": "sizing"
     },
-    "tab-bar": {
-      "main-icon": {
-        "value": "{size.600}",
-        "type": "sizing",
-        "description": "Tab menu_main"
-      }
-    },
     "padding-top": {
       "value": "{spacing.600}",
       "type": "spacing"
@@ -9092,10 +9085,6 @@
     "height": {
       "sm": {
         "value": "{size.400}",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "{size.300}",
         "type": "sizing"
       },
       "md": {
@@ -9121,10 +9110,6 @@
       "md": {
         "value": "{spacing.300}",
         "type": "spacing"
-      },
-      "joint": {
-        "value": "{spacing.100}",
-        "type": "spacing"
       }
     },
     "padding-left": {
@@ -9134,10 +9119,6 @@
       },
       "md": {
         "value": "{spacing.300}",
-        "type": "spacing"
-      },
-      "joint": {
-        "value": "{spacing.100}",
         "type": "spacing"
       }
     },

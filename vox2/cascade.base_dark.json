@@ -2856,22 +2856,22 @@
       },
       "validation": {
         "danger": {
-          "value": "#f92441",
+          "value": "#FF1A48",
           "type": "color",
           "description": ".  "
         },
         "success": {
-          "value": "#1bd375",
+          "value": "#1DC468",
           "type": "color",
           "description": ".   "
         },
         "warning": {
-          "value": "#FFAA00",
+          "value": "#FFA200",
           "type": "color",
           "description": ".    "
         },
         "info": {
-          "value": "#0F87E7",
+          "value": "#0F4FFF",
           "type": "color"
         }
       },

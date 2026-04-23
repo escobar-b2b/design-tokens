@@ -258,19 +258,19 @@
     "thumb": {
       "label": {
         "top-right": {
-          "value": "{border-radius.core.0}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "top-left": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.core.0}",
           "type": "borderRadius"
         },
         "bottom-right": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.core.0}",
           "type": "borderRadius"
         },
         "bottom-left": {
-          "value": "{border-radius.core.0}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         }
       }
@@ -3191,7 +3191,7 @@
         }
       },
       "overlay": {
-        "value": "{core.grey.a60}",
+        "value": "{core.grey.a70}",
         "type": "color"
       },
       "show-more": {

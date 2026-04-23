@@ -4182,7 +4182,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.white.a70}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "disabled": {

@@ -2812,7 +2812,7 @@
         "description": "500"
       },
       "secondary": {
-        "value": "#FFFFFF",
+        "value": "#FFBE19",
         "type": "color"
       },
       "white": {

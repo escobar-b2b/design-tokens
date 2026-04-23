@@ -2805,6 +2805,10 @@
         "value": "{core.grey.800}",
         "type": "color"
       },
+      "border": {
+        "value": "{core.white.a8}",
+        "type": "color"
+      },
       "bottom-fill": {
         "value": "{core.white.a5}",
         "type": "color"

@@ -492,37 +492,37 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.400}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.600}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.600}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.static.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{contextual.button.secondary.text.default}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{contextual.button.secondary.text.default}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a60}",
+            "value": "{semantic.text.disabled.static}",
             "type": "color"
           }
         },
@@ -4438,19 +4438,23 @@
         "secondary": {
           "value": "{core.brand-10.a60}",
           "type": "color"
+        },
+        "static": {
+          "value": "{core.grey.300a50}",
+          "type": "color"
         }
       },
       "static": {
         "primary": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.white.a70}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.white.a50}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "accent": {

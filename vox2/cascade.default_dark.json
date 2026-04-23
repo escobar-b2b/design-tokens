@@ -4351,7 +4351,7 @@
       "default": {
         "text": {
           "primary": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "secondary": {

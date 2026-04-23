@@ -2924,21 +2924,6 @@
     "type": "typography",
     "description": "Complete \nregistration"
   },
-  "ingame": {
-    "mob": {
-      "navmenu": {
-        "item": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "8px",
-            "lineHeight": "12px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "lootboxes": {
     "coefficient": {
       "normal": {

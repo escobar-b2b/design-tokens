@@ -2763,18 +2763,8 @@
       "verification-status": {
         "time": {
           "icon": {
-            "default": {
-              "value": "{core.brand-30.500}",
-              "type": "color"
-            },
             "animation": {
               "value": "conic-gradient(from 80deg at 50% 50%, {core.brand-30.500} 0deg, {core.brand-30.700a0} 360deg)",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-30.600}",
               "type": "color"
             }
           }
@@ -2795,10 +2785,6 @@
         },
         "check": {
           "icon": {
-            "default": {
-              "value": "{core.validation.success.500}",
-              "type": "color"
-            },
             "animation": {
               "value": "{semantic.icon.default.primary}",
               "type": "color"
@@ -8205,10 +8191,6 @@
       "success": {
         "default": {
           "value": "{core.validation.success.500}",
-          "type": "color"
-        },
-        "static": {
-          "value": "{core.validation.success.600}",
           "type": "color"
         }
       },

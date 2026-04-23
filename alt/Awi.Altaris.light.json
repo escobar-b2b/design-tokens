@@ -1105,21 +1105,6 @@
           }
         }
       },
-      "deals": {
-        "slate-1": {
-          "active": {
-            "value": {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{blur.100}",
-              "spread": "{depth.0}",
-              "color": "{core.brand-30.50}",
-              "type": "innerShadow"
-            },
-            "type": "boxShadow"
-          }
-        }
-      },
       "slate-2": {
         "default": {
           "value": {
@@ -4587,13 +4572,6 @@
           "divider": {
             "value": "{core.white.a20}",
             "type": "color"
-          },
-          "text": {
-            "accent": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color",
-              "description": "Bonus/Talisman"
-            }
           }
         }
       },
@@ -8991,17 +8969,6 @@
           "letterSpacing": "0%"
         },
         "type": "typography"
-      },
-      "balance": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{Bold}",
-          "fontSize": "{scale-5}",
-          "lineHeight": "20px",
-          "textCase": "{text-case.none}",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
       }
     },
     "verification": {
@@ -9126,14 +9093,6 @@
       "default": {
         "value": "6px",
         "type": "spacing"
-      },
-      "phone": {
-        "value": "{spacing.50}",
-        "type": "spacing"
-      },
-      "between-tags": {
-        "value": "{spacing.100}",
-        "type": "spacing"
       }
     },
     "label-gap-bottom": {
@@ -9145,20 +9104,12 @@
         "value": "{spacing.100}",
         "type": "spacing"
       },
-      "between-elements": {
-        "value": "{spacing.100}",
-        "type": "spacing"
-      },
       "inside-horisontal": {
         "value": "{spacing.100}",
         "type": "spacing"
       }
     },
     "textarea": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
       "padding-vertical": {
         "value": "{spacing.300}",
         "type": "spacing"
@@ -9242,18 +9193,6 @@
     }
   },
   "datepicker": {
-    "weeks": {
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
-      "item": {
-        "gap": {
-          "value": "{spacing.0}",
-          "type": "spacing"
-        }
-      }
-    },
     "padding": {
       "value": "{spacing.400}",
       "type": "spacing"
@@ -9261,12 +9200,6 @@
     "gap": {
       "value": "{spacing.200}",
       "type": "spacing"
-    },
-    "selects": {
-      "gap": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      }
     },
     "date": {
       "size": {
@@ -9287,45 +9220,15 @@
   },
   "Thumb-providers": {
     "md": {
-      "padding-bottom": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
       "gap": {
         "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "gap-text": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      }
-    },
-    "sm": {
-      "padding-bottom": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "gap-text": {
-        "value": "{spacing.200}",
         "type": "spacing"
       }
     }
   },
   "homepage": {
     "collection": {
-      "padding-top": {
-        "value": "{spacing.1200}",
-        "type": "spacing"
-      },
       "title": {
-        "padding-left": {
-          "value": "{spacing.1200}",
-          "type": "spacing"
-        },
         "mob": {
           "value": "{heading.xl-stronger}",
           "type": "typography"
@@ -9334,10 +9237,6 @@
           "value": "{heading.xl}",
           "type": "typography"
         }
-      },
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "spacing"
       }
     },
     "payment-block": {
@@ -9508,17 +9407,9 @@
       "default": {
         "value": "{text-decoration.none}",
         "type": "textDecoration"
-      },
-      "hover": {
-        "value": "{text-decoration.underline}",
-        "type": "textDecoration"
       }
     },
     "underlined": {
-      "hover": {
-        "value": "{text-decoration.underline}",
-        "type": "textDecoration"
-      },
       "default": {
         "value": "{text-decoration.underline}",
         "type": "textDecoration"

@@ -4486,7 +4486,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-10.200}",
+          "value": "{core.brand-10.300}",
           "type": "color"
         }
       }
@@ -4616,7 +4616,7 @@
     "link": {
       "default": {
         "default": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "disabled": {

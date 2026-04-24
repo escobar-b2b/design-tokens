@@ -3336,6 +3336,16 @@
               "value": "{semantic.text.default.secondary}",
               "type": "color"
             }
+          },
+          "inform": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-10.100}",
+              "type": "color"
+            }
           }
         }
       }

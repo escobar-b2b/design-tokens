@@ -2655,7 +2655,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-60.300}",
+          "value": "{core.white.a0}",
           "type": "color"
         },
         "item": {
@@ -2687,6 +2687,16 @@
               "type": "color"
             }
           }
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a20}",
+          "type": "color"
         }
       }
     },

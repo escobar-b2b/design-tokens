@@ -2923,9 +2923,9 @@
   "semantic": {
     "gradients": {
       "2": {
-        "value": "linear-gradient(103deg, {core.brand-30.a20} 2%, {core.brand-30.50} 96%)",
+        "value": "linear-gradient(91deg, {core.brand-10.a25} 1%, {core.brand-30.a20} 92%)",
         "type": "color",
-        "description": "gradients.yellow 200"
+        "description": "+ mobile banner"
       },
       "3": {
         "value": "{core.brand-30.600}",

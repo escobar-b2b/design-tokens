@@ -417,7 +417,7 @@
       }
     },
     "banner": {
-      "value": "{border-radius.core.full}",
+      "value": "{border-radius.core.400}",
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
     },

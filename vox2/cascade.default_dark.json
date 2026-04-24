@@ -3659,43 +3659,25 @@
     "menu-item": {
       "text": {
         "hover": {
-          "value": "{core.brand-30.600}",
+          "value": "{semantic.text.brand.secondary}",
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.300}",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       },
       "icon": {
         "hover": {
-          "value": "{core.brand-30.600}",
+          "value": "{semantic.text.brand.secondary}",
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.300}",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         },
         "default": {
-          "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        }
-      },
-      "fill": {
-        "default": {
-          "value": "{core.grey.500}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.200}",
           "type": "color"
         }
       }

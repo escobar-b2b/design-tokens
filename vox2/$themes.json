@@ -1079,7 +1079,8 @@
       "contextual.label.fifth.icon": "S:bebf5a8c99dea0282e49ac3d4c570e5b9c3a940b,",
       "contextual.menu.quick-pay.item.inform.fill": "S:0169461c7ad2d34e83e739cf076799aef87e07ba,",
       "semantic.text.disabled.static": "S:ed6dc6b12ca0bbd9b2e56ffb0cc8587e4bb11de8,",
-      "contextual.datepicker.border": "S:1d7121d87a9901a69c96775420ca6202bcbb7151,"
+      "contextual.datepicker.border": "S:1d7121d87a9901a69c96775420ca6202bcbb7151,",
+      "contextual.popup.banner.fill": "S:31f87f26c77f8cb43f6826e0c9c832e65d3bb881,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

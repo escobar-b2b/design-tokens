@@ -148,7 +148,7 @@
     "xs-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },

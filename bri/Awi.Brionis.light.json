@@ -3335,6 +3335,10 @@
             "secondary": {
               "value": "{semantic.text.default.secondary}",
               "type": "color"
+            },
+            "tertiary": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
             }
           },
           "inform": {

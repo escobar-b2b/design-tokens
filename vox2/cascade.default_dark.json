@@ -2851,9 +2851,19 @@
       }
     },
     "popup": {
+      "border": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      },
       "fill": {
         "value": "{core.brand-60.700}",
         "type": "color"
+      },
+      "banner": {
+        "fill": {
+          "value": "linear-gradient(90deg, {core.grey.700} , {core.brand-60.600} )",
+          "type": "color"
+        }
       },
       "slate": {
         "1": {
@@ -2864,10 +2874,6 @@
           "value": "{core.brand-60.a10}",
           "type": "color"
         }
-      },
-      "border": {
-        "value": "{core.white.a0}",
-        "type": "color"
       },
       "additional-blick": {
         "border": {

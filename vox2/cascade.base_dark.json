@@ -2984,9 +2984,9 @@
         "description": "+ bg for default page's bg: footer banner support"
       },
       "3": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.a25}",
         "type": "color",
-        "description": "not used\n#3D3B4F\n"
+        "description": "+ for icons, some dropdowns"
       },
       "4": {
         "value": "{core.brand-60.900}",

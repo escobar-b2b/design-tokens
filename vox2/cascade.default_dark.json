@@ -1843,7 +1843,7 @@
         "special-menu-item": {
           "current": {
             "fill": {
-              "value": "{core.grey.a25}",
+              "value": "{core.brand-60.900}",
               "type": "color"
             },
             "icon": {

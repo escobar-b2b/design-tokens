@@ -2971,7 +2971,7 @@
       "11": {
         "value": "linear-gradient( {core.grey.700} , {core.brand-preset.for-gradients.4} )",
         "type": "color",
-        "description": "gradients.Black 600"
+        "description": "+ for card bd"
       }
     },
     "background": {

@@ -2926,7 +2926,7 @@
       "2": {
         "value": "linear-gradient(91deg, {core.brand-10.a25} 1%, {core.brand-30.a20} 92%)",
         "type": "color",
-        "description": "+ mobile banner"
+        "description": "+ menu banner"
       },
       "3": {
         "value": "{core.brand-30.600}",

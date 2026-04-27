@@ -2830,8 +2830,9 @@
       },
       "for-gradients": {
         "1": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "#4C186D",
+          "type": "color",
+          "description": "+ Bonus popover"
         },
         "2": {
           "value": "{core.brand-30.600}",

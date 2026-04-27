@@ -1082,7 +1082,9 @@
       "contextual.datepicker.border": "S:1d7121d87a9901a69c96775420ca6202bcbb7151,",
       "contextual.popup.banner.fill": "S:31f87f26c77f8cb43f6826e0c9c832e65d3bb881,",
       "contextual.menu.banner.fill": "S:3c4c91b238a28ab15ae479f7fc698f5ee59c897c,",
-      "contextual.menu.banner.border": "S:47850e770bd0345eea70682b576a06536528f1dd,"
+      "contextual.menu.banner.border": "S:47850e770bd0345eea70682b576a06536528f1dd,",
+      "contextual.notifications.bonus-popover.fill": "S:68281d23ab8a9b4e3c234797ebcbf4ffcb8cb02e,",
+      "contextual.notifications.bonus-popover.border": "S:88c090e32734b8d23bc774a833cdd0399f86f79d,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

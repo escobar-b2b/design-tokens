@@ -1032,6 +1032,16 @@
         "value": "{semantic.background.2}",
         "type": "color"
       },
+      "bonus-popover": {
+        "fill": {
+          "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.1} 0%, {core.brand-60.700} 50%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.brand-preset.for-gradients.1}",
+          "type": "color"
+        }
+      },
       "border": {
         "value": "{core.grey.a8}",
         "type": "color"

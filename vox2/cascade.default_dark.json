@@ -1507,21 +1507,21 @@
       "normal": {
         "primary": {
           "track": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "container": {
-            "value": "{core.white.a15}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "track": {
             "value": "{core.brand-30.500}",
             "type": "color"
           },
           "container": {
             "value": "{core.brand-30.a20}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "track": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.white.a15}",
             "type": "color"
           }
         },

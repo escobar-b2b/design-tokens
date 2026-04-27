@@ -2843,8 +2843,9 @@
           "type": "color"
         },
         "4": {
-          "value": "#22516B",
-          "type": "color"
+          "value": "#343951",
+          "type": "color",
+          "description": "+ for gradient 11"
         },
         "5": {
           "value": "#78EDC2",
@@ -2968,7 +2969,7 @@
         "description": "+ badge 5"
       },
       "11": {
-        "value": "{core.brand-60.50}",
+        "value": "linear-gradient( {core.grey.700} , {core.brand-preset.for-gradients.4} )",
         "type": "color",
         "description": "gradients.Black 600"
       }
@@ -3010,7 +3011,7 @@
       "slate-2": {
         "value": "{core.grey.600}",
         "type": "color",
-        "description": "The slate third level on main(white) background"
+        "description": "+ cards"
       },
       "slate-on-card": {
         "value": "{core.brand-30.500a60}",

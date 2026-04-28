@@ -2708,6 +2708,42 @@
           "value": "{core.white.a20}",
           "type": "color"
         }
+      },
+      "item": {
+        "text": {
+          "hover": {
+            "value": "{semantic.text.brand.secondary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "hover": {
+            "value": "{semantic.text.brand.secondary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          }
+        }
+      },
+      "block": {
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{semantic.divider.default.primary}",
+          "type": "color"
+        }
       }
     },
     "status-icon": {
@@ -3692,32 +3728,6 @@
         "value": "{core.brand-10.500}",
         "type": "color",
         "description": "Loader default color"
-      }
-    },
-    "menu-item": {
-      "text": {
-        "hover": {
-          "value": "{semantic.text.brand.secondary}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "hover": {
-          "value": "{semantic.text.brand.secondary}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.grey.200}",
-          "type": "color"
-        }
       }
     },
     "toggle-button": {

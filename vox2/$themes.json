@@ -1084,7 +1084,17 @@
       "contextual.menu.banner.fill": "S:3c4c91b238a28ab15ae479f7fc698f5ee59c897c,",
       "contextual.menu.banner.border": "S:47850e770bd0345eea70682b576a06536528f1dd,",
       "contextual.notifications.bonus-popover.fill": "S:68281d23ab8a9b4e3c234797ebcbf4ffcb8cb02e,",
-      "contextual.notifications.bonus-popover.border": "S:88c090e32734b8d23bc774a833cdd0399f86f79d,"
+      "contextual.notifications.bonus-popover.border": "S:88c090e32734b8d23bc774a833cdd0399f86f79d,",
+      "contextual.card.bg.fill": "S:986b348293c916d8bb9ec4dc33b430a38c65a448,",
+      "contextual.card.border.default": "S:d22f634454733a4e7c31928697000eaa32d9682b,",
+      "contextual.card.border.active": "S:555976cdb536e5d7b7bec1a0d888f3c06c9cf626,",
+      "contextual.menu.item.text.hover": "S:b3ac37bf739f5d9fa3e41fb154c302336520af5e,",
+      "contextual.menu.item.text.active": "S:838489ffd8f736b2cdf4efce0b9231940b4e886c,",
+      "contextual.menu.item.icon.hover": "S:104b1321ce91c9b09e4106ccfc7a9b0b85f4b691,",
+      "contextual.menu.item.icon.active": "S:7c42aa082b252637aaf2840586140b846ee81481,",
+      "contextual.menu.item.icon.default": "S:ce2753d9396eb95c750a04f29eda437067a504f5,",
+      "contextual.menu.block.fill": "S:68be2f9fdf38ca6706b0e044225836971ca55cbe,",
+      "contextual.menu.block.border": "S:12f3e5025ca9745541758e03b73bcd899b248a58,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

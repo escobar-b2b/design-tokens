@@ -3213,6 +3213,24 @@
         }
       }
     },
+    "card": {
+      "bg": {
+        "fill": {
+          "value": "{semantic.gradients.11}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.border.active.element}",
+          "type": "color"
+        }
+      }
+    },
     "thumb-games": {
       "empty": {
         "fill": {
@@ -4570,7 +4588,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(113deg, {core.brand-30.600} 0%, {core.brand-30.500} 48.56%, {core.brand-30.100} 100%)",
+          "value": "linear-gradient(124deg, {core.white.a100} 0%, {core.brand-60.a70} , {core.white.a40} 100%)",
           "type": "color"
         }
       },

@@ -215,30 +215,15 @@
     },
     "button": {
       "lg": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Semibold}",
-          "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
-        },
+        "value": "{text.lg-stronger}",
         "type": "typography"
       },
       "md": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Semibold}",
-          "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
-        },
+        "value": "{text.lg-stronger}",
         "type": "typography"
       },
       "sm": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{Semibold}",
-          "fontSize": "{scale-3}",
-          "lineHeight": "{ml}"
-        },
+        "value": "{text.md-stronger}",
         "type": "typography"
       }
     },

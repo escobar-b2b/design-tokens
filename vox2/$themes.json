@@ -1100,7 +1100,19 @@
       "shadow.tab-bar.general": "S:474595185e7c531cec11cff9e64762909edacf4b,",
       "shadow.tab-bar.icon.background.fill.special": "S:93ccb9bb894d9fe063a385b28876edef49a883ec,",
       "contextual.special-menu-item.fill.default": "S:6ef1f82f224b597812cad232c7587265e77e9cd8,",
-      "contextual.special-menu-item.fill.hover": "S:473c8371df02c0ee0cc76937fa925f5a8a03bea4,"
+      "contextual.special-menu-item.fill.hover": "S:473c8371df02c0ee0cc76937fa925f5a8a03bea4,",
+      "contextual.tabs.item.normal.content.default": "S:efeac0ee32e48ff8e470b98adafec93606dccf4f,",
+      "contextual.tabs.item.normal.content.active": "S:a4d0f99eb032b68ea0245799bf530b43269045df,",
+      "contextual.tabs.item.normal.content.hover": "S:e98389d4df8f212e986414472be10a0a16808736,",
+      "contextual.tabs.item.banner.content.default": "S:baa921afd305d8317390418d718457a97f90b6b4,",
+      "contextual.tabs.item.banner.content.active": "S:644f4a2337b029df6fc2fb63cd2d1945c3a6d2bd,",
+      "contextual.tabs.item.banner.content.hover": "S:2b020de5dfce1547238ad17d09a6da66a8adc1f5,",
+      "contextual.tabs.item.section.content.default": "S:6c5973b6269462416b737e1415273e1a41a197cc,",
+      "contextual.tabs.item.section.content.active": "S:f72bc874eadc57d4402048baa4cbbd246e1d5698,",
+      "contextual.tabs.item.section.content.hover": "S:2243bd367dde43232053a3043a70c7d10172e3f5,",
+      "contextual.tabs.item.section.content.disabled": "S:0d1ca6da5b65270d1aa306942e89dca39a6b8fba,",
+      "contextual.tabs.item.normal.content.disabled": "S:096309797e5a16babf7c243940b4f19349942240,",
+      "contextual.tabs.item.banner.content.disabled": "S:ca747f7132834903a4452143486a3765271aecf7,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

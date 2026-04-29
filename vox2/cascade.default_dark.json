@@ -1861,44 +1861,10 @@
       }
     },
     "header": {
-      "background": {
-        "fill": {
-          "value": "{core.white.a100}",
+      "fill": {
+        "default": {
+          "value": "{core.brand-60.900}",
           "type": "color"
-        },
-        "fill-current": {
-          "value": "linear-gradient(80deg, {core.brand-30.700} 70%, {core.brand-30.600} 100%)",
-          "type": "color"
-        }
-      },
-      "item": {
-        "text": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.brand-30.100}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-30.200}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.brand-30.100}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          }
         }
       }
     },

@@ -4985,27 +4985,27 @@
       "type": "dimension"
     },
     "m025": {
-      "value": "-1.1px",
+      "value": "-1px",
       "type": "dimension"
     },
     "m100": {
-      "value": "-4.1px",
+      "value": "-4px",
       "type": "dimension"
     },
     "m200": {
-      "value": "-8.1px",
+      "value": "-8px",
       "type": "dimension"
     },
     "m400": {
-      "value": "-16.1px",
+      "value": "-16px",
       "type": "dimension"
     },
     "m800": {
-      "value": "-32.1px",
+      "value": "-32px",
       "type": "dimension"
     },
     "m1200": {
-      "value": "-48.1px",
+      "value": "-48px",
       "type": "dimension"
     }
   },
@@ -5490,18 +5490,47 @@
       "type": "boxShadow"
     },
     "tab-bar": {
-      "value": [
-        {
-          "x": "{depth.0}",
-          "y": "{depth.50}",
-          "blur": "{blur.100}",
-          "spread": "{depth.0}",
-          "color": "{core.brand-10.a30}",
-          "type": "dropShadow"
+      "general": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.50}",
+            "blur": "{blur.100}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-10.a30}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "0px 0px 4px 0px #E028FD"
+      },
+      "icon": {
+        "background": {
+          "fill": {
+            "special": {
+              "value": [
+                {
+                  "x": "{depth.50}",
+                  "y": "{depth.50}",
+                  "blur": "{blur.100}",
+                  "spread": "{depth.0}",
+                  "color": "{core.white.a50}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "{depth.50}",
+                  "y": "0",
+                  "blur": "0",
+                  "spread": "0",
+                  "color": "#000000",
+                  "type": "innerShadow"
+                }
+              ],
+              "type": "boxShadow"
+            }
+          }
         }
-      ],
-      "type": "boxShadow",
-      "description": "0px 0px 4px 0px #E028FD"
+      }
     },
     "datepicker": {
       "value": "{shadow.drop.sm}",

@@ -425,18 +425,6 @@
     }
   },
   "shadow": {
-    "button": {
-      "static": {
-        "disabled": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        },
-        "hover": {
-          "value": "{shadow.button.secondary.default}",
-          "type": "boxShadow"
-        }
-      }
-    },
     "semantic": {
       "drop": {
         "dark-5": {

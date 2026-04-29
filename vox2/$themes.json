@@ -1094,7 +1094,9 @@
       "contextual.menu.item.icon.active": "S:7c42aa082b252637aaf2840586140b846ee81481,",
       "contextual.menu.item.icon.default": "S:ce2753d9396eb95c750a04f29eda437067a504f5,",
       "contextual.menu.block.fill": "S:68be2f9fdf38ca6706b0e044225836971ca55cbe,",
-      "contextual.menu.block.border": "S:12f3e5025ca9745541758e03b73bcd899b248a58,"
+      "contextual.menu.block.border": "S:12f3e5025ca9745541758e03b73bcd899b248a58,",
+      "contextual.tab-bar.border": "S:3202adefa605669d9a8b820656a0067e2738afe8,",
+      "core.grey.800a80": "S:92afb7b94a5039e57a927482a6ef7967300ed3a5,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

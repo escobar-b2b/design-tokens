@@ -720,6 +720,19 @@
           }
         }
       },
+      "800a80": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.80",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "800a60": {
         "value": "{core.grey.800}",
         "type": "color",

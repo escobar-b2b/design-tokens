@@ -3313,7 +3313,11 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "radial-gradient(50% 100% at 50% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
+        "value": "{core.grey.800a80}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{core.white.a10}",
         "type": "color"
       },
       "text": {
@@ -3342,20 +3346,6 @@
               "type": "color"
             }
           }
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
-        },
-        "special": {
-          "value": "{core.white.a0}",
-          "type": "color"
         }
       }
     },

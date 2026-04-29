@@ -1096,7 +1096,9 @@
       "contextual.menu.block.fill": "S:68be2f9fdf38ca6706b0e044225836971ca55cbe,",
       "contextual.menu.block.border": "S:12f3e5025ca9745541758e03b73bcd899b248a58,",
       "contextual.tab-bar.border": "S:3202adefa605669d9a8b820656a0067e2738afe8,",
-      "core.grey.800a80": "S:92afb7b94a5039e57a927482a6ef7967300ed3a5,"
+      "core.grey.800a80": "S:92afb7b94a5039e57a927482a6ef7967300ed3a5,",
+      "shadow.tab-bar.general": "S:474595185e7c531cec11cff9e64762909edacf4b,",
+      "shadow.tab-bar.icon.background.fill.special": "S:93ccb9bb894d9fe063a385b28876edef49a883ec,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",
@@ -1244,6 +1246,7 @@
       "depth.1200": "a887b60a233e12bd164b146a93d2f27e14f63502",
       "depth.025": "2e0711dbc3bc5a0f9828824f0d4c6faac5989d53",
       "depth.m025": "c0a4a377f0cd44bd2c037dd904b62b9ce9730d64",
+      "depth.m050": "760729ea8c86b8f94c9aaa57fd8b16919de811f1",
       "depth.m100": "0f64586ed8d9d15a34df9025a35bba6f9ac8d3b5",
       "depth.m200": "52aa4039a395bea171cec9c586e237e4ad330384",
       "depth.m400": "058eac54d1277f8600bfb568491efe09e6b16d6f",

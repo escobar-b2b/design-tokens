@@ -5498,10 +5498,10 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.50}",
+            "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-10.a30}",
+            "color": "{core.grey.a50}",
             "type": "dropShadow"
           }
         ],
@@ -5526,7 +5526,7 @@
                   "y": "{depth.m050}",
                   "blur": "{depth.100}",
                   "spread": "0",
-                  "color": "{core.grey.a50}",
+                  "color": "{core.grey.a15}",
                   "type": "innerShadow"
                 },
                 {
@@ -5534,7 +5534,7 @@
                   "y": "4px",
                   "blur": "24px",
                   "spread": "0",
-                  "color": "{core.brand-10.a50}",
+                  "color": "{core.brand-10.a30}",
                   "type": "dropShadow"
                 }
               ],

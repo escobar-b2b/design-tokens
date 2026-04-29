@@ -1848,21 +1848,19 @@
         }
       }
     },
-    "header": {
-      "desktop": {
-        "special-menu-item": {
-          "current": {
-            "fill": {
-              "value": "{core.brand-60.900}",
-              "type": "color"
-            },
-            "icon": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
-          }
+    "special-menu-item": {
+      "fill": {
+        "default": {
+          "value": "{semantic.background.3}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.background.2}",
+          "type": "color"
         }
-      },
+      }
+    },
+    "header": {
       "background": {
         "fill": {
           "value": "{core.white.a100}",

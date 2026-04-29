@@ -1112,7 +1112,11 @@
       "contextual.tabs.item.section.content.hover": "S:2243bd367dde43232053a3043a70c7d10172e3f5,",
       "contextual.tabs.item.section.content.disabled": "S:0d1ca6da5b65270d1aa306942e89dca39a6b8fba,",
       "contextual.tabs.item.normal.content.disabled": "S:096309797e5a16babf7c243940b4f19349942240,",
-      "contextual.tabs.item.banner.content.disabled": "S:ca747f7132834903a4452143486a3765271aecf7,"
+      "contextual.tabs.item.banner.content.disabled": "S:ca747f7132834903a4452143486a3765271aecf7,",
+      "contextual.tabs.item.navigation.fill.default": "S:67bd85952c1d588851bae37da49b3a2a9a7e6b18,",
+      "contextual.tabs.item.navigation.fill.active": "S:d7e8c3315b0f4ba9e09c862cb46210457e8ef891,",
+      "contextual.tabs.item.navigation.fill.hover": "S:6435a38abe28a4f6e56f14a77319e4d63d6a3d70,",
+      "contextual.tabs.item.navigation.fill.disabled": "S:788f1fcfbe126a83e120d362f4ebac73f49e8c9d,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

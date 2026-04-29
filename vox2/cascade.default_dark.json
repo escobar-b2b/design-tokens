@@ -3073,11 +3073,11 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.grey.700}",
+              "value": "{core.grey.500}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.white.a0}",
+              "value": "{core.grey.400}",
               "type": "color"
             },
             "disabled": {

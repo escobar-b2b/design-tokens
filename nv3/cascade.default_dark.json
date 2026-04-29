@@ -3727,6 +3727,14 @@
           }
         }
       }
+    },
+    " verification": {
+      " frame": {
+        "line": {
+          "value": "{core.white.a50}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {

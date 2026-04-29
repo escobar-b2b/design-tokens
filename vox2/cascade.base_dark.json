@@ -2833,12 +2833,14 @@
           "description": "+ Bonus popover"
         },
         "2": {
-          "value": "{core.brand-30.600}",
-          "type": "color"
+          "value": "#1748E3",
+          "type": "color",
+          "description": "+ label"
         },
         "3": {
-          "value": "#AA98EC",
-          "type": "color"
+          "value": "#A454FF",
+          "type": "color",
+          "description": "+ label"
         },
         "4": {
           "value": "#343951",

@@ -3606,7 +3606,7 @@
       },
       "secondary": {
         "fill": {
-          "value": "linear-gradient(225deg, {core.brand-30.400} 0%, {core.brand-30.700} 100%)",
+          "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.3} 0%, {core.brand-preset.for-gradients.2} 100%)",
           "type": "color",
           "description": "badge"
         },

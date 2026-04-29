@@ -3318,21 +3318,21 @@
       },
       "text": {
         "default": {
-          "value": "{core.white.a50}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{core.white.a50}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "background": {

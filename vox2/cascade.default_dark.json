@@ -3342,7 +3342,7 @@
         "background": {
           "fill": {
             "special": {
-              "value": "{core.brand-10.500}",
+              "value": "{semantic.background.brand.primary.default}",
               "type": "color"
             }
           }

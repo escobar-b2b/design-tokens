@@ -4988,6 +4988,10 @@
       "value": "-1px",
       "type": "dimension"
     },
+    "m050": {
+      "value": "-2px",
+      "type": "dimension"
+    },
     "m100": {
       "value": "-4px",
       "type": "dimension"
@@ -5518,12 +5522,20 @@
                   "type": "innerShadow"
                 },
                 {
-                  "x": "{depth.50}",
-                  "y": "0",
-                  "blur": "0",
+                  "x": "{depth.m050}",
+                  "y": "{depth.m050}",
+                  "blur": "{depth.100}",
                   "spread": "0",
-                  "color": "#000000",
+                  "color": "{core.grey.a50}",
                   "type": "innerShadow"
+                },
+                {
+                  "x": "0",
+                  "y": "4px",
+                  "blur": "24px",
+                  "spread": "0",
+                  "color": "{core.brand-10.a50}",
+                  "type": "dropShadow"
                 }
               ],
               "type": "boxShadow"

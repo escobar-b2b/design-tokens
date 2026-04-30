@@ -2935,9 +2935,9 @@
         "description": "gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
+        "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.brand-60.600} 100%)",
         "type": "color",
-        "description": "gradients.orange 500"
+        "description": "+ thumb view more"
       },
       "5": {
         "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",

@@ -3242,7 +3242,7 @@
     "thumb-games": {
       "empty": {
         "fill": {
-          "value": "{core.grey.500}",
+          "value": "{core.brand-60.600}",
           "type": "color"
         }
       },
@@ -3253,15 +3253,11 @@
       "show-more": {
         "normal": {
           "fill": {
-            "value": "{semantic.gradients.7}",
+            "value": "{semantic.gradients.4}",
             "type": "color"
           },
           "border": {
             "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "content": {
-            "value": "{core.white.a100}",
             "type": "color"
           }
         }

@@ -1405,12 +1405,6 @@
             "type": "color"
           }
         },
-        "md": {
-          "padding-left": {
-            "value": "{spacing.200}",
-            "type": "spacing"
-          }
-        },
         "border": {
           "success": {
             "value": "{core.validation.success.a30}",
@@ -3818,6 +3812,16 @@
       }
     }
   },
+  "profile": {
+    "status": {
+      "md": {
+        "padding-left": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
   "scale-1": {
     "value": "{base} * 0.6875",
     "type": "fontSizes"
@@ -5320,6 +5324,16 @@
       "padding-vertical": {
         "value": "{spacing.300}",
         "type": "spacing"
+      }
+    }
+  },
+  "page": {
+    "content": {
+      "desktop": {
+        "padding-horizontal": {
+          "value": "{spacing.800}",
+          "type": "spacing"
+        }
       }
     }
   },

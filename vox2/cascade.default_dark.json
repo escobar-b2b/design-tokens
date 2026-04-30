@@ -1298,6 +1298,12 @@
         }
       }
     },
+    "thumb": {
+      "fill": {
+        "value": "{semantic.background.page}",
+        "type": "color"
+      }
+    },
     "pregame": {
       "overlay": {
         "value": "{core.grey.a30}",

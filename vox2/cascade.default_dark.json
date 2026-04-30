@@ -258,7 +258,7 @@
     "thumb": {
       "label": {
         "top-right": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.thumb.general}",
           "type": "borderRadius"
         },
         "top-left": {
@@ -270,9 +270,13 @@
           "type": "borderRadius"
         },
         "bottom-left": {
-          "value": "{border-radius.core.300}",
+          "value": "{border-radius.thumb.general}",
           "type": "borderRadius"
         }
+      },
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
       }
     },
     "popup": {

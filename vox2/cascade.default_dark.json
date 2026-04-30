@@ -5440,7 +5440,7 @@
           "y": "{depth.1200}",
           "blur": "48px",
           "spread": "{depth.0}",
-          "color": "{core.grey.a8}",
+          "color": "{core.grey.900}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -5544,6 +5544,17 @@
     },
     "datepicker": {
       "value": "{shadow.drop.sm}",
+      "type": "boxShadow"
+    },
+    "card-carousel": {
+      "value": {
+        "x": "0px",
+        "y": "12px",
+        "blur": "40px",
+        "spread": "0px",
+        "color": "{core.grey.900}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "tooltip": {

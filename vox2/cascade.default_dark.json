@@ -2494,9 +2494,17 @@
     },
     "homepage": {
       "nav-menu": {
-        "fill": {
-          "value": "{core.grey.600}",
-          "type": "color"
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.grey.500}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.grey.600}",
+              "type": "color"
+            }
+          }
         }
       },
       "status-widget": {

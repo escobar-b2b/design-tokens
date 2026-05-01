@@ -5833,10 +5833,10 @@
             "value": [
               {
                 "x": "0",
-                "y": "{depth.100}",
-                "blur": "24px",
+                "y": "0",
+                "blur": "12px",
                 "spread": "0",
-                "color": "{core.brand-10.a25}",
+                "color": "{core.grey.a15}",
                 "type": "dropShadow"
               }
             ],
@@ -5847,10 +5847,10 @@
             "value": [
               {
                 "x": "0",
-                "y": "{depth.100}",
-                "blur": "24px",
+                "y": "0",
+                "blur": "12px",
                 "spread": "0",
-                "color": "{core.brand-10.a25}",
+                "color": "{core.grey.300a30}",
                 "type": "dropShadow"
               }
             ],

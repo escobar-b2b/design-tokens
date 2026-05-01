@@ -2541,15 +2541,13 @@
       },
       "winning-now": {
         "item": {
-          "background": {
-            "default": {
-              "value": "linear-gradient(264deg, {core.brand-60.700} , {core.grey.600} 100%)",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.grey.600}",
-              "type": "color"
-            }
+          "fill": {
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a5}",
+            "type": "color"
           }
         }
       }
@@ -5825,6 +5823,40 @@
             }
           ],
           "type": "boxShadow"
+        }
+      }
+    },
+    "homepage": {
+      "winning-now": {
+        "item": {
+          "default": {
+            "value": [
+              {
+                "x": "0",
+                "y": "{depth.100}",
+                "blur": "24px",
+                "spread": "0",
+                "color": "{core.brand-10.a25}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow",
+            "description": "homepage.winning-now.item"
+          },
+          "hover": {
+            "value": [
+              {
+                "x": "0",
+                "y": "{depth.100}",
+                "blur": "24px",
+                "spread": "0",
+                "color": "{core.brand-10.a25}",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow",
+            "description": "homepage.winning-now.item"
+          }
         }
       }
     },

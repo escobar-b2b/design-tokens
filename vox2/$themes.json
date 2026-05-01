@@ -1119,7 +1119,9 @@
       "contextual.tabs.item.navigation.fill.disabled": "S:788f1fcfbe126a83e120d362f4ebac73f49e8c9d,",
       "contextual.header.fill.default": "S:657598d9be8dbfa858f65b2c10e47d7be0ba5243,",
       "contextual.thumb.fill": "S:e8605bcd50828c17773821dbc8990a68e13828e5,",
-      "shadow.card-carousel": "S:8dd34eb5bed77a5130985508f4eca84b4a6f0185,"
+      "shadow.card-carousel": "S:8dd34eb5bed77a5130985508f4eca84b4a6f0185,",
+      "contextual.homepage.winning-now.item.fill": "S:3ec38188f6bd32285dd5e504534578393f204ae4,",
+      "contextual.homepage.winning-now.item.border": "S:97d74d7de6decfcd8466fcfe3bc0e64684080ea0,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

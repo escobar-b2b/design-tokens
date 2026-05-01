@@ -111,6 +111,12 @@
           "type": "borderRadius"
         }
       }
+    },
+    "welcome-bonus": {
+      "tabs": {
+        "value": "{border-radius.button.lg}",
+        "type": "borderRadius"
+      }
     }
   },
   "text": {

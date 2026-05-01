@@ -377,6 +377,12 @@
         "value": "{border-radius.core.400}",
         "type": "borderRadius"
       }
+    },
+    "welcome-bonus": {
+      "tabs": {
+        "value": "{border-radius.button.lg}",
+        "type": "borderRadius"
+      }
     }
   },
   "contextual": {

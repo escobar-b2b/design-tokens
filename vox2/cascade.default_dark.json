@@ -2374,7 +2374,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.brand-60.a10}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         },
@@ -5921,6 +5921,17 @@
             "blur": "0",
             "spread": "0",
             "color": "rgba(0,0,0,0)",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "tertiary": {
+          "value": {
+            "x": "0",
+            "y": "4",
+            "blur": "24",
+            "spread": "0",
+            "color": "{core.brand-10.a40}",
             "type": "dropShadow"
           },
           "type": "boxShadow"

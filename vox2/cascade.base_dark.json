@@ -3030,7 +3030,7 @@
       "slate-2": {
         "value": "{core.grey.600}",
         "type": "color",
-        "description": "+ cards"
+        "description": "+ cards, profile side menu"
       },
       "slate-on-card": {
         "value": "{core.brand-30.500a60}",

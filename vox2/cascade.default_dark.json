@@ -2382,6 +2382,10 @@
           "active": {
             "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} , {core.grey.900} )",
             "type": "color"
+          },
+          "gradient": {
+            "value": "radial-gradient(81.61% 42.03% at 0% 0%, rgba(255, 124, 15, 0.10) 0%, rgba(23, 26, 40, 0.10) 100%)",
+            "type": "color"
           }
         },
         "tabs": {

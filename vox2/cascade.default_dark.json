@@ -2370,7 +2370,7 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "linear-gradient(124deg, {core.white.a100} 0%, {core.brand-60.a70} , {core.white.a40} 100%)",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "default": {
@@ -2405,7 +2405,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.500}",
+              "value": "{semantic.text.static.primary}",
               "type": "color"
             },
             "disabled": {

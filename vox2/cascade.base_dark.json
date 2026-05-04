@@ -324,7 +324,7 @@
     "xl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",

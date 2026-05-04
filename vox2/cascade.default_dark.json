@@ -4145,7 +4145,7 @@
     "xl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
@@ -4438,7 +4438,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.300}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "secondary": {

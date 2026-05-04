@@ -202,7 +202,7 @@
     "md-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-3}",
         "lineHeight": "{md}"
       },

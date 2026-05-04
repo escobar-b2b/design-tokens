@@ -1085,6 +1085,116 @@
         "type": "color"
       }
     },
+    "homepage": {
+      "collection": {
+        "1": {
+          "fill": {
+            "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-preset.for-gradients.5}",
+            "type": "color"
+          }
+        },
+        "2": {
+          "fill": {
+            "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.1} 0%, {core.brand-60.700} 50%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-preset.for-gradients.1}",
+            "type": "color"
+          }
+        },
+        "3": {
+          "fill": {
+            "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.6} 0%, {core.brand-60.700} 50%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-preset.for-gradients.6}",
+            "type": "color"
+          }
+        },
+        "4": {
+          "fill": {
+            "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.6} 0%, {core.brand-60.700} 50%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-preset.for-gradients.6}",
+            "type": "color"
+          }
+        }
+      },
+      "nav-menu": {
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.grey.500}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.grey.600}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "status-widget": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-30.800}",
+            "type": "color"
+          },
+          "slate": {
+            "value": "{semantic.background.slate-for-cards}",
+            "type": "color"
+          }
+        }
+      },
+      "slider": {
+        "payment-block": {
+          "background": {
+            "value": "{core.brand-10.a60}",
+            "type": "color"
+          }
+        }
+      },
+      "title&show-all": {
+        "icon": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        }
+      },
+      "sport": {
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{semantic.gradients.6}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "winning-now": {
+        "item": {
+          "fill": {
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a5}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "lootboxes": {
       "coefficient": {
         "card": {
@@ -2493,74 +2603,6 @@
           "value": "linear-gradient(319deg, {core.brand-30.200} 50%, {core.brand-10.300} 97%)",
           "type": "color",
           "description": "linear-gradient(319deg, {core.brand-10.400} 50%, {core.brand-10.200} 97%)"
-        }
-      }
-    },
-    "homepage": {
-      "nav-menu": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{core.grey.500}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.grey.600}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "status-widget": {
-        "background": {
-          "fill": {
-            "value": "{core.brand-30.800}",
-            "type": "color"
-          },
-          "slate": {
-            "value": "{semantic.background.slate-for-cards}",
-            "type": "color"
-          }
-        }
-      },
-      "slider": {
-        "payment-block": {
-          "background": {
-            "value": "{core.brand-10.a60}",
-            "type": "color"
-          }
-        }
-      },
-      "title&show-all": {
-        "icon": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
-        }
-      },
-      "sport": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{semantic.gradients.6}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "winning-now": {
-        "item": {
-          "fill": {
-            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a5}",
-            "type": "color"
-          }
         }
       }
     },

@@ -1129,7 +1129,15 @@
       "contextual.homepage.nav-menu.item.fill.hover": "S:aa4b5528b1c08a1f09d2b4c32114a4a0a31f873d,",
       "contextual.deals.welcome-bonus-card.background.gradient": "S:398de2780d7b45f882790907fe203da61d06adf0,",
       "shadow.semantic.drop.tertiary": "S:144ebcfc321ac3c9e62800377a8828ff59bf8bcf,",
-      "contextual.tabs.general.bg": "S:4809dca5b4452d86fb0b918a13a2829dbff2d593,"
+      "contextual.tabs.general.bg": "S:4809dca5b4452d86fb0b918a13a2829dbff2d593,",
+      "contextual.homepage.collection.1.fill": "S:87b2592fe72e000a7cde8e73f6c1e2e22349af1f,",
+      "contextual.homepage.collection.1.border": "S:6c4d22b79ec6e5c02126eaef18d03ee5caa748cc,",
+      "contextual.homepage.collection.3.fill": "S:3a741134fbd9f08d525f18403429eb16017c74be,",
+      "contextual.homepage.collection.3.border": "S:821cc3bb748b54a3df9ee2bcab08269358c24d42,",
+      "contextual.homepage.collection.2.fill": "S:02ea039f07ea78d5d6d8419dd8d86efbec7eef93,",
+      "contextual.homepage.collection.2.border": "S:17945563ac933057ffb1cb8770ec5d090a993541,",
+      "contextual.homepage.collection.4.fill": "S:f513157465f79ea8ee39b7b0710192a611524bb1,",
+      "contextual.homepage.collection.4.border": "S:804781220508897e63e63319281a8a7f24158393,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

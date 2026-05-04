@@ -2867,16 +2867,19 @@
           "description": "+ for gradient 11"
         },
         "5": {
-          "value": "#78EDC2",
-          "type": "color"
+          "value": "#502C15",
+          "type": "color",
+          "description": "+ for collections"
         },
         "6": {
-          "value": "#C51EBD",
-          "type": "color"
+          "value": "#324E3F",
+          "type": "color",
+          "description": "+ for collections"
         },
         "7": {
-          "value": "#FFA4C8",
-          "type": "color"
+          "value": "#324D57",
+          "type": "color",
+          "description": "+ for collections"
         },
         "8": {
           "value": "#FAEB86",

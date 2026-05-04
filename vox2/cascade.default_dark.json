@@ -4123,7 +4123,7 @@
     "md": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-5}",
         "lineHeight": "{ml}",
         "textCase": "{text-case.none}",
@@ -4134,7 +4134,7 @@
     "lg": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",

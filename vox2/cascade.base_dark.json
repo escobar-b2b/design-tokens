@@ -280,7 +280,7 @@
     "xs": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-4}",
         "lineHeight": "20px",
         "textCase": "{text-case.none}",
@@ -291,7 +291,7 @@
     "sm": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-4-5}",
         "lineHeight": "22px",
         "textCase": "{text-case.none}",
@@ -335,7 +335,7 @@
     "xxl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",

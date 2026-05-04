@@ -4626,7 +4626,7 @@
       },
       "default": {
         "default": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a20}",
           "type": "color"
         },
         "hover": {

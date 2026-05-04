@@ -3053,9 +3053,9 @@
         "description": "text input 2"
       },
       "slate-for-cards": {
-        "value": "linear-gradient(120deg, {core.brand-60.700} , {core.brand-60.800} 100%)",
+        "value": "{core.grey.800}",
         "type": "color",
-        "description": "text input 2"
+        "description": "+ slate for cards BG "
       }
     }
   },

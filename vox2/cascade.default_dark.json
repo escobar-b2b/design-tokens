@@ -5560,8 +5560,8 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.0}",
-            "blur": "{blur.100}",
+            "y": "12px",
+            "blur": "12px",
             "spread": "{depth.0}",
             "color": "{core.grey.a50}",
             "type": "dropShadow"

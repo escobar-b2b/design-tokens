@@ -1039,7 +1039,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.background.2}",
+        "value": "{core.grey.700}",
         "type": "color"
       },
       "bonus-popover": {

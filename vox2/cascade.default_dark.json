@@ -2591,7 +2591,7 @@
     },
     "bonuses": {
       "fill": {
-        "value": "{semantic.gradients.7}",
+        "value": "{semantic.gradients.11}",
         "type": "color"
       },
       "border": {

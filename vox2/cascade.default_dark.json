@@ -3143,11 +3143,11 @@
         },
         "results": {
           "fill": {
-            "value": "{core.white.a15}",
+            "value": "{core.white.a10}",
             "type": "color"
           },
           "border": {
-            "value": "{core.white.a25}",
+            "value": "{core.white.a10}",
             "type": "color",
             "description": "Top Inner Page"
           }

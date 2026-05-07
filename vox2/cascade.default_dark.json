@@ -3125,12 +3125,14 @@
     "lottery-tournament": {
       "players-prizes": {
         "fill": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "fill-2": {
-          "value": "{core.grey.800}",
-          "type": "color"
+          "even": {
+            "value": "{core.grey.700}",
+            "type": "color"
+          },
+          "odd": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          }
         }
       },
       "top-inner-page": {

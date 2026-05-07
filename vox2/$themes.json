@@ -1137,7 +1137,9 @@
       "contextual.homepage.collection.2.fill": "S:02ea039f07ea78d5d6d8419dd8d86efbec7eef93,",
       "contextual.homepage.collection.2.border": "S:17945563ac933057ffb1cb8770ec5d090a993541,",
       "contextual.homepage.collection.4.fill": "S:f513157465f79ea8ee39b7b0710192a611524bb1,",
-      "contextual.homepage.collection.4.border": "S:804781220508897e63e63319281a8a7f24158393,"
+      "contextual.homepage.collection.4.border": "S:804781220508897e63e63319281a8a7f24158393,",
+      "contextual.lottery-tournament.players-prizes.fill-2": "S:8f3796f41646105c7932dbc93230715ae86fe290,",
+      "contextual.lottery-tournament.prize.gold-winning.border": "S:5f5017e62890698f641b3fc45b9860476b4b79f6,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

@@ -3238,6 +3238,11 @@
             "value": "{core.additionals.gold}",
             "type": "color",
             "description": "status-inactive"
+          },
+          "border": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "status-inactive"
           }
         }
       },

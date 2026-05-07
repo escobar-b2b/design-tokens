@@ -3127,6 +3127,10 @@
         "fill": {
           "value": "{core.grey.700}",
           "type": "color"
+        },
+        "fill-2": {
+          "value": "{core.grey.800}",
+          "type": "color"
         }
       },
       "top-inner-page": {

@@ -1433,7 +1433,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "text": {

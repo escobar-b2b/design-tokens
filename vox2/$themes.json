@@ -1141,7 +1141,18 @@
       "contextual.lottery-tournament.players-prizes.fill-2": "S:8f3796f41646105c7932dbc93230715ae86fe290,",
       "contextual.lottery-tournament.prize.gold-winning.border": "S:5f5017e62890698f641b3fc45b9860476b4b79f6,",
       "contextual.lottery-tournament.players-prizes.fill.even": "S:6d7317437583089e147ea5389a6c0e6c97151d7c,",
-      "contextual.lottery-tournament.players-prizes.fill.odd": "S:d75394b8a912e6b1b309814c354a89f6b1c4b1c2,"
+      "contextual.lottery-tournament.players-prizes.fill.odd": "S:d75394b8a912e6b1b309814c354a89f6b1c4b1c2,",
+      "semantic.divider.default.decoration": "S:98ec6fafd0056ff86a3651c37a4553a4bf3bdc51,",
+      "contextual.card.special.1.fill": "S:ea39b3db59e291620d03f92d02256ee584caa5c7,",
+      "contextual.card.special.1.border": "S:f5218fbfc2284e2e4c27f787ade686b4f80e2d88,",
+      "contextual.card.special.2.fill": "S:71b2b1e5c4f7f07de87207d92754de1121667dcd,",
+      "contextual.card.special.2.border": "S:e8759474de11de5e2c95db1e88f4590a755ed4d9,",
+      "contextual.card.special.3.fill": "S:6782fceae2fe53248fc5c979fa94b02568fa88ac,",
+      "contextual.card.special.3.border": "S:d628959ded56e477c8eeafaf279c1a8878df0c4b,",
+      "contextual.card.special.4.fill": "S:217428e4023f93d523d0e3dfbcfdc292a577bc85,",
+      "contextual.card.special.4.border": "S:617f4b0ad941a6126a8fbe66b23a4d273428df11,",
+      "contextual.card.special.5.fill": "S:0d2690eb925dc0eb787edba8b8775aea6164ec0e,",
+      "contextual.card.special.5.border": "S:b355bf9b84df8c973954daea3ec4aab8ead5dd3f,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

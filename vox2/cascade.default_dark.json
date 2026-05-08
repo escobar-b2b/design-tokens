@@ -1085,8 +1085,8 @@
         "type": "color"
       }
     },
-    "homepage": {
-      "collection": {
+    "card": {
+      "special": {
         "1": {
           "fill": {
             "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
@@ -1126,8 +1126,36 @@
             "value": "{core.brand-preset.for-gradients.6}",
             "type": "color"
           }
+        },
+        "5": {
+          "fill": {
+            "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-30.800} 0%, {core.brand-60.700} 50%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.800}",
+            "type": "color"
+          }
         }
       },
+      "bg": {
+        "fill": {
+          "value": "{semantic.gradients.11}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.border.active.element}",
+          "type": "color"
+        }
+      }
+    },
+    "homepage": {
       "nav-menu": {
         "item": {
           "fill": {
@@ -3306,24 +3334,6 @@
         }
       }
     },
-    "card": {
-      "bg": {
-        "fill": {
-          "value": "{semantic.gradients.11}",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "{core.white.a20}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.border.active.element}",
-          "type": "color"
-        }
-      }
-    },
     "thumb-games": {
       "empty": {
         "fill": {
@@ -3647,7 +3657,7 @@
       },
       "sale": {
         "fill": {
-          "value": "{core.validation.danger.600}",
+          "value": "linear-gradient(225deg, {core.validation.danger.500} 0%, {core.validation.danger.700} 100%)",
           "type": "color",
           "description": "badge"
         },
@@ -4837,6 +4847,10 @@
         },
         "secondary": {
           "value": "{core.brand-60.a20}",
+          "type": "color"
+        },
+        "decoration": {
+          "value": "linear-gradient(90deg, {core.white.a50} 44.11%, {core.white.a0} 100%)",
           "type": "color"
         }
       },

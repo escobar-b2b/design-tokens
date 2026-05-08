@@ -1894,8 +1894,17 @@
           }
         },
         "700": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-preset.validation.danger}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.red 500"
         },
         "800": {

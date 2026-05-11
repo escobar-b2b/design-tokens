@@ -3276,7 +3276,7 @@
           }
         }
       },
-      "cart": {
+      "card": {
         "top": {
           "fill": {
             "value": "{semantic.gradients.7}",
@@ -3285,12 +3285,10 @@
           }
         },
         "fill": {
-          "value": "{core.grey.600}",
+          "value": "{core.grey.800}",
           "type": "color",
           "description": "status-inactive"
-        }
-      },
-      "card": {
+        },
         "border": {
           "value": "{core.grey.a10}",
           "type": "color",

@@ -1152,7 +1152,9 @@
       "contextual.card.special.4.fill": "S:217428e4023f93d523d0e3dfbcfdc292a577bc85,",
       "contextual.card.special.4.border": "S:617f4b0ad941a6126a8fbe66b23a4d273428df11,",
       "contextual.card.special.5.fill": "S:0d2690eb925dc0eb787edba8b8775aea6164ec0e,",
-      "contextual.card.special.5.border": "S:b355bf9b84df8c973954daea3ec4aab8ead5dd3f,"
+      "contextual.card.special.5.border": "S:b355bf9b84df8c973954daea3ec4aab8ead5dd3f,",
+      "contextual.lottery-tournament.card.top.fill": "S:6589e6e032c502a8f682b0d7ac21df8f3eedfdab,",
+      "contextual.lottery-tournament.card.fill": "S:139333a9838d46b741c7a28941ee260455e9bcc9,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

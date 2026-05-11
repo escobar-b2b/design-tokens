@@ -2898,12 +2898,6 @@
     }
   },
   "header": {
-    "desctop": {
-      "menu-items": {
-        "value": "{heading.sm}",
-        "type": "typography"
-      }
-    },
     "mobile": {
       "welcome-bonus": {
         "timer": {

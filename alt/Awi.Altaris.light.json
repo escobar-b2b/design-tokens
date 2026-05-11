@@ -5849,11 +5849,6 @@
           "value": "{semantic.text.danger.default}",
           "type": "color"
         },
-        "success": {
-          "value": "{semantic.text.success.static}",
-          "type": "color",
-          "description": "core.validation.success"
-        },
         "warning": {
           "value": "{semantic.text.warning.static}",
           "type": "color",
@@ -8699,12 +8694,6 @@
     }
   },
   "header": {
-    "desctop": {
-      "menu-items": {
-        "value": "{heading.sm}",
-        "type": "typography"
-      }
-    },
     "mobile": {
       "welcome-bonus": {
         "timer": {

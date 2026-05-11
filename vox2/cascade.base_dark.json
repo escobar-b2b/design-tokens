@@ -3040,7 +3040,7 @@
         "description": "The slate second level on main(white) background"
       },
       "slate-2": {
-        "value": "{core.grey.600}",
+        "value": "{core.grey.800}",
         "type": "color",
         "description": "+ cards, profile side menu"
       },

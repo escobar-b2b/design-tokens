@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Inter",
+    "value": "Manrope",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Onest",
+    "value": "Manrope",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },

@@ -4239,7 +4239,7 @@
         },
         "bottom": {
           "fill": {
-            "value": "{core.brand-60.800a90}",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         }

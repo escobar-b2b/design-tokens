@@ -3214,7 +3214,7 @@
             "description": "Tiket"
           },
           "gold-winning": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.default.heading}",
             "type": "color",
             "description": "Tiket"
           }
@@ -3233,7 +3233,7 @@
         },
         "bage": {
           "fill": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.400}",
             "type": "color",
             "description": "Tiket"
           }

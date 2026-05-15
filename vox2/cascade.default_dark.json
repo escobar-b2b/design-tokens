@@ -5494,7 +5494,7 @@
           "y": "{depth.400}",
           "blur": "24px",
           "spread": "{depth.0}",
-          "color": "{core.grey.a8}",
+          "color": "{core.grey.a50}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -5630,7 +5630,7 @@
       }
     },
     "datepicker": {
-      "value": "{shadow.drop.sm}",
+      "value": "{shadow.drop.ml}",
       "type": "boxShadow"
     },
     "card-carousel": {

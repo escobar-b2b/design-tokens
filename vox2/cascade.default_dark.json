@@ -3233,7 +3233,7 @@
         },
         "bage": {
           "fill": {
-            "value": "{core.brand-60.400}",
+            "value": "{core.grey.500}",
             "type": "color",
             "description": "Tiket"
           }

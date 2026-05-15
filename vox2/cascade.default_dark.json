@@ -1213,7 +1213,7 @@
       "winning-now": {
         "item": {
           "fill": {
-            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "border": {
@@ -3190,7 +3190,7 @@
       "ticket": {
         "background": {
           "fill": {
-            "value": "{core.grey.500}",
+            "value": "{semantic.gradients.3}",
             "type": "color",
             "description": "Tiket"
           },

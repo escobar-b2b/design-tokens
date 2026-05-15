@@ -2961,9 +2961,9 @@
         "description": "+ menu banner"
       },
       "3": {
-        "value": "{core.brand-30.600}",
+        "value": "radial-gradient(62% 100.02% at 52% 0%, {core.grey.500} 0%, {core.grey.700} 100%)",
         "type": "color",
-        "description": "gradient popup"
+        "description": "+ some type of cart winning now, tickets pack"
       },
       "4": {
         "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.brand-60.600} 100%)",

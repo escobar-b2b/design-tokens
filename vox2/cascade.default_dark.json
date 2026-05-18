@@ -1150,7 +1150,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.border.active.element}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         }
       }

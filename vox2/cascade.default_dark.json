@@ -2782,7 +2782,7 @@
         },
         "background": {
           "fill": {
-            "value": "{semantic.background.1}",
+            "value": "radial-gradient( {core.brand-60.400} 0% , {core.brand-60.700} 100%)",
             "type": "color"
           }
         }

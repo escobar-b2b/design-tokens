@@ -1142,6 +1142,10 @@
         "fill": {
           "value": "{semantic.gradients.11}",
           "type": "color"
+        },
+        "fill-2": {
+          "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} 0%, {core.brand-60.900} 100%)",
+          "type": "color"
         }
       },
       "border": {

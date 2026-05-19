@@ -353,7 +353,7 @@
       }
     },
     "chips": {
-      "value": "{border-radius.core.300}",
+      "value": "{border-radius.core.full}",
       "type": "borderRadius"
     },
     "accordion": {

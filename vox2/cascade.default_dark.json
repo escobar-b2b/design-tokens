@@ -3832,7 +3832,7 @@
       "popup": {
         "fill": {
           "normal": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.brand-60.600}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -3842,7 +3842,7 @@
             "description": "Toggle-button"
           },
           "active": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Toggle-button"
           }
@@ -3866,12 +3866,12 @@
         },
         "text": {
           "normal": {
-            "value": "{contextual.button.secondary.text.default}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{contextual.button.secondary.text.hover}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Toggle-button"
           },

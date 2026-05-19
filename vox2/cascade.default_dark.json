@@ -334,7 +334,7 @@
     },
     "wheel": {
       "block": {
-        "value": "{border-radius.core.400}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius",
         "description": "contextual.wheel.sector"
       },
@@ -773,7 +773,7 @@
       },
       "popup": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{core.brand-60.600}",
           "type": "color"
         },
         "divider": {
@@ -3849,12 +3849,12 @@
         },
         "border": {
           "normal": {
-            "value": "{core.white.a15}",
+            "value": "{core.white.a20}",
             "type": "color",
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{core.white.a10}",
+            "value": "{core.white.a40}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -5699,10 +5699,10 @@
         "general": {
           "value": {
             "x": "0px",
-            "y": "0px",
-            "blur": "16px",
+            "y": "2px",
+            "blur": "8px",
             "spread": "0px",
-            "color": "{core.grey.a20}",
+            "color": "{core.white.a20}",
             "type": "dropShadow"
           },
           "type": "boxShadow"

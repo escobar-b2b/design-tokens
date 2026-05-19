@@ -3849,7 +3849,7 @@
         },
         "border": {
           "normal": {
-            "value": "{core.white.a10}",
+            "value": "{core.white.a15}",
             "type": "color",
             "description": "Toggle-button"
           },

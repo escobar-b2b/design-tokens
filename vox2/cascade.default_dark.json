@@ -773,7 +773,7 @@
       },
       "popup": {
         "fill": {
-          "value": "{core.brand-60.600}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         },
         "divider": {
@@ -3832,12 +3832,12 @@
       "popup": {
         "fill": {
           "normal": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.white.a0}",
             "type": "color",
             "description": "Toggle-button"
           },
           "hover": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.white.a0}",
             "type": "color",
             "description": "Toggle-button"
           },
@@ -5697,14 +5697,24 @@
     "wheel": {
       "popup": {
         "general": {
-          "value": {
-            "x": "0px",
-            "y": "2px",
-            "blur": "8px",
-            "spread": "0px",
-            "color": "{core.white.a20}",
-            "type": "dropShadow"
-          },
+          "value": [
+            {
+              "x": "0px",
+              "y": "2px",
+              "blur": "8px",
+              "spread": "0px",
+              "color": "{core.white.a20}",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "1",
+              "blur": "1",
+              "spread": "0",
+              "color": "{core.white.a10}",
+              "type": "innerShadow"
+            }
+          ],
           "type": "boxShadow"
         }
       },

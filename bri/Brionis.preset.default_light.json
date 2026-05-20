@@ -257,18 +257,18 @@
       "md": {
         "value": {
           "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
+          "fontWeight": "{Semibold}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
         },
         "type": "typography"
       },
       "sm": {
         "value": {
           "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-3}",
-          "lineHeight": "{ml}"
+          "fontWeight": "{Semibold}",
+          "fontSize": "{scale-2}",
+          "lineHeight": "{sm}"
         },
         "type": "typography"
       }

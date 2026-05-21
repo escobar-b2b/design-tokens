@@ -220,9 +220,9 @@
     "lg-strong": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
+        "lineHeight": "20px"
       },
       "type": "typography"
     },
@@ -231,7 +231,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Regular}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
+        "lineHeight": "20px"
       },
       "type": "typography"
     },
@@ -248,9 +248,9 @@
       "lg": {
         "value": {
           "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
+          "fontWeight": "{Semibold}",
           "fontSize": "{scale-4}",
-          "lineHeight": "{lg}"
+          "lineHeight": "20px"
         },
         "type": "typography"
       },

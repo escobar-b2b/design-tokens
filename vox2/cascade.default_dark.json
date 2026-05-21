@@ -702,7 +702,7 @@
         },
         "text": {
           "light": {
-            "value": "{core.grey.800}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "dark": {

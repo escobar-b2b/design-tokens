@@ -5225,7 +5225,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
+        "lineHeight": "20px"
       },
       "type": "typography"
     },

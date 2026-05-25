@@ -1170,7 +1170,7 @@
               "y": "0px",
               "blur": "2px",
               "spread": "0px",
-              "color": "{semantic.text.success.default}",
+              "color": "{semantic.status.success.text.primary}",
               "type": "dropShadow"
             },
             {
@@ -1178,7 +1178,7 @@
               "y": "0",
               "blur": "4",
               "spread": "0",
-              "color": "{semantic.text.success.default}",
+              "color": "{semantic.status.success.text.primary}",
               "type": "dropShadow"
             }
           ],

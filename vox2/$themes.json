@@ -4,8 +4,8 @@
     "name": "dark",
     "group": "cascade",
     "selectedTokenSets": {
-      "cascade.default_dark": "enabled",
-      "cascade.base_dark": "enabled"
+      "winzaro.default_dark": "enabled",
+      "winzaro.base_dark": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:7cf1d78d89470e69d63103e97bd69676ab022fb8,",

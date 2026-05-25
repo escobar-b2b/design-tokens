@@ -3055,7 +3055,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "slate-4": {
-        "value": "{core.brand-60.a10}",
+        "value": "{core.brand-60.a15}",
         "type": "color",
         "description": "+ shop prices"
       },

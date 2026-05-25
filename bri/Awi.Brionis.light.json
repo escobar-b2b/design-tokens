@@ -3328,10 +3328,6 @@
               "value": "{semantic.status.error.text.primary}",
               "type": "color"
             },
-            "success": {
-              "value": "{semantic.status.success.text.primary}",
-              "type": "color"
-            },
             "secondary": {
               "value": "{semantic.text.default.secondary}",
               "type": "color"

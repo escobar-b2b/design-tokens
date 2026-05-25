@@ -3321,6 +3321,12 @@
           "type": "color"
         }
       },
+      "price": {
+        "border": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        }
+      },
       "card": {
         "border": {
           "default": {
@@ -5798,6 +5804,23 @@
           }
         ],
         "type": "boxShadow"
+      }
+    },
+    "shop": {
+      "price": {
+        "active": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0px",
+              "blur": "4px",
+              "spread": "0",
+              "color": "{core.brand-10.600}",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
       }
     },
     "button": {

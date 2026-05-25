@@ -1156,7 +1156,9 @@
       "contextual.lottery-tournament.card.top.fill": "S:6589e6e032c502a8f682b0d7ac21df8f3eedfdab,",
       "contextual.lottery-tournament.card.fill": "S:139333a9838d46b741c7a28941ee260455e9bcc9,",
       "contextual.card.bg.fill-2": "S:3bce4478464c4bf1301483fd9d7882c781cd6ba7,",
-      "shadow.wheel.sector.text": "S:7895bb9d769247a3ae22433dfa1cf7ead9c45aa0,"
+      "shadow.wheel.sector.text": "S:7895bb9d769247a3ae22433dfa1cf7ead9c45aa0,",
+      "contextual.shop.price.border": "S:3adb3e4a1546d927d5581dc6f1e0fc509c37f24a,",
+      "shadow.shop.price.active": "S:88436710da2fe049e1a467509c3fa70e1f995a6c,"
     },
     "$figmaVariableReferences": {
       "main": "2d3f07d5ae2d65022f37d765160f9963ba75f2bc",

@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "winzaro.base_dark",
-    "winzaro.default_dark"
+    "global"
   ]
 }

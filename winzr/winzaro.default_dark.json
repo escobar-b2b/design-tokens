@@ -204,7 +204,7 @@
     },
     "filter&sort": {
       "button": {
-        "value": "{border-radius.core.300}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
     },
@@ -1719,21 +1719,21 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.filter&sort.item.fill.default}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "hover": {
@@ -1741,21 +1741,21 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a50}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.400}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },
@@ -1765,11 +1765,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

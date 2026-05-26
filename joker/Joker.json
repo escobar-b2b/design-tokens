@@ -6057,7 +6057,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{core.white.a20}",
           "type": "color"
         },
         "text": {

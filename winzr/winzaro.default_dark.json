@@ -1170,6 +1170,10 @@
             "hover": {
               "value": "{core.grey.600}",
               "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.400}",
+              "type": "color"
             }
           }
         }

@@ -1101,7 +1101,8 @@
       "shadow.semantic.inner.white": "S:8f9265ace3edccffa46d5259ff87d5596273cc80,",
       "shadow.semantic.inner.accent-60": "S:ea34a034aedbf700746129fb6dc44e352999b275,",
       "shadow.semantic.inner.secondary-60": "S:44a2ac815573fb379213c60ee1a6a2420f75d78f,",
-      "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,"
+      "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,",
+      "contextual.homepage.nav-menu.item.fill.active": "S:bd3838d7b2253fc74e4a408033b4634ef42ef1d6,"
     },
     "selectedTokenSets": {
       "winzaro.base_dark": "enabled",

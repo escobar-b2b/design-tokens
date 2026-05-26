@@ -6621,7 +6621,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.400}",
             "type": "color",
             "description": "Tiket"
           },
@@ -6703,7 +6703,7 @@
           },
           "text": {
             "default": {
-              "value": "{core.brand-60.100}",
+              "value": "#a1d6d1",
               "type": "color"
             },
             "disabled": {

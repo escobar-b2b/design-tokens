@@ -2581,7 +2581,7 @@
         }
       },
       "8": {
-        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.800} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.400} 0%, {core.brand-60.500} 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },

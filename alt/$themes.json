@@ -4650,5 +4650,15 @@
     },
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "b19736adace866af1bc6963971e8d8ffb9b9c89b",
+    "name": "Joker",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Awi.Altaris": "enabled",
+      "Joker.preset": "enabled"
+    },
+    "group": "Joker"
   }
 ]

@@ -1172,7 +1172,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.400}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           }
@@ -4263,11 +4263,11 @@
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.white.a100}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "tertiary": {

@@ -3100,7 +3100,7 @@
     },
     "popup": {
       "border": {
-        "value": "{core.white.a20}",
+        "value": "{core.white.a10}",
         "type": "color"
       },
       "fill": {

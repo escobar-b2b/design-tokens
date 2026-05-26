@@ -189,7 +189,7 @@
     "sm-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
@@ -216,7 +216,7 @@
     "md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -243,7 +243,7 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },

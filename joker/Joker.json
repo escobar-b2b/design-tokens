@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Roboto",
+    "value": "Futura",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Roboto",
+    "value": "Futura",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },

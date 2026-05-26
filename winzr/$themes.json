@@ -1102,7 +1102,15 @@
       "shadow.semantic.inner.accent-60": "S:ea34a034aedbf700746129fb6dc44e352999b275,",
       "shadow.semantic.inner.secondary-60": "S:44a2ac815573fb379213c60ee1a6a2420f75d78f,",
       "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,",
-      "contextual.homepage.nav-menu.item.fill.active": "S:bd3838d7b2253fc74e4a408033b4634ef42ef1d6,"
+      "contextual.homepage.nav-menu.item.fill.active": "S:bd3838d7b2253fc74e4a408033b4634ef42ef1d6,",
+      "shadow.button.static.default": "S:f42744331f322841c795cb2d28b296b199b9b745,",
+      "shadow.button.static.hover": "S:3d6fb7d88b9e674a5d40f470ff222a3be2776f04,",
+      "shadow.button.static.active": "S:2e04e2b4daf41f9b769451aa8b2c7c2a9d09581a,",
+      "shadow.button.static.disabled": "S:35a73f56abc697f5f67b191a1f850313d1b6ec19,",
+      "shadow.button.ghost.default": "S:7754289c6910377464c23a5d90b10ee9532ee277,",
+      "shadow.button.ghost.hover": "S:d0d89c769bc77fd5726190916d8a41c0281ebd14,",
+      "shadow.button.ghost.active": "S:6b5f69dd9df9916b033315b79bc50f92e1b3f773,",
+      "shadow.button.ghost.disabled": "S:1798d49ce94f9a113bf2450ce2fe10c24039a6e5,"
     },
     "selectedTokenSets": {
       "winzaro.base_dark": "enabled",

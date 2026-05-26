@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Roboto",
+    "value": "Futura",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Roboto",
+    "value": "Futura",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
@@ -2501,7 +2501,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#224853",
+        "value": "#224a55",
         "type": "color",
         "description": "tertiary"
       },

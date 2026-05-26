@@ -6693,17 +6693,17 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-60.800}",
+              "value": "{core.brand-60.600}",
               "type": "color"
             }
           },
           "text": {
             "default": {
-              "value": "{core.brand-60.200}",
+              "value": "{core.brand-60.100}",
               "type": "color"
             },
             "disabled": {
@@ -6717,7 +6717,7 @@
           }
         },
         "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "value": "{core.brand-60.600}",
           "type": "color"
         }
       },

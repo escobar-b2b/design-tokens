@@ -2493,7 +2493,7 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#FA1D1D",
+        "value": "#E51126",
         "type": "color"
       },
       "secondary": {
@@ -2552,7 +2552,7 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-10.500} 0%, #A1003D 100%)",
         "type": "color",
         "description": "+gradients.orange 500"
       },

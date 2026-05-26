@@ -8342,7 +8342,7 @@
         "description": "should be used as a surface color for text, labels"
       },
       "footer": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.brand-60.800}",
         "type": "color"
       },
       "brand": {

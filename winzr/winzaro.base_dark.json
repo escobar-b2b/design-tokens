@@ -2968,7 +2968,7 @@
       "4": {
         "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.brand-60.600} 100%)",
         "type": "color",
-        "description": "+ thumb view more"
+        "description": "+ thumb view more, refferal card"
       },
       "5": {
         "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",

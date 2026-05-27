@@ -3038,5 +3038,17 @@
       },
       "type": "typography"
     }
+  },
+  "contextual": {
+    "button": {
+      "primary": {
+        "fill": {
+          "default": {
+            "value": "linear-gradient(180deg, {core.brand-10.500} 0%, {core.brand-10.700} 100%)",
+            "type": "color"
+          }
+        }
+      }
+    }
   }
 }

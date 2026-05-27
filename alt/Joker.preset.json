@@ -3021,6 +3021,16 @@
           }
         }
       }
+    },
+    "menu": {
+      "item": {
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "heading": {

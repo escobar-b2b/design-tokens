@@ -5848,6 +5848,24 @@
             "value": "linear-gradient(90deg, {core.brand-10.50a20} 0%, {core.brand-10.50a50} 100%)",
             "type": "color"
           }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       },
       "balance-number": {

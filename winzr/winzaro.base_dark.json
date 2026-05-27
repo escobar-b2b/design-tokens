@@ -3035,9 +3035,9 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.700}",
+        "value": "{core.grey.800}",
         "type": "color",
-        "description": "The slate second level on main(white) background"
+        "description": "+ ingame"
       },
       "slate-2": {
         "value": "{core.grey.800}",

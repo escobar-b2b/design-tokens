@@ -3034,6 +3034,12 @@
             "value": "{core.additionals.3}",
             "type": "color"
           }
+        },
+        "fill": {
+          "default-v2": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
         }
       }
     }

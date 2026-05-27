@@ -6038,6 +6038,10 @@
           "hover": {
             "value": "{core.white.a0}",
             "type": "color"
+          },
+          "default-v2": {
+            "value": "{core.white.a0}",
+            "type": "color"
           }
         },
         "icon": {

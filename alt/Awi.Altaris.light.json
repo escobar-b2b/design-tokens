@@ -5847,6 +5847,10 @@
           "hover": {
             "value": "linear-gradient(90deg, {core.brand-10.50a20} 0%, {core.brand-10.50a50} 100%)",
             "type": "color"
+          },
+          "default-v2": {
+            "value": "{core.white.a0}",
+            "type": "color"
           }
         },
         "icon": {

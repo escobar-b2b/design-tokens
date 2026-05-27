@@ -3230,5 +3230,17 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
+  },
+  "contextual": {
+    "menu": {
+      "item": {
+        "fill": {
+          "default-v2": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        }
+      }
+    }
   }
 }

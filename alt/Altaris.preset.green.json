@@ -1533,6 +1533,16 @@
         "value": "{core.grey.900}",
         "type": "color"
       }
+    },
+    "menu": {
+      "item": {
+        "fill": {
+          "default-v2": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "base": {

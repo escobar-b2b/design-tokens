@@ -2032,6 +2032,11 @@
       }
     },
     "additionals": {
+      "3": {
+        "value": "#05C0A5",
+        "type": "color",
+        "description": "pending"
+      },
       "silver": {
         "value": "#A4AEC8",
         "type": "color",

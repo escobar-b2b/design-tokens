@@ -3037,7 +3037,7 @@
         },
         "fill": {
           "default-v2": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           }
         }

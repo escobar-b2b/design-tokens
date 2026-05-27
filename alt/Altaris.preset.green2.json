@@ -2051,6 +2051,16 @@
         "value": "#E5BF00",
         "type": "color",
         "description": "pending"
+      },
+      "button-gradient": {
+        "value": "#A1003D",
+        "type": "color",
+        "description": "pending"
+      },
+      "gradient": {
+        "value": "#8d0036",
+        "type": "color",
+        "description": "pending"
       }
     },
     "brand-preset": {

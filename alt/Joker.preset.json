@@ -2687,6 +2687,56 @@
         "type": "color",
         "description": "text input 2"
       }
+    },
+    "link": {
+      "default": {
+        "default": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      },
+      "modal": {
+        "default": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.secondary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.grey.500}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "default": {
+          "value": "{semantic.text.default.secondary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "blur": {
@@ -3040,6 +3090,12 @@
             "value": "{core.brand-60.700}",
             "type": "color"
           }
+        }
+      },
+      "text": {
+        "secondary": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
         }
       }
     }

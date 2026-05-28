@@ -920,29 +920,21 @@
         "nornal": {
           "fiill": {
             "default": {
-              "value": "{core.brand-60.700}",
-              "type": "color"
-            },
-            "received": {
-              "value": "{core.brand-60.700}",
-              "type": "color"
-            },
-            "progress": {
-              "value": "{core.brand-60.700}",
+              "value": "radial-gradient(70% 48% at 48% 25%, {core.grey.500} 0%, {core.grey.700} 100%)",
               "type": "color"
             }
           },
           "border": {
             "default": {
-              "value": "{core.brand-60.a20}",
+              "value": "{core.brand-60.a30}",
               "type": "color"
             },
             "progress": {
-              "value": "{core.validation.info.a20}",
+              "value": "{core.white.a20}",
               "type": "color"
             },
             "received": {
-              "value": "{core.validation.success.a20}",
+              "value": "{core.validation.success.a30}",
               "type": "color"
             }
           }

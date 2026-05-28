@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "akiva",
-    "akiva.preset"
+    "global"
   ]
 }

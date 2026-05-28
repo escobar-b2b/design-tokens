@@ -899,17 +899,13 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "inactive": {
-            "value": "{core.brand-60.a10}",
+            "value": "radial-gradient(70% 48% at 48% 25%, {core.grey.500} 0%, {core.grey.700} 100%)",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.white.a15}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         },

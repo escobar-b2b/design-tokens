@@ -3,8 +3,8 @@
     "id": "686bc583f8d0dec7646d143b6266a0ad535257e5",
     "name": "Altaris",
     "selectedTokenSets": {
-      "Joker": "enabled",
-      "preset": "enabled"
+      "preset": "enabled",
+      "Akiva": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:28d964193614e50f03749fd57ca2a2b538730aa8,",
@@ -1644,8 +1644,8 @@
     "name": "Joker",
     "group": "Joker",
     "selectedTokenSets": {
-      "Joker": "enabled",
-      "preset": "enabled"
+      "preset": "enabled",
+      "Akiva": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:28d964193614e50f03749fd57ca2a2b538730aa8,",

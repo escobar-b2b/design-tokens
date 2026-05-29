@@ -6039,6 +6039,24 @@
             "value": "{core.white.a0}",
             "type": "color"
           }
+        },
+        "icon": {
+          "default": {
+            "value": "#05C0A5",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-30.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
         }
       },
       "balance-number": {

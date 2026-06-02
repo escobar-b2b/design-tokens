@@ -6711,7 +6711,7 @@
         "item": {
           "fill": {
             "default": {
-              "value": "linear-gradient(180deg, var(--core-brand-60-700, #1F3136) 0%, var(--core-brand-60-800, #111B1E) 100%)",
+              "value": "{contextual.lottery-tournament.tabs.fill}",
               "type": "color"
             },
             "active": {
@@ -6735,7 +6735,7 @@
           }
         },
         "fill": {
-          "value": "{core.brand-60.800}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         }
       },

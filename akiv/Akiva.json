@@ -6735,7 +6735,7 @@
           }
         },
         "fill": {
-          "value": "{core.brand-60.600}",
+          "value": "{core.brand-60.800}",
           "type": "color"
         }
       },
@@ -8289,7 +8289,7 @@
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "linear-gradient(180deg, var(--core-brand-60-700, #1F3136) 0%, var(--core-brand-60-800, #111B1E) 100%)",
+        "value": "linear-gradient(180deg, #1F3136 0%, #111B1E 100%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },

@@ -3696,6 +3696,11 @@
           "value": "{core.brand-60.a5}",
           "type": "color",
           "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.brand-60.a15}",
+          "type": "color",
+          "description": "status-inactive"
         }
       },
       "top-inner-page": {

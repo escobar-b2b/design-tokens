@@ -1032,18 +1032,9 @@
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "{core.brand-preset.tertiary}",
+        "value": "#060A0B",
         "type": "color",
-        "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.9",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
       "a10": {
         "value": "rgba(91,186,181,0.1)",
@@ -2194,7 +2185,7 @@
         "description": "+gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a30} 0%, {core.brand-60.a0} 100%)",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "gradients.Radial"
       }

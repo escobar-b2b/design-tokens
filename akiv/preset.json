@@ -110,11 +110,11 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.200}",
           "type": "borderRadius"
         },
         "large": {
-          "value": "24px",
+          "value": "{blur.200}",
           "type": "borderRadius"
         }
       }

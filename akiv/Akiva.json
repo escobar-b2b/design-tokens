@@ -6004,7 +6004,7 @@
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, {core.brand-30.800a50} 13%, {core.brand-30.a50} 49%, {core.brand-30.800a50} 90%)",
+            "value": "linear-gradient(90deg, {core.white.a10} 13%, {core.white.a20} 49%, {core.white.a10} 90%)",
             "type": "color"
           },
           "elipse": {

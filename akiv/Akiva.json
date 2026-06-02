@@ -2493,7 +2493,7 @@
       "primary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "linear-gradient(180deg, #E51126 0%, #A1003D 100%)",
             "type": "color"
           },
           "hover": {
@@ -8712,7 +8712,7 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{core.brand-10.700}",
+            "value": "linear-gradient(0deg, #85111E 0%, #FF5344 100%)",
             "type": "color"
           },
           "hover": {

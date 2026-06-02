@@ -1020,42 +1020,15 @@
       },
       "600": {
         "value": "#145C57",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.15",
-              "space": "lch"
-            }
-          }
-        }
+        "type": "color"
       },
       "700": {
         "value": "#1F3136",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.5",
-              "space": "lch"
-            }
-          }
-        }
+        "type": "color"
       },
       "800": {
         "value": "#111B1E",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.7",
-              "space": "lch"
-            }
-          }
-        },
         "description": "basic.sand 900"
       },
       "900": {
@@ -2248,7 +2221,7 @@
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.brand-60.600}",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "menu"
       },

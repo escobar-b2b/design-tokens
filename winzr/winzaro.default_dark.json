@@ -3885,7 +3885,7 @@
       "drag&drop": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.a5}",
+            "value": "{core.white.a5}",
             "type": "color"
           },
           "border": {

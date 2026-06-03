@@ -1611,17 +1611,7 @@
           "fill": {
             "value": "{semantic.gradients.3}",
             "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-10.a10}",
-            "type": "color"
           }
-        }
-      },
-      "banner": {
-        "fill": {
-          "value": "{semantic.gradients.7}",
-          "type": "color"
         }
       }
     },
@@ -2317,12 +2307,6 @@
             "type": "color"
           }
         },
-        "helper-text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          }
-        },
         "validation-text": {
           "value": "{semantic.status.error.text.primary}",
           "type": "color"
@@ -2432,15 +2416,6 @@
             "value": "{core.white.a100}",
             "type": "color"
           }
-        },
-        "bonus-talisman": {
-          "text": {
-            "accent": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color",
-              "description": "Bonus/Talisman"
-            }
-          }
         }
       },
       "left-panel": {
@@ -2473,10 +2448,6 @@
       "desktop": {
         "special-menu-item": {
           "current": {
-            "fill": {
-              "value": "{core.grey.a25}",
-              "type": "color"
-            },
             "icon": {
               "value": "{core.white.a100}",
               "type": "color"
@@ -3274,14 +3245,6 @@
               "value": "{core.brand-10.700}",
               "type": "color"
             }
-          }
-        }
-      },
-      "banner": {
-        "background": {
-          "2": {
-            "value": "radial-gradient(89% 46% at 20% 45%, {core.brand-preset.for-gradients.3} 0%, {core.brand-10.500} 100%)",
-            "type": "color"
           }
         }
       }

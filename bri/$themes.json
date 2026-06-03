@@ -6753,8 +6753,7 @@
     "id": "a48ee75a359859a41bba75a8a0774c47ffd675b8",
     "name": "Brionis.dark",
     "selectedTokenSets": {
-      "Brionis.preset.default_dark": "enabled",
-      "Awi.Brionis.dark": "enabled"
+      "Brionis.preset.default_dark": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:9254e11ff7a85c95fb7ae4f01bffea11ac76464e,",
@@ -8483,8 +8482,7 @@
     "name": "darck",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brionis.preset.default_dark": "enabled",
-      "Awi.Brionis.dark": "enabled"
+      "Brionis.preset.default_dark": "enabled"
     },
     "$figmaVariableReferences": {}
   }

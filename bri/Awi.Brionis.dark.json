@@ -3988,6 +3988,11 @@
             "value": "{core.grey.500}",
             "type": "color",
             "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{contextual.segment-control.item.fill.active}",
+            "type": "color",
+            "description": "Segment Control"
           }
         },
         "text": {
@@ -4010,6 +4015,11 @@
         "icon": {
           "default": {
             "value": "{semantic.icon.default.tertiary}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
             "type": "color",
             "description": "Segment Control"
           }

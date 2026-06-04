@@ -3460,6 +3460,18 @@
             "value": "{semantic.icon.default.tertiary}",
             "type": "color",
             "description": "Segment Control"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color",
+            "description": "Segment Control"
+          }
+        },
+        "fill": {
+          "hover": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
           }
         }
       },

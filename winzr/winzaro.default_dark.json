@@ -3880,27 +3880,6 @@
           }
         }
       }
-    },
-    "upload-files": {
-      "drag&drop": {
-        "background": {
-          "fill": {
-            "value": "{core.white.a5}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{contextual.lottery-tournament.ticket.background.border}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.tertiary}",
-            "type": "color",
-            "description": "Use for text in drag&drop like: File format, etc."
-          }
-        }
-      }
     }
   },
   "profile": {

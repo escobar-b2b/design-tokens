@@ -3024,7 +3024,7 @@
       "4": {
         "value": "{core.grey.700}",
         "type": "color",
-        "description": "+ bg block"
+        "description": "+ bg block, verification block"
       },
       "5": {
         "value": "{core.grey.a30}",

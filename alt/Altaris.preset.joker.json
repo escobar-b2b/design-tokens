@@ -326,7 +326,7 @@
     "homepage": {
       "nav-menu": {
         "general": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.200}",
           "type": "borderRadius"
         },
         "button": {
@@ -5611,13 +5611,13 @@
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
           "icon": {
             "default": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "hover-active": {

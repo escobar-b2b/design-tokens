@@ -5929,7 +5929,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         },
         "tertiary": {

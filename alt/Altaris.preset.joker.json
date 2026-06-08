@@ -7149,7 +7149,7 @@
     "type": "fontSizes"
   },
   "scale-4": {
-    "value": "{base}",
+    "value": "{base} * 1",
     "type": "fontSizes"
   },
   "scale-5": {

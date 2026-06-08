@@ -419,8 +419,8 @@
       "tertiary": {
         "default": {
           "value": {
-            "color": "{contextual.button.tertiary.border-color.default}",
-            "width": "{border-width.025}",
+            "color": "{core.white.a0}",
+            "width": "{blur.0}",
             "style": "solid"
           },
           "type": "border"
@@ -443,7 +443,7 @@
         },
         "active": {
           "value": {
-            "color": "{contextual.button.tertiary.border-color.active}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },
@@ -7802,7 +7802,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a20}",
             "type": "color"
           },
           "hover": {

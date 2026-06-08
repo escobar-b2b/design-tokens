@@ -5982,7 +5982,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
@@ -6066,7 +6066,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{contextual.menu.item.fill.active}",
             "type": "color"
           }
         },

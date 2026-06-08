@@ -2968,7 +2968,7 @@
       "4": {
         "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.brand-60.600} 100%)",
         "type": "color",
-        "description": "+ thumb view more, refferal card"
+        "description": "+ thumb view more, refferal card, payment bonus"
       },
       "5": {
         "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",
@@ -3035,14 +3035,14 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.800}",
+        "value": "{core.grey.700}",
         "type": "color",
         "description": "+ ingame"
       },
       "slate-2": {
         "value": "{core.grey.800}",
         "type": "color",
-        "description": "+ cards, profile side menu"
+        "description": "+ cards, profile side menu, payment popup, ingame"
       },
       "slate-on-card": {
         "value": "{core.brand-30.500a60}",

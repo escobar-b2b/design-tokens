@@ -4656,7 +4656,8 @@
     "name": "Joker",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled"
+      "Awi.Altaris": "enabled",
+      "Altaris.preset.joker": "enabled"
     },
     "group": "Joker"
   }

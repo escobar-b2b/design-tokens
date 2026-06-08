@@ -6070,7 +6070,11 @@
       "semantic.background.brand.primary.default": "S:03e2ddf7566aaff197eee49f80ce33b4d346bee8,",
       "semantic.background.brand.primary.active": "S:5da799176f606e80adc3206fe25c2de9b522961b,",
       "semantic.border.active.element": "S:8c7cc832bf67479cc24358ce8d2be7458de59e77,",
-      "text.lg-strong": "S:82441d202c81a766c8170dd27316c9eed5e1c135,"
+      "text.lg-strong": "S:82441d202c81a766c8170dd27316c9eed5e1c135,",
+      "contextual.header.desktop.special-menu-item.text.editional": "S:3a977d188685e6eee6b2c98ca709adbdafdaa60e,",
+      "contextual.menu.item.notification.fill": "S:55607a18fa99787c088ea998e0cbfc64bf2c73ed,",
+      "shadow.header.main": "S:ebf8c323dae79dc1513a9e9fced8bc48f4854b81,",
+      "shadow.balance": "S:a5db9e2aa884ca8f17cd088d033e3aa026afed63,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

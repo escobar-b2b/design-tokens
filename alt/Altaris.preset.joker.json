@@ -401,8 +401,8 @@
         },
         "hover": {
           "value": {
-            "color": "{contextual.button.primary.border-color.hover}",
-            "width": "{border-width.025}",
+            "color": "{semantic.border.brand.primary.hover}",
+            "width": "{depth.025}",
             "style": "solid"
           },
           "type": "border"
@@ -461,7 +461,7 @@
         },
         "disabled": {
           "value": {
-            "color": "{contextual.button.secondary.border-color.disabled}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },
@@ -469,7 +469,7 @@
         },
         "hover": {
           "value": {
-            "color": "{contextual.button.secondary.border-color.hover}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },
@@ -477,7 +477,7 @@
         },
         "active": {
           "value": {
-            "color": "{contextual.button.outlined-accent.border-color.active}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },
@@ -2493,11 +2493,11 @@
       "primary": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, #E51126 0%, #A1003D 100%)",
+            "value": "linear-gradient(180deg, #F60C3F 0%, #C20034 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.primary.hover}",
+            "value": "linear-gradient(180deg, #F60C23 0%, #C2003E 100%)",
             "type": "color"
           },
           "active": {
@@ -2605,7 +2605,7 @@
       "secondary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
@@ -2627,11 +2627,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "disabled": {
@@ -7324,18 +7324,20 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{lg}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{lg}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -7344,7 +7346,8 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}"
+        "lineHeight": "{ml}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
@@ -7745,7 +7748,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.gradients.5}",
+            "value": "linear-gradient(180deg, #EF0A3C 0%, #71000F 100%)",
             "type": "color"
           },
           "disabled": {
@@ -7970,7 +7973,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "secondary": {
@@ -8087,11 +8090,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.700}",
+            "value": "linear-gradient(180deg, #FF7B6F 0%, #891D29 100%)",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.700}",
+            "value": "linear-gradient(180deg, #E51126 0%, #A1003D 100%)",
             "type": "color"
           },
           "disabled": {

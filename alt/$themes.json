@@ -6069,7 +6069,8 @@
       "semantic.gradients.12": "S:5483175ccb7dfe5d7db78f4de8d156696086390b,",
       "semantic.background.brand.primary.default": "S:03e2ddf7566aaff197eee49f80ce33b4d346bee8,",
       "semantic.background.brand.primary.active": "S:5da799176f606e80adc3206fe25c2de9b522961b,",
-      "semantic.border.active.element": "S:8c7cc832bf67479cc24358ce8d2be7458de59e77,"
+      "semantic.border.active.element": "S:8c7cc832bf67479cc24358ce8d2be7458de59e77,",
+      "text.lg-strong": "S:82441d202c81a766c8170dd27316c9eed5e1c135,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

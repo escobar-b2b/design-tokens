@@ -5986,7 +5986,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{contextual.homepage.nav-menu.item.text.default}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover-active": {
@@ -7722,7 +7722,7 @@
         "description": "+gradients.Black 600"
       },
       "12": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(227, 227, 237, 0.15) 0%, rgba(227, 227, 237, 0.00) 100%)",
+        "value": "{core.white.a0}",
         "type": "color",
         "description": "gradients.Radial"
       }

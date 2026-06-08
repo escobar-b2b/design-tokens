@@ -4539,7 +4539,7 @@
       "text": {
         "label": {
           "default": {
-            "value": "{semantic.icon.default.secondary}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "disabled": {

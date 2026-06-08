@@ -427,7 +427,7 @@
         },
         "disabled": {
           "value": {
-            "color": "{contextual.button.tertiary.border-color.disabled}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },
@@ -435,7 +435,7 @@
         },
         "hover": {
           "value": {
-            "color": "{contextual.button.tertiary.border-color.hover}",
+            "color": "{core.white.a0}",
             "width": "{border-width.025}",
             "style": "solid"
           },

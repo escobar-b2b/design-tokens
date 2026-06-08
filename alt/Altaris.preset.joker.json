@@ -4889,15 +4889,19 @@
             "hover": {
               "value": "{core.brand-10.500}",
               "type": "color"
+            },
+            "editional": {
+              "value": "{core.brand-60.200}",
+              "type": "color"
             }
           },
           "fill-v2": {
             "close": {
-              "value": "{core.brand-60.a20}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "open": {
-              "value": "{core.grey.a90}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             }
           },

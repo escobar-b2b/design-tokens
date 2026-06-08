@@ -4885,6 +4885,10 @@
             "hover": {
               "value": "{core.brand-10.500}",
               "type": "color"
+            },
+            "editional": {
+              "value": "{core.brand-60.200}",
+              "type": "color"
             }
           },
           "fill-v2": {

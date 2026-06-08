@@ -307,11 +307,11 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{blur.200}",
           "type": "borderRadius"
         },
         "large": {
-          "value": "24px",
+          "value": "{border-radius.core.200}",
           "type": "borderRadius"
         }
       }

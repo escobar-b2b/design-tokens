@@ -292,7 +292,7 @@
             "description": "contextual.header.desktop.special-menu-item"
           },
           "opened": {
-            "value": "20px",
+            "value": "12px",
             "type": "borderRadius"
           }
         }
@@ -1010,6 +1010,17 @@
         },
         "type": "boxShadow"
       },
+      "main": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{blur.100}",
+          "blur": "10px",
+          "spread": "{depth.0}",
+          "color": "rgba(6,9,10,0.3)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
       "welcome-bonus": {
         "timer": {
           "value": {
@@ -1176,6 +1187,17 @@
           "type": "boxShadow"
         }
       }
+    },
+    "balance": {
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{blur.100}",
+        "spread": "{depth.0}",
+        "color": "rgba(6,16,10,0.30)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     },
     "icon-graphic-bonus": {
       "value": {
@@ -5950,7 +5972,7 @@
         }
       },
       "devider": {
-        "value": "{core.brand-60.800a25}",
+        "value": "{core.white.a10}",
         "type": "color"
       },
       "item": {
@@ -5974,7 +5996,7 @@
         },
         "new": {
           "fill": {
-            "value": "{semantic.gradients.4}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "text": {
@@ -5984,10 +6006,14 @@
         },
         "notification": {
           "text": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "border": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "fill": {
             "value": "{core.brand-30.500}",
             "type": "color"
           }
@@ -7916,7 +7942,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         },
         "disabled": {
@@ -7980,13 +8006,13 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         }
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "secondary": {

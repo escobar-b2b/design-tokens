@@ -5986,7 +5986,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover-active": {
@@ -6166,7 +6166,7 @@
           "type": "color"
         },
         "progress": {
-          "value": "linear-gradient(90deg, {core.brand-30.500} , {core.brand-30.700} )",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "progress-start": {

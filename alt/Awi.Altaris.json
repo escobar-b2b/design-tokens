@@ -5970,6 +5970,10 @@
           "hover-active": {
             "value": "{core.brand-10.500}",
             "type": "color"
+          },
+          "active2": {
+            "value": "{core.white.a100}",
+            "type": "color"
           }
         },
         "new": {

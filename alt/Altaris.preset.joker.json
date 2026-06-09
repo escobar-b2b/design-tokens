@@ -4939,11 +4939,11 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.900}",
               "type": "color"
             },
             "fill": {
-              "value": "linear-gradient(0deg, {core.brand-10.500} 0%,  {core.brand-10.700} 100%)",
+              "value": "{core.brand-30.500}",
               "type": "color"
             }
           }
@@ -4971,7 +4971,11 @@
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, {core.grey.a70} 0%, {core.grey.a70} 25%, {core.grey.a60} 46%, {core.grey.a30} 76%, {core.grey.a10} 89%, {core.grey.a0} 100%)",
+          "value": "linear-gradient(180deg, rgba(17, 17, 19, 0.70) 0%, rgba(17, 17, 19, 0.00) 100%)",
+          "type": "color"
+        },
+        "fill-filled": {
+          "value": "{core.brand-60.900}",
           "type": "color"
         },
         "top-up": {
@@ -5962,11 +5966,11 @@
       "extender": {
         "elipce": {
           "default": {
-            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
+            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
+            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
             "type": "color"
           }
         }

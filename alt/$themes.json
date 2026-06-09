@@ -6074,7 +6074,8 @@
       "contextual.header.desktop.special-menu-item.text.editional": "S:3a977d188685e6eee6b2c98ca709adbdafdaa60e,",
       "contextual.menu.item.notification.fill": "S:55607a18fa99787c088ea998e0cbfc64bf2c73ed,",
       "shadow.header.main": "S:ebf8c323dae79dc1513a9e9fced8bc48f4854b81,",
-      "shadow.balance": "S:a5db9e2aa884ca8f17cd088d033e3aa026afed63,"
+      "shadow.balance": "S:a5db9e2aa884ca8f17cd088d033e3aa026afed63,",
+      "contextual.menu.item.text.active2": "S:d084d78f899a55c8c149428bd0b5667564fbd135,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

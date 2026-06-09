@@ -813,7 +813,7 @@
     },
     "devider2": {
       "value": {
-        "color": "{contextual.divider2}",
+        "color": "{core.white.a10}",
         "width": "{depth.025}",
         "style": "solid"
       },
@@ -6584,7 +6584,7 @@
       },
       "text": {
         "secondary": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.white.a80}",
           "type": "color"
         },
         "primary": {

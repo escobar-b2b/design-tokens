@@ -5962,11 +5962,11 @@
       "extender": {
         "elipce": {
           "default": {
-            "value": "{core.brand-30.a20}",
+            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.800a50}",
+            "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
             "type": "color"
           }
         }

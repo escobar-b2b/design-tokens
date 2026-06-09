@@ -1242,7 +1242,14 @@
         "type": "boxShadow"
       },
       "active": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "0px",
+          "blur": "0px",
+          "spread": "3px",
+          "color": "rgba(6,191,163,0.2)",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "validation": {

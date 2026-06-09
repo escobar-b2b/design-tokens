@@ -2817,7 +2817,7 @@
       },
       "text": {
         "default": {
-          "value": "{core.white.a80}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         },
         "active": {

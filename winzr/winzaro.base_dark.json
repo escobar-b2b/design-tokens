@@ -59,6 +59,10 @@
         "value": "16",
         "type": "borderRadius"
       },
+      "600": {
+        "value": "24",
+        "type": "borderRadius"
+      },
       "full": {
         "value": "9999",
         "type": "borderRadius"

@@ -4716,7 +4716,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{core.brand-30.500}",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       }

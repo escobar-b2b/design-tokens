@@ -3004,9 +3004,9 @@
         "description": "+ badge 5"
       },
       "11": {
-        "value": "linear-gradient( {core.grey.700} , {core.brand-preset.for-gradients.4} )",
+        "value": "linear-gradient(180deg, {core.grey.700} 0%, {core.brand-preset.for-gradients.4} 100%)",
         "type": "color",
-        "description": "+ for card bd"
+        "description": "+ for card bd\n"
       }
     },
     "background": {

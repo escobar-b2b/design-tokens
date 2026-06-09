@@ -1623,7 +1623,7 @@
             "y": "2px",
             "blur": "4px",
             "spread": "0px",
-            "color": "{core.brand-60.a60}",
+            "color": "{core.white.a0}",
             "type": "dropShadow"
           },
           "type": "boxShadow"

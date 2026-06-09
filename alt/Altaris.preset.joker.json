@@ -5920,7 +5920,7 @@
       "banner": {
         "text-accent": {
           "fill": {
-            "value": "{core.grey.a30}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "border": {
@@ -6113,7 +6113,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "text": {

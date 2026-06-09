@@ -6075,7 +6075,8 @@
       "contextual.menu.item.notification.fill": "S:55607a18fa99787c088ea998e0cbfc64bf2c73ed,",
       "shadow.header.main": "S:ebf8c323dae79dc1513a9e9fced8bc48f4854b81,",
       "shadow.balance": "S:a5db9e2aa884ca8f17cd088d033e3aa026afed63,",
-      "contextual.menu.item.text.active2": "S:d084d78f899a55c8c149428bd0b5667564fbd135,"
+      "contextual.menu.item.text.active2": "S:d084d78f899a55c8c149428bd0b5667564fbd135,",
+      "contextual.header.mobile.fill-filled": "S:9633a2cfd8ab59c0f6096df7f6bdca7b8fbc8eaf,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

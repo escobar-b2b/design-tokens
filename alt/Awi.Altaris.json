@@ -6924,6 +6924,16 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "icon": {
+        "default": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
       }
     },
     "sticky-notifications": {

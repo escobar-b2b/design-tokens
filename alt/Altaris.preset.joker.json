@@ -2800,6 +2800,42 @@
         }
       }
     },
+    "tab-bar": {
+      "icon": {
+        "default": {
+          "value": "{core.brand-60.100}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "fill": {
+        "value": "linear-gradient(180deg, var(--core-brand-60-700, #1F3136) 0%, var(--core-brand-60-900, #060A0B) 100%)",
+        "type": "color"
+      },
+      "text": {
+        "default": {
+          "value": "{core.white.a80}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "badge": {
+        "fill": {
+          "value": "{core.validation.danger.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
     "smart-banner": {
       "fill": {
         "value": "{semantic.background.5}",
@@ -6929,32 +6965,6 @@
         },
         "accent": {
           "value": "{core.brand-30.500}",
-          "type": "color"
-        }
-      }
-    },
-    "tab-bar": {
-      "fill": {
-        "value": "linear-gradient(180deg, {core.brand-60.700a40} 0%, {core.brand-60.900a40} 100%)",
-        "type": "color"
-      },
-      "text": {
-        "default": {
-          "value": "{core.white.a80}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "badge": {
-        "fill": {
-          "value": "{core.validation.danger.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
           "type": "color"
         }
       }

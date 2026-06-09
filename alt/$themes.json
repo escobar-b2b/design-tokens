@@ -6325,7 +6325,8 @@
       "deals.promo-code-button.padding-left": "51eb8c3d0b404647251146b3bd8c651863b64c2e",
       "deals.promo-code-button.padding-right": "9776ee51b233695169cbd4117f28907f0360aba6",
       "wheel.popup.vip-bet-amount.width": "33adb990b861975056138e96da188138a246bd62",
-      "card.balance": "5148e34a35c1cbf321499caa049edc2634158774"
+      "card.balance": "5148e34a35c1cbf321499caa049edc2634158774",
+      "base": "ca1e1c60f62370ee59b1d01de709bbeae9270d09"
     }
   }
 ]

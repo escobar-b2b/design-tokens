@@ -540,7 +540,7 @@
     "input": {
       "default": {
         "value": {
-          "color": "{contextual.input.border-color.default}",
+          "color": "{core.white.a0}",
           "width": "{border-width.025}",
           "style": "solid"
         },
@@ -1220,7 +1220,14 @@
         "type": "boxShadow"
       },
       "active": {
-        "value": "{shadow.drop.small}",
+        "value": {
+          "x": "0px",
+          "y": "0px",
+          "blur": "0px",
+          "spread": "3px",
+          "color": "#05C0A5",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       },
       "validation": {

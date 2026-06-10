@@ -7592,6 +7592,17 @@
         "letterSpacing": "0%"
       },
       "type": "typography"
+    },
+    "4xl-promo": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Extrabold}",
+        "fontSize": "{scale-9}",
+        "lineHeight": "44px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
     }
   },
   "popup": {
@@ -10053,5 +10064,9 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     }
+  },
+  "scale-9": {
+    "value": "{base} * 2.5",
+    "type": "fontSizes"
   }
 }

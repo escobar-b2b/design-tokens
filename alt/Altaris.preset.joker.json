@@ -7251,6 +7251,10 @@
     "value": "{base} * 2",
     "type": "fontSizes"
   },
+  "scale-9": {
+    "value": "{base} * 2.5",
+    "type": "fontSizes"
+  },
   "xs": {
     "value": "14px",
     "type": "lineHeights"
@@ -7600,6 +7604,17 @@
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "36px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "4xl-promo": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Extrabold}",
+        "fontSize": "{scale-9}",
+        "lineHeight": "44px",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },

@@ -7607,12 +7607,12 @@
     },
     "xl-stronger": {
       "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },

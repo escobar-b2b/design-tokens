@@ -6092,7 +6092,8 @@
       "contextual.homepage.nav-menu.mobile.tab.bg.default": "S:7b7a91718a4524fbfb4d380a1692edb71937868b,",
       "heading.xl-promo": "S:5ea128a1033d582cdd71e4f72716a30335694202,",
       "heading.xxl-promo": "S:e46a1fd301910cd71c5469b54f78786d07bbe3dc,",
-      "heading.3xl-promo": "S:a77ee2c177d7345d604e2c8cb873c19892db652b,"
+      "heading.3xl-promo": "S:a77ee2c177d7345d604e2c8cb873c19892db652b,",
+      "heading.4xl-promo": "S:f048a4bfdb6dda00f7d9d9d5f160dd10e03c5769,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",
@@ -6342,6 +6343,7 @@
       "deals.promo-code-button.padding-right": "9776ee51b233695169cbd4117f28907f0360aba6",
       "wheel.popup.vip-bet-amount.width": "33adb990b861975056138e96da188138a246bd62",
       "card.balance": "5148e34a35c1cbf321499caa049edc2634158774",
+      "scale-9": "837375255f8b39da670a9e937e8e5ee29e3f6b1f",
       "base": "ca1e1c60f62370ee59b1d01de709bbeae9270d09"
     }
   }

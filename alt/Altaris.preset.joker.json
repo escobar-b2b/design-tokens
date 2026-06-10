@@ -5,7 +5,7 @@
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Inter",
+    "value": "Futuraa",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
@@ -7520,10 +7520,10 @@
     "ml": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7531,32 +7531,32 @@
     "lg-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "xl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7564,10 +7564,10 @@
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7575,10 +7575,10 @@
     "xl-promo": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7589,7 +7589,7 @@
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xxl}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7600,7 +7600,7 @@
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "36px",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7608,32 +7608,32 @@
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "xxl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Medium}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "letterSpacing": "-0.56px"
       },
       "type": "typography"

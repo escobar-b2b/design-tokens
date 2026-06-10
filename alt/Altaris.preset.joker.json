@@ -7675,7 +7675,7 @@
     },
     "xxl-stronger": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",

@@ -7470,9 +7470,10 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{lg}",
-        "textCase": "{text-case.uppercase}"
+        "fontSize": "{scale-4}",
+        "lineHeight": "16px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0.64px"
       },
       "type": "typography"
     },
@@ -7480,9 +7481,10 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{lg}",
-        "textCase": "{text-case.uppercase}"
+        "fontSize": "15px",
+        "lineHeight": "15px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0.6px"
       },
       "type": "typography"
     },
@@ -7490,9 +7492,10 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
-        "textCase": "{text-case.uppercase}"
+        "fontSize": "13px",
+        "lineHeight": "13px",
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0,52px"
       },
       "type": "typography"
     },

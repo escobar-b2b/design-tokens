@@ -2840,7 +2840,7 @@
         }
       },
       "fill": {
-        "value": "linear-gradient(180deg, var(--core-brand-60-700, #1F3136) 0%, var(--core-brand-60-900, #060A0B) 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.900} 100%)",
         "type": "color"
       },
       "text": {

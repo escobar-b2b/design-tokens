@@ -192,7 +192,7 @@
     },
     "card": {
       "general": {
-        "value": "{border-radius.core.300}",
+        "value": "{blur.200}",
         "type": "borderRadius"
       }
     },

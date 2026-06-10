@@ -44,11 +44,11 @@
         "type": "sizing"
       },
       "md": {
-        "value": "{size.600}",
+        "value": "40px",
         "type": "sizing"
       },
       "lg": {
-        "value": "{size.800}",
+        "value": "48px",
         "type": "sizing"
       }
     },
@@ -68,15 +68,15 @@
     },
     "padding-horizontal": {
       "sm": {
-        "value": "{spacing.300}",
+        "value": "{blur.200}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.400}",
+        "value": "10px",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacing.600}",
+        "value": "{blur.400}",
         "type": "spacing"
       }
     },
@@ -6629,7 +6629,7 @@
       }
     },
     "overlay": {
-      "value": "{core.grey.a60}",
+      "value": "{core.brand-60.900a40}",
       "type": "color"
     },
     "divider": {

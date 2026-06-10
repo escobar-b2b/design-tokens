@@ -7572,6 +7572,39 @@
       },
       "type": "typography"
     },
+    "xl-promo": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Medium}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{xl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "xxl-promo": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Extrabold}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "{xxl}",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "3xl-promo": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Extrabold}",
+        "fontSize": "{scale-8}",
+        "lineHeight": "36px",
+        "textCase": "{text-case.none}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",

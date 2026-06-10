@@ -6799,7 +6799,7 @@
             "description": "Tiket"
           },
           "secondary": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{core.brand-60.200}",
             "type": "color",
             "description": "Tiket"
           }

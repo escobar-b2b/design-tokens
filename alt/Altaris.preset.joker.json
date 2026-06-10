@@ -6778,7 +6778,7 @@
         },
         "background": {
           "fill": {
-            "value": "{core.grey.400}",
+            "value": "{core.brand-60.500}",
             "type": "color",
             "description": "Tiket"
           },

@@ -7676,7 +7676,7 @@
     "xxl-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Extrabold}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",

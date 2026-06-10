@@ -7679,7 +7679,7 @@
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
-        "textCase": "{text-case.uppercase}",
+        "textCase": "{text-case.none}",
         "letterSpacing": "-0.56px"
       },
       "type": "typography"

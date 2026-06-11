@@ -9182,7 +9182,7 @@
       "title": {
         "value": {
           "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
+          "fontWeight": "{Extrabold}",
           "fontSize": "26px",
           "lineHeight": "36px",
           "textCase": "{text-case.uppercase}"
@@ -9192,7 +9192,7 @@
       "title2": {
         "value": {
           "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
+          "fontWeight": "{Medium}",
           "fontSize": "18px",
           "lineHeight": "24px",
           "textCase": "{text-case.none}"
@@ -9203,7 +9203,7 @@
         "title": {
           "value": {
             "fontFamily": "{accent}",
-            "fontWeight": "{text.stronger}",
+            "fontWeight": "{Extrabold}",
             "fontSize": "16px",
             "lineHeight": "24px",
             "textCase": "{text-case.uppercase}"
@@ -9213,7 +9213,7 @@
         "title2": {
           "value": {
             "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
+            "fontWeight": "{Medium}",
             "fontSize": "12px",
             "lineHeight": "16px",
             "textCase": "{text-case.none}"

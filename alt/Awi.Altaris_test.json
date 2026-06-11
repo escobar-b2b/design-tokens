@@ -572,7 +572,7 @@
       },
       "disabled": {
         "value": {
-          "color": "{contextual.input.border-color.disabled}",
+          "color": "{core.white.a0}",
           "width": "{border-width.025}",
           "style": "solid"
         },

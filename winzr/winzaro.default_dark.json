@@ -1196,11 +1196,11 @@
         "item": {
           "fill": {
             "default": {
-              "value": "{semantic.gradients.6}",
+              "value": "radial-gradient(140% 134% at 93% 4%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
               "type": "color"
             },
             "hover": {
-              "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
+              "value": "radial-gradient(140% 134% at 93% 4%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
               "type": "color"
             }
           }

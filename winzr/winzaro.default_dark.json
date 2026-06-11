@@ -952,7 +952,7 @@
         "switcher-button": {
           "active": {
             "fill": {
-              "value": "{semantic.gradients.7}",
+              "value": "{contextual.button.primary.fill.default}",
               "type": "color"
             },
             "text": {

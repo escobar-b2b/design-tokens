@@ -1720,7 +1720,7 @@
             "y": "{depth.200}",
             "blur": "{blur.200}",
             "spread": "{depth.0}",
-            "color": "{core.grey.a8}",
+            "color": "{core.white.a0}",
             "type": "dropShadow"
           },
           {
@@ -1728,7 +1728,7 @@
             "y": "{depth.025}",
             "blur": "{blur.0}",
             "spread": "{depth.0}",
-            "color": "{core.white.a30}",
+            "color": "{core.white.a0}",
             "type": "innerShadow"
           }
         ],
@@ -5750,7 +5750,7 @@
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-60.a15}",
+              "value": "{core.white.a20}",
               "type": "color"
             }
           },

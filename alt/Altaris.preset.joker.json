@@ -5010,7 +5010,7 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{core.brand-60.900}",
+              "value": "{core.white.a100}",
               "type": "color"
             },
             "fill": {
@@ -7031,7 +7031,7 @@
         },
         "smaller": {
           "fill": {
-            "value": "{core.brand-30.a8}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "border": {
@@ -7039,7 +7039,7 @@
             "type": "color"
           },
           "text": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           }
         }

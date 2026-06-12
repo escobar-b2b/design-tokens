@@ -6208,10 +6208,6 @@
           }
         },
         "icon": {
-          "default": {
-            "value": "#05C0A5",
-            "type": "color"
-          },
           "hover": {
             "value": "{core.brand-30.200}",
             "type": "color"

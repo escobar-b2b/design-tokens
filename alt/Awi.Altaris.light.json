@@ -5920,10 +5920,6 @@
           }
         },
         "icon": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
           "hover": {
             "value": "{core.brand-30.200}",
             "type": "color"

@@ -3079,12 +3079,6 @@
     },
     "menu": {
       "item": {
-        "icon": {
-          "default": {
-            "value": "{core.additionals.3}",
-            "type": "color"
-          }
-        },
         "fill": {
           "default-v2": {
             "value": "{core.brand-60.700}",

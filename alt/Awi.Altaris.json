@@ -6122,6 +6122,10 @@
           "hover-active": {
             "value": "{core.brand-10.500}",
             "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-60.400}",
+            "type": "color"
           }
         }
       },

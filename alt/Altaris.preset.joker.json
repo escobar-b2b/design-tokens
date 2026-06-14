@@ -626,7 +626,7 @@
     "popup": {
       "general": {
         "value": {
-          "color": "{contextual.popup.border}",
+          "color": "{core.white.a0}",
           "width": "{depth.025}",
           "style": "solid"
         },

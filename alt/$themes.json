@@ -6093,7 +6093,9 @@
       "heading.xl-promo": "S:5ea128a1033d582cdd71e4f72716a30335694202,",
       "heading.xxl-promo": "S:e46a1fd301910cd71c5469b54f78786d07bbe3dc,",
       "heading.3xl-promo": "S:a77ee2c177d7345d604e2c8cb873c19892db652b,",
-      "heading.4xl-promo": "S:f048a4bfdb6dda00f7d9d9d5f160dd10e03c5769,"
+      "heading.4xl-promo": "S:f048a4bfdb6dda00f7d9d9d5f160dd10e03c5769,",
+      "heading.sm": "S:4be165245429231859405c01ddada785d84f2cc8,",
+      "heading.md": "S:5cf434f8ffcd5079e09e4c5408a47219d812981f,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

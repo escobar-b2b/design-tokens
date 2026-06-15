@@ -3706,7 +3706,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.8}",
+        "value": "{core.brand-60.700a40}",
         "type": "color"
       },
       "popover-action": {
@@ -3716,7 +3716,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{core.brand-60.700a40}",
         "type": "color"
       },
       "close": {

@@ -7856,9 +7856,9 @@
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(103deg, #87681E 2%, #33333B 96%)",
+        "value": "linear-gradient(103deg, {core.brand-60.500} 2%, {core.brand-60.800} 96%)",
         "type": "color",
-        "description": "gradients.yellow 200"
+        "description": "+ cash banner"
       },
       "3": {
         "value": "{core.brand-60.800}",

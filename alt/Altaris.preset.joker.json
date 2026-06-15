@@ -7666,8 +7666,8 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "28px",
         "letterSpacing": "0%",
         "textCase": "{text-case.uppercase}"
       },
@@ -7677,8 +7677,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Medium}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
+        "fontSize": "{scale-7}",
+        "lineHeight": "28px",
         "textCase": "{text-case.none}",
         "letterSpacing": "-0.56px"
       },

@@ -7565,23 +7565,23 @@
     },
     "lg-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
     "lg-stronger": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -7664,12 +7664,12 @@
     },
     "xxl-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "28px",
         "letterSpacing": "0%",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },

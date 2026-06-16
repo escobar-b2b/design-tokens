@@ -1101,8 +1101,9 @@
       "tertiary": {
         "fill": {
           "default": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
+            "value": "{core.brand-60.a40}",
+            "type": "color",
+            "description": "{semantic.background.brand.tertiary.default}"
           },
           "hover": {
             "value": "{contextual.button.tertiary.fill.default}",
@@ -1979,7 +1980,7 @@
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a50}",
+              "value": "{core.brand-10.100}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }
@@ -1991,7 +1992,7 @@
               "description": "contextual.profile.loyalty_points.fill"
             },
             "border": {
-              "value": "{core.brand-10.a50}",
+              "value": "{core.brand-10.100}",
               "type": "color",
               "description": "contextual.profile.loyalty_points.fill"
             }

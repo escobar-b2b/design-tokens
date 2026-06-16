@@ -6098,7 +6098,9 @@
       "heading.md": "S:5cf434f8ffcd5079e09e4c5408a47219d812981f,",
       "shadow.mobile-application.banner": "S:2272c45e28e3761185802ca99964d4e7d2a751fe,",
       "shadow.mobile-application.card": "S:ed5b6f90b66fcd49f76958fb555558ac8a445744,",
-      "shadow.mobile-application.button": "S:aaebed57cbf1d2fc4bbb8746db5ffa24ce2f700e,"
+      "shadow.mobile-application.button": "S:aaebed57cbf1d2fc4bbb8746db5ffa24ce2f700e,",
+      "core.grey.700a60": "S:251bd2ba753d8d3bb35e951547e6d3e243070103,",
+      "core.grey.700a0": "S:7f77849cae51d46dc817843bc48c19007657820a,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

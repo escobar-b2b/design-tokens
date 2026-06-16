@@ -6958,7 +6958,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(25, 25, 25, 0.00) 0%, rgba(25, 25, 25, 0.60) 21%, rgba(25, 25, 25, 0.90) 100%)",
+          "value": "linear-gradient(180deg, {core.grey.700a0} 0%, {core.grey.700a60} 21%, {core.grey.700} 100%)",
           "type": "color"
         }
       },
@@ -9824,6 +9824,19 @@
           }
         }
       },
+      "700a60": {
+        "value": "{core.grey.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.60",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "800a40": {
         "value": "{core.grey.800}",
         "type": "color",
@@ -9839,6 +9852,19 @@
       },
       "800a0": {
         "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "700a0": {
+        "value": "{core.grey.700}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

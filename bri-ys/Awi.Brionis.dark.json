@@ -1217,7 +1217,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.50a50}",
+            "value": "{semantic.background.brand.ghost-popup.hover}",
             "type": "color"
           },
           "active": {
@@ -1231,19 +1231,19 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.grey.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         },
@@ -3709,7 +3709,7 @@
       },
       "inner-page": {
         "fill": {
-          "value": "{core.white.a100}",
+          "value": "{core.white.a0}",
           "type": "color",
           "description": "status-inactive"
         }

@@ -1432,10 +1432,18 @@
           {
             "x": "{depth.0}",
             "y": "{depth.m100}",
-            "blur": "{blur.100}",
+            "blur": "{blur.400}",
             "spread": "{depth.0}",
-            "color": "{core.white.a0}",
+            "color": "{core.grey.a10}",
             "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "{depth.025}",
+            "blur": "0.2",
+            "spread": "0",
+            "color": "{core.white.a10}",
+            "type": "innerShadow"
           }
         ],
         "type": "boxShadow"

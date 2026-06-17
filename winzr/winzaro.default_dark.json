@@ -4198,7 +4198,7 @@
     "xxl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}",
         "textCase": "{text-case.none}",
@@ -4209,7 +4209,7 @@
     "xxxl": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Extrabold}",
         "fontSize": "{scale-9}",
         "lineHeight": "48",
         "textCase": "{text-case.none}",

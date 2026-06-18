@@ -2583,31 +2583,6 @@
       }
     },
     "timer": {
-      "number-cell": {
-        "fill": {
-          "light": {
-            "value": "{core.grey.600}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "light": {
-            "value": "{core.brand-60.a25}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "light": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "popup": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "AWI light bg MG dark"
-          }
-        }
-      },
       "dots": {
         "value": "{core.white.a70}",
         "type": "color"

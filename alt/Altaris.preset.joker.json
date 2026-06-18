@@ -4123,30 +4123,12 @@
     "cashbox": {
       "bonus": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
-        "elipse": {
-          "value": "{core.brand-60.900}",
+        "border": {
+          "value": "{core.brand-60.400}",
           "type": "color"
-        },
-        "overlay": {
-          "value": "linear-gradient(180deg, {core.brand-60.a0} 0%, {core.brand-60.800} 100%)",
-          "type": "color"
-        },
-        "text": {
-          "primary": {
-            "value": "{semantic.text.brand.primary}",
-            "type": "color"
-          },
-          "accent": {
-            "value": "{semantic.text.brand.primary}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
         }
       },
       "support-block": {

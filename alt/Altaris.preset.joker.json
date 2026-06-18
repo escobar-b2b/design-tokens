@@ -4133,11 +4133,11 @@
       },
       "support-block": {
         "fill": {
-          "value": "{semantic.gradients.8}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.400}",
           "type": "color"
         }
       }
@@ -4155,26 +4155,12 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-60.600}",
-          "type": "color"
-        },
-        "illustration": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.400}",
           "type": "color"
-        },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          },
-          "accent": {
-            "value": "{semantic.text.static.accent}",
-            "type": "color"
-          }
         }
       },
       "mob": {

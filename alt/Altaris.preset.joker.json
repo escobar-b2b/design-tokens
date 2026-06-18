@@ -5702,17 +5702,17 @@
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.white.a100}",
               "type": "color"
             }
           },
           "fill": {
             "default": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             }
           },

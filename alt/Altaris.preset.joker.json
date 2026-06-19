@@ -7635,7 +7635,7 @@
     "sm": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
         "textCase": "{text-case.none}",
@@ -7646,7 +7646,7 @@
     "md": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",
         "letterSpacing": "0%",

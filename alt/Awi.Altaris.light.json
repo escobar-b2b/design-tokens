@@ -6090,7 +6090,7 @@
             "type": "color"
           },
           "today": {
-            "value": "{contextual.datepicker.item.fill.default}",
+            "value": "{contextual.datepicker.select.fill.default}",
             "type": "color"
           },
           "hover": {
@@ -6098,7 +6098,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{contextual.datepicker.item.fill.default}",
+            "value": "{contextual.datepicker.select.fill.default}",
             "type": "color"
           },
           "selected": {

@@ -7244,11 +7244,11 @@
     "type": "fontSizes"
   },
   "xs": {
-    "value": "14px",
+    "value": "16px",
     "type": "lineHeights"
   },
   "sm": {
-    "value": "16px",
+    "value": "18px",
     "type": "lineHeights"
   },
   "md": {

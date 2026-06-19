@@ -7506,7 +7506,7 @@
         "fontWeight": "{Medium}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
-        "textCase": "{text-case.uppercase}",
+        "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
       "type": "typography"
@@ -7535,18 +7535,18 @@
     },
     "xl": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
-        "textCase": "{text-case.uppercase}",
+        "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
       "type": "typography"
     },
     "xl-strong": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}",
@@ -7634,7 +7634,7 @@
     },
     "sm": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
@@ -7645,7 +7645,7 @@
     },
     "md": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
         "lineHeight": "{lg}",

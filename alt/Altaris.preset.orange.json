@@ -3004,6 +3004,16 @@
           }
         }
       }
+    },
+    "homepage": {
+      "nav-menu": {
+        "mobile": {
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

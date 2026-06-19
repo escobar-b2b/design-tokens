@@ -3014,6 +3014,12 @@
               "type": "color"
             }
           }
+        },
+        "mobile": {
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          }
         }
       }
     },

@@ -6101,7 +6101,8 @@
       "shadow.mobile-application.button": "S:aaebed57cbf1d2fc4bbb8746db5ffa24ce2f700e,",
       "core.grey.700a60": "S:251bd2ba753d8d3bb35e951547e6d3e243070103,",
       "core.grey.700a0": "S:7f77849cae51d46dc817843bc48c19007657820a,",
-      "contextual.cashbox.bonus.border": "S:d3c9725ebf84dca83916e10742ce478f55580888,"
+      "contextual.cashbox.bonus.border": "S:d3c9725ebf84dca83916e10742ce478f55580888,",
+      "contextual.homepage.nav-menu.mobile.fill": "S:1234a7302adc04ad69553b6f6313ac065001228f,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

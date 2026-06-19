@@ -2794,8 +2794,9 @@
           "type": "color"
         },
         "3": {
-          "value": "#AA98EC",
-          "type": "color"
+          "value": "#8b6cf8",
+          "type": "color",
+          "description": "#AA98EC"
         },
         "4": {
           "value": "#22516B",
@@ -2940,7 +2941,7 @@
         "description": "menu"
       },
       "6": {
-        "value": "{core.white.a100}",
+        "value": "{core.grey.500}",
         "type": "color"
       },
       "slate-1": {

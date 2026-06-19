@@ -2060,11 +2060,11 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           },
           "not-filled": {
-            "value": "{core.brand-60.a30}",
+            "value": "{core.brand-10.a30}",
             "type": "color"
           }
         }
@@ -2244,7 +2244,7 @@
       "fill": {
         "value": "{core.grey.700}",
         "type": "color",
-        "description": "{semantic.background.page}"
+        "description": "{semantic.background.page}\n{core.grey.700}"
       }
     },
     "input": {
@@ -2636,7 +2636,7 @@
             },
             "unselected": {
               "default": {
-                "value": "{core.white.a100}",
+                "value": "{core.brand-60.a20}",
                 "type": "color"
               },
               "hover": {
@@ -3146,7 +3146,7 @@
         "item": {
           "background": {
             "default": {
-              "value": "{core.white.a100}",
+              "value": "{core.grey.500}",
               "type": "color"
             },
             "hover": {

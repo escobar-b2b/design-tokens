@@ -6383,7 +6383,7 @@
       },
       "week-day": {
         "text": {
-          "value": "{semantic.icon.default.primary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       },

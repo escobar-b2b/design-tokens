@@ -6150,6 +6150,14 @@
       "border": {
         "value": "{core.white.a0}",
         "type": "color"
+      },
+      "select": {
+        "fill": {
+          "default": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          }
+        }
       }
     },
     "tooltip": {

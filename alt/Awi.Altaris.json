@@ -6345,6 +6345,14 @@
       "bottom-fill": {
         "value": "{core.white.a8}",
         "type": "color"
+      },
+      "select": {
+        "fill": {
+          "default": {
+            "value": "{core.white.a10}",
+            "type": "color"
+          }
+        }
       }
     },
     "tooltip": {

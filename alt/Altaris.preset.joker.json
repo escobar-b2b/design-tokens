@@ -7514,7 +7514,7 @@
   "heading": {
     "ml": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "{scale-5}",
         "lineHeight": "{md}",
@@ -7528,7 +7528,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
+        "lineHeight": "{xl}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
       },
@@ -7549,7 +7549,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Medium}",
-        "fontSize": "{scale-7}",
+        "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
@@ -7560,7 +7560,7 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-7}",
+        "fontSize": "{scale-6}",
         "lineHeight": "{xl}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"

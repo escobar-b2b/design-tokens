@@ -6351,6 +6351,10 @@
           "default": {
             "value": "{core.white.a10}",
             "type": "color"
+          },
+          "hover-active": {
+            "value": "{core.brand-60.a30}",
+            "type": "color"
           }
         }
       }
@@ -9626,7 +9630,7 @@
       }
     },
     "padding": {
-      "value": "{spacing.400}",
+      "value": "{spacing.300}",
       "type": "spacing"
     },
     "gap": {

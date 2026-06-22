@@ -223,7 +223,7 @@
       "type": "borderRadius"
     },
     "popover": {
-      "value": "{border-radius.core.400}",
+      "value": "{blur.200}",
       "type": "borderRadius",
       "description": "\n\n\n"
     },
@@ -1831,7 +1831,14 @@
       }
     },
     "notification": {
-      "value": "{shadow.drop.medium}",
+      "value": {
+        "x": "0px",
+        "y": "8px",
+        "blur": "8px",
+        "spread": "0px",
+        "color": "{core.white.a0}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "lottery-tournament": {
@@ -3686,7 +3693,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-60.700a40}",
+        "value": "{core.brand-60.700}",
         "type": "color"
       },
       "popover-action": {
@@ -3709,7 +3716,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.default.secondary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       },

@@ -5133,7 +5133,7 @@
         },
         "check": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "hover": {

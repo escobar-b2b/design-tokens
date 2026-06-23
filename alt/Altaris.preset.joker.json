@@ -2597,11 +2597,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.tertiary.fill.default}",
+            "value": "{core.white.a30}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.tertiary.fill.hover}",
+            "value": "{semantic.background.brand.tertiary.active}",
             "type": "color"
           },
           "disabled": {

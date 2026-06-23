@@ -7700,7 +7700,7 @@
       }
     },
     "title": {
-      "value": "{heading.xl-stronger}",
+      "value": "{heading.xl-strong}",
       "type": "typography"
     },
     "bottom": {

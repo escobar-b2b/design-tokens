@@ -6624,7 +6624,7 @@
       }
     },
     "overlay": {
-      "value": "{core.brand-60.900a40}",
+      "value": "{core.brand-60.900a60}",
       "type": "color"
     },
     "divider": {
@@ -10182,6 +10182,10 @@
             }
           }
         }
+      },
+      "900a60": {
+        "value": "rgba(6,9,10,0.6)",
+        "type": "color"
       },
       "a50": {
         "value": "rgba(91,186,181,0.5)",

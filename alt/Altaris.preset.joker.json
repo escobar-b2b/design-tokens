@@ -2629,11 +2629,11 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.tertiary.default}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.tertiary.hover}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {

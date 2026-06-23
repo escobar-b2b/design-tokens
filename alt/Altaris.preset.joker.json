@@ -2611,11 +2611,11 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
@@ -2629,11 +2629,11 @@
         },
         "border-color": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.border.brand.tertiary.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.border.brand.tertiary.hover}",
             "type": "color"
           },
           "active": {
@@ -2723,11 +2723,11 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
@@ -2749,11 +2749,11 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.ghost-popup.active}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.border.brand.ghost-popup.disabled}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -7968,15 +7968,15 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a30}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a20}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a8}",
             "type": "color"
           }
         },
@@ -8284,19 +8284,19 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a50}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },

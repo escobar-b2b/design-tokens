@@ -6724,12 +6724,12 @@
       },
       "status-inactive": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-60.700}",
           "type": "color",
           "description": "status-inactive"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-60.400}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -6875,7 +6875,7 @@
       },
       "prize": {
         "fill": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-60.700}",
           "type": "color",
           "description": "status-inactive"
         }

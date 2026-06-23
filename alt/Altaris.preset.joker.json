@@ -3175,7 +3175,7 @@
       "slate-1": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {

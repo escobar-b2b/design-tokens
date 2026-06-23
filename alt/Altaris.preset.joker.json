@@ -11096,5 +11096,9 @@
   "base": {
     "value": "16px",
     "type": "fontSizes"
+  },
+  "scale-7": {
+    "value": "{base} * 1.5",
+    "type": "fontSizes"
   }
 }

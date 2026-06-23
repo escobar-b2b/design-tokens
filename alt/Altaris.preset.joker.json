@@ -1086,7 +1086,7 @@
             "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-30.600}",
+            "color": "{core.white.a0}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -1097,7 +1097,7 @@
             "y": "{depth.0}",
             "blur": "{blur.100}",
             "spread": "{depth.0}",
-            "color": "{core.brand-30.200}",
+            "color": "{core.white.a0}",
             "type": "innerShadow"
           },
           "type": "boxShadow"
@@ -7745,7 +7745,7 @@
   "Icon": {
     "numbers": {
       "value": {
-        "fontFamily": "{accent}",
+        "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "lineHeight": "16px",
         "fontSize": "12px"

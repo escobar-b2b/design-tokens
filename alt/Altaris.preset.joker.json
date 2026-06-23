@@ -7030,7 +7030,7 @@
     },
     "error-pages": {
       "background-gradient-top": {
-        "value": "linear-gradient(180deg, {core.brand-30.600a25} 0%, {core.grey.a20} 46%)",
+        "value": "linear-gradient(180deg, {core.brand-60.a30} 0%, {core.grey.a20} 46%)",
         "type": "color"
       },
       "background-gradient-bottom": {

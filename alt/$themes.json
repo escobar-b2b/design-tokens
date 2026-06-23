@@ -6104,7 +6104,8 @@
       "contextual.cashbox.bonus.border": "S:d3c9725ebf84dca83916e10742ce478f55580888,",
       "contextual.homepage.nav-menu.mobile.fill": "S:1234a7302adc04ad69553b6f6313ac065001228f,",
       "contextual.datepicker.select.fill.default": "S:a05c75c4f3e52231c36b6341a8ffb1b2dee7f25e,",
-      "contextual.datepicker.select.fill.hover-active": "S:e74ee28a4183455c025ea32d5e43fb6982ffeacf,"
+      "contextual.datepicker.select.fill.hover-active": "S:e74ee28a4183455c025ea32d5e43fb6982ffeacf,",
+      "core.brand-60.900a60": "S:20c725c7ac5b4f1612e023d67ab43bcd4c6d1d5c,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

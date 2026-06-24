@@ -6602,16 +6602,16 @@
       },
       "bottom": {
         "fill": {
-          "value": "{core.grey.800}",
+          "value": "{contextual.popup.fill}",
           "type": "color"
         },
         "border": {
-          "value": "{core.grey.600}",
+          "value": "{contextual.popup.fill}",
           "type": "color"
         }
       },
       "border": {
-        "value": "{core.white.a15}",
+        "value": "{core.white.a0}",
         "type": "color"
       },
       "devider": {

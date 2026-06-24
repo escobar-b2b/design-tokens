@@ -8587,7 +8587,7 @@
       "type": "dimension"
     },
     "overlay": {
-      "value": "{blur.100}",
+      "value": "{blur.0}",
       "type": "dimension"
     },
     "homepage": {

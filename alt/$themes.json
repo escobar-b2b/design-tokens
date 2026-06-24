@@ -6106,7 +6106,9 @@
       "contextual.datepicker.select.fill.default": "S:a05c75c4f3e52231c36b6341a8ffb1b2dee7f25e,",
       "contextual.datepicker.select.fill.hover-active": "S:e74ee28a4183455c025ea32d5e43fb6982ffeacf,",
       "core.brand-60.900a60": "S:20c725c7ac5b4f1612e023d67ab43bcd4c6d1d5c,",
-      "core.brand-60.900a50": "S:4143edae971575553587b2fe2d3d1e0d16f36659,"
+      "core.brand-60.900a50": "S:4143edae971575553587b2fe2d3d1e0d16f36659,",
+      "contextual.cashbox.bonus.activated.fil": "S:38c4c21c7928ad6f6f10437081d9092e24601a75,",
+      "contextual.cashbox.bonus.activated.text": "S:bdd97d15133ab8fab150f9b8925480cd52a41bc2,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

@@ -4132,6 +4132,16 @@
           "value": "{core.brand-60.700}",
           "type": "color"
         },
+        "activated": {
+          "fil": {
+            "value": "{core.brand-60.a10}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.brand-60.400}",
+            "type": "color"
+          }
+        },
         "border": {
           "value": "{core.brand-60.400}",
           "type": "color"

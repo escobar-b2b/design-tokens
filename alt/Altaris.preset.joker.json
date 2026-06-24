@@ -540,7 +540,7 @@
     "input": {
       "default": {
         "value": {
-          "color": "{core.white.a0}",
+          "color": "{contextual.input.border-color.default}",
           "width": "{border-width.025}",
           "style": "solid"
         },

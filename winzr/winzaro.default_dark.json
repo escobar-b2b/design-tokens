@@ -3261,7 +3261,7 @@
           "description": "status-inactive"
         },
         "border": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a15}",
           "type": "color",
           "description": "status-inactive"
         }

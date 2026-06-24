@@ -11120,5 +11120,17 @@
   "scale-7": {
     "value": "{base} * 1.5",
     "type": "fontSizes"
+  },
+  "scale-1": {
+    "value": "{base} * 0.75",
+    "type": "fontSizes"
+  },
+  "scale-2": {
+    "value": "{base} * 0.875",
+    "type": "fontSizes"
+  },
+  "scale-3": {
+    "value": "{base} * 1",
+    "type": "fontSizes"
   }
 }

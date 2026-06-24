@@ -5280,7 +5280,7 @@
           "type": "color"
         },
         "step": {
-          "value": "linear-gradient(180deg, {core.brand-30.50} 0%, {core.brand-30.200} 100%)",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

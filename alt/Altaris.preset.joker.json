@@ -240,11 +240,11 @@
     "popup": {
       "mobile": {
         "top-left": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "top-right": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "bottom-left": {
@@ -258,19 +258,19 @@
       },
       "desktop": {
         "top-left": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "bottom-left": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "bottom-right": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         },
         "top-right": {
-          "value": "{border-radius.core.400}",
+          "value": "{border-radius.core.300}",
           "type": "borderRadius"
         }
       }

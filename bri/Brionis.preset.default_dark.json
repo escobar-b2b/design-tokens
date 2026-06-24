@@ -3385,7 +3385,6 @@
   }
 }
 "_comment": "это verification токены добавлены claude"
-"contextual": {
   "verification": {
     "illustration": {
       "background": {
@@ -3424,4 +3423,4 @@
       }
     }
   }
-}
+

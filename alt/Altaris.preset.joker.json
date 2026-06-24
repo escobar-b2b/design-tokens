@@ -2286,30 +2286,6 @@
       "promo-code-button": {
         "value": [
           {
-            "x": "0px",
-            "y": "0px",
-            "blur": "16px",
-            "spread": "0px",
-            "color": "{core.white.a8}",
-            "type": "innerShadow"
-          },
-          {
-            "x": "0px",
-            "y": "-0px",
-            "blur": "16px",
-            "spread": "0px",
-            "color": "{core.white.a15}",
-            "type": "innerShadow"
-          },
-          {
-            "x": "0px",
-            "y": "0px",
-            "blur": "8px",
-            "spread": "0px",
-            "color": "{core.white.a25}",
-            "type": "innerShadow"
-          },
-          {
             "x": "0",
             "y": "0",
             "blur": "4",
@@ -5301,21 +5277,21 @@
       "promo-code-button": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.700} 33%, {core.brand-60.800} 100%)",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "hover": {
-            "value": "linear-gradient(180deg, {core.brand-60.500} 0%, {core.brand-60.600} 33%, {core.brand-60.700} 100%)",
+            "value": "{core.brand-60.600}",
             "type": "color"
           }
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           }
         }
@@ -5369,7 +5345,7 @@
         },
         "text": {
           "bonus": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           }
         }

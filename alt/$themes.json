@@ -6105,7 +6105,8 @@
       "contextual.homepage.nav-menu.mobile.fill": "S:1234a7302adc04ad69553b6f6313ac065001228f,",
       "contextual.datepicker.select.fill.default": "S:a05c75c4f3e52231c36b6341a8ffb1b2dee7f25e,",
       "contextual.datepicker.select.fill.hover-active": "S:e74ee28a4183455c025ea32d5e43fb6982ffeacf,",
-      "core.brand-60.900a60": "S:20c725c7ac5b4f1612e023d67ab43bcd4c6d1d5c,"
+      "core.brand-60.900a60": "S:20c725c7ac5b4f1612e023d67ab43bcd4c6d1d5c,",
+      "core.brand-60.900a50": "S:4143edae971575553587b2fe2d3d1e0d16f36659,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

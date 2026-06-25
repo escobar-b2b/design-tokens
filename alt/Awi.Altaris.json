@@ -6221,6 +6221,12 @@
           "value": "{core.brand-30.700}",
           "type": "color"
         }
+      },
+      "balance": {
+        "fill": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        }
       }
     },
     "status-icon": {

@@ -3063,6 +3063,12 @@
             "type": "color"
           }
         }
+      },
+      "balance": {
+        "fill": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        }
       }
     },
     "homepage": {

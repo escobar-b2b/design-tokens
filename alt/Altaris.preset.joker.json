@@ -5016,7 +5016,7 @@
       },
       "notification": {
         "fill1": {
-          "value": "{core.validation.danger.500}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "fill2": {
@@ -11073,7 +11073,7 @@
       },
       "validation": {
         "danger": {
-          "value": "#BD0527",
+          "value": "#FA1D1D",
           "type": "color"
         },
         "success": {

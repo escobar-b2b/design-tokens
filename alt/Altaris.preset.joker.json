@@ -5801,7 +5801,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.brand-60.a50}",
             "type": "color"
           }
         }

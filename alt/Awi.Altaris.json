@@ -6506,7 +6506,7 @@
           "type": "color"
         },
         "content": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "secondary": {

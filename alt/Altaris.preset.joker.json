@@ -1469,7 +1469,7 @@
     "popup": {
       "value": {
         "x": "0",
-        "y": "0",
+        "y": "-4px",
         "blur": "20px",
         "spread": "0",
         "color": "{core.brand-60.900a50}",

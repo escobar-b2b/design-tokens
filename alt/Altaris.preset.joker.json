@@ -6045,6 +6045,16 @@
           "hover": {
             "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
             "type": "color"
+          },
+          "fill": {
+            "default": {
+              "value": "linear-gradient(180deg, {core.brand-60.800a0} 0%, {core.brand-60.800} 100%)",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, {core.brand-60.800a0} 0%, {core.brand-60.800} 100%)",
+              "type": "color"
+            }
           }
         }
       },
@@ -10121,6 +10131,20 @@
             }
           }
         }
+      },
+      "800a0": {
+        "value": "{core.brand-60.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (25%)"
       },
       "a30": {
         "value": "rgba(91,186,181,0.3)",

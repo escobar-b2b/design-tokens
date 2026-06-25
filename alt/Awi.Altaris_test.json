@@ -5949,6 +5949,16 @@
           "hover": {
             "value": "{core.brand-30.800a50}",
             "type": "color"
+          },
+          "fill": {
+            "default": {
+              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
+              "type": "color"
+            }
           }
         }
       },

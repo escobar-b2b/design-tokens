@@ -3138,6 +3138,20 @@
           "value": "{core.brand-60.700}",
           "type": "color"
         }
+      },
+      "extender": {
+        "elipce": {
+          "fill": {
+            "default": {
+              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
+              "type": "color"
+            },
+            "hover": {
+              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "popup": {

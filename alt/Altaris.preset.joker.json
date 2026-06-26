@@ -5698,7 +5698,7 @@
         "item": {
           "text": {
             "default": {
-              "value": "{semantic.text.default.primary}",
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             },
             "hover-active": {

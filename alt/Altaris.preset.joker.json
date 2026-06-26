@@ -6163,7 +6163,7 @@
         },
         "icon": {
           "hover": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "active": {
@@ -6171,7 +6171,7 @@
             "type": "color"
           },
           "hover-active": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "default": {

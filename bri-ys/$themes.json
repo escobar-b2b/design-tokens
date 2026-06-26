@@ -1061,7 +1061,8 @@
       "shadow.welcome-bonus.card": "S:7d0cb8f184a63ca52668d387c29bfb81977cf276,",
       "shadow.tabs.popup": "S:5c463d7e0fe622f021b8d99d09deabfe1fca907e,",
       "shadow.notification": "S:1d3baaebdf4288457ab3cf65852d6105222a711f,",
-      "shadow.tab-bar": "S:e9b5d68832a96cbb40642487023812938bd3f948,"
+      "shadow.tab-bar": "S:e9b5d68832a96cbb40642487023812938bd3f948,",
+      "contextual.switcher.fill": "S:c9e66ccec459ccf8fd89ed85dd1f990c1b31f587,"
     },
     "$figmaVariableReferences": {
       "main": "cb897558c3de61d5ffb9fa2c57138791beaca234",

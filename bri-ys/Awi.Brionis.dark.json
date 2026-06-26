@@ -1630,6 +1630,10 @@
             "type": "color"
           }
         }
+      },
+      "fill": {
+        "value": "{core.grey.600}",
+        "type": "color"
       }
     },
     "notifications": {

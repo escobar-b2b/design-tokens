@@ -1469,7 +1469,7 @@
     "popup": {
       "value": {
         "x": "0",
-        "y": "-4px",
+        "y": "0px",
         "blur": "20px",
         "spread": "0",
         "color": "{core.brand-60.900a50}",
@@ -4367,7 +4367,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{core.grey.800}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         }
       }

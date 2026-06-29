@@ -1062,7 +1062,9 @@
       "shadow.tabs.popup": "S:5c463d7e0fe622f021b8d99d09deabfe1fca907e,",
       "shadow.notification": "S:1d3baaebdf4288457ab3cf65852d6105222a711f,",
       "shadow.tab-bar": "S:e9b5d68832a96cbb40642487023812938bd3f948,",
-      "contextual.switcher.fill": "S:c9e66ccec459ccf8fd89ed85dd1f990c1b31f587,"
+      "contextual.switcher.fill": "S:c9e66ccec459ccf8fd89ed85dd1f990c1b31f587,",
+      "core.brand-preset.for-gradients.8": "S:cbb53cbcecddfa833256a99f795a4bff4e80e4ae,",
+      "core.brand-preset.for-gradients.9": "S:36d22caa272317e03348cba7e08b760d421828c7,"
     },
     "$figmaVariableReferences": {
       "main": "cb897558c3de61d5ffb9fa2c57138791beaca234",

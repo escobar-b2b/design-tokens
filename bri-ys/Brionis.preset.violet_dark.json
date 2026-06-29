@@ -2796,7 +2796,7 @@
         "3": {
           "value": "#8b6cf8",
           "type": "color",
-          "description": "#AA98EC"
+          "description": "#8b6cf8"
         },
         "4": {
           "value": "#22516B",
@@ -2812,6 +2812,14 @@
         },
         "7": {
           "value": "#FFA4C8",
+          "type": "color"
+        },
+        "8": {
+          "value": "#091A3D",
+          "type": "color"
+        },
+        "9": {
+          "value": "#74031D",
           "type": "color"
         }
       },
@@ -2900,9 +2908,9 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
+        "value": "linear-gradient(90deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.8} 40%, {core.brand-preset.for-gradients.9} 100%)",
         "type": "color",
-        "description": "no used"
+        "description": "linear-gradient(225deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)"
       },
       "8": {
         "value": "linear-gradient(180deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.1} 100%)",
@@ -2910,7 +2918,7 @@
         "description": "+ tab bar special button \nradial-gradient(70% 70% at 38% 32%, {core.brand-10.500} 0%, {core.brand-preset.for-gradients.2} 100%)"
       },
       "9": {
-        "value": "linear-gradient(90deg, {core.brand-preset.for-gradients.3} 0%, {core.brand-preset.for-gradients.3} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
+        "value": "linear-gradient(90deg, {core.brand-preset.for-gradients.2} 0%, {core.brand-preset.for-gradients.8} 40%, {core.brand-preset.for-gradients.9} 100%)",
         "type": "color"
       },
       "10": {

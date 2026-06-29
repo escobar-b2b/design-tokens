@@ -4215,7 +4215,7 @@
             "type": "color"
           },
           "pending": {
-            "value": "{core.validation.warning.600}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "on-review": {
@@ -11043,7 +11043,7 @@
         "description": "pending"
       },
       "silver": {
-        "value": "#B1BCD8",
+        "value": "#96A0A9",
         "type": "color",
         "description": "basic.silver"
       },
@@ -11063,7 +11063,7 @@
         "description": "vip"
       },
       "pending": {
-        "value": "#E5BF00",
+        "value": "#E5A704",
         "type": "color",
         "description": "pending"
       },

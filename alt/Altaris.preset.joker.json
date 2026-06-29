@@ -3715,7 +3715,7 @@
           }
         },
         "icon": {
-          "value": "{semantic.icon.brand.on-brand-secondary}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         }
       },

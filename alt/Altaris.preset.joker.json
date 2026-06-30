@@ -7701,7 +7701,7 @@
       }
     },
     "title": {
-      "value": "{heading.xl-strong}",
+      "value": "{heading.xxl-promo}",
       "type": "typography"
     },
     "bottom": {

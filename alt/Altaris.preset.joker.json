@@ -6117,7 +6117,7 @@
             }
           },
           "divider": {
-            "value": "linear-gradient(90deg, {core.white.a10} 13%, {core.white.a20} 49%, {core.white.a10} 90%)",
+            "value": "{core.white.a10}",
             "type": "color"
           },
           "elipse": {
@@ -6668,12 +6668,12 @@
         }
       },
       "heading": {
-        "value": "{core.brand-60.50}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "text": {
         "secondary": {
-          "value": "{core.white.a80}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "primary": {

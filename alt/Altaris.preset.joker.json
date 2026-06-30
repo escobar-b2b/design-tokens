@@ -4518,7 +4518,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           }
         }
@@ -7701,7 +7701,7 @@
       }
     },
     "title": {
-      "value": "{heading.xxl-promo}",
+      "value": "{heading.xl-promo}",
       "type": "typography"
     },
     "bottom": {

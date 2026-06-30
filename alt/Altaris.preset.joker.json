@@ -82,7 +82,7 @@
     },
     "text-padding-horizontal": {
       "sm": {
-        "value": "{spacing.200}",
+        "value": "{blur.150}",
         "type": "spacing"
       },
       "md": {
@@ -2512,7 +2512,7 @@
       "primary": {
         "fill": {
           "default": {
-            "value": "linear-gradient(180deg, #F60C3F 0%, #C20034 100%)",
+            "value": "linear-gradient(180deg, #E51126 0%, #A1003D 100%)",
             "type": "color"
           },
           "hover": {
@@ -2524,7 +2524,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.primary.disabled}",
+            "value": "{core.brand-10.a40}",
             "type": "color"
           }
         },
@@ -2548,15 +2548,15 @@
         },
         "border-color": {
           "default": {
-            "value": "{semantic.border.brand.primary.default}",
+            "value": "linear-gradient(0deg, #85111E 0%, #FF5344 100%)",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.border.brand.primary.hover}",
+            "value": "linear-gradient(0deg, #85111E 0%, #FF5344 100%)",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.border.brand.primary.active}",
+            "value": "linear-gradient(0deg, #85111E 0%, #FF5344 100%)",
             "type": "color"
           },
           "disabled": {
@@ -5061,7 +5061,7 @@
       "controls": {
         "fill": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "banner": {
@@ -5125,7 +5125,7 @@
         },
         "check": {
           "default": {
-            "value": "{core.brand-60.200}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "hover": {
@@ -7806,7 +7806,7 @@
         "description": "+gradient popup"
       },
       "4": {
-        "value": "linear-gradient(180deg, {core.brand-10.500} 0%, #A1003D 100% 100%)",
+        "value": "linear-gradient(180deg, #E51126 0%, #A1003D 100%)",
         "type": "color",
         "description": "+gradients.orange 500"
       },

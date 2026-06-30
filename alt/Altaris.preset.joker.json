@@ -1069,10 +1069,10 @@
       "mobile": {
         "value": {
           "x": "{depth.0}",
-          "y": "{depth.0}",
+          "y": "-1px",
           "blur": "{blur.0}",
           "spread": "{depth.0}",
-          "color": "{core.white.a0}",
+          "color": "(box-shadow: 0 -1px 0 0 rgba(255, 255, 255, 0.10) inset;)",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1431,19 +1431,11 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.m100}",
-            "blur": "{blur.400}",
+            "y": "-4px",
+            "blur": "24px",
             "spread": "{depth.0}",
-            "color": "{core.grey.a10}",
+            "color": "rgba(0,0,0,0.1)",
             "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "{depth.025}",
-            "blur": "0.2",
-            "spread": "0",
-            "color": "{core.white.a10}",
-            "type": "innerShadow"
           }
         ],
         "type": "boxShadow"
@@ -6048,11 +6040,11 @@
           },
           "fill": {
             "default": {
-              "value": "linear-gradient(180deg, {core.brand-60.800a0} 0%, {core.brand-60.800} 100%)",
+              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
               "type": "color"
             },
             "hover": {
-              "value": "linear-gradient(180deg, {core.brand-60.800a0} 0%, {core.brand-60.800} 100%)",
+              "value": "linear-gradient(180deg, rgba(34, 59, 66, 0.00) 0%, #223B42 100%)",
               "type": "color"
             }
           }

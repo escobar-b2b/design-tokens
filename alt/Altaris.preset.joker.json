@@ -2927,7 +2927,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.white.a100}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             }
           },
@@ -2943,7 +2943,7 @@
           },
           "text": {
             "normal": {
-              "value": "{core.white.a80}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "active": {
@@ -2953,7 +2953,7 @@
           },
           "border2": {
             "normal": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "active": {

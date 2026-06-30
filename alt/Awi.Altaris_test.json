@@ -3957,7 +3957,7 @@
         },
         "stroke": {
           "default": {
-            "value": "{core.white.a10}",
+            "value": "{core.brand-30.a15}",
             "type": "color",
             "description": "Lootboxes"
           },

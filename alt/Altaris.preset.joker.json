@@ -3121,15 +3121,15 @@
         },
         "elements": {
           "primary": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.white.a80}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.white.a30}",
+            "value": "{core.brand-60.500}",
             "type": "color"
           },
           "blured-elements": {
@@ -3140,7 +3140,7 @@
         },
         "text": {
           "primary": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           }
         }

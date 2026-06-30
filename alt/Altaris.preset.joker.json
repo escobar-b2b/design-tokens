@@ -4136,7 +4136,7 @@
     },
     "stepper": {
       "fill": {
-        "value": "{core.brand-60.a40}",
+        "value": "{core.brand-60.a20}",
         "type": "color"
       },
       "step": {
@@ -5320,7 +5320,7 @@
         "widget": {
           "text": {
             "accent": {
-              "value": "{semantic.text.static.accent}",
+              "value": "{semantic.text.banner-cart.accent}",
               "type": "color"
             }
           }

@@ -3121,11 +3121,11 @@
         },
         "elements": {
           "primary": {
-            "value": "{core.brand-60.300}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "secondary": {
-            "value": "{core.brand-60.400}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           },
           "tertiary": {

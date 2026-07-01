@@ -1351,25 +1351,25 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.25}",
             "type": "color"
           },
           "fill-2": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.a50}",
             "type": "color"
           }
         },
         "elements": {
           "primary": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.400}",
             "type": "color"
           },
           "secondary": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.200}",
             "type": "color"
           },
           "blured-elements": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "tertiary": {

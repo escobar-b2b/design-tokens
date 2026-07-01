@@ -1438,6 +1438,42 @@
             }
           }
         }
+      },
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "blured-elements": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        }
       }
     },
     "upload-files": {

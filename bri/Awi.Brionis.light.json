@@ -1347,6 +1347,68 @@
         }
       }
     },
+    "verification": {
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "blured-elements": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.background.brand.primary.default}",
+            "type": "color"
+          }
+        }
+      },
+      "verification-status": {
+        "time": {
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        },
+        "check": {
+          "icon": {
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -1445,32 +1507,6 @@
               "value": "{semantic.border.brand.primary.default}",
               "type": "color",
               "description": "vip bet amount"
-            }
-          }
-        }
-      }
-    },
-    "verification": {
-      "verification-status": {
-        "time": {
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        },
-        "check": {
-          "icon": {
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
             }
           }
         }

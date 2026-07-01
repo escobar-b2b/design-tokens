@@ -5053,7 +5053,7 @@
       "controls": {
         "fill": {
           "default": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "banner": {
@@ -5117,7 +5117,7 @@
         },
         "check": {
           "default": {
-            "value": "{core.brand-60.900}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "hover": {

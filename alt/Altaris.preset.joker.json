@@ -1979,9 +1979,9 @@
           "value": {
             "x": "0px",
             "y": "0px",
-            "blur": "16px",
+            "blur": "20px",
             "spread": "0px",
-            "color": "{core.white.a15}",
+            "color": "{core.brand-60.900a50}",
             "type": "dropShadow"
           },
           "type": "boxShadow"

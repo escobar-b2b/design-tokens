@@ -1428,13 +1428,13 @@
         "check": {
           "icon": {
             "AI-check": {
-              "value": "{core.grey.700}",
+              "value": "{core.grey.25}",
               "type": "color"
             }
           },
           "text": {
             "AI-check": {
-              "value": "{core.grey.700}",
+              "value": "{core.validation.success.500}",
               "type": "color"
             }
           }

@@ -557,7 +557,7 @@
       "active": {
         "value": {
           "color": "{contextual.input.border-color.active}",
-          "width": "{border-width.050}",
+          "width": "{depth.025}",
           "style": "solid"
         },
         "type": "border"

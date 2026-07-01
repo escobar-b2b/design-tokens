@@ -1442,7 +1442,7 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.grey.600}",
+            "value": "{core.grey.700}",
             "type": "color"
           },
           "fill-2": {

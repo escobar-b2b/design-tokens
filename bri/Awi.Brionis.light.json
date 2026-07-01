@@ -1351,11 +1351,11 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.grey.25}",
+            "value": "{core.grey.50}",
             "type": "color"
           },
           "fill-2": {
-            "value": "{core.grey.a50}",
+            "value": "{core.grey.25}",
             "type": "color"
           }
         },
@@ -1373,13 +1373,13 @@
             "type": "color"
           },
           "tertiary": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.100}",
             "type": "color"
           }
         },
         "text": {
           "primary": {
-            "value": "{semantic.background.brand.primary.default}",
+            "value": "{core.grey.400}",
             "type": "color"
           }
         }

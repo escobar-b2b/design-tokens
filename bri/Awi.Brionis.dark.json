@@ -1311,6 +1311,74 @@
         }
       }
     },
+    "verification": {
+      "frame": {
+        "line": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        }
+      },
+      "verification-status": {
+        "time": {
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
+        },
+        "check": {
+          "icon": {
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "AI-check": {
+              "value": "{core.grey.700}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.700}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.grey.600}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "blured-elements": {
+            "value": "{core.brand-60.a25}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -1410,68 +1478,6 @@
               "type": "color",
               "description": "vip bet amount"
             }
-          }
-        }
-      }
-    },
-    "verification": {
-      "verification-status": {
-        "time": {
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        },
-        "check": {
-          "icon": {
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "illustration": {
-        "background": {
-          "fill": {
-            "value": "{core.grey.700}",
-            "type": "color"
-          },
-          "fill-2": {
-            "value": "{core.grey.600}",
-            "type": "color"
-          }
-        },
-        "elements": {
-          "primary": {
-            "value": "{core.grey.50}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{core.grey.100}",
-            "type": "color"
-          },
-          "tertiary": {
-            "value": "{core.grey.200}",
-            "type": "color"
-          },
-          "blured-elements": {
-            "value": "{core.brand-60.a25}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color"
           }
         }
       }

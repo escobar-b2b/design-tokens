@@ -110,7 +110,7 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.200}",
           "type": "borderRadius"
         },
         "large": {
@@ -2923,7 +2923,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.white.a90}",
+        "value": "{core.white.a10}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

@@ -1071,7 +1071,9 @@
       "contextual.verification.illustration.elements.secondary": "S:0a583edeab76252376e4cf2a9153dff0a9bd5ebf,",
       "contextual.verification.illustration.elements.blured-elements": "S:4199e743fb222cce8171cbf3fb620a20c453a5cb,",
       "contextual.verification.illustration.elements.tertiary": "S:1ce984a142c38a873a6e41071bffdb77d98af785,",
-      "contextual.verification.illustration.text.primary": "S:bc2c6fd0965b8b34984593eedeac003a91429576,"
+      "contextual.verification.illustration.text.primary": "S:bc2c6fd0965b8b34984593eedeac003a91429576,",
+      "contextual-verification-frame-line": "S:ccb7a9e2e8c4bd3c195ee1362814d0410f0d8367,",
+      "contextual.verification.frame.line": "S:68b1b773fd51034e36f8da667c744793d5a69bb0,"
     },
     "$figmaVariableReferences": {
       "main": "cb897558c3de61d5ffb9fa2c57138791beaca234",

@@ -1475,6 +1475,12 @@
             "type": "color"
           }
         }
+      },
+      "frame": {
+        "line": {
+          "value": "{core.grey.50}",
+          "type": "color"
+        }
       }
     },
     "upload-files": {

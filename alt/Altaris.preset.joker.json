@@ -5612,11 +5612,11 @@
       },
       "progressbar": {
         "fill": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         }
       },

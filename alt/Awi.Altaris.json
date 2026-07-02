@@ -1065,6 +1065,17 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "main": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{blur.100}",
+          "blur": "10px",
+          "spread": "{depth.0}",
+          "color": "{core.grey.a30}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "icon-graphic": {
@@ -2482,6 +2493,17 @@
         },
         "type": "boxShadow"
       }
+    },
+    "balance": {
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{blur.100}",
+        "spread": "{depth.0}",
+        "color": "{core.grey.a30}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "contextual": {
@@ -4070,6 +4092,20 @@
             "value": "{semantic.text.default.heading}",
             "type": "color"
           }
+        },
+        "activated": {
+          "fil": {
+            "value": "{core.brand-60.a10}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.brand-60.400}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
         }
       },
       "support-block": {
@@ -6066,6 +6102,10 @@
           "border": {
             "value": "{core.brand-30.500}",
             "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-30.500}",
+            "type": "color"
           }
         },
         "icon-left": {
@@ -7501,6 +7541,15 @@
     "stronger": {
       "value": "{Bold}",
       "type": "fontWeights"
+    },
+    "lg-strong": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
     }
   },
   "heading": {
@@ -7632,6 +7681,28 @@
         "fontSize": "{scale-9}",
         "lineHeight": "44px",
         "textCase": "{text-case.uppercase}",
+        "letterSpacing": "0%"
+      },
+      "type": "typography"
+    },
+    "md": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "{scale-6}",
+        "lineHeight": "{lg}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "sm": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.strong}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{md}",
+        "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
       "type": "typography"

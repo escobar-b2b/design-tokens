@@ -1016,7 +1016,7 @@
           "y": "{blur.100}",
           "blur": "10px",
           "spread": "{depth.0}",
-          "color": "rgba(6,9,10,0.3)",
+          "color": "{core.grey.a30}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1194,7 +1194,7 @@
         "y": "{depth.0}",
         "blur": "{blur.100}",
         "spread": "{depth.0}",
-        "color": "rgba(6,16,10,0.30)",
+        "color": "{core.grey.a30}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

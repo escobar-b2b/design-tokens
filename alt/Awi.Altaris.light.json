@@ -321,7 +321,7 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{border-radius.core.200}",
           "type": "borderRadius"
         },
         "large": {

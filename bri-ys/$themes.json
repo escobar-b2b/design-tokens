@@ -1064,7 +1064,14 @@
       "shadow.tab-bar": "S:e9b5d68832a96cbb40642487023812938bd3f948,",
       "contextual.switcher.fill": "S:c9e66ccec459ccf8fd89ed85dd1f990c1b31f587,",
       "core.brand-preset.for-gradients.8": "S:cbb53cbcecddfa833256a99f795a4bff4e80e4ae,",
-      "core.brand-preset.for-gradients.9": "S:36d22caa272317e03348cba7e08b760d421828c7,"
+      "core.brand-preset.for-gradients.9": "S:36d22caa272317e03348cba7e08b760d421828c7,",
+      "contextual.verification.illustration.background.fill": "S:d0091b7cdf57d411ada532a169383e3e2ca0e0a6,",
+      "contextual.verification.illustration.background.fill-2": "S:cc14b840809246b30edfded9c234aad01784cc92,",
+      "contextual.verification.illustration.elements.primary": "S:5eb8936a7774837e505fd3089f3e6c793ace11b4,",
+      "contextual.verification.illustration.elements.secondary": "S:0a583edeab76252376e4cf2a9153dff0a9bd5ebf,",
+      "contextual.verification.illustration.elements.blured-elements": "S:4199e743fb222cce8171cbf3fb620a20c453a5cb,",
+      "contextual.verification.illustration.elements.tertiary": "S:1ce984a142c38a873a6e41071bffdb77d98af785,",
+      "contextual.verification.illustration.text.primary": "S:bc2c6fd0965b8b34984593eedeac003a91429576,"
     },
     "$figmaVariableReferences": {
       "main": "cb897558c3de61d5ffb9fa2c57138791beaca234",

@@ -5782,7 +5782,9 @@
       "wheel.popup.vip-bet-amount.width": "f7dd8a36cb406ba1b6ca993b5448cd743c05e35e",
       "card.balance": "1018a331219e621cb4b622ee9dd26701782beef9",
       "scale-9": "325b8ebcf00b7fa83002e096a651c0a4897a2083",
-      "base": "a17ce3fd4cacc835fe21358768daf9ccb550559f"
+      "base": "a17ce3fd4cacc835fe21358768daf9ccb550559f",
+      "Book": "58940095d04b1e45c8762ca3c209c04bab6e7df2",
+      "Demi": "bb13b59a63bd637cfc46e33887ebe88c916a779a"
     },
     "$figmaCollectionId": "VariableCollectionId:11004:83727",
     "$figmaModeId": "11004:0"

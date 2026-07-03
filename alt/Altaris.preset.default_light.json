@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Mariupol",
+    "value": "Futura PT",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Mariupol",
+    "value": "Futura Cond",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
@@ -304,11 +304,11 @@
       "type": "typography"
     },
     "normal": {
-      "value": "{Regular}",
+      "value": "{Book}",
       "type": "fontWeights"
     },
     "strong": {
-      "value": "{Medium}",
+      "value": "{Demi}",
       "type": "fontWeights"
     },
     "stronger": {
@@ -3004,6 +3004,14 @@
     "value": "400",
     "type": "fontWeights"
   },
+  "Book": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "Demi": {
+    "value": "600",
+    "type": "fontWeights"
+  },
   "homepage": {
     "collection": {
       "title": {
@@ -3294,7 +3302,7 @@
       },
       "balance": {
         "fill": {
-          "value": "{core.brand-60.700}",
+          "value": "{core.brand-60.a5}",
           "type": "color"
         }
       },
@@ -3302,7 +3310,7 @@
         "elipce": {
           "fill": {
             "default": {
-              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0) 0%, #18282C 100%)",
+              "value": "linear-gradient(180deg, {core.white.a0} 0%, {core.white.a100} 100%)",
               "type": "color"
             },
             "hover": {
@@ -3323,5 +3331,29 @@
         }
       }
     }
+  },
+  "scale-1": {
+    "value": "{base} * 0.75",
+    "type": "fontSizes"
+  },
+  "scale-2": {
+    "value": "{base} * 0.875",
+    "type": "fontSizes"
+  },
+  "scale-3": {
+    "value": "{base} * 1",
+    "type": "fontSizes"
+  },
+  "scale-7": {
+    "value": "{base} * 1.5",
+    "type": "fontSizes"
+  },
+  "scale-8": {
+    "value": "{base} * 2",
+    "type": "fontSizes"
+  },
+  "scale-9": {
+    "value": "{base} * 2.5",
+    "type": "fontSizes"
   }
 }

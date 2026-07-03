@@ -1011,14 +1011,7 @@
         "type": "boxShadow"
       },
       "general": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "7px",
-          "blur": "12px",
-          "spread": "{depth.0}",
-          "color": "{core.brand-60.800a10}",
-          "type": "dropShadow"
-        },
+        "value": "{shadow.drop.small}",
         "type": "boxShadow"
       },
       "mobile": {
@@ -3655,7 +3648,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{semantic.gradients.3}",
+        "value": "{core.brand-30.a10}",
         "type": "color"
       },
       "popover-action": {
@@ -5916,11 +5909,11 @@
         },
         "notification": {
           "text": {
-            "value": "{semantic.text.default.secondary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-10.300}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "fill": {
@@ -5968,7 +5961,7 @@
         },
         "fill": {
           "active": {
-            "value": "linear-gradient(92deg, {core.brand-10.50a30} 3%, {core.brand-10.50a70} 100%)",
+            "value": "{core.brand-30.a30}",
             "type": "color"
           },
           "default": {
@@ -6019,7 +6012,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-30.a10}",
           "type": "color"
         },
         "text": {
@@ -6070,25 +6063,25 @@
           }
         },
         "border": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.brand-30.a40}",
           "type": "color"
         }
       },
       "status": {
         "fill": {
-          "value": "{core.grey.a20}",
+          "value": "{core.brand-30.600a25}",
           "type": "color"
         },
         "progress": {
-          "value": "linear-gradient(90deg, {core.brand-30.500} , {core.brand-30.700} )",
+          "value": "linear-gradient(90deg, {core.brand-30.400} , {core.brand-30.600} )",
           "type": "color"
         },
         "progress-start": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-30.400}",
           "type": "color"
         },
         "progress-end": {
-          "value": "{core.brand-30.700}",
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       },

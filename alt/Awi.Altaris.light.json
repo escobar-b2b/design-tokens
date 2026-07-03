@@ -1063,9 +1063,9 @@
         "value": {
           "x": "{depth.0}",
           "y": "{blur.100}",
-          "blur": "10px",
+          "blur": "4px",
           "spread": "{depth.0}",
-          "color": "{core.grey.a30}",
+          "color": "{core.grey.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -4353,7 +4353,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{core.brand-60.a10}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }

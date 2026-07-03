@@ -307,7 +307,7 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{blur.200}",
           "type": "borderRadius"
         },
         "large": {
@@ -6096,7 +6096,7 @@
         },
         "notification": {
           "text": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "border": {
@@ -6128,7 +6128,7 @@
             "type": "color"
           },
           "elipse": {
-            "value": "linear-gradient(90deg, {core.brand-30.800a50} 35%, {core.brand-30.800a0} 81%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },
@@ -6142,7 +6142,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(90deg, {core.brand-30.a10} 35%, {core.brand-30.a0} 81%)",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },

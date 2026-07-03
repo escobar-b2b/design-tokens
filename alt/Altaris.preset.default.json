@@ -110,7 +110,7 @@
       },
       "list-prime": {
         "small": {
-          "value": "{border-radius.core.full}",
+          "value": "{blur.200}",
           "type": "borderRadius"
         },
         "large": {

@@ -2391,7 +2391,7 @@
               "y": "-4px",
               "blur": "0px",
               "spread": "0px",
-              "color": "{core.grey.a15}",
+              "color": "{core.brand-60.a20}",
               "type": "dropShadow"
             },
             {
@@ -2399,7 +2399,7 @@
               "y": "-2px",
               "blur": "0",
               "spread": "0",
-              "color": "{core.grey.a15}",
+              "color": "{core.brand-60.a20}",
               "type": "dropShadow"
             },
             {
@@ -2407,7 +2407,7 @@
               "y": "-0.44",
               "blur": "0",
               "spread": "0",
-              "color": "{core.grey.a5}",
+              "color": "{core.brand-60.a5}",
               "type": "innerShadow"
             }
           ],
@@ -5262,7 +5262,7 @@
         },
         "border": {
           "fill": {
-            "value": "{core.grey.a8}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -5327,7 +5327,7 @@
         "tabs": {
           "border": {
             "active": {
-              "value": "{core.brand-60.400}",
+              "value": "{core.brand-30.500}",
               "type": "color"
             },
             "inactive": {
@@ -5392,7 +5392,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{core.grey.a8}",
+            "value": "{core.brand-30.500a30}",
             "type": "color"
           }
         }
@@ -6526,7 +6526,7 @@
       "item": {
         "text": {
           "default": {
-            "value": "{core.grey.400}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "active": {
@@ -6701,7 +6701,7 @@
       },
       "deals": {
         "background": {
-          "value": "rgba(26, 26, 32, 0.05)",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         }
       }

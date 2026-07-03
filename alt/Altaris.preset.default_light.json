@@ -2923,7 +2923,7 @@
         "description": "text input 2"
       },
       "slate-on-card": {
-        "value": "{core.white.a10}",
+        "value": "{core.white.a60}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },

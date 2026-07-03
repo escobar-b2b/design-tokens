@@ -9260,8 +9260,8 @@
     "labels": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
-        "fontSize": "9px",
+        "fontWeight": "{Bold}",
+        "fontSize": "10px",
         "lineHeight": "9px",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0.6px"

@@ -8510,7 +8510,7 @@
         "description": "gradients.yellow 200"
       },
       "3": {
-        "value": "linear-gradient(180deg, #313138 0%, #201F25 28.85%, #222228 66.5%, #201F25 82.51%, #19191E 100%);",
+        "value": "linear-gradient(180deg, {core.grey.700} 0%, {core.grey.800} 29%, {core.grey.800} 67%, {core.grey.800} 83%, {core.grey.900} 100%);",
         "type": "color",
         "description": "+gradient popup"
       },

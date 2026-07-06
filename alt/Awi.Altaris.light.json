@@ -5928,11 +5928,11 @@
         "prime": {
           "border": {
             "default": {
-              "value": "linear-gradient(90deg, {core.brand-60.100} 0%, {core.brand-60.50} 100%)",
+              "value": "{core.white.a0}",
               "type": "color"
             },
             "active": {
-              "value": "linear-gradient(131deg, {core.brand-10.50} 6%, {core.brand-10.a45} 49%, {core.brand-10.500} 90%)",
+              "value": "{core.white.a0}",
               "type": "color"
             }
           },

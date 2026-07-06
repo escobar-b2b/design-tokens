@@ -4241,7 +4241,7 @@
       "nav-item": {
         "fill": {
           "active": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-30.a20}",
             "type": "color"
           },
           "default": {
@@ -6342,7 +6342,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{semantic.gradients.3}",
+        "value": "{core.brand-60.50}",
         "type": "color"
       },
       "additional-block": {
@@ -6357,7 +6357,7 @@
       },
       "slate": {
         "1": {
-          "value": "{core.brand-60.300a8}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "2": {

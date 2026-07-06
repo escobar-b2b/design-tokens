@@ -3806,7 +3806,7 @@
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-30.600}",
               "type": "color",
               "description": "Lootboxes"
             }

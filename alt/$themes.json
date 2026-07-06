@@ -10364,7 +10364,8 @@
       "contextual.menu.balance.fill": "S:d9b764f01a16ae07e079aad89edd120f6eb6eda8,",
       "contextual.menu.extender.elipce.fill.default": "S:805b5572bea8b3203db56cc1dfbf83cbdef95a93,",
       "contextual.menu.extender.elipce.fill.hover": "S:461930f89318c2edaf092e5eaa2b56f5a7812356,",
-      "core.brand-60.800a0": "S:4b0476b7e4395e21dbd7fcf522f9074b85f942c8,"
+      "core.brand-60.800a0": "S:4b0476b7e4395e21dbd7fcf522f9074b85f942c8,",
+      "semantic.background.banner": "S:2078e75e7e1f909582f67dbf52d63b4600140833,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

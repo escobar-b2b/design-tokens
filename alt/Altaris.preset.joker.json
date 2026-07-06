@@ -7892,6 +7892,10 @@
         "value": "{semantic.background.page}",
         "type": "color"
       },
+      "banner": {
+        "value": "{semantic.background.page}",
+        "type": "color"
+      },
       "brand": {
         "primary": {
           "default": {

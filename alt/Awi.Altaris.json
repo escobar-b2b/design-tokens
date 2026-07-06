@@ -8740,6 +8740,10 @@
       "page": {
         "value": "{semantic.gradients.11}",
         "type": "color"
+      },
+      "banner": {
+        "value": "{semantic.background.page}",
+        "type": "color"
       }
     },
     "icon": {

@@ -2705,6 +2705,10 @@
       "footer": {
         "value": "{semantic.gradients.8}",
         "type": "color"
+      },
+      "banner": {
+        "value": "{semantic.background.page}",
+        "type": "color"
       }
     },
     "text": {

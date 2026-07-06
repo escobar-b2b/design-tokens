@@ -1124,6 +1124,10 @@
       "footer": {
         "value": "{core.brand-60.900}",
         "type": "color"
+      },
+      "banner": {
+        "value": "{semantic.background.page}",
+        "type": "color"
       }
     }
   },

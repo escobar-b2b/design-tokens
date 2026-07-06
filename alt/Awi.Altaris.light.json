@@ -8756,6 +8756,10 @@
         "value": "{core.brand-10.800}",
         "type": "color",
         "description": "text input 2"
+      },
+      "banner": {
+        "value": "{semantic.background.page}",
+        "type": "color"
       }
     },
     "icon": {

@@ -6162,7 +6162,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{contextual.datepicker.select.fill.default}",
+            "value": "{contextual.datepicker.item.fill.default}",
             "type": "color"
           },
           "selected": {

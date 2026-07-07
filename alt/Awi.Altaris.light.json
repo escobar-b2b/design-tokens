@@ -3097,7 +3097,7 @@
           "type": "color"
         },
         "fill": {
-          "value": "{core.brand-60.a5}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "scroll": {
@@ -5060,7 +5060,7 @@
       "controls": {
         "fill": {
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.brand-30.25}",
             "type": "color"
           },
           "banner": {
@@ -5088,7 +5088,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.grey.200}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
@@ -5106,7 +5106,7 @@
         },
         "bullet": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {

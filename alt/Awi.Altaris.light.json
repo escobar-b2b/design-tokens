@@ -1458,7 +1458,7 @@
           "y": "1px",
           "blur": "8px",
           "spread": "{depth.0}",
-          "color": "{core.brand-60.800a10}",
+          "color": "{core.brand-60.800a25}",
           "type": "dropShadow"
         }
       ],
@@ -3621,7 +3621,7 @@
       },
       "button": {
         "fill": {
-          "value": "radial-gradient(180% 184% at 97% -91%, {core.brand-10.800} 55%, {core.brand-10.a40} 100%), radial-gradient(352% 78% at -10% 36%, {core.brand-10.800} 21%, {core.brand-10.a40} 100%),radial-gradient(183% 55% at 6% 100%, {core.brand-10.a50} 0%, {core.brand-10.300a0} 100%), radial-gradient(238% 44% at 97% 31%, {core.white.a25} 0%, {core.white.a0} 100%), {core.brand-10.600}",
+          "value": "{semantic.background.brand.primary.default}",
           "type": "color"
         },
         "text": {

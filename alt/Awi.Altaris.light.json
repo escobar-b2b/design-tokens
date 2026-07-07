@@ -3648,7 +3648,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-30.a10}",
+        "value": "{core.brand-30.25}",
         "type": "color"
       },
       "popover-action": {
@@ -6012,7 +6012,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.brand-30.a10}",
+          "value": "{core.brand-30.25}",
           "type": "color"
         },
         "text": {

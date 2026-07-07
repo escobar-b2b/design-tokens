@@ -5647,7 +5647,8 @@
       "shadow.mobile-application.button": "S:f31843be7f237329f09acfeb3438b55b1ebaae13,",
       "shadow.header.main": "S:6518fc8e0a0ac8ddb19b2da56bcf8e8c44547257,",
       "shadow.balance": "S:58992c79ecbc80ce75cf5087885963c0428ed220,",
-      "semantic.background.banner": "S:88a4da4d4fcd7d2854bfe64bdbdee1954ddfcc27,"
+      "semantic.background.banner": "S:88a4da4d4fcd7d2854bfe64bdbdee1954ddfcc27,",
+      "core.brand-30.25": "S:00e448d07590d7fec736e94303b389f82eb8f88b,"
     },
     "$figmaVariableReferences": {
       "main": "d9282728d881ecd433e9fdd04a237d5e275336e8",

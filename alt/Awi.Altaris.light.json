@@ -4813,7 +4813,7 @@
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.white.a70}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Bonus/Talisman"
           },

@@ -4949,7 +4949,7 @@
         "welcome-bonus": {
           "timer": {
             "text": {
-              "value": "{semantic.text.static.primary}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "fill": {

@@ -4390,11 +4390,11 @@
     },
     "table": {
       "fill": {
-        "value": "{core.brand-60.a10}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "header": {
-        "value": "{core.brand-60.a10}",
+        "value": "{core.brand-30.25}",
         "type": "color"
       }
     },
@@ -6423,7 +6423,7 @@
       },
       "bottom": {
         "fill": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

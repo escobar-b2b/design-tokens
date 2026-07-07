@@ -6040,7 +6040,7 @@
           },
           "fill": {
             "default": {
-              "value": "linear-gradient(180deg, rgba(24, 40, 44, 0.00) 0%, #18282C 100%)",
+              "value": "linear-gradient(180deg, {core.brand-60.800a0} 0%, {core.brand-60.800} 100%)",
               "type": "color"
             },
             "hover": {

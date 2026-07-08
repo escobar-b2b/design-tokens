@@ -3945,12 +3945,12 @@
         },
         "fill": {
           "default": {
-            "value": "{contextual.achivments.card.slate-on-card}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           },
           "hover": {
-            "value": "{contextual.achivments.card.slate-on-card}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           }

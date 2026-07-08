@@ -5770,7 +5770,7 @@
           "type": "color"
         },
         "line": {
-          "value": "{core.grey.200}",
+          "value": "{core.brand-30.a40}",
           "type": "color"
         },
         "border": {

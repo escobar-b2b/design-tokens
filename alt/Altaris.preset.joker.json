@@ -6617,7 +6617,7 @@
       }
     },
     "overlay": {
-      "value": "{core.brand-60.900a60}",
+      "value": "rgba(6,9,10,0.8)",
       "type": "color"
     },
     "divider": {

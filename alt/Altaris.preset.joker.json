@@ -572,7 +572,7 @@
       },
       "disabled": {
         "value": {
-          "color": "{core.white.a0}",
+          "color": "{core.white.a5}",
           "width": "{border-width.025}",
           "style": "solid"
         },

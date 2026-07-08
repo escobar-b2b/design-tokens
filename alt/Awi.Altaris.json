@@ -5965,7 +5965,7 @@
           "type": "color"
         },
         "line": {
-          "value": "{core.white.a100}",
+          "value": "{core.white.a30}",
           "type": "color"
         }
       },

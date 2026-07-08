@@ -3485,11 +3485,11 @@
     "mobile-application": {
       "reviews": {
         "fill": {
-          "value": "{core.brand-60.a10}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {
-          "value": "linear-gradient(177deg, {core.brand-60.a15} 3%, {core.brand-60.a0} 98%)",
+          "value": "{core.brand-30.100}",
           "type": "color"
         }
       },

@@ -5426,7 +5426,7 @@
         },
         "number": {
           "text2": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.brand.on-brand-secondary}",
             "type": "color"
           },
           "text": {
@@ -5444,7 +5444,7 @@
             }
           },
           "fill2": {
-            "value": "{core.grey.600}",
+            "value": "{contextual.menu.item.notification.fill}",
             "type": "color"
           },
           "fill": {

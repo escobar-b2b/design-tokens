@@ -3067,7 +3067,7 @@
         },
         "elements": {
           "primary": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "secondary": {
@@ -3075,7 +3075,7 @@
             "type": "color"
           },
           "tertiary": {
-            "value": "{core.brand-60.a25}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "blured-elements": {

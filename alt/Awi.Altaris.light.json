@@ -5431,11 +5431,11 @@
       },
       "progressbar": {
         "fill": {
-          "value": "{core.brand-60.a30}",
+          "value": "{core.brand-30.100}",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-60.a30}",
+          "value": "{core.brand-30.200}",
           "type": "color"
         }
       },

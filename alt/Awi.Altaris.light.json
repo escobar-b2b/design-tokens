@@ -4468,21 +4468,21 @@
       "hidden": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.600}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-60.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
         "content": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{core.grey.600}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{core.grey.600}",
             "type": "color"
           }
         },
@@ -4500,11 +4500,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.a8}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         }

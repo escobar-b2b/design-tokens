@@ -3057,25 +3057,25 @@
       "illustration": {
         "background": {
           "fill": {
-            "value": "{core.brand-60.50}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "fill-2": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.brand-60.50}",
             "type": "color"
           }
         },
         "elements": {
           "primary": {
-            "value": "{core.brand-60.200}",
-            "type": "color"
-          },
-          "secondary": {
             "value": "{core.brand-60.300}",
             "type": "color"
           },
+          "secondary": {
+            "value": "{core.brand-60.200}",
+            "type": "color"
+          },
           "tertiary": {
-            "value": "{core.brand-60.400}",
+            "value": "{core.brand-60.100}",
             "type": "color"
           },
           "blured-elements": {

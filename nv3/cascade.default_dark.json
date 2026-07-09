@@ -5031,7 +5031,7 @@
     },
     "padding-right": {
       "sm": {
-        "value": "{spacing.200}",
+        "value": "{blur.0}",
         "type": "spacing"
       },
       "md": {

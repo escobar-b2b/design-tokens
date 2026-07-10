@@ -668,6 +668,160 @@
         }
       }
     },
+    "lottery-tournament": {
+      "tiket-number": {
+        "border": {
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
+        }
+      },
+      "players-prizes": {
+        "fill": {
+          "even": {
+            "value": "{core.grey.700}",
+            "type": "color"
+          },
+          "odd": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          }
+        }
+      },
+      "top-inner-page": {
+        "text": {
+          "primary": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Top Inner Page"
+          },
+          "secondary": {
+            "value": "{core.white.a80}",
+            "type": "color"
+          }
+        },
+        "results": {
+          "fill": {
+            "value": "{core.white.a10}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a10}",
+            "type": "color",
+            "description": "Top Inner Page"
+          }
+        }
+      },
+      "ticket": {
+        "background": {
+          "fill": {
+            "value": "{semantic.gradients.3}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "border": {
+            "value": "{core.grey.400}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
+      "ticket-number": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "gold": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "gold-winning": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "fill": {
+          "gold": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "bage": {
+          "fill": {
+            "value": "{core.grey.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
+      "zero-block": {
+        "border": {
+          "value": "{core.brand-10.100}",
+          "type": "color",
+          "description": "zero block border"
+        }
+      },
+      "tabs": {
+        "fill": {
+          "value": "{core.grey.700}",
+          "type": "color"
+        },
+        "state-2": {
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          }
+        }
+      },
+      "prize": {
+        "gold-winning": {
+          "text": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "status-inactive"
+          },
+          "border": {
+            "value": "{core.additionals.gold}",
+            "type": "color",
+            "description": "status-inactive"
+          }
+        }
+      },
+      "card": {
+        "top": {
+          "fill": {
+            "value": "{semantic.gradients.7}",
+            "type": "color",
+            "description": "status-inactive"
+          }
+        },
+        "fill": {
+          "value": "{core.grey.800}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -3120,152 +3274,6 @@
     "divider2": {
       "value": "{core.white.a8}",
       "type": "color"
-    },
-    "lottery-tournament": {
-      "players-prizes": {
-        "fill": {
-          "even": {
-            "value": "{core.grey.700}",
-            "type": "color"
-          },
-          "odd": {
-            "value": "{core.grey.800}",
-            "type": "color"
-          }
-        }
-      },
-      "top-inner-page": {
-        "text": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Top Inner Page"
-          },
-          "secondary": {
-            "value": "{core.white.a80}",
-            "type": "color"
-          }
-        },
-        "results": {
-          "fill": {
-            "value": "{core.white.a10}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a10}",
-            "type": "color",
-            "description": "Top Inner Page"
-          }
-        }
-      },
-      "ticket": {
-        "background": {
-          "fill": {
-            "value": "{semantic.gradients.3}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "border": {
-            "value": "{core.grey.400}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "ticket-number": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "gold": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "gold-winning": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "fill": {
-          "gold": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "winning": {
-            "value": "{core.brand-10.500}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "bage": {
-          "fill": {
-            "value": "{core.grey.500}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "zero-block": {
-        "border": {
-          "value": "{core.brand-10.100}",
-          "type": "color",
-          "description": "zero block border"
-        }
-      },
-      "tabs": {
-        "fill": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "state-2": {
-          "fill": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a25}",
-            "type": "color"
-          }
-        }
-      },
-      "prize": {
-        "gold-winning": {
-          "text": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "status-inactive"
-          },
-          "border": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "status-inactive"
-          }
-        }
-      },
-      "card": {
-        "top": {
-          "fill": {
-            "value": "{semantic.gradients.7}",
-            "type": "color",
-            "description": "status-inactive"
-          }
-        },
-        "fill": {
-          "value": "{core.grey.800}",
-          "type": "color",
-          "description": "status-inactive"
-        },
-        "border": {
-          "value": "{core.white.a15}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      }
     },
     "news": {
       "card": {

@@ -1643,7 +1643,14 @@
       }
     },
     "popover": {
-      "value": "{shadow.drop.large}",
+      "value": {
+        "x": "0px",
+        "y": "9px",
+        "blur": "8px",
+        "spread": "0px",
+        "color": "{core.grey.a10}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "homepage": {
@@ -1835,7 +1842,7 @@
         "y": "8px",
         "blur": "8px",
         "spread": "0px",
-        "color": "{core.white.a0}",
+        "color": "{core.grey.a10}",
         "type": "dropShadow"
       },
       "type": "boxShadow"
@@ -3659,6 +3666,10 @@
       }
     },
     "notifications": {
+      "border": {
+        "value": "{core.white.a10}",
+        "type": "color"
+      },
       "fill": {
         "value": "{core.brand-60.700}",
         "type": "color"
@@ -3668,10 +3679,6 @@
           "value": "{semantic.gradients.3}",
           "type": "color"
         }
-      },
-      "border": {
-        "value": "{core.brand-60.700a40}",
-        "type": "color"
       },
       "close": {
         "value": "{semantic.icon.default.secondary}",

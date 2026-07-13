@@ -3902,7 +3902,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

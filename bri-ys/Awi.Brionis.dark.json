@@ -4148,7 +4148,7 @@
       },
       "primary": {
         "fill": {
-          "value": "{semantic.gradients.7}",
+          "value": "{semantic.gradients.4}",
           "type": "color",
           "description": "badge"
         },

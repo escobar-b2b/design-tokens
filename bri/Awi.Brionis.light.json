@@ -5251,9 +5251,9 @@
       "sm": {
         "value": {
           "fontFamily": "{main}",
-          "fontWeight": "{Semibold}",
-          "fontSize": "{scale-2}",
-          "lineHeight": "{sm}"
+          "fontWeight": "{Bold}",
+          "fontSize": "{scale-3}",
+          "lineHeight": "{md}"
         },
         "type": "typography"
       },

@@ -2107,6 +2107,16 @@
           "not-filled": {
             "value": "{core.brand-60.a30}",
             "type": "color"
+          },
+          "direction": {
+            "fill1": {
+              "value": "{core.brand-60.500}",
+              "type": "color"
+            },
+            "fill2": {
+              "value": "{core.brand-60.200}",
+              "type": "color"
+            }
           }
         }
       },
@@ -2118,6 +2128,20 @@
         "fill": {
           "value": "{core.brand-10.a5}",
           "type": "color"
+        }
+      },
+      "points": {
+        "default": {
+          "border": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "fill": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     },

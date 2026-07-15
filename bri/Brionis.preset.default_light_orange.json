@@ -266,7 +266,7 @@
       "sm": {
         "value": {
           "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
+          "fontWeight": "{Bold}",
           "fontSize": "{scale-3}",
           "lineHeight": "{ml}"
         },

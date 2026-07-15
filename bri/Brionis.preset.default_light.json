@@ -268,7 +268,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{Bold}",
           "fontSize": "{scale-3}",
-          "lineHeight": "{md}"
+          "lineHeight": "{ml}"
         },
         "type": "typography"
       }

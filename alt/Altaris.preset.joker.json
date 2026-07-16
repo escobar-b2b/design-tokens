@@ -5401,7 +5401,7 @@
     "tabs": {
       "deals": {
         "background": {
-          "value": "{core.grey.700}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         }
       },

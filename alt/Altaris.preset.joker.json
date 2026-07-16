@@ -4146,7 +4146,7 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-60.700}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "border": {

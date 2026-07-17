@@ -4321,7 +4321,7 @@
       "points": {
         "default": {
           "border": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           }
         },
@@ -4335,7 +4335,7 @@
       "level": {
         "text": {
           "accent": {
-            "value": "{core.validation.danger.500}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           }
         }
@@ -4343,16 +4343,16 @@
       "route": {
         "line": {
           "filled": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "direction": {
             "fill1": {
-              "value": "{core.brand-30.500}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "fill2": {
-              "value": "{core.brand-30.200}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             }
           },

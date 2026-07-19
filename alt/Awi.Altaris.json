@@ -5777,11 +5777,11 @@
           },
           "fill": {
             "default": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.a15}",
               "type": "color"
             },
             "hover-active": {
-              "value": "{core.white.a0}",
+              "value": "{core.brand-60.600}",
               "type": "color"
             }
           },

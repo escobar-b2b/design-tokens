@@ -1159,7 +1159,14 @@
       }
     },
     "popover": {
-      "value": "{shadow.notification}",
+      "value": {
+        "x": "0px",
+        "y": "16px",
+        "blur": "24px",
+        "spread": "0px",
+        "color": "{core.white.a0}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "homepage": {

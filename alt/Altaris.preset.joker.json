@@ -3399,7 +3399,7 @@
             "type": "color"
           },
           "inactive": {
-            "value": "{core.grey.a10}",
+            "value": "{core.white.a8}",
             "type": "color"
           }
         },

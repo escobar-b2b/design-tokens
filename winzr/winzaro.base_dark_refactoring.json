@@ -68,20 +68,6 @@
         "type": "borderRadius"
       }
     },
-    "button": {
-      "sm": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      },
-      "md": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      },
-      "lg": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
-      }
-    },
     "header": {
       "general": {
         "value": "{border-radius.core.300}",
@@ -93,11 +79,6 @@
           "type": "borderRadius",
           "description": "contextual.header.desktop.special-menu-item"
         }
-      },
-      "special-menu-item": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius",
-        "description": "contextual.header.desktop.special-menu-item"
       }
     },
     "menu": {
@@ -107,166 +88,9 @@
           "type": "borderRadius"
         }
       }
-    },
-    "homepage": {
-      "nav-menu": {
-        "general": {
-          "value": "{border-radius.core.400}",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "welcome-bonus": {
-      "tabs": {
-        "value": "{border-radius.button.lg}",
-        "type": "borderRadius"
-      }
     }
   },
   "text": {
-    "xs": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-1}",
-        "lineHeight": "{xs}"
-      },
-      "type": "typography"
-    },
-    "xs-strong": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "{scale-1}",
-        "lineHeight": "{xs}"
-      },
-      "type": "typography"
-    },
-    "xs-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-1}",
-        "lineHeight": "{xs}"
-      },
-      "type": "typography"
-    },
-    "sm": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{sm}"
-      },
-      "type": "typography"
-    },
-    "sm-strong": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{sm}"
-      },
-      "type": "typography"
-    },
-    "md": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}"
-      },
-      "type": "typography"
-    },
-    "md-strong": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}"
-      },
-      "type": "typography"
-    },
-    "md-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}"
-      },
-      "type": "typography"
-    },
-    "lg": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "lg-strong": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{Semibold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "lg-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "button": {
-      "lg": {
-        "value": "{text.lg-stronger}",
-        "type": "typography"
-      },
-      "md": {
-        "value": "{text.lg-stronger}",
-        "type": "typography"
-      },
-      "sm": {
-        "value": "{text.md-stronger}",
-        "type": "typography"
-      }
-    },
-    "link-sm": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{xs}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
     "normal": {
       "value": "{Regular}",
       "type": "fontWeights"
@@ -278,74 +102,6 @@
     "stronger": {
       "value": "{Extrabold}",
       "type": "fontWeights"
-    }
-  },
-  "heading": {
-    "xs": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "20px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "sm": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-4-5}",
-        "lineHeight": "22px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "md": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "24px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "lg": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Extrabold}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "-2%"
-      },
-      "type": "typography"
     }
   },
   "core": {
@@ -2064,16 +1820,6 @@
           "value": "#324E3F",
           "type": "color",
           "description": "+ for collections"
-        },
-        "7": {
-          "value": "#324D57",
-          "type": "color",
-          "description": "+ for collections"
-        },
-        "8": {
-          "value": "#FAEB86",
-          "type": "color",
-          "description": "+ badge 3"
         }
       },
       "validation": {
@@ -2116,11 +1862,6 @@
         "type": "color",
         "description": "+ thumb view more, refferal card, payment bonus"
       },
-      "5": {
-        "value": "linear-gradient(180deg, {core.brand-10.700} 0%, {core.brand-10.800} 100%)",
-        "type": "color",
-        "description": "gradients.orange 600"
-      },
       "6": {
         "value": "linear-gradient(109deg, {core.brand-10.500} 37%, {core.brand-30.400} 100%)",
         "type": "color",
@@ -2130,15 +1871,6 @@
         "value": "linear-gradient(225deg, {core.brand-10.400} 0%, {core.brand-10.700} 100%)",
         "type": "color",
         "description": "+ badge primary"
-      },
-      "8": {
-        "value": "radial-gradient(70% 70% at 38% 32%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
-        "type": "color",
-        "description": "tab bar special button "
-      },
-      "9": {
-        "value": "linear-gradient(90deg, {core.brand-10.500} 0%, {core.brand-10.500} 18%, {core.brand-60.500} 46%, {core.brand-60.500} 60%, {core.brand-30.500} 74%)",
-        "type": "color"
       },
       "10": {
         "value": "linear-gradient(225deg, #87C9F3 0%, #0449D2 100%)",
@@ -2172,14 +1904,6 @@
         "type": "color",
         "description": "+ bg block, verification block"
       },
-      "5": {
-        "value": "{core.grey.a30}",
-        "type": "color"
-      },
-      "6": {
-        "value": "{core.brand-30.700}",
-        "type": "color"
-      },
       "slate-1": {
         "value": "{core.grey.700}",
         "type": "color",
@@ -2190,11 +1914,6 @@
         "type": "color",
         "description": "+ cards, profile side menu, payment popup, ingame"
       },
-      "slate-on-card": {
-        "value": "{core.brand-30.500a60}",
-        "type": "color",
-        "description": "should be used as a surface color for text, labels"
-      },
       "page": {
         "value": "{core.brand-60.900}",
         "type": "color",
@@ -2204,11 +1923,6 @@
         "value": "{core.brand-60.a15}",
         "type": "color",
         "description": "+ shop prices"
-      },
-      "slate-5": {
-        "value": "{core.brand-10.800}",
-        "type": "color",
-        "description": "text input 2"
       },
       "slate-for-cards": {
         "value": "{core.grey.800}",
@@ -2249,18 +1963,6 @@
     "overlay": {
       "value": "{blur.100}",
       "type": "dimension"
-    }
-  },
-  "Toggle-button": {
-    "normal": {
-      "value": "{text.md}",
-      "type": "typography",
-      "description": "contextual.lootboxes.coefficient"
-    },
-    "hover": {
-      "value": "{text.md-stronger}",
-      "type": "typography",
-      "description": "contextual.lootboxes.coefficient"
     }
   },
   "base": {

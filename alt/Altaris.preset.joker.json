@@ -6836,7 +6836,7 @@
           "description": "zero block"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a8}",
           "type": "color",
           "description": "zero block border"
         }

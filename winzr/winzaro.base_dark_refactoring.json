@@ -1844,11 +1844,6 @@
         "type": "color",
         "description": "+ for icons, some dropdowns"
       },
-      "4": {
-        "value": "{core.grey.700}",
-        "type": "color",
-        "description": "+ bg block, verification block"
-      },
       "slate-1": {
         "value": "{core.grey.700}",
         "type": "color",

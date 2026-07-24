@@ -4667,18 +4667,6 @@
               "type": "color",
               "description": "emphasizing"
             }
-          },
-          "static": {
-            "primary": {
-              "value": "{core.brand-30.700}",
-              "type": "color",
-              "description": "emphasizing"
-            },
-            "secondary": {
-              "value": "{core.brand-10.600}",
-              "type": "color",
-              "description": "emphasizing"
-            }
           }
         },
         "secondary": {

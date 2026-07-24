@@ -897,42 +897,12 @@
       }
     },
     "mobile-application": {
-      "switcher": {
-        "fill": {
-          "value": "{core.grey.600}",
-          "type": "color"
-        },
-        "switcher-button": {
-          "active": {
-            "fill": {
-              "value": "{contextual.button.primary.fill.default}",
-              "type": "color"
-            },
-            "text": {
-              "value": "{semantic.text.banner-cart.primary}",
-              "type": "color"
-            }
-          },
-          "inactive": {
-            "text": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            }
-          }
-        }
-      },
       "card": {
         "background": {
           "fill": {
             "value": "{core.grey.700}",
             "type": "color"
           }
-        }
-      },
-      "banner": {
-        "fill": {
-          "value": "{semantic.gradients.7}",
-          "type": "color"
         }
       }
     },

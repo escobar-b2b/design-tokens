@@ -3797,16 +3797,6 @@
       }
     }
   },
-  "profile": {
-    "status": {
-      "md": {
-        "padding-left": {
-          "value": "{spacing.200}",
-          "type": "spacing"
-        }
-      }
-    }
-  },
   "scale-1": {
     "value": "{base} * 0.6875",
     "type": "fontSizes"
@@ -5376,19 +5366,6 @@
       ],
       "type": "boxShadow"
     },
-    "inner": {
-      "small": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.50}",
-          "blur": "{blur.50}",
-          "spread": "{depth.0}",
-          "color": "{core.brand-60.a10}",
-          "type": "innerShadow"
-        },
-        "type": "boxShadow"
-      }
-    },
     "dropdown menu": {
       "value": {
         "x": "0px",
@@ -5414,41 +5391,6 @@
         ],
         "type": "boxShadow",
         "description": "0px 0px 4px 0px #E028FD"
-      },
-      "icon": {
-        "background": {
-          "fill": {
-            "special": {
-              "value": [
-                {
-                  "x": "{depth.50}",
-                  "y": "{depth.50}",
-                  "blur": "{blur.100}",
-                  "spread": "{depth.0}",
-                  "color": "{core.white.a50}",
-                  "type": "innerShadow"
-                },
-                {
-                  "x": "{depth.m050}",
-                  "y": "{depth.m050}",
-                  "blur": "{depth.100}",
-                  "spread": "0",
-                  "color": "{core.grey.a15}",
-                  "type": "innerShadow"
-                },
-                {
-                  "x": "0",
-                  "y": "4px",
-                  "blur": "24px",
-                  "spread": "0",
-                  "color": "{core.brand-10.a30}",
-                  "type": "dropShadow"
-                }
-              ],
-              "type": "boxShadow"
-            }
-          }
-        }
       }
     },
     "datepicker": {

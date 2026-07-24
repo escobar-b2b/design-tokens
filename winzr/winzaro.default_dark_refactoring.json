@@ -2445,12 +2445,6 @@
           "type": "color"
         }
       },
-      "line": {
-        "banner": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        }
-      },
       "item": {
         "normal": {
           "content": {
@@ -2483,65 +2477,9 @@
           }
         },
         "banner": {
-          "content": {
-            "default": {
-              "value": "{semantic.text.banner-cart.secondary}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.text.disabled.primary}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.brand-30.100}",
-              "type": "color"
-            }
-          },
           "border": {
             "active": {
               "value": "{core.white.a100}",
-              "type": "color"
-            }
-          }
-        },
-        "section": {
-          "content": {
-            "default": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.text.disabled.primary}",
-              "type": "color"
-            }
-          },
-          "fill": {
-            "default": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.white.a0}",
               "type": "color"
             }
           }

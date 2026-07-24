@@ -2533,10 +2533,6 @@
         "background": {
           "slider-dots": {
             "inactive": {
-              "fill": {
-                "value": "{core.grey.500}",
-                "type": "color"
-              },
               "active": {
                 "value": "{semantic.gradients.7}",
                 "type": "color"
@@ -2547,14 +2543,6 @@
             "value": "{core.white.a8}",
             "type": "color"
           }
-        }
-      }
-    },
-    "slider": {
-      "carousel": {
-        "dots": {
-          "value": "{core.white.a20}",
-          "type": "color"
         }
       }
     },
@@ -2668,38 +2656,6 @@
         },
         "border": {
           "value": "{semantic.divider.default.primary}",
-          "type": "color"
-        }
-      }
-    },
-    "status-icon": {
-      "success": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.validation.success.a10} 0%, {core.validation.success.a0} 100%)",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.validation.success.500}",
-          "type": "color"
-        }
-      },
-      "error": {
-        "icon": {
-          "value": "{core.validation.danger.500}",
-          "type": "color"
-        },
-        "fill": {
-          "value": "linear-gradient(180deg, {core.validation.danger.a10} 0%, {core.validation.danger.a0} 100%)",
-          "type": "color"
-        }
-      },
-      "warning": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.validation.warning.a10} 0%, {core.validation.warning.a0} 100%)",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.validation.warning.500}",
           "type": "color"
         }
       }

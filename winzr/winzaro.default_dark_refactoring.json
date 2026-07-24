@@ -3734,10 +3734,6 @@
         "on-brand-secondary": {
           "value": "{core.brand-60.700}",
           "type": "color"
-        },
-        "on-brand-tertiary": {
-          "value": "{semantic.background.2}",
-          "type": "color"
         }
       },
       "banner-cart": {

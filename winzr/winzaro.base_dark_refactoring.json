@@ -1844,6 +1844,10 @@
         "type": "color",
         "description": "+ for icons, some dropdowns"
       },
+      "5": {
+        "value": "{core.grey.a30}",
+        "type": "color"
+      },
       "slate-1": {
         "value": "{core.grey.700}",
         "type": "color",

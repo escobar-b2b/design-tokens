@@ -663,13 +663,6 @@
           }
         }
       },
-      "zero-block": {
-        "border": {
-          "value": "{core.brand-10.100}",
-          "type": "color",
-          "description": "zero block border"
-        }
-      },
       "tabs": {
         "fill": {
           "value": "{core.grey.700}",
@@ -678,10 +671,6 @@
         "state-2": {
           "fill": {
             "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a25}",
             "type": "color"
           }
         }

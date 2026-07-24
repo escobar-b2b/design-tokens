@@ -1590,10 +1590,6 @@
       },
       "tabs-balance": {
         "icon": {
-          "fill": {
-            "value": "{core.brand-30.100}",
-            "type": "color"
-          },
           "bg": {
             "value": "{core.brand-30.a30}",
             "type": "color"
@@ -1643,10 +1639,6 @@
           "value": "{core.additionals.gold}",
           "type": "color"
         }
-      },
-      "slate1": {
-        "value": "{core.white.a100}",
-        "type": "color"
       }
     },
     "progress-bar": {
@@ -1672,10 +1664,6 @@
           }
         },
         "static": {
-          "track": {
-            "value": "{core.white.a50}",
-            "type": "color"
-          },
           "container": {
             "value": "{core.white.a20}",
             "type": "color"
@@ -1811,20 +1799,11 @@
           "default": {
             "value": "{semantic.text.default.secondary}",
             "type": "color"
-          },
-          "disabled": {
-            "value": "{core.white.a25}",
-            "type": "color"
           }
         },
         "validation-text": {
           "value": "{semantic.status.error.text.primary}",
           "type": "color"
-        },
-        "action-right": {
-          "value": "{core.brand-30.500}",
-          "type": "color",
-          "description": "clear"
         }
       },
       "fill": {
@@ -1857,10 +1836,6 @@
           },
           "validation": {
             "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{core.brand-30.600}",
             "type": "color"
           }
         }
@@ -1898,10 +1873,6 @@
         },
         "tertiary": {
           "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.a25}",
           "type": "color"
         }
       }

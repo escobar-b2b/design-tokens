@@ -1986,20 +1986,6 @@
       }
     },
     "tag": {
-      "text": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.a25}",
-          "type": "color"
-        }
-      },
       "fill": {
         "default": {
           "value": "{core.white.a0}",
@@ -2011,20 +1997,6 @@
         },
         "disabled": {
           "value": "{core.white.a0}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{semantic.icon.default.secondary}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.icon.default.secondary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.a25}",
           "type": "color"
         }
       },

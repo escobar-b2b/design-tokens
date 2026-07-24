@@ -1696,38 +1696,10 @@
         "type": "color",
         "description": "basic.silver"
       },
-      "silver-a25": {
-        "value": "{core.additionals.silver}",
-        "type": "color",
-        "description": "basic.silver",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.25",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "bronze": {
         "value": "#EB7F44",
         "type": "color",
         "description": "basic.bronze"
-      },
-      "bronze-a25": {
-        "value": "{core.additionals.bronze}",
-        "type": "color",
-        "description": "basic.bronze",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.25",
-              "space": "lch"
-            }
-          }
-        }
       },
       "vip": {
         "value": "#FFC94B",
@@ -1738,20 +1710,6 @@
         "value": "#F09C15",
         "type": "color",
         "description": "vip"
-      },
-      "gold-a25": {
-        "value": "{core.additionals.gold}",
-        "type": "color",
-        "description": "vip",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.25",
-              "space": "lch"
-            }
-          }
-        }
       }
     },
     "brand-preset": {

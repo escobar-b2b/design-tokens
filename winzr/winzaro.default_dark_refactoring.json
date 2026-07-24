@@ -286,14 +286,6 @@
         "description": "contextual.header.desktop.special-menu-item"
       }
     },
-    "slider": {
-      "carousel": {
-        "dots": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius"
-        }
-      }
-    },
     "wheel": {
       "block": {
         "value": "{border-radius.core.full}",

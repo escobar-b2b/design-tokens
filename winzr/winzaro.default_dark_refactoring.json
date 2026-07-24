@@ -879,42 +879,6 @@
             }
           }
         }
-      },
-      "illustration": {
-        "background": {
-          "fill": {
-            "value": "{core.grey.800}",
-            "type": "color"
-          },
-          "fill-2": {
-            "value": "{core.grey.600}",
-            "type": "color"
-          }
-        },
-        "elements": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{core.white.a80}",
-            "type": "color"
-          },
-          "tertiary": {
-            "value": "{core.white.a30}",
-            "type": "color"
-          },
-          "blured-elements": {
-            "value": "{core.white.a10}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        }
       }
     },
     "hall-of-fame": {
@@ -968,10 +932,6 @@
             "value": "{core.white.a20}",
             "type": "color"
           }
-        },
-        "slate-on-card": {
-          "value": "{core.white.a8}",
-          "type": "color"
         },
         "nornal": {
           "fiill": {
@@ -1228,10 +1188,6 @@
       },
       "status-widget": {
         "background": {
-          "fill": {
-            "value": "{core.brand-30.800}",
-            "type": "color"
-          },
           "slate": {
             "value": "{semantic.background.slate-for-cards}",
             "type": "color"

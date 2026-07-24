@@ -4238,10 +4238,6 @@
           "primary": {
             "value": "{core.validation.warning.500}",
             "type": "color"
-          },
-          "secondary": {
-            "value": "{core.validation.warning.500}",
-            "type": "color"
           }
         },
         "bg": {
@@ -4264,10 +4260,6 @@
       "success": {
         "text": {
           "primary": {
-            "value": "{core.validation.success.500}",
-            "type": "color"
-          },
-          "secondary": {
             "value": "{core.validation.success.500}",
             "type": "color"
           }
@@ -4294,10 +4286,6 @@
           "primary": {
             "value": "{core.validation.danger.500}",
             "type": "color"
-          },
-          "secondary": {
-            "value": "{core.validation.danger.500}",
-            "type": "color"
           }
         },
         "bg": {
@@ -4321,10 +4309,6 @@
         "text": {
           "primary": {
             "value": "{core.validation.info.400}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{core.validation.info.600}",
             "type": "color"
           }
         },

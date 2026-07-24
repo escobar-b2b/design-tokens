@@ -80,6 +80,14 @@
           "description": "contextual.header.desktop.special-menu-item"
         }
       }
+    },
+    "menu": {
+      "list-prime": {
+        "large": {
+          "value": "24px",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "text": {
@@ -1752,11 +1760,6 @@
             }
           }
         }
-      },
-      "pending": {
-        "value": "#E5BF00",
-        "type": "color",
-        "description": "pending"
       }
     },
     "brand-preset": {

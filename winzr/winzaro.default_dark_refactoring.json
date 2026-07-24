@@ -1300,20 +1300,6 @@
           "type": "color"
         }
       },
-      "sport": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "radial-gradient(140% 134% at 93% 4%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
-              "type": "color"
-            },
-            "hover": {
-              "value": "radial-gradient(140% 134% at 93% 4%, {core.brand-preset.for-gradients.5} 0%, {core.brand-60.700} 50%)",
-              "type": "color"
-            }
-          }
-        }
-      },
       "winning-now": {
         "item": {
           "fill": {
@@ -2679,10 +2665,6 @@
             "value": "{core.grey.a10}",
             "type": "color"
           }
-        },
-        "text": {
-          "value": "{core.brand-preset.validation.warning}",
-          "type": "color"
         }
       }
     },

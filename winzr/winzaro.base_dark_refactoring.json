@@ -80,14 +80,6 @@
           "description": "contextual.header.desktop.special-menu-item"
         }
       }
-    },
-    "menu": {
-      "list-prime": {
-        "large": {
-          "value": "24px",
-          "type": "borderRadius"
-        }
-      }
     }
   },
   "text": {

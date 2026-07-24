@@ -2632,10 +2632,6 @@
           "active": {
             "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} , {core.grey.900} )",
             "type": "color"
-          },
-          "gradient": {
-            "value": "radial-gradient(81.61% 42.03% at 0% 0%, rgba(255, 124, 15, 0.10) 0%, rgba(23, 26, 40, 0.10) 100%)",
-            "type": "color"
           }
         },
         "tabs": {
@@ -3927,10 +3923,6 @@
     "uppercase": {
       "value": "uppercase",
       "type": "textCase"
-    },
-    "capitalize": {
-      "value": "capitalize",
-      "type": "textCase"
     }
   },
   "text": {
@@ -4860,63 +4852,11 @@
     "4000": {
       "value": "160",
       "type": "spacing"
-    },
-    "m100": {
-      "value": "-4",
-      "type": "spacing"
-    },
-    "m200": {
-      "value": "-8",
-      "type": "spacing"
-    },
-    "m300": {
-      "value": "-12",
-      "type": "spacing"
-    },
-    "m400": {
-      "value": "-16",
-      "type": "spacing"
-    },
-    "m600": {
-      "value": "-24",
-      "type": "spacing"
     }
   },
   "opacity": {
-    "10": {
-      "value": "0.1",
-      "type": "opacity"
-    },
-    "20": {
-      "value": "0.2",
-      "type": "opacity"
-    },
-    "30": {
-      "value": "0.3",
-      "type": "opacity"
-    },
-    "40": {
-      "value": "0.4",
-      "type": "opacity"
-    },
     "50": {
       "value": "0.5",
-      "type": "opacity"
-    },
-    "60": {
-      "value": "0.6",
-      "type": "opacity"
-    },
-    "70": {
-      "value": "0.7",
-      "type": "opacity"
-    },
-    "80": {
-      "value": "0.8",
-      "type": "opacity"
-    },
-    "90": {
-      "value": "0.9",
       "type": "opacity"
     },
     "mobile-application": {
@@ -5032,20 +4972,6 @@
       "type": "dimension"
     }
   },
-  "border-width": {
-    "0": {
-      "value": "0",
-      "type": "borderWidth"
-    },
-    "025": {
-      "value": "1",
-      "type": "borderWidth"
-    },
-    "050": {
-      "value": "2",
-      "type": "borderWidth"
-    }
-  },
   "icon": {
     "size": {
       "xs": {
@@ -5076,12 +5002,6 @@
         "value": "{size.800}",
         "type": "sizing"
       }
-    }
-  },
-  "letter-spacing": {
-    "2": {
-      "value": "2%",
-      "type": "letterSpacing"
     }
   },
   "size": {
@@ -5368,18 +5288,6 @@
           "type": "spacing"
         }
       }
-    }
-  },
-  "welcome-bonus": {
-    "tabs": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{Medium}",
-        "fontSize": "10px",
-        "lineHeight": "9px",
-        "letterSpacing": "3%"
-      },
-      "type": "typography"
     }
   },
   "link": {

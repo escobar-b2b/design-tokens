@@ -4349,16 +4349,6 @@
             "value": "{core.brand-60.100}",
             "type": "color"
           }
-        },
-        "icon": {
-          "secondary": {
-            "value": "{core.validation.info.500}",
-            "type": "color"
-          },
-          "primary": {
-            "value": "{core.validation.info.600}",
-            "type": "color"
-          }
         }
       }
     },
@@ -4397,19 +4387,11 @@
         "on-brand-secondary": {
           "value": "{core.white.a100}",
           "type": "color"
-        },
-        "on-brand-tertiary": {
-          "value": "{core.white.a100}",
-          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{core.white.a25}",
-          "type": "color"
-        },
-        "brand": {
-          "value": "{core.brand-10.a30}",
           "type": "color"
         },
         "on-brand": {
@@ -4572,14 +4554,6 @@
       "default": {
         "default": {
           "value": "{core.white.a20}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.white.a0}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.white.a0}",
           "type": "color"
         },
         "disabled": {

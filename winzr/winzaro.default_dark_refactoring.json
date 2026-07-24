@@ -2858,12 +2858,6 @@
           "type": "color"
         }
       },
-      "price": {
-        "border": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
-        }
-      },
       "card": {
         "border": {
           "default": {
@@ -3275,49 +3269,6 @@
       }
     },
     "toggle-button": {
-      "card": {
-        "fill": {
-          "hover": {
-            "value": "{core.brand-60.500}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
-        },
-        "border": {
-          "normal": {
-            "value": "{contextual.button.secondary.border-color.default}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{contextual.button.secondary.border-color.hover}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
-        },
-        "text": {
-          "normal": {
-            "value": "{contextual.button.secondary.text.default}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{contextual.button.secondary.text.hover}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{contextual.button.secondary.text.active}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
-        }
-      },
       "popup": {
         "fill": {
           "normal": {
@@ -4883,17 +4834,6 @@
       "value": "{shadow.drop.ml}",
       "type": "boxShadow"
     },
-    "card-carousel": {
-      "value": {
-        "x": "0px",
-        "y": "12px",
-        "blur": "40px",
-        "spread": "0px",
-        "color": "{core.grey.900}",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    },
     "tooltip": {
       "value": [
         {
@@ -5044,23 +4984,6 @@
           }
         ],
         "type": "boxShadow"
-      }
-    },
-    "shop": {
-      "price": {
-        "active": {
-          "value": [
-            {
-              "x": "0",
-              "y": "0px",
-              "blur": "4px",
-              "spread": "0",
-              "color": "{core.brand-10.600}",
-              "type": "innerShadow"
-            }
-          ],
-          "type": "boxShadow"
-        }
       }
     },
     "button": {
@@ -5466,18 +5389,6 @@
           "type": "boxShadow"
         }
       }
-    }
-  },
-  "Toggle-button": {
-    "normal": {
-      "value": "{text.md}",
-      "type": "typography",
-      "description": "contextual.lootboxes.coefficient"
-    },
-    "hover": {
-      "value": "{text.md-stronger}",
-      "type": "typography",
-      "description": "contextual.lootboxes.coefficient"
     }
   }
 }

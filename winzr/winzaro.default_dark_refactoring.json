@@ -2410,17 +2410,9 @@
         }
       },
       "bullets": {
-        "background": {
-          "slider-dots": {
-            "inactive": {
-              "active": {
-                "value": "{semantic.gradients.7}",
-                "type": "color"
-              }
-            }
-          },
+        "active": {
           "fill": {
-            "value": "{core.white.a8}",
+            "value": "linear-gradient(180deg, {core.brand-10.500a0} 0%, {core.brand-10.500a0} 50%, {core.brand-10.500} 100%)",
             "type": "color"
           }
         }

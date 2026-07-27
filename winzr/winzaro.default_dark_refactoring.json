@@ -787,26 +787,6 @@
         }
       }
     },
-    "verification": {
-      "verification-status": {
-        "check": {
-          "text": {
-            "AI-check": {
-              "value": "{core.grey.700}",
-              "type": "color"
-            }
-          }
-        },
-        "loading": {
-          "background": {
-            "fill": {
-              "value": "{semantic.background.5}",
-              "type": "color"
-            }
-          }
-        }
-      }
-    },
     "hall-of-fame": {
       "text": {
         "gold": {

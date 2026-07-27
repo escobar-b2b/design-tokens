@@ -1089,14 +1089,6 @@
           }
         }
       },
-      "status-widget": {
-        "background": {
-          "slate": {
-            "value": "{semantic.background.slate-for-cards}",
-            "type": "color"
-          }
-        }
-      },
       "slider": {
         "payment-block": {
           "background": {
@@ -1408,18 +1400,7 @@
           }
         }
       },
-      "header": {
-        "fill": {
-          "value": "{semantic.background.slate-2}",
-          "type": "color"
-        }
-      },
       "loyalty_points": {
-        "fill": {
-          "value": "{semantic.gradients.7}",
-          "type": "color",
-          "description": "contextual.profile.loyalty_points.fill"
-        },
         "points": {
           "slate-1": {
             "fill": {
@@ -1487,14 +1468,6 @@
           },
           "default": {
             "value": "{core.white.a0}",
-            "type": "color"
-          }
-        }
-      },
-      "tabs-balance": {
-        "icon": {
-          "bg": {
-            "value": "{core.brand-30.a30}",
             "type": "color"
           }
         }
@@ -1719,28 +1692,6 @@
             "value": "{core.grey.800}",
             "type": "color"
           }
-        },
-        "secondary": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
-          },
-          "filled": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
-          },
-          "validation": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
-          }
         }
       },
       "border-color": {
@@ -1768,10 +1719,6 @@
       "icon": {
         "primary": {
           "value": "{semantic.icon.default.tertiary}",
-          "type": "color"
-        },
-        "secodary": {
-          "value": "{semantic.icon.default.secondary}",
           "type": "color"
         },
         "tertiary": {
@@ -1848,18 +1795,6 @@
         },
         "border": {
           "value": "{core.white.a15}",
-          "type": "color"
-        }
-      }
-    },
-    "special-menu-item": {
-      "fill": {
-        "default": {
-          "value": "{semantic.background.3}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.background.2}",
           "type": "color"
         }
       }

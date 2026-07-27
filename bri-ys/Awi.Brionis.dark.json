@@ -2112,6 +2112,14 @@
           "not-filled": {
             "value": "{core.brand-10.a30}",
             "type": "color"
+          },
+          "direction-fill1": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          },
+          "direction-fill2": {
+            "value": "{core.brand-60.300}",
+            "type": "color"
           }
         }
       },
@@ -2123,6 +2131,20 @@
         "fill": {
           "value": "{core.brand-10.a5}",
           "type": "color"
+        }
+      },
+      "points": {
+        "active": {
+          "fill": {
+            "value": "{core.brand-60.50}",
+            "type": "color"
+          }
+        },
+        "default": {
+          "border": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          }
         }
       }
     },
@@ -3902,7 +3924,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{semantic.text.brand.primary}",
           "type": "color"
         }
       },

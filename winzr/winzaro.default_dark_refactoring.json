@@ -2333,12 +2333,6 @@
       }
     },
     "tabs": {
-      "general": {
-        "bg": {
-          "value": "{core.brand-60.a15}",
-          "type": "color"
-        }
-      },
       "item": {
         "normal": {
           "content": {
@@ -2364,14 +2358,6 @@
               "value": "{core.white.a0}",
               "type": "color"
             },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
-          }
-        },
-        "banner": {
-          "border": {
             "active": {
               "value": "{core.white.a100}",
               "type": "color"

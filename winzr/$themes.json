@@ -2180,7 +2180,9 @@
       "shadow.semantic.inner.accent-60": "S:ea34a034aedbf700746129fb6dc44e352999b275,",
       "shadow.semantic.inner.secondary-60": "S:44a2ac815573fb379213c60ee1a6a2420f75d78f,",
       "shadow.semantic.inner.placeholder": "S:8a90a101d839af0681ed29a8dee17b65850d9a3d,",
-      "contextual.vip-club.bullets.active.fill": "S:d72dcf7420b95710fecb8d285bf75803f24d7def,"
+      "contextual.vip-club.bullets.active.fill": "S:d72dcf7420b95710fecb8d285bf75803f24d7def,",
+      "contextual.achivments.card.border.progress": "S:fb508d3eb732b3ad7618f2e206fbe444ada9843c,",
+      "contextual.achivments.card.border.received": "S:e405d45cfb1f2d2b64af38c55a82ff353cd73724,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

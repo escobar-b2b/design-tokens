@@ -4124,12 +4124,6 @@
     "slate-on-card": {
       "value": "24px",
       "type": "dimension"
-    },
-    "profile": {
-      "header": {
-        "value": "20px",
-        "type": "dimension"
-      }
     }
   },
   "depth": {

@@ -3605,6 +3605,22 @@
           }
         }
       },
+      "pending": {
+        "bg": {
+          "primary": {
+            "value": "{core.validation.warning.600}",
+            "type": "color"
+          }
+        }
+      },
+      "declined": {
+        "bg": {
+          "primary": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          }
+        }
+      },
       "success": {
         "text": {
           "primary": {

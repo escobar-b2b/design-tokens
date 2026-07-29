@@ -921,38 +921,6 @@
           "value": "{core.brand-preset.for-gradients.1}",
           "type": "color"
         }
-      },
-      "border": {
-        "value": "{core.grey.a8}",
-        "type": "color"
-      },
-      "close": {
-        "value": "{semantic.icon.default.tertiary}",
-        "type": "color"
-      },
-      "text": {
-        "primary": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{semantic.text.default.tertiary}",
-          "type": "color"
-        }
-      },
-      "toast": {
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "devider": {
-        "value": "{core.grey.a10}",
-        "type": "color"
       }
     },
     "card": {

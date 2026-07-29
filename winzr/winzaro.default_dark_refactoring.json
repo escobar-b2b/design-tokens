@@ -2800,11 +2800,6 @@
           "value": "{core.validation.danger.600}",
           "type": "color",
           "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "text": {
@@ -2822,31 +2817,11 @@
           "value": "{semantic.gradients.7}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "sale": {
         "fill": {
           "value": "linear-gradient(225deg, {core.validation.danger.500} 0%, {core.validation.danger.700} 100%)",
-          "type": "color",
-          "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
           "type": "color",
           "description": "badge"
         }
@@ -2856,16 +2831,6 @@
           "value": "linear-gradient(89deg, {core.brand-30.600a25} 38%, {core.brand-30.a30} 100%)",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a70}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "secondary": {
@@ -2873,16 +2838,6 @@
           "value": "linear-gradient(225deg, {core.brand-preset.for-gradients.3} 0%, {core.brand-preset.for-gradients.2} 100%)",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
         }
       },
       "third": {
@@ -2890,16 +2845,6 @@
           "value": "linear-gradient(225deg, {core.brand-60.300} 0%, {core.brand-60.500} 100%)",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
         }
       },
       "fourth": {
@@ -2907,16 +2852,6 @@
           "value": "linear-gradient(225deg, {core.brand-30.100} 0%, {core.brand-60.600} 100%)",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
         }
       },
       "fifth": {
@@ -2924,16 +2859,6 @@
           "value": "{semantic.gradients.10}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge "
         }
       }
     },

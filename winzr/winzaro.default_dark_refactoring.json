@@ -2801,16 +2801,21 @@
           "type": "color",
           "description": "badge"
         },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
         "icon": {
           "value": "{core.white.a100}",
           "type": "color",
           "description": "badge"
         }
+      },
+      "text": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "description": "badge"
+      },
+      "icon": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "description": "badge"
       },
       "primary": {
         "fill": {

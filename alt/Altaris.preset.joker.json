@@ -4312,6 +4312,12 @@
           "type": "color"
         }
       },
+      "block": {
+        "fill": {
+          "value": "{core.grey.a5}",
+          "type": "color"
+        }
+      },
       "pop-up": {
         "background": {
           "value": "{core.white.a0}",
@@ -4599,7 +4605,7 @@
             }
           },
           "filled": {
-            "value": "{core.brand-60.200}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },

@@ -3637,11 +3637,11 @@
           }
         },
         "bg": {
-          "secondary": {
+          "primary": {
             "value": "{core.validation.danger.500}",
             "type": "color"
           },
-          "primary": {
+          "secondary": {
             "value": "{core.validation.danger.a20}",
             "type": "color"
           }

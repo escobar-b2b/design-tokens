@@ -5318,7 +5318,7 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.gradients.8}",
+            "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-60.900} 100%)",
             "type": "color"
           }
         },

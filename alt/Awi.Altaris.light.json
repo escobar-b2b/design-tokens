@@ -5592,6 +5592,10 @@
             "hover-active": {
               "value": "{core.white.a100}",
               "type": "color"
+            },
+            "favorite": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
             }
           },
           "fill": {

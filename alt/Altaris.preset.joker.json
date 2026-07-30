@@ -5776,6 +5776,10 @@
               "value": "{core.brand-60.400}",
               "type": "color"
             },
+            "favorite": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
+            },
             "hover-active": {
               "value": "{core.white.a100}",
               "type": "color"

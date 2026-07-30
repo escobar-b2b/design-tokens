@@ -6481,7 +6481,11 @@
       "semantic.background.slate-3": "S:b565118f13289991964c0eb6406ffec6ae04de5d,",
       "contextual.lootboxes.card.border": "S:3078d401f6d1f0df525129beed3c307272d85155,",
       "contextual.progress-bar.normal.primary.text": "S:29a2263ac780ff0c7dafdabe76acdffee5730569,",
-      "heading.xxl": "S:0ca2d132f41d08ab2682d0bac8bfbd0482319263,"
+      "heading.xxl": "S:0ca2d132f41d08ab2682d0bac8bfbd0482319263,",
+      "contextual.verification.illustration.background.fill-2": "S:e37802c521d6d56bfad4271f1117d6068227547a,",
+      "contextual.verification.illustration.elements.blured-elements": "S:0f957081820077b826afe83518c99896b8974bc9,",
+      "contextual.verification.illustration.text.primary": "S:ef0acba03b272dddec8649374853201f6aea6e9b,",
+      "contextual.loyalty.block.fill": "S:8f53ca9ea4049237ecbd20ca0fb3cf16934aa387,"
     },
     "$figmaVariableReferences": {
       "main": "8857d3a176488155aede40f58b0b056c4b2819d3",

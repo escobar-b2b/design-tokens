@@ -2146,7 +2146,7 @@
       },
       "block": {
         "fill": {
-          "value": "{core.white.a5}",
+          "value": "{core.grey.a5}",
           "type": "color"
         }
       }

@@ -4348,6 +4348,12 @@
             "type": "color"
           }
         }
+      },
+      "block": {
+        "fill": {
+          "value": "{core.grey.a5}",
+          "type": "color"
+        }
       }
     },
     "accordion": {

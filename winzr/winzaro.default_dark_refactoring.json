@@ -765,25 +765,6 @@
         "divider": {
           "value": "{core.grey.a20}",
           "type": "color"
-        },
-        "vip-bet-amount": {
-          "fill": {
-            "value": "{semantic.background.brand.primary.default}",
-            "type": "color",
-            "description": "vip bet amount"
-          },
-          "text": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "vip bet amount"
-          },
-          "active": {
-            "border": {
-              "value": "{semantic.border.brand.primary.default}",
-              "type": "color",
-              "description": "vip bet amount"
-            }
-          }
         }
       }
     },

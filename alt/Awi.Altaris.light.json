@@ -4044,7 +4044,7 @@
     },
     "pregame": {
       "overlay": {
-        "value": "{core.grey.a30}",
+        "value": "{core.white.a40}",
         "type": "color"
       },
       "background": {

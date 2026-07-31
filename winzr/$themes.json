@@ -2226,7 +2226,10 @@
       "contextual.achievements.card.border.default": "S:08ce1519bebc861673c52c9b7770f52c69fad162,",
       "contextual.achievements.card.border.progress": "S:0e30b58be3264294afd353b6dac350495fa01f05,",
       "contextual.achievements.card.border.received": "S:443be33b8ecf0bf0532e34ef93e481a91d6a83e6,",
-      "contextual.achievements.banner.fill": "S:06a38f4bc6616b663e5c28415f45b51ae9563fa6,"
+      "contextual.achievements.banner.fill": "S:06a38f4bc6616b663e5c28415f45b51ae9563fa6,",
+      "contextual.nav-menu.item.fill.default": "S:67e2550b64173d5eb57fbd676e6f8de021d339bb,",
+      "contextual.nav-menu.item.fill.hover": "S:0d585e96b0776d816b6546bf6e2923fa96861981,",
+      "contextual.nav-menu.item.fill.active": "S:0d77c272d6b709dcb0f0d95be675007852d82729,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

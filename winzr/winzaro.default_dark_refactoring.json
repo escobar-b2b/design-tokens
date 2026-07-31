@@ -654,13 +654,6 @@
             "type": "color",
             "description": "Tiket"
           }
-        },
-        "bage": {
-          "fill": {
-            "value": "{core.grey.500}",
-            "type": "color",
-            "description": "Tiket"
-          }
         }
       },
       "tabs": {
@@ -968,25 +961,25 @@
         }
       }
     },
-    "homepage": {
-      "nav-menu": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{core.grey.500}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{core.grey.600}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
+    "nav-menu": {
+      "item": {
+        "fill": {
+          "default": {
+            "value": "{core.grey.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.grey.600}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a100}",
+            "type": "color"
           }
         }
-      },
+      }
+    },
+    "homepage": {
       "slider": {
         "payment-block": {
           "background": {

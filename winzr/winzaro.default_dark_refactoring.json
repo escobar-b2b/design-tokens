@@ -436,19 +436,19 @@
         },
         "border-color": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         }
@@ -492,19 +492,19 @@
         },
         "border-color": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         }
@@ -769,11 +769,11 @@
       "player-number": {
         "border": {
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         },
@@ -1388,15 +1388,15 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         },
@@ -1652,15 +1652,15 @@
           "border": {
             "selected": {
               "default": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               }
             },
@@ -1820,29 +1820,29 @@
           "border": {
             "selected": {
               "default": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               }
             },
             "unselected": {
               "default": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.white.a0}",
+                "value": "{semantic.divider.default.transparency}",
                 "type": "color"
               }
             }
@@ -1988,15 +1988,15 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "selected": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         }
@@ -2083,7 +2083,7 @@
       },
       "border": {
         "default": {
-          "value": "{core.white.a0}",
+          "value": "{semantic.divider.default.transparency}",
           "type": "color"
         },
         "active": {
@@ -2116,7 +2116,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.white.a0}",
+              "value": "{semantic.divider.default.transparency}",
               "type": "color"
             },
             "active": {
@@ -2208,7 +2208,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{semantic.divider.default.transparency}",
           "type": "color"
         },
         "item": {
@@ -2232,7 +2232,7 @@
           },
           "inform": {
             "border": {
-              "value": "{core.white.a0}",
+              "value": "{semantic.divider.default.transparency}",
               "type": "color"
             },
             "fill": {
@@ -2341,11 +2341,11 @@
         },
         "border": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "today": {
@@ -2353,11 +2353,11 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "selected": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         }
@@ -2460,7 +2460,7 @@
         }
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{semantic.divider.default.transparency}",
         "type": "color"
       }
     },
@@ -2522,7 +2522,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         }
@@ -3532,19 +3532,19 @@
       "brand": {
         "primary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{semantic.divider.default.transparency}",
             "type": "color"
           }
         },
@@ -3739,6 +3739,10 @@
         },
         "decoration": {
           "value": "linear-gradient(90deg, {core.white.a50} 44.11%, {core.white.a0} 100%)",
+          "type": "color"
+        },
+        "transparency": {
+          "value": "{core.white.a0}",
           "type": "color"
         }
       },

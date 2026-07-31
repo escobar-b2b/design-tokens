@@ -775,7 +775,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a30}",
+            "value": "{semantic.border.default.secondary}",
             "type": "color"
           },
           "progress": {

@@ -2221,7 +2221,12 @@
       "contextual.toggle-button.border.active": "S:956de83816ac2ff5a1f5ed860a945c0ae4f5d326,",
       "contextual.toggle-button.text.normal": "S:eb34f9107f85c7ab7c63f00a50ceea8f15942d53,",
       "contextual.toggle-button.text.hover": "S:25e051ede775550a9c501e355c221c8ebe9b0595,",
-      "contextual.toggle-button.text.active": "S:1d6415e761e10c903da8584a9bd267248d7c7b62,"
+      "contextual.toggle-button.text.active": "S:1d6415e761e10c903da8584a9bd267248d7c7b62,",
+      "contextual.achievements.card.fiill.default": "S:b4df54c907ccbd9af818a022987186f8a5737b3c,",
+      "contextual.achievements.card.border.default": "S:08ce1519bebc861673c52c9b7770f52c69fad162,",
+      "contextual.achievements.card.border.progress": "S:0e30b58be3264294afd353b6dac350495fa01f05,",
+      "contextual.achievements.card.border.received": "S:443be33b8ecf0bf0532e34ef93e481a91d6a83e6,",
+      "contextual.achievements.banner.fill": "S:06a38f4bc6616b663e5c28415f45b51ae9563fa6,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

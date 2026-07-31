@@ -756,16 +756,6 @@
       "bg": {
         "value": "{core.brand-30.900}",
         "type": "color"
-      },
-      "popup": {
-        "fill": {
-          "value": "{core.brand-60.800}",
-          "type": "color"
-        },
-        "divider": {
-          "value": "{core.grey.a20}",
-          "type": "color"
-        }
       }
     },
     "hall-of-fame": {
@@ -1082,51 +1072,51 @@
         "popup": {
           "fill": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.fill.normal}",
+              "value": "{contextual.toggle-button.fill.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.fill.hover}",
+              "value": "{contextual.toggle-button.fill.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.fill.active}",
+              "value": "{contextual.toggle-button.fill.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.border.normal}",
+              "value": "{contextual.toggle-button.border.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.border.hover}",
+              "value": "{contextual.toggle-button.border.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.border.active}",
+              "value": "{contextual.toggle-button.border.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.text.normal}",
+              "value": "{contextual.toggle-button.text.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.text.hover}",
+              "value": "{contextual.toggle-button.text.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.text.active}",
+              "value": "{contextual.toggle-button.text.active}",
               "type": "color",
               "description": "Lootboxes"
             }
@@ -2065,32 +2055,6 @@
           "background": {
             "value": "{core.grey.a30}",
             "type": "color"
-          },
-          "border": {
-            "active": {
-              "value": "{core.white.a0}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{semantic.text.static.primary}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.text.disabled.primary}",
-              "type": "color"
-            }
-          },
-          "fill": {
-            "active": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
           }
         },
         "text": {
@@ -2851,57 +2815,55 @@
       }
     },
     "toggle-button": {
-      "popup": {
-        "fill": {
-          "normal": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+      "fill": {
+        "normal": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "border": {
-          "normal": {
-            "value": "{core.white.a20}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{core.white.a40}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a20}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "hover": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "text": {
-          "normal": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{contextual.button.secondary.text.active}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "Toggle-button"
+        }
+      },
+      "border": {
+        "normal": {
+          "value": "{core.white.a20}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "hover": {
+          "value": "{core.white.a40}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "active": {
+          "value": "{core.white.a20}",
+          "type": "color",
+          "description": "Toggle-button"
+        }
+      },
+      "text": {
+        "normal": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "active": {
+          "value": "{contextual.button.secondary.text.active}",
+          "type": "color",
+          "description": "Toggle-button"
         }
       }
     }

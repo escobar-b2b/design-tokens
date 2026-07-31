@@ -1407,51 +1407,51 @@
         "popup": {
           "fill": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.fill.normal}",
+              "value": "{contextual.toggle-button.fill.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.fill.hover}",
+              "value": "{contextual.toggle-button.fill.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.fill.active}",
+              "value": "{contextual.toggle-button.fill.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "border": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.border.normal}",
+              "value": "{contextual.toggle-button.border.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.border.hover}",
+              "value": "{contextual.toggle-button.border.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.border.active}",
+              "value": "{contextual.toggle-button.border.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.toggle-button.popup.text.normal}",
+              "value": "{contextual.toggle-button.text.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.popup.text.hover}",
+              "value": "{contextual.toggle-button.text.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.popup.text.active}",
+              "value": "{contextual.toggle-button.text.active}",
               "type": "color",
               "description": "Lootboxes"
             }

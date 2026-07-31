@@ -2212,7 +2212,16 @@
       "heading.xl": "S:2ce77f942d95c92c7952e511759f52ee839af45b,",
       "heading.xxl": "S:071f7e14cae7f8a85872922ee129e6b016740e19,",
       "text.sm-stronger": "S:f0bf30fed02740e481cdb8059794226b40a1a74d,",
-      "heading.xxxl": "S:17f335af4e4d5cc18433a1475136514f0d445241,"
+      "heading.xxxl": "S:17f335af4e4d5cc18433a1475136514f0d445241,",
+      "contextual.toggle-button.fill.normal": "S:62cb79d3a9860ac875e119869a9cbf3a05699879,",
+      "contextual.toggle-button.fill.hover": "S:f9cc9ebaf2b2ef196d7fac7c8d714985f022a2b1,",
+      "contextual.toggle-button.fill.active": "S:45f7b5a771cdc7bff8a70535846da3f9e91379bb,",
+      "contextual.toggle-button.border.normal": "S:32de246d6efe1a00581d7c54a31cc931ff28a4ee,",
+      "contextual.toggle-button.border.hover": "S:557f6303dcb6fd29867ac01d8694512ce4dbe2bc,",
+      "contextual.toggle-button.border.active": "S:956de83816ac2ff5a1f5ed860a945c0ae4f5d326,",
+      "contextual.toggle-button.text.normal": "S:eb34f9107f85c7ab7c63f00a50ceea8f15942d53,",
+      "contextual.toggle-button.text.hover": "S:25e051ede775550a9c501e355c221c8ebe9b0595,",
+      "contextual.toggle-button.text.active": "S:1d6415e761e10c903da8584a9bd267248d7c7b62,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

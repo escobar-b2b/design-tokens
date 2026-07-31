@@ -2229,7 +2229,9 @@
       "contextual.achievements.banner.fill": "S:06a38f4bc6616b663e5c28415f45b51ae9563fa6,",
       "contextual.nav-menu.item.fill.default": "S:67e2550b64173d5eb57fbd676e6f8de021d339bb,",
       "contextual.nav-menu.item.fill.hover": "S:0d585e96b0776d816b6546bf6e2923fa96861981,",
-      "contextual.nav-menu.item.fill.active": "S:0d77c272d6b709dcb0f0d95be675007852d82729,"
+      "contextual.nav-menu.item.fill.active": "S:0d77c272d6b709dcb0f0d95be675007852d82729,",
+      "semantic.border.default.secondary": "S:564177346a28f219073c154f745420a16caa5ad6,",
+      "semantic.divider.default.transparency": "S:98aa629309850572b8c0afb7ceedf5ed8786c679,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

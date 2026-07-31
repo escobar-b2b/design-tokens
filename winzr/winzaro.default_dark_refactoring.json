@@ -587,30 +587,6 @@
           }
         }
       },
-      "top-inner-page": {
-        "text": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Top Inner Page"
-          },
-          "secondary": {
-            "value": "{core.white.a80}",
-            "type": "color"
-          }
-        },
-        "results": {
-          "fill": {
-            "value": "{core.white.a10}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a10}",
-            "type": "color",
-            "description": "Top Inner Page"
-          }
-        }
-      },
       "ticket": {
         "background": {
           "fill": {
@@ -2444,10 +2420,6 @@
       "value": "{core.grey.a50}",
       "type": "color"
     },
-    "divider": {
-      "value": "{core.brand-60.a15}",
-      "type": "color"
-    },
     "footer": {
       "fill": {
         "value": "{core.brand-60.900}",
@@ -2463,10 +2435,6 @@
         "value": "{semantic.divider.default.transparency}",
         "type": "color"
       }
-    },
-    "divider2": {
-      "value": "{core.white.a8}",
-      "type": "color"
     },
     "news": {
       "card": {
@@ -3616,6 +3584,10 @@
       "default": {
         "default": {
           "value": "{core.white.a20}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "disabled": {

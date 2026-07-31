@@ -665,7 +665,7 @@
           "description": "status-inactive"
         },
         "border": {
-          "value": "{core.white.a15}",
+          "value": "{semantic.border.default.secondary}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -984,114 +984,6 @@
       }
     },
     "lootboxes": {
-      "coefficient": {
-        "card": {
-          "fill": {
-            "normal": {
-              "value": "{core.brand-30.500a60}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.card.fill.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{core.brand-60.600}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          },
-          "border": {
-            "normal": {
-              "value": "{contextual.toggle-button.card.border.normal}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.card.border.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{contextual.toggle-button.card.border.active}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          },
-          "text": {
-            "normal": {
-              "value": "{contextual.toggle-button.card.text.normal}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.card.text.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{contextual.toggle-button.card.text.active}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          }
-        },
-        "popup": {
-          "fill": {
-            "normal": {
-              "value": "{contextual.toggle-button.fill.normal}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.fill.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{contextual.toggle-button.fill.active}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          },
-          "border": {
-            "normal": {
-              "value": "{contextual.toggle-button.border.normal}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.border.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{contextual.toggle-button.border.active}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          },
-          "text": {
-            "normal": {
-              "value": "{contextual.toggle-button.text.normal}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "hover": {
-              "value": "{contextual.toggle-button.text.hover}",
-              "type": "color",
-              "description": "Lootboxes"
-            },
-            "active": {
-              "value": "{contextual.toggle-button.text.active}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          }
-        }
-      },
       "popup": {
         "prize": {
           "item": {

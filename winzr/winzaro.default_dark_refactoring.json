@@ -547,41 +547,13 @@
       }
     },
     "lottery-tournament": {
-      "tiket-number": {
+      "ticket-number": {
         "border": {
           "default": {
             "value": "{core.white.a100}",
             "type": "color"
           }
-        }
-      },
-      "players-prizes": {
-        "fill": {
-          "even": {
-            "value": "{core.grey.700}",
-            "type": "color"
-          },
-          "odd": {
-            "value": "{core.grey.800}",
-            "type": "color"
-          }
-        }
-      },
-      "ticket": {
-        "background": {
-          "fill": {
-            "value": "{semantic.gradients.3}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "border": {
-            "value": "{core.grey.400}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "ticket-number": {
+        },
         "text": {
           "default": {
             "value": "{semantic.text.default.primary}",
@@ -607,6 +579,32 @@
           },
           "winning": {
             "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
+      "players-prizes": {
+        "fill": {
+          "even": {
+            "value": "{core.grey.700}",
+            "type": "color"
+          },
+          "odd": {
+            "value": "{core.grey.800}",
+            "type": "color"
+          }
+        }
+      },
+      "ticket": {
+        "background": {
+          "fill": {
+            "value": "{semantic.gradients.3}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "border": {
+            "value": "{core.grey.400}",
             "type": "color",
             "description": "Tiket"
           }

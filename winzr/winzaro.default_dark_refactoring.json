@@ -58,32 +58,6 @@
     }
   },
   "border-radius": {
-    "core": {
-      "0": {
-        "value": "0",
-        "type": "borderRadius"
-      },
-      "100": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "200": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "300": {
-        "value": "12",
-        "type": "borderRadius"
-      },
-      "400": {
-        "value": "16",
-        "type": "borderRadius"
-      },
-      "full": {
-        "value": "9999",
-        "type": "borderRadius"
-      }
-    },
     "switcher": {
       "general": {
         "value": "{border-radius.core.full}",
@@ -279,13 +253,6 @@
         }
       }
     },
-    "header": {
-      "special-menu-item": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius",
-        "description": "contextual.header.desktop.special-menu-item"
-      }
-    },
     "wheel": {
       "block": {
         "value": "{border-radius.core.full}",
@@ -336,6 +303,19 @@
       "tabs": {
         "value": "{border-radius.button.lg}",
         "type": "borderRadius"
+      }
+    },
+    "header": {
+      "general": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      },
+      "desktop": {
+        "special-menu-item": {
+          "value": "{border-radius.core.300}",
+          "type": "borderRadius",
+          "description": "contextual.header.desktop.special-menu-item"
+        }
       }
     }
   },
@@ -3609,55 +3589,55 @@
   },
   "spacing": {
     "0": {
-      "value": "0",
+      "value": "{dimension.0}",
       "type": "spacing"
     },
     "50": {
-      "value": "2",
+      "value": "{dimension.0-5}",
       "type": "spacing"
     },
     "100": {
-      "value": "4",
+      "value": "{dimension.1}",
       "type": "spacing"
     },
     "150": {
-      "value": "6",
+      "value": "{dimension.1-5}",
       "type": "spacing"
     },
     "200": {
-      "value": "8",
+      "value": "{dimension.2}",
       "type": "spacing"
     },
     "300": {
-      "value": "12",
+      "value": "{dimension.3}",
       "type": "spacing"
     },
     "400": {
-      "value": "16",
+      "value": "{dimension.4}",
       "type": "spacing"
     },
     "600": {
-      "value": "24",
+      "value": "{dimension.6}",
       "type": "spacing"
     },
     "800": {
-      "value": "32",
+      "value": "{dimension.8}",
       "type": "spacing"
     },
     "1200": {
-      "value": "48",
+      "value": "{dimension.12}",
       "type": "spacing"
     },
     "1600": {
-      "value": "64",
+      "value": "{dimension.16}",
       "type": "spacing"
     },
     "2400": {
-      "value": "96",
+      "value": "{dimension.24}",
       "type": "spacing"
     },
     "4000": {
-      "value": "160",
+      "value": "{dimension.40}",
       "type": "spacing"
     }
   },

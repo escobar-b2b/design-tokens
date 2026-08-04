@@ -2146,6 +2146,12 @@
             "type": "color"
           }
         }
+      },
+      "block": {
+        "fill": {
+          "value": "{core.brand-10.a5}",
+          "type": "color"
+        }
       }
     },
     "accordion": {

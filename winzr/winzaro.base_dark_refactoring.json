@@ -1867,6 +1867,10 @@
       "value": "{dimension.0}",
       "type": "dimension"
     },
+    "25": {
+      "value": "{dimension.0-25}",
+      "type": "dimension"
+    },
     "50": {
       "value": "{dimension.0-5}",
       "type": "dimension"
@@ -1883,6 +1887,10 @@
       "value": "{dimension.2}",
       "type": "dimension"
     },
+    "300": {
+      "value": "{dimension.3}",
+      "type": "dimension"
+    },
     "400": {
       "value": "{dimension.4}",
       "type": "dimension"
@@ -1893,6 +1901,10 @@
     },
     "800": {
       "value": "{dimension.8}",
+      "type": "dimension"
+    },
+    "1600": {
+      "value": "{dimension.16}",
       "type": "dimension"
     }
   },
@@ -1925,6 +1937,10 @@
       "value": "32px",
       "type": "dimension"
     },
+    "9": {
+      "value": "36px",
+      "type": "dimension"
+    },
     "10": {
       "value": "40px",
       "type": "dimension"
@@ -1943,6 +1959,14 @@
     },
     "40": {
       "value": "160px",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "800px",
+      "type": "dimension"
+    },
+    "284": {
+      "value": "1136px",
       "type": "dimension"
     },
     "0-25": {

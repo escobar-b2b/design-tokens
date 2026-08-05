@@ -2693,14 +2693,6 @@
       "type": "typography"
     }
   },
-  "popup": {
-    "bottom": {
-      "min-height": {
-        "value": "{size.800}",
-        "type": "sizing"
-      }
-    }
-  },
   "semantic": {
     "icon": {
       "static": {
@@ -3564,14 +3556,6 @@
     "padding-left": {
       "value": "{spacing.200}",
       "type": "spacing"
-    },
-    "height": {
-      "value": "{size.300}",
-      "type": "sizing"
-    },
-    "icon-size": {
-      "value": "{size.200}",
-      "type": "sizing"
     }
   },
   "selection-controls": {
@@ -3582,16 +3566,6 @@
   },
   "dropdown-menu": {
     "item": {
-      "min-height": {
-        "lg": {
-          "value": "{size.600}",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "{dimension.9}",
-          "type": "sizing"
-        }
-      },
       "padding-left": {
         "value": "{spacing.200}",
         "type": "spacing"
@@ -3653,12 +3627,6 @@
       "gap": {
         "value": "{spacing.400}",
         "type": "spacing"
-      }
-    },
-    "date": {
-      "size": {
-        "value": "{size.500}",
-        "type": "sizing"
       }
     },
     "months": {

@@ -2234,7 +2234,11 @@
       "semantic.divider.default.transparency": "S:98aa629309850572b8c0afb7ceedf5ed8786c679,",
       "contextual.lottery-tournament.ticket-number.border.default": "S:50c653a93148ec6913103e562741e122a1003117,",
       "contextual.mobile-application.card.fill": "S:a45e509e15d66e4f778f27365cac1dc365ace742,",
-      "contextual.achievements.card.fill.default": "S:cdebbafb147fd0b45a8c8d8e70fe7f1271bf2c3a,"
+      "contextual.achievements.card.fill.default": "S:cdebbafb147fd0b45a8c8d8e70fe7f1271bf2c3a,",
+      "contextual.referral.step.text": "S:5ca7b3ca9670cf2af84a8676a076ec2fc4b496d3,",
+      "contextual.referral.step.fill": "S:1cbe92a33f1dfb13b11e48063065b877636883bb,",
+      "contextual.referral.inner-pafe.fill": "S:8c5d91b41c6b706cce4896d078ffa93f7d416b16,",
+      "shadow.dropdown-menu": "S:ea10007c9ab882946dfc3181a2303792fc3815a6,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

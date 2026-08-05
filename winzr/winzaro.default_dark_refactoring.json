@@ -2013,20 +2013,10 @@
         }
       }
     },
-    "referal": {
+    "referral": {
       "step": {
-        "text": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
         "fill": {
           "value": "{semantic.gradients.4}",
-          "type": "color"
-        }
-      },
-      "inner-pafe": {
-        "fill": {
-          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -4155,7 +4145,7 @@
       ],
       "type": "boxShadow"
     },
-    "dropdown menu": {
+    "dropdown-menu": {
       "value": {
         "x": "{depth.0}",
         "y": "{depth.100}",

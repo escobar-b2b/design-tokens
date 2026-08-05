@@ -97,22 +97,10 @@
       }
     },
     "input": {
-      "sm": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius"
-      },
       "md": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
-    },
-    "tag": {
-      "value": "{border-radius.core.200}",
-      "type": "borderRadius"
-    },
-    "radio-button": {
-      "value": "{border-radius.core.full}",
-      "type": "borderRadius"
     },
     "label-timer": {
       "value": "{border-radius.core.full}",
@@ -120,22 +108,6 @@
     },
     "badge": {
       "value": "{border-radius.core.full}",
-      "type": "borderRadius"
-    },
-    "checkbox": {
-      "value": "{border-radius.core.100}",
-      "type": "borderRadius"
-    },
-    "toggle": {
-      "value": "{border-radius.core.400}",
-      "type": "borderRadius"
-    },
-    "toggle-button": {
-      "value": "{border-radius.core.full}",
-      "type": "borderRadius"
-    },
-    "dropdown-menu": {
-      "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
     "filter&sort": {
@@ -149,11 +121,6 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
-    "toast-cookies": {
-      "value": "{border-radius.core.300}",
-      "type": "borderRadius",
-      "description": "\n\n\n"
-    },
     "homepage": {
       "collection": {
         "card": {
@@ -161,22 +128,6 @@
           "type": "borderRadius",
           "description": "\n\n\n"
         }
-      },
-      "nav-menu": {
-        "general": {
-          "value": "{border-radius.core.400}",
-          "type": "borderRadius"
-        }
-      }
-    },
-    "datepicker": {
-      "all": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius"
-      },
-      "item": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius"
       }
     },
     "gamehall": {
@@ -253,20 +204,6 @@
         }
       }
     },
-    "wheel": {
-      "block": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius",
-        "description": "contextual.wheel.sector"
-      },
-      "popup": {
-        "general": {
-          "value": "{border-radius.core.full}",
-          "type": "borderRadius",
-          "description": "shadow.wheel.popup.general"
-        }
-      }
-    },
     "profile": {
       "status": {
         "value": "{border-radius.core.full}",
@@ -280,13 +217,6 @@
     "accordion": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
-    },
-    "lootboxes": {
-      "coefficient": {
-        "value": "{border-radius.core.full}",
-        "type": "borderRadius",
-        "description": "contextual.lootboxes.coefficient"
-      }
     },
     "banner": {
       "value": "{border-radius.core.full}",
@@ -303,19 +233,6 @@
       "tabs": {
         "value": "{border-radius.button.lg}",
         "type": "borderRadius"
-      }
-    },
-    "header": {
-      "general": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius"
-      },
-      "desktop": {
-        "special-menu-item": {
-          "value": "{border-radius.core.300}",
-          "type": "borderRadius",
-          "description": "contextual.header.desktop.special-menu-item"
-        }
       }
     }
   },
@@ -3503,7 +3420,7 @@
     },
     "gap": {
       "default": {
-        "value": "{dimension.1-5}",
+        "value": "{spacing.150}",
         "type": "spacing"
       },
       "phone": {
@@ -3544,122 +3461,10 @@
       }
     }
   },
-  "tag": {
-    "gap": {
-      "value": "{spacing.100}",
-      "type": "spacing"
-    },
-    "padding-right": {
-      "value": "{spacing.100}",
-      "type": "spacing"
-    },
-    "padding-left": {
-      "value": "{spacing.200}",
-      "type": "spacing"
-    }
-  },
   "selection-controls": {
     "gap": {
       "value": "{spacing.100}",
       "type": "spacing"
-    }
-  },
-  "dropdown-menu": {
-    "item": {
-      "padding-left": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      },
-      "padding-right": {
-        "value": "{spacing.300}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      },
-      "gap-text": {
-        "value": "{spacing.100}",
-        "type": "spacing"
-      }
-    },
-    "padding-vertical": {
-      "value": "{spacing.300}",
-      "type": "spacing"
-    },
-    "padding-horizontal": {
-      "value": "{spacing.300}",
-      "type": "spacing"
-    },
-    "gap": {
-      "value": "{spacing.200}",
-      "type": "spacing"
-    },
-    "search": {
-      "padding-bottom": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      }
-    }
-  },
-  "datepicker": {
-    "weeks": {
-      "gap": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
-      "item": {
-        "gap": {
-          "value": "{spacing.0}",
-          "type": "spacing"
-        }
-      }
-    },
-    "padding": {
-      "value": "{spacing.400}",
-      "type": "spacing"
-    },
-    "gap": {
-      "value": "{spacing.200}",
-      "type": "spacing"
-    },
-    "selects": {
-      "gap": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      }
-    },
-    "months": {
-      "padding-horizontal": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      }
-    }
-  },
-  "tooltip": {
-    "sm": {
-      "padding-horizontal": {
-        "value": "{spacing.300}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{spacing.200}",
-        "type": "spacing"
-      }
-    },
-    "md": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{spacing.300}",
-        "type": "spacing"
-      }
     }
   },
   "page": {

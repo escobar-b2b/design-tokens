@@ -1343,28 +1343,6 @@
       }
     },
     "selection-controls": {
-      "label": {
-        "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{semantic.text.disabled.on-brand-secondary}",
-          "type": "color"
-        }
-      },
-      "selection-block": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
-        }
-      },
       "controls": {
         "checkbox": {
           "border": {
@@ -1674,36 +1652,6 @@
             }
           }
         },
-        "text": {
-          "primary": {
-            "default": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.text.default.heading}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color"
-            }
-          },
-          "secondary": {
-            "default": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            },
-            "selected": {
-              "value": "{semantic.text.default.heading}",
-              "type": "color"
-            },
-            "hover": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            }
-          }
-        },
         "border": {
           "default": {
             "value": "{semantic.divider.default.transparency}",
@@ -1765,12 +1713,6 @@
         "tabs": {
           "background": {
             "value": "{core.grey.a30}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "bonus": {
-            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }
@@ -1920,24 +1862,6 @@
           "type": "color"
         },
         "item": {
-          "text": {
-            "primary": {
-              "value": "{semantic.text.default.heading}",
-              "type": "color"
-            },
-            "error": {
-              "value": "{semantic.status.error.text.primary}",
-              "type": "color"
-            },
-            "success": {
-              "value": "{semantic.status.success.text.primary}",
-              "type": "color"
-            },
-            "secondary": {
-              "value": "{semantic.text.default.secondary}",
-              "type": "color"
-            }
-          },
           "inform": {
             "border": {
               "value": "{semantic.divider.default.transparency}",
@@ -1999,28 +1923,6 @@
     },
     "datepicker": {
       "item": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "today": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{semantic.text.disabled.primary}",
-            "type": "color"
-          },
-          "selected": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
         "fill": {
           "default": {
             "value": "{core.white.a0}",
@@ -2070,12 +1972,6 @@
           }
         }
       },
-      "week-day": {
-        "text": {
-          "value": "{semantic.icon.default.primary}",
-          "type": "color"
-        }
-      },
       "fill": {
         "value": "{semantic.background.slate-2}",
         "type": "color"
@@ -2093,20 +1989,6 @@
       "fill": {
         "value": "{core.grey.500}",
         "type": "color"
-      },
-      "text": {
-        "primary": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        }
       }
     },
     "segment-control": {
@@ -2273,20 +2155,6 @@
         "type": "color"
       }
     },
-    "error-pages": {
-      "text": {
-        "primary": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color",
-          "description": "Use for Error text_title"
-        },
-        "secondary": {
-          "value": "{semantic.text.default.secondary}",
-          "type": "color",
-          "description": "Use for Error text_body and Error-thumbs title"
-        }
-      }
-    },
     "payment-method": {
       "fill": {
         "value": "{core.white.a100}",
@@ -2329,11 +2197,6 @@
           "value": "{core.validation.danger.600}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "primary": {
@@ -2341,21 +2204,11 @@
           "value": "{core.brand-30.600}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "outlined": {
         "border": {
           "value": "{core.brand-30.500}",
-          "type": "color",
-          "description": "badge"
-        },
-        "text": {
-          "value": "{semantic.text.default.heading}",
           "type": "color",
           "description": "badge"
         }

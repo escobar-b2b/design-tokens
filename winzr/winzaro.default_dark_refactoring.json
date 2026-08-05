@@ -4209,19 +4209,6 @@
         "description": "contextual.tabs.lottery-tournament.item"
       }
     },
-    "filter&sorting": {
-      "value": [
-        {
-          "x": "{depth.0}",
-          "y": "{depth.025}",
-          "blur": "{blur.0}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a0}",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
     "wheel": {
       "popup": {
         "general": {

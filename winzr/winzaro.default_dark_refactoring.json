@@ -775,11 +775,9 @@
     },
     "mobile-application": {
       "card": {
-        "background": {
-          "fill": {
-            "value": "{core.grey.700}",
-            "type": "color"
-          }
+        "fill": {
+          "value": "{core.grey.700}",
+          "type": "color"
         }
       }
     },
@@ -817,7 +815,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.grey.700}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       },
       "bonus-popover": {
@@ -1254,7 +1252,7 @@
     },
     "content": {
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       }
     },
@@ -1308,11 +1306,11 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.grey.800}",
+            "value": "{semantic.background.slate-2}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.800}",
+            "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           }
         }
@@ -1838,7 +1836,7 @@
         }
       },
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       },
       "ovelray-fill": {
@@ -2035,7 +2033,7 @@
     },
     "menu": {
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       },
       "quick-pay": {
@@ -2205,7 +2203,7 @@
         }
       },
       "fill": {
-        "value": "{core.grey.800}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       },
       "border": {
@@ -2287,7 +2285,7 @@
       },
       "block": {
         "fill": {
-          "value": "{core.grey.800}",
+          "value": "{semantic.background.slate-2}",
           "type": "color"
         }
       },

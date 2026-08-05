@@ -204,7 +204,6 @@
       "900": {
         "value": "{core.brand-preset.grey}",
         "type": "color",
-        "description": "basic.sand 1000 ( возможно поменять)",
         "$extensions": {
           "studio.tokens": {
             "modify": {

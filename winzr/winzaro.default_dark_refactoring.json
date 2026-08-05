@@ -2230,20 +2230,6 @@
             "type": "color"
           }
         },
-        "text": {
-          "active": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{semantic.text.default.secondary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          }
-        },
         "icon": {
           "active": {
             "value": "{core.white.a100}",

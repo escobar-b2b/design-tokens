@@ -554,29 +554,7 @@
             "type": "color"
           }
         },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "gold": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "gold-winning": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
         "fill": {
-          "gold": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "Tiket"
-          },
           "winning": {
             "value": "{core.brand-10.500}",
             "type": "color",
@@ -706,20 +684,6 @@
       }
     },
     "hall-of-fame": {
-      "text": {
-        "gold": {
-          "value": "{core.additionals.gold}",
-          "type": "color"
-        },
-        "silver": {
-          "value": "{core.additionals.silver}",
-          "type": "color"
-        },
-        "bronze": {
-          "value": "{core.additionals.bronze}",
-          "type": "color"
-        }
-      },
       "player-number": {
         "border": {
           "active": {
@@ -1071,7 +1035,7 @@
           "type": "color"
         },
         "gold": {
-          "value": "{core.additionals.gold}",
+          "value": "{semantic.status.gold.fill}",
           "type": "color"
         }
       }

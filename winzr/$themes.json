@@ -1185,7 +1185,6 @@
       "border-radius.dropdown-menu": "5386abe3ad5b6522d79218e7a8dd0f2ed8eb0d2e",
       "border-radius.filter&sort.button": "a9e179f47fad32fea60ff60decb8d0b7bdfb204a",
       "border-radius.popover": "386a567f8055a26672390782081eb355555ab7d3",
-      "border-radius.toast&cookies": "8c52de8abaea411da622b19f435f8dd12d49e0dd",
       "border-radius.homepage.collection.card": "5de51abac159e4f9cdda2b900984633d90be27c5",
       "border-radius.datepicker.all": "19f6c9c0880649d2a0f2b26bef8411bdfded56fb",
       "border-radius.datepicker.item": "03c779845c7100ffedd2d96b1fe70965f866fcf7",
@@ -1344,7 +1343,8 @@
       "tooltip.md.padding-horizontal": "a17e1778f47a817b5a9d9db9b78270eb63ac2e57",
       "tooltip.md.padding-vertical": "6a260a14becff845a6364b802825acac414d7cdc",
       "page.content.desktop.padding-horizontal": "2b1e06a5b81cef55489d5ddfd5f8b5b6d55432c2",
-      "border-radius.label-timer": "128dd97a5c958243e1259a470a1f670ca1948d16"
+      "border-radius.label-timer": "128dd97a5c958243e1259a470a1f670ca1948d16",
+      "border-radius.toast-cookies": "8c52de8abaea411da622b19f435f8dd12d49e0dd"
     }
   },
   {
@@ -2238,7 +2238,11 @@
       "contextual.referral.step.text": "S:5ca7b3ca9670cf2af84a8676a076ec2fc4b496d3,",
       "contextual.referral.step.fill": "S:1cbe92a33f1dfb13b11e48063065b877636883bb,",
       "contextual.referral.inner-pafe.fill": "S:8c5d91b41c6b706cce4896d078ffa93f7d416b16,",
-      "shadow.dropdown-menu": "S:ea10007c9ab882946dfc3181a2303792fc3815a6,"
+      "shadow.dropdown-menu": "S:ea10007c9ab882946dfc3181a2303792fc3815a6,",
+      "semantic.status.gold.text": "S:89502bb92e0454316a8908e1c520b36a6827fa5f,",
+      "semantic.status.silver.text": "S:ce1e966766ca3555abf76b74f4ec1acf5ba8a0da,",
+      "semantic.status.bronze.text": "S:29d8bbb3c69012ddef2ae461be02a82f011c32f3,",
+      "semantic.status.gold.fill": "S:7ef20bae5d7d855666e13e4f77983a16a7ccc74d,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",
@@ -2304,7 +2308,6 @@
       "border-radius.dropdown-menu": "8fdccb777e9a0a1a802a617fc3669c3cb7925957",
       "border-radius.filter&sort.button": "6304562fd57fa38e3356c50009ad2ac210c8d701",
       "border-radius.popover": "32feef60c1b4818782ea2c59bc5947542d8fe04a",
-      "border-radius.toast&cookies": "9ac6e85c15536af85a76d2e89410ad213c188a27",
       "border-radius.homepage.collection.card": "950ba85749df7e923e3404b458f54abc96b0bbb2",
       "border-radius.datepicker.all": "355138e293772ac2f2b3a178e1d74d7710d98808",
       "border-radius.datepicker.item": "9488313a1ca47929525f22efd31641a971d09a33",
@@ -2475,6 +2478,7 @@
       "blur.600": "febb89d13146d3ccb307860098969bb7696fb4d2",
       "blur.1600": "fb4466fd05e69aad16673d699a758428b5f5c8f1",
       "border-radius.label-timer": "4b9f15c047869d5451a4fc081986e994a5999c04",
+      "border-radius.toast-cookies": "9ac6e85c15536af85a76d2e89410ad213c188a27",
       "depth.300": "998387759d679dda950c19522679733a7d359757"
     },
     "selectedTokenSets": {

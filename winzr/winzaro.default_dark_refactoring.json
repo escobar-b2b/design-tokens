@@ -1286,36 +1286,10 @@
           "value": "{core.grey.a90}",
           "type": "color"
         },
-        "tournament": {
-          "text": {
-            "primary": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
-          }
-        },
         "navmenu": {
           "fill": {
             "value": "{core.grey.700}",
             "type": "color"
-          }
-        },
-        "bonus-talisman": {
-          "text": {
-            "accent": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color",
-              "description": "Bonus/Talisman"
-            }
-          }
-        }
-      },
-      "talisman": {
-        "text": {
-          "accent": {
-            "value": "{semantic.text.brand.primary}",
-            "type": "color",
-            "description": "talisman "
           }
         }
       },

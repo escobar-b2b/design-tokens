@@ -587,7 +587,7 @@
       "players-prizes": {
         "fill": {
           "even": {
-            "value": "{core.grey.700}",
+            "value": "{semantic.background.slate-1}",
             "type": "color"
           },
           "odd": {
@@ -612,7 +612,7 @@
       },
       "tabs": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{semantic.background.slate-1}",
           "type": "color"
         },
         "state-2": {
@@ -745,7 +745,7 @@
     },
     "achievements": {
       "card": {
-        "fiill": {
+        "fill": {
           "default": {
             "value": "radial-gradient(70% 48% at 48% 25%, {core.grey.500} 0%, {core.grey.700} 100%)",
             "type": "color"
@@ -1075,7 +1075,7 @@
     "cashbox": {
       "bonus": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{semantic.background.slate-1}",
           "type": "color"
         },
         "border": {
@@ -1351,7 +1351,7 @@
     "ingame": {
       "navmenu": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{semantic.background.slate-1}",
           "type": "color"
         },
         "icon": {
@@ -2070,7 +2070,7 @@
               "type": "color"
             },
             "fill": {
-              "value": "{core.grey.700}",
+              "value": "{semantic.background.slate-1}",
               "type": "color"
             }
           }
@@ -2297,7 +2297,7 @@
     "news": {
       "card": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{semantic.background.slate-1}",
           "type": "color",
           "description": "status-inactive"
         }

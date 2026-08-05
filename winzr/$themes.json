@@ -2233,7 +2233,8 @@
       "semantic.border.default.secondary": "S:564177346a28f219073c154f745420a16caa5ad6,",
       "semantic.divider.default.transparency": "S:98aa629309850572b8c0afb7ceedf5ed8786c679,",
       "contextual.lottery-tournament.ticket-number.border.default": "S:50c653a93148ec6913103e562741e122a1003117,",
-      "contextual.mobile-application.card.fill": "S:a45e509e15d66e4f778f27365cac1dc365ace742,"
+      "contextual.mobile-application.card.fill": "S:a45e509e15d66e4f778f27365cac1dc365ace742,",
+      "contextual.achievements.card.fill.default": "S:cdebbafb147fd0b45a8c8d8e70fe7f1271bf2c3a,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

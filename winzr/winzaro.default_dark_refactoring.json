@@ -1153,34 +1153,6 @@
             "value": "{core.white.a15}",
             "type": "color"
           }
-        },
-        "static": {
-          "container": {
-            "value": "{core.white.a20}",
-            "type": "color"
-          }
-        }
-      },
-      "outline": {
-        "primary": {
-          "track": {
-            "value": "{core.brand-60.a30}",
-            "type": "color"
-          },
-          "container": {
-            "value": "{core.brand-60.a30}",
-            "type": "color"
-          }
-        },
-        "static": {
-          "track": {
-            "value": "{core.white.a20}",
-            "type": "color"
-          },
-          "container": {
-            "value": "{core.white.a20}",
-            "type": "color"
-          }
         }
       }
     },

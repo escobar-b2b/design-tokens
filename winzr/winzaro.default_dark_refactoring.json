@@ -2845,6 +2845,28 @@
           }
         }
       },
+      "gold": {
+        "text": {
+          "value": "{core.additionals.gold}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{core.additionals.gold}",
+          "type": "color"
+        }
+      },
+      "silver": {
+        "text": {
+          "value": "{core.additionals.silver}",
+          "type": "color"
+        }
+      },
+      "bronze": {
+        "text": {
+          "value": "{core.additionals.bronze}",
+          "type": "color"
+        }
+      },
       "pending": {
         "bg": {
           "primary": {

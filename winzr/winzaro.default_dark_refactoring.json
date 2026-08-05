@@ -3486,12 +3486,12 @@
   },
   "max-width": {
     "content": {
-      "value": "1136px",
+      "value": "{dimension.284}",
       "type": "sizing",
       "description": "Use for Content on page"
     },
     "inner-content": {
-      "value": "800px",
+      "value": "{dimension.200}",
       "type": "sizing",
       "description": "Use for Inner-content on page"
     }

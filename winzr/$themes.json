@@ -1178,7 +1178,6 @@
       "border-radius.input.md": "0737305a4beabd14505d1aa75d128023ae8fdc11",
       "border-radius.tag": "682d7e914ce80c616222a97a43354721ec040496",
       "border-radius.radio-button": "e617b724f2414fb4578a93ebf70c84fe3ec2e644",
-      "border-radius.label&timer": "128dd97a5c958243e1259a470a1f670ca1948d16",
       "border-radius.badge": "843fcc849d897b2d1698c7767923f659b8f323c4",
       "border-radius.checkbox": "a2ba89d8b207692bf42ed48701381a120cb41c68",
       "border-radius.toggle": "d726486bb1f8ade62cd8a4d0d917599916d1786e",
@@ -1344,7 +1343,8 @@
       "tooltip.sm.padding-vertical": "d272be240084e9bc76c4911ba1d3f869b05a5014",
       "tooltip.md.padding-horizontal": "a17e1778f47a817b5a9d9db9b78270eb63ac2e57",
       "tooltip.md.padding-vertical": "6a260a14becff845a6364b802825acac414d7cdc",
-      "page.content.desktop.padding-horizontal": "2b1e06a5b81cef55489d5ddfd5f8b5b6d55432c2"
+      "page.content.desktop.padding-horizontal": "2b1e06a5b81cef55489d5ddfd5f8b5b6d55432c2",
+      "border-radius.label-timer": "128dd97a5c958243e1259a470a1f670ca1948d16"
     }
   },
   {
@@ -2297,7 +2297,6 @@
       "border-radius.input.md": "b313d89777404766b1fc43823de07a4516e301a8",
       "border-radius.tag": "e404222b559b5211db81fece349817ca00d3476e",
       "border-radius.radio-button": "9e3fa41b7e519333d59a65b53d817c68ccfadc3e",
-      "border-radius.label&timer": "4b9f15c047869d5451a4fc081986e994a5999c04",
       "border-radius.badge": "102aac6b61d131ee2f7f3e2b698c22941c9f691e",
       "border-radius.checkbox": "3cae563212a32150f90c6bd20f0820ed08a17765",
       "border-radius.toggle": "45fb54ec9b58900ceaad9ba2f4cca1b737fba4a6",
@@ -2475,6 +2474,7 @@
       "blur.300": "f20c92d79eee0f9a28daa5d8a94222fc2aa9da3c",
       "blur.600": "febb89d13146d3ccb307860098969bb7696fb4d2",
       "blur.1600": "fb4466fd05e69aad16673d699a758428b5f5c8f1",
+      "border-radius.label-timer": "4b9f15c047869d5451a4fc081986e994a5999c04",
       "depth.300": "998387759d679dda950c19522679733a7d359757"
     },
     "selectedTokenSets": {

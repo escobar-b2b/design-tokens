@@ -149,7 +149,7 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
-    "toast&cookies": {
+    "toast-cookies": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius",
       "description": "\n\n\n"
@@ -930,7 +930,7 @@
           }
         }
       },
-      "title&show-all": {
+      "title-show-all": {
         "icon": {
           "value": "{core.brand-10.600}",
           "type": "color"

@@ -342,7 +342,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.white.a100}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "hover": {
@@ -510,11 +510,11 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "active": {
@@ -792,20 +792,6 @@
             "value": "{core.grey.400}",
             "type": "color"
           }
-        },
-        "text": {
-          "active": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{semantic.text.default.secondary}",
-            "type": "color"
-          }
         }
       },
       "fill": {
@@ -943,38 +929,6 @@
         }
       }
     },
-    "lootboxes": {
-      "popup": {
-        "prize": {
-          "item": {
-            "text": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color",
-              "description": "Lootboxes"
-            }
-          }
-        }
-      },
-      "label": {
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "Lootboxes"
-        },
-        "fill": {
-          "value": "{core.white.a15}",
-          "type": "color",
-          "description": "Lootboxes"
-        }
-      },
-      "price": {
-        "text": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color",
-          "description": "Lootboxes"
-        }
-      }
-    },
     "strip": {
       "girl": {
         "light": {
@@ -1075,16 +1029,6 @@
         "border": {
           "value": "{core.grey.600}",
           "type": "color"
-        },
-        "text": {
-          "primary": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
         }
       }
     },
@@ -1230,7 +1174,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a25}",
+            "value": "{semantic.text.disabled.primary}",
             "type": "color"
           }
         },
@@ -1240,7 +1184,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.white.a25}",
+            "value": "{semantic.text.disabled.primary}",
             "type": "color"
           },
           "invert": {

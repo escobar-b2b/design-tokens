@@ -3568,27 +3568,6 @@
         "type": "boxShadow"
       }
     },
-    "game-item": {
-      "value": [
-        {
-          "x": "{depth.0}",
-          "y": "{depth.50}",
-          "blur": "{depth.100}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a0}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "{depth.0}",
-          "y": "{depth.025}",
-          "blur": "{depth.0}",
-          "spread": "{depth.0}",
-          "color": "{core.white.a30}",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow"
-    },
     "dropdown-menu": {
       "value": {
         "x": "{depth.0}",

@@ -517,20 +517,6 @@
           }
         }
       },
-      "prize": {
-        "gold-winning": {
-          "text": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "status-inactive"
-          },
-          "border": {
-            "value": "{core.additionals.gold}",
-            "type": "color",
-            "description": "status-inactive"
-          }
-        }
-      },
       "card": {
         "fill": {
           "value": "{core.grey.800}",
@@ -541,18 +527,6 @@
           "value": "{semantic.border.default.secondary}",
           "type": "color",
           "description": "status-inactive"
-        }
-      }
-    },
-    "registration": {
-      "banner": {
-        "background": {
-          "value": "linear-gradient(163deg, {core.brand-10.500} 8%, {core.brand-preset.for-gradients.3} 82%)",
-          "type": "color"
-        },
-        "background2": {
-          "value": "linear-gradient(205deg, {core.brand-10.500a0} 52%, {core.brand-10.700} 100%)",
-          "type": "color"
         }
       }
     },
@@ -789,14 +763,6 @@
       }
     },
     "homepage": {
-      "slider": {
-        "payment-block": {
-          "background": {
-            "value": "{core.brand-10.a60}",
-            "type": "color"
-          }
-        }
-      },
       "winning-now": {
         "item": {
           "fill": {
@@ -895,12 +861,6 @@
         "type": "color"
       }
     },
-    "pregame": {
-      "overlay": {
-        "value": "{core.grey.a30}",
-        "type": "color"
-      }
-    },
     "cashbox": {
       "bonus": {
         "fill": {
@@ -939,22 +899,6 @@
       "header": {
         "value": "{core.brand-60.a10}",
         "type": "color"
-      }
-    },
-    "bullet": {
-      "fill": {
-        "default": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
-          "type": "color"
-        },
-        "gold": {
-          "value": "{semantic.status.gold.fill}",
-          "type": "color"
-        }
       }
     },
     "progress-bar": {
@@ -1144,12 +1088,6 @@
         "fill": {
           "value": "{semantic.background.slate-1}",
           "type": "color"
-        },
-        "icon": {
-          "active": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
-          }
         }
       },
       "mob": {
@@ -1172,16 +1110,6 @@
             "value": "{core.grey.700}",
             "type": "color"
           }
-        }
-      },
-      "game-search": {
-        "fill": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.white.a15}",
-          "type": "color"
         }
       }
     },
@@ -1611,12 +1539,6 @@
         }
       }
     },
-    "timer": {
-      "dots": {
-        "value": "{core.white.a70}",
-        "type": "color"
-      }
-    },
     "bonuses": {
       "fill": {
         "value": "{semantic.gradients.11}",
@@ -1901,12 +1823,6 @@
         },
         "2": {
           "value": "{core.brand-60.a10}",
-          "type": "color"
-        }
-      },
-      "additional-blick": {
-        "border": {
-          "value": "{core.brand-30.500}",
           "type": "color"
         }
       }
@@ -2724,6 +2640,10 @@
           "type": "color"
         },
         "fill": {
+          "value": "{core.additionals.gold}",
+          "type": "color"
+        },
+        "border": {
           "value": "{core.additionals.gold}",
           "type": "color"
         }

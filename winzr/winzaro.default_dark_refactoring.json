@@ -940,48 +940,6 @@
             "value": "{core.grey.600}",
             "type": "color"
           }
-        },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{semantic.divider.default.transparency}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.divider.default.transparency}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.divider.default.transparency}",
-            "type": "color"
-          }
-        },
-        "icon": {
-          "default": {
-            "value": "{semantic.text.default.tertiary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
         }
       }
     },

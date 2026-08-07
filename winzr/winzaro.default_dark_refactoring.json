@@ -1572,15 +1572,15 @@
       "card": {
         "glow": {
           "guest": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.500} 0%, {core.brand-10.500a0} 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-10.a40} 0%, {core.brand-10.500a0} 100%)",
             "type": "color"
           },
           "next": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.grey.200} 0%, {core.grey.a0} 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.grey.200a40} 0%, {core.grey.a0} 100%)",
             "type": "color"
           },
           "completed": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.validation.success.500} 0%, {core.validation.success.a0} 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.validation.success.a40} 0%, {core.validation.success.a0} 100%)",
             "type": "color"
           }
         },

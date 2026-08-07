@@ -293,6 +293,19 @@
           }
         }
       },
+      "200a40": {
+        "value": "{core.grey.200}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "a8": {
         "value": "{core.grey.900}",
         "type": "color",
@@ -1321,6 +1334,20 @@
               }
             }
           }
+        },
+        "a40": {
+          "value": "{core.brand-preset.validation.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Primary.emerald 500 20%"
         }
       },
       "warning": {

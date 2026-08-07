@@ -1359,7 +1359,7 @@
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.fill.hover}",
+              "value": "{contextual.toggle-button.fill.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
@@ -1371,34 +1371,34 @@
           },
           "border": {
             "normal": {
-              "value": "{contextual.toggle-button.card.border.normal}",
+              "value": "{contextual.toggle-button.border.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.border.hover}",
+              "value": "{contextual.toggle-button.border.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.card.border.active}",
+              "value": "{contextual.toggle-button.border.active}",
               "type": "color",
               "description": "Lootboxes"
             }
           },
           "text": {
             "normal": {
-              "value": "{contextual.toggle-button.card.text.normal}",
+              "value": "{contextual.toggle-button.text.normal}",
               "type": "color",
               "description": "Lootboxes"
             },
             "hover": {
-              "value": "{contextual.toggle-button.card.text.hover}",
+              "value": "{contextual.toggle-button.text.hover}",
               "type": "color",
               "description": "Lootboxes"
             },
             "active": {
-              "value": "{contextual.toggle-button.card.text.active}",
+              "value": "{contextual.toggle-button.text.active}",
               "type": "color",
               "description": "Lootboxes"
             }

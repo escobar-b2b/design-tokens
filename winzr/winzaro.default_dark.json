@@ -3743,100 +3743,55 @@
       }
     },
     "toggle-button": {
-      "card": {
-        "fill": {
-          "hover": {
-            "value": "{core.brand-60.500}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+      "fill": {
+        "normal": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "border": {
-          "normal": {
-            "value": "{contextual.button.secondary.border-color.default}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{contextual.button.secondary.border-color.hover}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "hover": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "text": {
-          "normal": {
-            "value": "{contextual.button.secondary.text.default}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{contextual.button.secondary.text.hover}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{contextual.button.secondary.text.active}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "active": {
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "Toggle-button"
         }
       },
-      "popup": {
-        "fill": {
-          "normal": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{core.white.a0}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+      "border": {
+        "normal": {
+          "value": "{semantic.border.default.default}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "border": {
-          "normal": {
-            "value": "{core.white.a20}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{core.white.a40}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{core.white.a20}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "hover": {
+          "value": "{core.white.a40}",
+          "type": "color",
+          "description": "Toggle-button"
         },
-        "text": {
-          "normal": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "hover": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Toggle-button"
-          },
-          "active": {
-            "value": "{contextual.button.secondary.text.active}",
-            "type": "color",
-            "description": "Toggle-button"
-          }
+        "active": {
+          "value": "{semantic.border.default.default}",
+          "type": "color",
+          "description": "Toggle-button"
+        }
+      },
+      "text": {
+        "normal": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "active": {
+          "value": "{contextual.button.secondary.text.active}",
+          "type": "color",
+          "description": "Toggle-button"
         }
       }
     }

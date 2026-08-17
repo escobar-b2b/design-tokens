@@ -1655,6 +1655,12 @@
             "type": "color"
           }
         }
+      },
+      "banner": {
+        "fill": {
+          "value": "{semantic.gradients.7}",
+          "type": "color"
+        }
       }
     },
     "switcher": {

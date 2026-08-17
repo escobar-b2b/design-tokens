@@ -9176,6 +9176,20 @@
           "value": "{core.brand-30.500}",
           "type": "color"
         }
+      },
+      "banner": {
+        "default": {
+          "value": "{semantic.text.banner-cart.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },

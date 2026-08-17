@@ -8449,6 +8449,20 @@
           "value": "{core.brand-30.600}",
           "type": "color"
         }
+      },
+      "banner": {
+        "default": {
+          "value": "{core.brand-60.200}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },

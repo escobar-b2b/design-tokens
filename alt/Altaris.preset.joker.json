@@ -8387,6 +8387,10 @@
           "value": "{core.white.a10}",
           "type": "color"
         },
+        "accent": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        },
         "hover": {
           "value": "{core.white.a0}",
           "type": "color"

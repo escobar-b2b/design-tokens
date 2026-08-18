@@ -9109,6 +9109,10 @@
         "disabled": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
         }
       }
     },

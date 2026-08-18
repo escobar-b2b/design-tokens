@@ -9167,7 +9167,7 @@
       },
       "banner": {
         "default": {
-          "value": "{core.brand-60.200}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "disabled": {

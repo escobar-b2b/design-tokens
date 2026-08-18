@@ -10379,7 +10379,8 @@
       "contextual.homepage.nav-menu.item-mobile.icon.favorite": "S:8f3b22934695536d2c216eb427a2b8c5af1fa384,",
       "semantic.link.banner.default": "S:a874d7462014128e7076dfb3dd43a089b0e1d1e3,",
       "semantic.link.banner.disabled": "S:69de1b047e2b63729beb684547f017c4c6965cec,",
-      "semantic.link.banner.hover": "S:6d2c81f5c871864e97d6bfc0d888ab3769c652b5,"
+      "semantic.link.banner.hover": "S:6d2c81f5c871864e97d6bfc0d888ab3769c652b5,",
+      "semantic.border.default.accent": "S:fdafe36cbd0528a306a90e44446c4bdee0d346c1,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

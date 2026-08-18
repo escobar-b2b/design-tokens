@@ -9111,7 +9111,7 @@
           "type": "color"
         },
         "accent": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-30.a60}",
           "type": "color"
         }
       }

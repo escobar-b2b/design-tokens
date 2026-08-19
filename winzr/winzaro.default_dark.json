@@ -6057,7 +6057,7 @@
           "value": {
             "x": "0",
             "y": "4",
-            "blur": "24",
+            "blur": "12",
             "spread": "0",
             "color": "{core.brand-10.a40}",
             "type": "dropShadow"

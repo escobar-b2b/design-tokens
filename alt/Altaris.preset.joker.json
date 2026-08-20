@@ -80,19 +80,19 @@
     },
     "accent": {
       "sm": {
-        "value": "{base.main} * 1.375",
+        "value": "{base.accent} * 1.375",
         "type": "fontSizes"
       },
       "md": {
-        "value": "{base.main} * 1.5",
+        "value": "{base.accent} * 1.5",
         "type": "fontSizes"
       },
       "lg": {
-        "value": "{base.main} * 2",
+        "value": "{base.accent} * 2",
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{base.main} * 2.5",
+        "value": "{base.accent} * 2.5",
         "type": "fontSizes"
       }
     }

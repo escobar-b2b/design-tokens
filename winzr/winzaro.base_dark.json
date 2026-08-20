@@ -3152,7 +3152,13 @@
     }
   },
   "base": {
-    "value": "16px",
-    "type": "fontSizes"
+    "main": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "accent": {
+      "value": "20px",
+      "type": "fontSizes"
+    }
   }
 }

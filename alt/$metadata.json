@@ -17,6 +17,8 @@
     "Altaris.preset.green2",
     "Altaris.preset.green",
     "Altaris.preset.green3",
-    "Altaris.preset.joker"
+    "Altaris.preset.joker",
+    "Altaris.preset.joker_old",
+    "refactoring"
   ]
 }

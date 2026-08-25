@@ -7686,7 +7686,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{font-size.accent.lg}",
-        "lineHeight": "36px",
+        "lineHeight": "{line-height.accent.lg}",
         "textCase": "{text-case.none}",
         "letterSpacing": "0%"
       },
@@ -7697,7 +7697,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{font-size.accent.xl}",
-        "lineHeight": "44px",
+        "lineHeight": "{line-height.accent.lg}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
@@ -7771,7 +7771,7 @@
               "fontWeight": "{Bold}",
               "textCase": "{text-case.uppercase}",
               "letterSpacing": "-2%",
-              "lineHeight": "42px",
+              "lineHeight": "{line-height.accent.sm}",
               "fontSize": "36px"
             },
             "type": "typography"
@@ -7803,7 +7803,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Expanded}",
           "fontSize": "56px",
-          "lineHeight": "56px",
+          "lineHeight": "{line-height.accent.sm}",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -7814,7 +7814,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Expanded}",
           "fontSize": "130px",
-          "lineHeight": "130px",
+          "lineHeight": "{line-height.accent.sm}",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -7827,7 +7827,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{text.stronger}",
-        "lineHeight": "16px",
+        "lineHeight": "{line-height.accent.lg}",
         "fontSize": "12px"
       },
       "type": "typography"
@@ -7839,7 +7839,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "36",
-        "lineHeight": "42px"
+        "lineHeight": "{line-height.accent.lg}"
       },
       "type": "typography"
     },
@@ -7859,7 +7859,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{text.strong}",
         "fontSize": "22px",
-        "lineHeight": "24px",
+        "lineHeight": "{line-height.accent.sm}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "2%"
       },

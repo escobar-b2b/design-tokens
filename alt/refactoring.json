@@ -509,7 +509,7 @@
               "fontWeight": "{Bold}",
               "textCase": "{text-case.uppercase}",
               "letterSpacing": "-2%",
-              "lineHeight": "42px",
+              "lineHeight": "{line-height.accent.lg}",
               "fontSize": "36px"
             },
             "type": "typography"
@@ -529,7 +529,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Expanded}",
           "fontSize": "56px",
-          "lineHeight": "56px",
+          "lineHeight": "{line-height.accent.sm}",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -540,7 +540,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Expanded}",
           "fontSize": "130px",
-          "lineHeight": "130px",
+          "lineHeight": "{line-height.accent.sm}",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -553,7 +553,7 @@
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{text.stronger}",
-        "lineHeight": "16px",
+        "lineHeight": "{line-height.accent.lg}",
         "fontSize": "12px"
       },
       "type": "typography"
@@ -565,7 +565,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Bold}",
         "fontSize": "36",
-        "lineHeight": "42px"
+        "lineHeight": "{line-height.accent.lg}"
       },
       "type": "typography"
     },
@@ -574,7 +574,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "16px",
-        "lineHeight": "22px",
+        "lineHeight": "{line-height.main.sm}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "3%"
       },
@@ -2746,7 +2746,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
             "fontSize": "11px",
-            "lineHeight": "11px"
+            "lineHeight": "100%"
           },
           "type": "typography"
         }
@@ -2774,7 +2774,7 @@
           "fontSize": "{font-size.main.ml}",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}",
-          "lineHeight": "22px"
+          "lineHeight": "{line-height.main.sm}"
         },
         "type": "typography"
       },
@@ -2783,7 +2783,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
           "fontSize": "26px",
-          "lineHeight": "36px",
+          "lineHeight": "{line-height.accent.lg}",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography"
@@ -2793,7 +2793,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{text.stronger}",
           "fontSize": "18px",
-          "lineHeight": "24px",
+          "lineHeight": "{line-height.accent.lg}",
           "textCase": "{text-case.none}"
         },
         "type": "typography"
@@ -2804,7 +2804,7 @@
             "fontFamily": "{accent}",
             "fontWeight": "{text.stronger}",
             "fontSize": "16px",
-            "lineHeight": "24px",
+            "lineHeight": "{line-height.accent.lg}",
             "textCase": "{text-case.uppercase}"
           },
           "type": "typography"
@@ -2814,7 +2814,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
             "fontSize": "12px",
-            "lineHeight": "16px",
+            "lineHeight": "{line-height.main.sm}",
             "textCase": "{text-case.none}"
           },
           "type": "typography"
@@ -2836,7 +2836,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "24px",
-        "lineHeight": "32px"
+        "lineHeight": "{line-height.main.lg}"
       },
       "type": "typography",
       "description": "Story"
@@ -2846,7 +2846,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "32px",
-        "lineHeight": "34px",
+        "lineHeight": "{line-height.main.sm}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography",
@@ -2870,7 +2870,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
             "fontSize": "20px",
-            "lineHeight": "26px"
+            "lineHeight": "{line-height.main.sm}"
           },
           "type": "typography"
         }
@@ -2883,7 +2883,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Medium}",
         "fontSize": "9px",
-        "lineHeight": "9px",
+        "lineHeight": "100%",
         "letterSpacing": "3%"
       },
       "type": "typography"
@@ -2923,7 +2923,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{Regular}",
             "fontSize": "14px",
-            "lineHeight": "20px"
+            "lineHeight": "{line-height.main.sm}"
           },
           "type": "typography"
         }
@@ -2948,7 +2948,7 @@
             "fontFamily": "{main}",
             "fontWeight": "{text.strong}",
             "fontSize": "8px",
-            "lineHeight": "12px"
+            "lineHeight": "{line-height.main.lg}"
           },
           "type": "typography"
         }
@@ -2981,7 +2981,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
           "fontSize": "12px",
-          "lineHeight": "12px",
+          "lineHeight": "100%",
           "letterSpacing": "0%"
         },
         "type": "typography"
@@ -2991,7 +2991,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.strong}",
           "fontSize": "14px",
-          "lineHeight": "14px",
+          "lineHeight": "100%",
           "letterSpacing": "0%"
         },
         "type": "typography"
@@ -3001,7 +3001,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.strong}",
           "fontSize": "16px",
-          "lineHeight": "16px",
+          "lineHeight": "100%",
           "letterSpacing": "0%"
         },
         "type": "typography"
@@ -3011,7 +3011,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{text.stronger}",
           "fontSize": "18px",
-          "lineHeight": "25px",
+          "lineHeight": "{line-height.main.sm}",
           "letterSpacing": "0%"
         },
         "type": "typography"

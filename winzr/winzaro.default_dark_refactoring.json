@@ -3240,6 +3240,10 @@
       "value": "{dimension.8}",
       "type": "sizing"
     },
+    "450": {
+      "value": "{dimension.9}",
+      "type": "sizing"
+    },
     "500": {
       "value": "{dimension.10}",
       "type": "sizing"

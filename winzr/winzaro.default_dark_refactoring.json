@@ -238,6 +238,11 @@
     "dropdown-menu": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
+    },
+    "toast&cookies-copy": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius",
+      "description": "\n\n\n"
     }
   },
   "contextual": {

@@ -2146,6 +2146,18 @@
           "description": "Toggle-button"
         }
       }
+    },
+    "special-menu-item": {
+      "fill": {
+        "default": {
+          "value": "{semantic.background.3}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.background.2}",
+          "type": "color"
+        }
+      }
     }
   },
   "font-size": {

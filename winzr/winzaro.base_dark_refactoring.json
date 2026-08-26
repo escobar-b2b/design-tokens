@@ -422,6 +422,20 @@
             }
           }
         }
+      },
+      "a25": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "Black 20% (white)\n"
       }
     },
     "white": {

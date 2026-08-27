@@ -247,6 +247,13 @@
     "toggle-button": {
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
+    },
+    "header": {
+      "special-menu-item": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "contextual.header.desktop.special-menu-item"
+      }
     }
   },
   "contextual": {
@@ -825,6 +832,11 @@
         "stroke": {
           "default": {
             "value": "{semantic.border.default.secondary}",
+            "type": "color",
+            "description": "Lootboxes"
+          },
+          "active": {
+            "value": "{core.brand-10.a45}",
             "type": "color",
             "description": "Lootboxes"
           }
@@ -3780,6 +3792,21 @@
             "type": "boxShadow",
             "description": "homepage.winning-now.item"
           }
+        }
+      }
+    },
+    "semantic": {
+      "inner": {
+        "accent-60": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "14",
+            "spread": "0",
+            "color": "{core.brand-10.a60}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
         }
       }
     }

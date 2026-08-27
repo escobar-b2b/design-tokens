@@ -2200,6 +2200,10 @@
         "default": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "active": {
+          "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
         }
       }
     }

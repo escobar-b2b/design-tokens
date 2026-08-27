@@ -851,7 +851,7 @@
             "description": "Lootboxes"
           },
           "active": {
-            "value": "{core.brand-10.a45}",
+            "value": "{core.brand-10.a40}",
             "type": "color",
             "description": "Lootboxes"
           }

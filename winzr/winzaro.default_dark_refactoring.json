@@ -254,6 +254,15 @@
         "type": "borderRadius",
         "description": "contextual.header.desktop.special-menu-item"
       }
+    },
+    "wheel": {
+      "popup": {
+        "general": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius",
+          "description": "shadow.wheel.popup.general"
+        }
+      }
     }
   },
   "contextual": {

@@ -3924,6 +3924,26 @@
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
+    },
+    "link-md": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.normal}",
+        "fontSize": "{font-size.main.md}",
+        "lineHeight": "{line-height.main.lg}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography"
+    },
+    "link-md-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{font-size.main.md}",
+        "lineHeight": "{line-height.main.lg}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography"
     }
   },
   "heading": {

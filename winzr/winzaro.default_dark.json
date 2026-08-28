@@ -1008,7 +1008,7 @@
           "type": "color"
         },
         "validation": {
-          "value": "{semantic.border.static.validation}",
+          "value": "{semantic.status.error.border.primary}",
           "type": "color"
         },
         "disabled": {
@@ -1856,7 +1856,7 @@
         "background": {
           "fill": {
             "special": {
-              "value": "{semantic.background.brand.primary.default}",
+              "value": "{semantic.background.brand.emphasizing.default.primary}",
               "type": "color"
             }
           }
@@ -2616,6 +2616,12 @@
             "type": "color"
           }
         },
+        "border": {
+          "primary": {
+            "value": "{core.validation.danger.500}",
+            "type": "color"
+          }
+        },
         "icon": {
           "primary": {
             "value": "{core.validation.danger.500}",
@@ -2807,7 +2813,7 @@
         "emphasizing": {
           "default": {
             "primary": {
-              "value": "{semantic.text.brand.primary}",
+              "value": "{core.brand-10.500}",
               "type": "color",
               "description": "emphasizing"
             }

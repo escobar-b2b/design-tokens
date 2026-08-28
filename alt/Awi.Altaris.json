@@ -3472,6 +3472,10 @@
             "get": {
               "value": "{core.white.a0}",
               "type": "color"
+            },
+            "hover": {
+              "value": "{core.white.a5}",
+              "type": "color"
             }
           },
           "border": {

@@ -472,12 +472,6 @@
     },
     "lottery-tournament": {
       "ticket-number": {
-        "border": {
-          "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
-          }
-        },
         "fill": {
           "winning": {
             "value": "{core.brand-10.500}",
@@ -516,12 +510,6 @@
         "fill": {
           "value": "{semantic.background.slate-1}",
           "type": "color"
-        },
-        "state-2": {
-          "fill": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          }
         }
       },
       "card": {
@@ -2534,14 +2522,6 @@
         "tertiary": {
           "value": "{core.grey.300}",
           "type": "color"
-        },
-        "disabled": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
         }
       },
       "default": {
@@ -2559,28 +2539,6 @@
         },
         "disabled": {
           "value": "{core.white.a25}",
-          "type": "color"
-        }
-      },
-      "brand": {
-        "primary": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{core.brand-30.500}",
-          "type": "color"
-        },
-        "on-brand": {
-          "value": "{core.brand-60.900}",
-          "type": "color"
-        },
-        "static": {
-          "value": "{core.grey.700}",
-          "type": "color"
-        },
-        "on-brand-secondary": {
-          "value": "{core.brand-60.700}",
           "type": "color"
         }
       },
@@ -2751,20 +2709,6 @@
           "primary": {
             "value": "{semantic.text.default.heading}",
             "type": "color"
-          },
-          "secondary": {
-            "value": "{core.grey.900}",
-            "type": "color"
-          }
-        },
-        "bg": {
-          "secondary": {
-            "value": "{core.white.a20}",
-            "type": "color"
-          },
-          "primary": {
-            "value": "{core.brand-60.100}",
-            "type": "color"
           }
         }
       }
@@ -2815,10 +2759,6 @@
           "value": "{core.white.a40}",
           "type": "color"
         },
-        "on-brand-secondary": {
-          "value": "{core.grey.200}",
-          "type": "color"
-        },
         "secondary": {
           "value": "{core.brand-10.a60}",
           "type": "color"
@@ -2835,10 +2775,6 @@
         },
         "secondary": {
           "value": "{core.grey.500}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{core.grey.300}",
           "type": "color"
         },
         "accent": {
@@ -2931,14 +2867,6 @@
       "static": {
         "default": {
           "value": "{core.brand-60.a10}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.brand-30.100}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.brand-30.100}",
           "type": "color"
         },
         "validation": {

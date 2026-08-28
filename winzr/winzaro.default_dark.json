@@ -14,20 +14,6 @@
         "type": "sizing"
       }
     },
-    "gap": {
-      "sm": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      }
-    },
     "padding-horizontal": {
       "sm": {
         "value": "{spacing.300}",
@@ -2491,10 +2477,6 @@
         "tertiary": {
           "value": "{core.white.a50}",
           "type": "color"
-        },
-        "disabled": {
-          "value": "{core.white.a25}",
-          "type": "color"
         }
       },
       "banner-cart": {
@@ -3009,10 +2991,6 @@
         "value": "{size.400}",
         "type": "sizing"
       },
-      "xs": {
-        "value": "{size.300}",
-        "type": "sizing"
-      },
       "md": {
         "value": "{size.600}",
         "type": "sizing"
@@ -3052,14 +3030,6 @@
       "default": {
         "value": "{spacing.150}",
         "type": "spacing"
-      },
-      "phone": {
-        "value": "{spacing.50}",
-        "type": "spacing"
-      },
-      "between-tags": {
-        "value": "{spacing.100}",
-        "type": "spacing"
       }
     },
     "label-gap-bottom": {
@@ -3071,22 +3041,8 @@
         "value": "{spacing.100}",
         "type": "spacing"
       },
-      "between-elements": {
-        "value": "{spacing.100}",
-        "type": "spacing"
-      },
       "inside-horisontal": {
         "value": "{spacing.100}",
-        "type": "spacing"
-      }
-    },
-    "textarea": {
-      "padding-horizontal": {
-        "value": "{spacing.400}",
-        "type": "spacing"
-      },
-      "padding-vertical": {
-        "value": "{spacing.300}",
         "type": "spacing"
       }
     }

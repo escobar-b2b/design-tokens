@@ -7985,6 +7985,22 @@
           "type": "color"
         }
       }
+    },
+    "progress": {
+      "fill": {
+        "value": "{core.white.a20}",
+        "type": "color"
+      },
+      "step": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      },
+      "border": {
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        }
+      }
     }
   },
   "text-decoration": {

@@ -9211,6 +9211,22 @@
           "type": "color"
         }
       }
+    },
+    "progress": {
+      "fill": {
+        "value": "{core.brand-60.a15}",
+        "type": "color"
+      },
+      "step": {
+        "value": "{core.brand-60.a40}",
+        "type": "color"
+      },
+      "border": {
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        }
+      }
     }
   },
   "spacing": {

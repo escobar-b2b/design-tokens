@@ -10383,7 +10383,10 @@
       "semantic.link.banner.hover": "S:6d2c81f5c871864e97d6bfc0d888ab3769c652b5,",
       "semantic.border.default.accent": "S:fdafe36cbd0528a306a90e44446c4bdee0d346c1,",
       "contextual.achivments.card.nornal.fiill.hover": "S:6430b5ecdd3831d3705aa70311a2f8f77549b676,",
-      "semantic.background.slate-card": "S:681952110477234c6cba711d5eef291b3ecd4bff,"
+      "semantic.background.slate-card": "S:681952110477234c6cba711d5eef291b3ecd4bff,",
+      "semantic.progress.fill": "S:dc44fcdb832ace1622794f3fc41dfa395aac0d1f,",
+      "semantic.progress.step": "S:14c13c145d16e164d24430fe9e85b90b1dc8ee27,",
+      "semantic.progress.border.fill": "S:880e1c4733c9533bf6fdd402af7a12635815ce36,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

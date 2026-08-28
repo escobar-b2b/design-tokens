@@ -1781,11 +1781,6 @@
         "type": "color",
         "description": "basic.bronze"
       },
-      "vip": {
-        "value": "#FFC94B",
-        "type": "color",
-        "description": "vip"
-      },
       "gold": {
         "value": "#F09C15",
         "type": "color",

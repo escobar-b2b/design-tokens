@@ -2229,31 +2229,31 @@
     },
     "accent": {
       "xs": {
-        "value": "{base.main}",
+        "value": "{base.accent}*0.8",
         "type": "fontSizes"
       },
       "sm": {
-        "value": "{base.main}*1.125",
+        "value": "{base.accent}*0.9",
         "type": "fontSizes"
       },
       "md": {
-        "value": "{base.main} * 1.25",
+        "value": "{base.accent}",
         "type": "fontSizes"
       },
       "lg": {
-        "value": "{base.main} * 1.5",
+        "value": "{base.accent} * 1.2",
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{base.main} * 1.75",
+        "value": "{base.accent} * 1.4",
         "type": "fontSizes"
       },
       "xxl": {
-        "value": "{base.main} * 2",
+        "value": "{base.accent} * 1.6",
         "type": "fontSizes"
       },
       "xxxl": {
-        "value": "{base.main} * 2.5",
+        "value": "{base.accent} * 2",
         "type": "fontSizes"
       }
     }

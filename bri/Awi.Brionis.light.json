@@ -5289,7 +5289,7 @@
           "fontFamily": "{main}",
           "fontWeight": "{Bold}",
           "fontSize": "{scale-3}",
-          "lineHeight": "{ml}"
+          "lineHeight": "{md}"
         },
         "type": "typography"
       },
@@ -5339,7 +5339,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
+        "lineHeight": "{md}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
@@ -5349,7 +5349,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
+        "lineHeight": "{md}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"

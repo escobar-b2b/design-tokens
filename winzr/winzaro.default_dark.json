@@ -1424,10 +1424,6 @@
         "value": "{semantic.background.slate-2}",
         "type": "color"
       },
-      "ovelray-fill": {
-        "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.800} )",
-        "type": "color"
-      },
       "border": {
         "value": "{semantic.border.default.secondary}",
         "type": "color"

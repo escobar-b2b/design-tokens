@@ -163,39 +163,6 @@
       }
     }
   },
-  "Icon": {
-    "numbers": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.stronger}",
-        "lineHeight": "16px",
-        "fontSize": "12px"
-      },
-      "type": "typography"
-    }
-  },
-  "banner": {
-    "title-XXXL": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "36",
-        "lineHeight": "42px"
-      },
-      "type": "typography"
-    },
-    "top-up-account": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "16px",
-        "lineHeight": "22px",
-        "textCase": "{text-case.uppercase}",
-        "letterSpacing": "3%"
-      },
-      "type": "typography"
-    }
-  },
   "core": {
     "grey": {
       "25": {
@@ -2853,12 +2820,6 @@
     }
   },
   "header": {
-    "desctop": {
-      "menu-items": {
-        "value": "{heading.sm}",
-        "type": "typography"
-      }
-    },
     "mobile": {
       "welcome-bonus": {
         "timer": {
@@ -2905,61 +2866,6 @@
         }
       }
     },
-    "payment-block": {
-      "subtitle": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "{scale-4}",
-          "letterSpacing": "{letter-spacing.2}",
-          "textCase": "{text-case.uppercase}",
-          "lineHeight": "22px"
-        },
-        "type": "typography"
-      },
-      "title": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "26px",
-          "lineHeight": "36px",
-          "textCase": "{text-case.uppercase}"
-        },
-        "type": "typography"
-      },
-      "title2": {
-        "value": {
-          "fontFamily": "{accent}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "24px",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography"
-      },
-      "mob": {
-        "title": {
-          "value": {
-            "fontFamily": "{accent}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "16px",
-            "lineHeight": "24px",
-            "textCase": "{text-case.uppercase}"
-          },
-          "type": "typography"
-        },
-        "title2": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "12px",
-            "lineHeight": "16px",
-            "textCase": "{text-case.none}"
-          },
-          "type": "typography"
-        }
-      }
-    },
     "nav-menu": {
       "mobile": {
         "tab": {
@@ -2969,61 +2875,9 @@
       }
     }
   },
-  "story": {
-    "title": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "24px",
-        "lineHeight": "32px"
-      },
-      "type": "typography",
-      "description": "Story"
-    },
-    "the-end": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.strong}",
-        "fontSize": "32px",
-        "lineHeight": "34px",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Story"
-    }
-  },
-  "profile": {
-    "verification": {
-      "item": {
-        "value": "{text.lg-stronger}",
-        "type": "typography"
-      },
-      "loyalty_points": {
-        "sum": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.stronger}",
-            "fontSize": "20px",
-            "lineHeight": "26px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
   "lottery-tournament": {
     "tiket": {
       "old-price": {
-        "md": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.normal}",
-            "fontSize": "{scale-3}",
-            "lineHeight": "{sm}",
-            "textDecoration": "{text-decoration.line-through}"
-          },
-          "type": "typography"
-        },
         "sm": {
           "value": {
             "fontFamily": "{main}",
@@ -3031,46 +2885,6 @@
             "fontSize": "{scale-2}",
             "lineHeight": "{sm}",
             "textDecoration": "{text-decoration.line-through}"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "tabs": {
-    "pop-up": {
-      "item": {
-        "text": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{Regular}",
-            "fontSize": "14px",
-            "lineHeight": "20px"
-          },
-          "type": "typography"
-        }
-      }
-    }
-  },
-  "complete-registration-btn": {
-    "value": {
-      "fontFamily": "{main}",
-      "fontWeight": "{text.normal}",
-      "fontSize": "{scale-3}",
-      "lineHeight": "{sm}"
-    },
-    "type": "typography",
-    "description": "Complete \nregistration"
-  },
-  "ingame": {
-    "mob": {
-      "navmenu": {
-        "item": {
-          "value": {
-            "fontFamily": "{main}",
-            "fontWeight": "{text.strong}",
-            "fontSize": "8px",
-            "lineHeight": "12px"
           },
           "type": "typography"
         }
@@ -3096,132 +2910,9 @@
       }
     }
   },
-  "wheel": {
-    "sector": {
-      "xs": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "12px",
-          "lineHeight": "12px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "sm": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "14px",
-          "lineHeight": "14px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.strong}",
-          "fontSize": "16px",
-          "lineHeight": "16px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      },
-      "lg": {
-        "value": {
-          "fontFamily": "{main}",
-          "fontWeight": "{text.stronger}",
-          "fontSize": "18px",
-          "lineHeight": "25px",
-          "letterSpacing": "0%"
-        },
-        "type": "typography"
-      }
-    }
-  },
   "base": {
     "value": "16px",
     "type": "fontSizes"
-  },
-  "heading": {
-    "xs": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "20px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "sm": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-4-5}",
-        "lineHeight": "{lg}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "md": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-5}",
-        "lineHeight": "{ml}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "lg": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    },
-    "xxl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "xxxl": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-9}",
-        "lineHeight": "48px",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
-      },
-      "type": "typography"
-    }
   },
   "contextual": {
     "tab-bar": {

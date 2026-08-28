@@ -214,20 +214,6 @@
           }
         }
       },
-      "a20": {
-        "value": "{core.grey.900}",
-        "type": "color",
-        "description": "Black 20% (white)\n",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "a30": {
         "value": "{core.grey.900}",
         "type": "color",
@@ -340,19 +326,6 @@
             "modify": {
               "type": "alpha",
               "value": "0.15",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "a10": {
-        "value": "{core.grey.900}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
               "space": "lch"
             }
           }
@@ -790,19 +763,6 @@
           }
         }
       },
-      "a5": {
-        "value": "{core.brand-60.300}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.05",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "a15": {
         "value": "{core.brand-60.300}",
         "type": "color",
@@ -843,19 +803,6 @@
           }
         }
       },
-      "a30": {
-        "value": "{core.brand-60.300}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "a0": {
         "value": "{core.brand-60.300}",
         "type": "color",
@@ -870,19 +817,6 @@
           }
         }
       },
-      "a40": {
-        "value": "{core.brand-60.300}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "a50": {
         "value": "{core.brand-60.300}",
         "type": "color",
@@ -891,19 +825,6 @@
             "modify": {
               "type": "alpha",
               "value": "0.5",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "a60": {
-        "value": "{core.brand-60.800}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
               "space": "lch"
             }
           }
@@ -1155,19 +1076,6 @@
           }
         }
       },
-      "500a60": {
-        "value": "{core.brand-30.500}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        }
-      },
       "a8": {
         "value": "{core.brand-30.200}",
         "type": "color",
@@ -1176,19 +1084,6 @@
             "modify": {
               "type": "alpha",
               "value": "0.08",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "a0": {
-        "value": "{core.brand-30.200}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0",
               "space": "lch"
             }
           }
@@ -1209,19 +1104,6 @@
       },
       "a30": {
         "value": "{core.brand-30.200}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "500a30": {
-        "value": "{core.brand-30.500}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -1282,48 +1164,6 @@
               }
             }
           }
-        },
-        "a10": {
-          "value": "{core.brand-preset.validation.danger}",
-          "type": "color",
-          "description": "Secondary.red 500",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "a0": {
-          "value": "{core.brand-preset.validation.danger}",
-          "type": "color",
-          "description": "Secondary.red 500",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "a30": {
-          "value": "{core.brand-preset.validation.danger}",
-          "type": "color",
-          "description": "Secondary.red 500",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.3",
-                "space": "lch"
-              }
-            }
-          }
         }
       },
       "success": {
@@ -1355,20 +1195,6 @@
               "modify": {
                 "type": "alpha",
                 "value": "0.2",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "a10": {
-          "value": "{core.brand-preset.validation.success}",
-          "type": "color",
-          "description": "Primary.emerald 500 20%",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
                 "space": "lch"
               }
             }
@@ -1437,20 +1263,6 @@
             }
           }
         },
-        "a30": {
-          "value": "{core.brand-preset.validation.warning}",
-          "type": "color",
-          "description": "Secondary.yellow 300",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.3",
-                "space": "lch"
-              }
-            }
-          }
-        },
         "a20": {
           "value": "{core.brand-preset.validation.warning}",
           "type": "color",
@@ -1460,48 +1272,6 @@
               "modify": {
                 "type": "alpha",
                 "value": "0.2",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "a10": {
-          "value": "{core.brand-preset.validation.warning}",
-          "type": "color",
-          "description": "Secondary.yellow 300",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "a0": {
-          "value": "{core.brand-preset.validation.warning}",
-          "type": "color",
-          "description": "Secondary.yellow 300",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "600a30": {
-          "value": "{core.validation.warning.600}",
-          "type": "color",
-          "description": "Secondary.yellow 300",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.3",
                 "space": "lch"
               }
             }

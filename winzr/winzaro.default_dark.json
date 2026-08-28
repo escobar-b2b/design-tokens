@@ -121,15 +121,6 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
-    "homepage": {
-      "collection": {
-        "card": {
-          "value": "{border-radius.core.400}",
-          "type": "borderRadius",
-          "description": "\n\n\n"
-        }
-      }
-    },
     "gamehall": {
       "thumb-providers": {
         "value": "{border-radius.core.300}",
@@ -223,12 +214,6 @@
       "type": "borderRadius",
       "description": "Banners: mobile aplication APP page"
     },
-    "mobile-application": {
-      "card": {
-        "value": "{border-radius.core.400}",
-        "type": "borderRadius"
-      }
-    },
     "welcome-bonus": {
       "tabs": {
         "value": "{border-radius.button.lg}",
@@ -247,13 +232,6 @@
     "toggle-button": {
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
-    },
-    "header": {
-      "special-menu-item": {
-        "value": "{border-radius.core.300}",
-        "type": "borderRadius",
-        "description": "contextual.header.desktop.special-menu-item"
-      }
     },
     "wheel": {
       "popup": {
@@ -2282,10 +2260,6 @@
     "underline": {
       "value": "underline",
       "type": "textDecoration"
-    },
-    "line-through": {
-      "value": "line-through",
-      "type": "textDecoration"
     }
   },
   "text-case": {
@@ -3058,19 +3032,19 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.400}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.200}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.a20}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         },
@@ -3169,26 +3143,6 @@
     "1600": {
       "value": "{dimension.16}",
       "type": "spacing"
-    },
-    "2400": {
-      "value": "{dimension.24}",
-      "type": "spacing"
-    },
-    "4000": {
-      "value": "{dimension.40}",
-      "type": "spacing"
-    }
-  },
-  "opacity": {
-    "50": {
-      "value": "0.5",
-      "type": "opacity"
-    },
-    "mobile-application": {
-      "general": {
-        "value": "0.5",
-        "type": "opacity"
-      }
     }
   },
   "blur": {
@@ -3238,42 +3192,14 @@
       "value": "{dimension.0-25}",
       "type": "dimension"
     },
-    "m025": {
-      "value": "{dimension.m0-25}",
-      "type": "dimension"
-    },
-    "m050": {
-      "value": "{dimension.m0-5}",
-      "type": "dimension"
-    },
     "m100": {
       "value": "{dimension.m1}",
-      "type": "dimension"
-    },
-    "m200": {
-      "value": "{dimension.m2}",
-      "type": "dimension"
-    },
-    "m400": {
-      "value": "{dimension.m4}",
-      "type": "dimension"
-    },
-    "m800": {
-      "value": "{dimension.m8}",
-      "type": "dimension"
-    },
-    "m1200": {
-      "value": "{dimension.m12}",
       "type": "dimension"
     }
   },
   "size": {
     "100": {
       "value": "{dimension.2}",
-      "type": "sizing"
-    },
-    "150": {
-      "value": "{dimension.3}",
       "type": "sizing"
     },
     "200": {
@@ -3299,10 +3225,6 @@
     "600": {
       "value": "{dimension.12}",
       "type": "sizing"
-    },
-    "800": {
-      "value": "{dimension.16}",
-      "type": "sizing"
     }
   },
   "max-width": {
@@ -3310,11 +3232,6 @@
       "value": "{dimension.284}",
       "type": "sizing",
       "description": "Use for Content on page"
-    },
-    "inner-content": {
-      "value": "{dimension.200}",
-      "type": "sizing",
-      "description": "Use for Inner-content on page"
     }
   },
   "input": {

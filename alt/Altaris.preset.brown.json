@@ -2741,6 +2741,10 @@
       "banner": {
         "value": "{semantic.background.page}",
         "type": "color"
+      },
+      "slate-card": {
+        "value": "{core.brand-60.800}",
+        "type": "color"
       }
     },
     "text": {

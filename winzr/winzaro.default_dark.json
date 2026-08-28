@@ -506,12 +506,6 @@
           }
         }
       },
-      "tabs": {
-        "fill": {
-          "value": "{semantic.background.slate-1}",
-          "type": "color"
-        }
-      },
       "card": {
         "fill": {
           "value": "{core.grey.800}",
@@ -1494,12 +1488,6 @@
         "background": {
           "value": "{core.white.a10}",
           "type": "color"
-        },
-        "border": {
-          "default": {
-            "value": "{semantic.border.default.secondary}",
-            "type": "color"
-          }
         }
       }
     },
@@ -1530,10 +1518,6 @@
             },
             "active": {
               "value": "{core.white.a100}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{semantic.text.disabled.primary}",
               "type": "color"
             },
             "hover": {
@@ -1758,13 +1742,6 @@
         "type": "color"
       }
     },
-    "segment-control": {
-      "fill": {
-        "value": "{core.grey.50}",
-        "type": "color",
-        "description": "Segment Control"
-      }
-    },
     "popup": {
       "border": {
         "value": "{semantic.border.default.secondary}",
@@ -1864,12 +1841,6 @@
           "value": "{semantic.text.default.primary}",
           "type": "color"
         }
-      },
-      "mobile": {
-        "fill": {
-          "value": "{core.grey.600}",
-          "type": "color"
-        }
       }
     },
     "tab-bar": {
@@ -1932,22 +1903,6 @@
           "border": {
             "value": "{semantic.border.default.secondary}",
             "type": "color"
-          }
-        }
-      }
-    },
-    "welcome-bonus": {
-      "progress": {
-        "steps": {
-          "steps": {
-            "icon": {
-              "value": "{core.brand-60.300}",
-              "type": "color"
-            },
-            "fill": {
-              "value": "{core.white.a100}",
-              "type": "color"
-            }
           }
         }
       }
@@ -3260,22 +3215,6 @@
       }
     }
   },
-  "selection-controls": {
-    "gap": {
-      "value": "{spacing.100}",
-      "type": "spacing"
-    }
-  },
-  "page": {
-    "content": {
-      "desktop": {
-        "padding-horizontal": {
-          "value": "{spacing.800}",
-          "type": "spacing"
-        }
-      }
-    }
-  },
   "link": {
     "plain": {
       "default": {
@@ -3340,28 +3279,6 @@
           "blur": "{blur.100}",
           "spread": "{depth.0}",
           "color": "{core.grey.a5}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "lg": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.800}",
-          "blur": "{blur.800}",
-          "spread": "{depth.0}",
-          "color": "{core.grey.a8}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "xl": {
-        "value": {
-          "x": "{depth.0}",
-          "y": "{depth.1200}",
-          "blur": "48px",
-          "spread": "{depth.0}",
-          "color": "{core.grey.900}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

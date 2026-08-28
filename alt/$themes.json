@@ -1672,8 +1672,7 @@
     "name": "Altaris.green",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.homepage.nav-menu.mobile.fill": "S:f801e473637f11b5b0f4a52b13a49d08034ac963,",
@@ -3788,8 +3787,7 @@
     "name": "Altaris.preset.green2",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.green2": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.homepage.nav-menu.mobile.fill": "S:f801e473637f11b5b0f4a52b13a49d08034ac963,",
@@ -4208,8 +4206,7 @@
     "name": "Altaris.preset.light",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.default_light": "enabled"
+      "Awi.Altaris.light": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:c4b77b458360e49b3b3b2dce8af668d215eb90a8,",
@@ -5917,8 +5914,7 @@
     "name": "Altaris.preset.light-green",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.green_light": "enabled"
+      "Awi.Altaris.light": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.hover": "S:33fc3249b3ba7d5fdb50a24894b69616e59b0ee1,",
@@ -7428,8 +7424,7 @@
     "name": "Altaris.yellow",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.yellow": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.homepage.nav-menu.mobile.fill": "S:f801e473637f11b5b0f4a52b13a49d08034ac963,",

@@ -8001,6 +8001,18 @@
           "type": "color"
         }
       }
+    },
+    "label": {
+      "text": {
+        "value": "{core.brand-30.200}",
+        "type": "color",
+        "description": "Lootboxes"
+      },
+      "fill": {
+        "value": "{core.brand-30.a8}",
+        "type": "color",
+        "description": "Lootboxes"
+      }
     }
   },
   "text-decoration": {

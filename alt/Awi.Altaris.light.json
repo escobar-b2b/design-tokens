@@ -9227,6 +9227,18 @@
           "type": "color"
         }
       }
+    },
+    "label": {
+      "text": {
+        "value": "{core.brand-30.300}",
+        "type": "color",
+        "description": "Lootboxes"
+      },
+      "fill": {
+        "value": "{core.brand-30.a10}",
+        "type": "color",
+        "description": "Lootboxes"
+      }
     }
   },
   "spacing": {

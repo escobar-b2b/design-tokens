@@ -10386,7 +10386,9 @@
       "semantic.background.slate-card": "S:681952110477234c6cba711d5eef291b3ecd4bff,",
       "semantic.progress.fill": "S:dc44fcdb832ace1622794f3fc41dfa395aac0d1f,",
       "semantic.progress.step": "S:14c13c145d16e164d24430fe9e85b90b1dc8ee27,",
-      "semantic.progress.border.fill": "S:880e1c4733c9533bf6fdd402af7a12635815ce36,"
+      "semantic.progress.border.fill": "S:880e1c4733c9533bf6fdd402af7a12635815ce36,",
+      "semantic.label.text": "S:f6565243bade7794d14752ac5089a26cd080347a,",
+      "semantic.label.fill": "S:c97e6a82369bf5b246d93dc4d8168f9069dc3c06,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

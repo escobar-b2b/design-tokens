@@ -2559,6 +2559,16 @@
           "value": "{core.brand-30.500}",
           "type": "color"
         }
+      },
+      "brand": {
+        "primary": {
+          "value": "{core.brand-10.400}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
       }
     },
     "status": {

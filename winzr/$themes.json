@@ -1113,8 +1113,8 @@
       "shadow.button.ghost.disabled": "S:1798d49ce94f9a113bf2450ce2fe10c24039a6e5,"
     },
     "selectedTokenSets": {
-      "winzaro.base_dark": "enabled",
-      "winzaro.default_dark": "enabled"
+      "winzaro.base_dark_old": "enabled",
+      "winzaro.default_dark_old": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:68978:60413",
     "$figmaModeId": "68978:0",
@@ -2437,8 +2437,8 @@
       "size.450": "1da20c1dc818e1ee750061333915765c9fef73ea"
     },
     "selectedTokenSets": {
-      "winzaro.base_dark_refactoring": "enabled",
-      "winzaro.default_dark_refactoring": "enabled"
+      "winzaro.base_dark": "enabled",
+      "winzaro.default_dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:71355:195141",
     "$figmaModeId": "71355:0"

@@ -1,4 +1,14 @@
 {
+  "base": {
+    "main": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "accent": {
+      "value": "16px",
+      "type": "fontSizes"
+    }
+  },
   "main": {
     "value": "Inter",
     "type": "fontFamilies",
@@ -140,8 +150,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Semibold}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{sm}"
+        "fontSize": "{font-size.main.sm}",
+        "lineHeight": "{line-height.main.sm}"
       },
       "type": "typography"
     },
@@ -149,8 +159,8 @@
       "value": {
         "fontFamily": "{main}",
         "fontWeight": "{Semibold}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{md}"
+        "fontSize": "{font-size.main.md}",
+        "lineHeight": "{line-height.main.sm}"
       },
       "type": "typography"
     }
@@ -2893,17 +2903,13 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.strong}",
-            "fontSize": "{scale-2}",
-            "lineHeight": "{sm}",
+            "fontSize": "{font-size.main.sm}",
+            "lineHeight": "{line-height.main.sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"
         }
       }
     }
-  },
-  "base": {
-    "value": "16px",
-    "type": "fontSizes"
   }
 }

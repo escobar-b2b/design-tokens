@@ -9,6 +9,10 @@
     "Altaris.preset.brown",
     "Altaris.preset.joker",
     "Altaris.preset.default_light",
-    "Altaris.preset.garnet"
+    "Altaris.preset.garnet",
+    "Altaris.preset.green-dark",
+    "Altaris.preset.orange",
+    "Altaris.preset.yellow",
+    "Altaris.preset.green_light"
   ]
 }

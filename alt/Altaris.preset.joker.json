@@ -3585,6 +3585,16 @@
             "type": "color"
           }
         }
+      },
+      "chips": {
+        "active": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
+        }
       }
     },
     "mobile-application": {

@@ -1,4 +1,14 @@
 {
+  "base": {
+    "main": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "accent": {
+      "value": "16px",
+      "type": "fontSizes"
+    }
+  },
   "main": {
     "value": "Inter",
     "type": "fontFamilies",
@@ -144,7 +154,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Medium}",
           "fontSize": "56px",
-          "lineHeight": "56px",
+          "lineHeight": "100%",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -155,7 +165,7 @@
           "fontFamily": "{accent}",
           "fontWeight": "{Medium}",
           "fontSize": "130px",
-          "lineHeight": "130px",
+          "lineHeight": "100%",
           "letterSpacing": "{letter-spacing.2}",
           "textCase": "{text-case.uppercase}"
         },
@@ -2826,8 +2836,8 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
+            "fontSize": "{font-size.main.xs}",
+            "lineHeight": "100%"
           },
           "type": "typography"
         }
@@ -2857,10 +2867,10 @@
           "value": {
             "fontFamily": "{accent}",
             "fontWeight": "{Bold}",
-            "lineHeight": "52px",
+            "lineHeight": "{line-height.accent.lg}",
             "letterSpacing": "0%",
             "textCase": "{text-case.none}",
-            "fontSize": "40px"
+            "fontSize": "{font-size.accent.xxxl}"
           },
           "type": "typography"
         }
@@ -2882,8 +2892,8 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.strong}",
-            "fontSize": "{scale-2}",
-            "lineHeight": "{sm}",
+            "fontSize": "{font-size.main.sm}",
+            "lineHeight": "{line-height.main.sm}",
             "textDecoration": "{text-decoration.line-through}"
           },
           "type": "typography"
@@ -2909,10 +2919,6 @@
         "description": "contextual.lootboxes.coefficient"
       }
     }
-  },
-  "base": {
-    "value": "16px",
-    "type": "fontSizes"
   },
   "contextual": {
     "tab-bar": {

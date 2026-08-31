@@ -173,8 +173,8 @@
             "value": {
               "fontFamily": "{accent}",
               "fontWeight": "{Bold}",
-              "fontSize": "18px",
-              "lineHeight": "24px",
+              "fontSize": "{font-size.accent.sm}",
+              "lineHeight": "{line-height.accent.lg}",
               "textCase": "0",
               "letterSpacing": "0"
             },
@@ -2847,8 +2847,8 @@
           "value": {
             "fontFamily": "{main}",
             "fontWeight": "{text.stronger}",
-            "fontSize": "11px",
-            "lineHeight": "11px"
+            "fontSize": "{font-size.main.xs}",
+            "lineHeight": "100%"
           },
           "type": "typography"
         }
@@ -2878,10 +2878,10 @@
           "value": {
             "fontFamily": "{accent}",
             "fontWeight": "{Bold}",
-            "lineHeight": "52px",
+            "lineHeight": "{line-height.accent.lg}",
             "letterSpacing": "0%",
             "textCase": "{text-case.none}",
-            "fontSize": "40px"
+            "fontSize": "{font-size.accent.xxxl}"
           },
           "type": "typography"
         }

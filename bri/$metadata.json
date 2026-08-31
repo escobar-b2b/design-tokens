@@ -6,6 +6,7 @@
     "Awi.Brionis.light",
     "Brionis.preset.default_dark",
     "Brionis.preset.default_light_orange",
-    "Awi.Brionis.dark"
+    "Awi.Brionis.dark",
+    "refactoring"
   ]
 }

@@ -8598,7 +8598,7 @@
         "description": "+gradients.Emerald 600"
       },
       "11": {
-        "value": "#0F0F14",
+        "value": "{core.brand-60.50}",
         "type": "color",
         "description": "+gradients.Black 600"
       },
@@ -8630,7 +8630,7 @@
         "description": "gradient.Black 600"
       },
       "5": {
-        "value": "#191924",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "menu"
       },

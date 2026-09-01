@@ -4204,9 +4204,9 @@
   {
     "id": "e22e53727044a4811884a288fe0858c1cc146ad6",
     "name": "Altaris.preset.light",
-    "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled"
+      "Awi.Altaris.light": "enabled",
+      "Altaris.preset.default_light": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:c4b77b458360e49b3b3b2dce8af668d215eb90a8,",
@@ -5658,7 +5658,22 @@
       "shadow.header.main": "S:6518fc8e0a0ac8ddb19b2da56bcf8e8c44547257,",
       "shadow.balance": "S:58992c79ecbc80ce75cf5087885963c0428ed220,",
       "semantic.background.banner": "S:88a4da4d4fcd7d2854bfe64bdbdee1954ddfcc27,",
-      "core.brand-30.25": "S:00e448d07590d7fec736e94303b389f82eb8f88b,"
+      "core.brand-30.25": "S:00e448d07590d7fec736e94303b389f82eb8f88b,",
+      "contextual.achivments.card.nornal.fiill.hover": "S:72128826ec35584490be8fc821212ec7aa800187,",
+      "contextual.achivments.chips.active": "S:3a13f20012f3d7d5e45394bfe0c44e3fb48359bd,",
+      "contextual.achivments.chips.default": "S:863458775bdf09830ded44905864fcba2e50207d,",
+      "contextual.loyalty.block.fill": "S:99bc3a29a662c5467bad267c207b018d4dda2f0c,",
+      "contextual.homepage.nav-menu.item-mobile.icon.favorite": "S:f3b7aab379d258cd886dd25b1e6cf018a6294f66,",
+      "semantic.background.slate-card": "S:bdfd6963ca37bdd95bfef61573cd726109dfccce,",
+      "semantic.border.default.accent": "S:4f414fc89fc5e115bb7dedd2752353a77d9d20ec,",
+      "semantic.link.banner.default": "S:af508b0a2bbe25d135b0b8a36f60faa9b81077f6,",
+      "semantic.link.banner.disabled": "S:29139a49898181576eb68767705befb01f7809d7,",
+      "semantic.link.banner.hover": "S:7c8dc74b7015e2c65f04004fe8a7732505a732e7,",
+      "semantic.progress.fill": "S:4bad8e6a2bc09aa7cb7fd0b0e2d7bae425b85d63,",
+      "semantic.progress.step": "S:dfb3f465e475ad8953a984964265761d0eafcd66,",
+      "semantic.progress.border.fill": "S:2bf9d677c91457695739cc69c22a25bc5af02e24,",
+      "semantic.label.text": "S:5325eb1ae30967b29ee73f48177c4b1c0aa6b0b5,",
+      "semantic.label.fill": "S:36594b568fa633282d35f88a27a14bce4094f235,"
     },
     "$figmaVariableReferences": {
       "main": "d9282728d881ecd433e9fdd04a237d5e275336e8",
@@ -5737,21 +5752,6 @@
       "border-radius.wheel.block": "211c8de6d4e8f70f801e370770a995a5552120f5",
       "PWA.general": "af22b1fca02cb47bb7fc502e8292f9370c272963",
       "contextual.profile.status.md.padding-left": "84c201384c0f998043c5c5d5627c11eae46de5ba",
-      "scale-1": "8567b8ce50247fdfd576c88dfedaf8d4b1f51134",
-      "scale-2": "32a6aea63c5a0d926c3fca605cc9610ed078c04a",
-      "scale-3": "b5e964860a951e4085451b8a56875663885a5e0c",
-      "scale-4": "e554d4d1f67a69498a87cfab46b0e53984b00a27",
-      "scale-5": "a09deef87de21d9dfe74a81cbc1d1c4cf1d51f32",
-      "scale-6": "06541046ed25270a25fdffed740de3399fbfbaad",
-      "scale-7": "34c197e54f79d4612cf15a7f39a545d23d33e032",
-      "scale-8": "49d3ad3374a685928ff996a68e6a595a945b5d4b",
-      "xs": "614c0224501e2a112f995d6d925abd40b3637166",
-      "sm": "cf67ff7d406deea92ac6132775307c52c13c7e1e",
-      "md": "c8658c3bfaa04a0bcfb9cd43c6b5e059301d92cb",
-      "ml": "cfdaa8eb0e98170e923fcf84203517718ed2e6d0",
-      "lg": "2cd355eab23dc50bf17bec6cc051ec7b71b2b567",
-      "xl": "091103154036a1afe66c15d8b4da24a75686f8a4",
-      "xxl": "e72fff074c43b4a8cfbee50de33f17de96381bed",
       "text.normal": "92333a6bdb351a51cec597e5e9c1366d90926328",
       "text.strong": "e45fc299100472286e287e33a37e85151b8b8d58",
       "text.stronger": "c75f82f113b7502d1bbf7a01cc4aa56ad7009c9c",
@@ -5901,13 +5901,23 @@
       "deals.promo-code-button.padding-right": "58faab6fd85f67907254372a5eecf28a962daf02",
       "wheel.popup.vip-bet-amount.width": "f7dd8a36cb406ba1b6ca993b5448cd743c05e35e",
       "card.balance": "1018a331219e621cb4b622ee9dd26701782beef9",
-      "scale-9": "325b8ebcf00b7fa83002e096a651c0a4897a2083",
-      "base": "a17ce3fd4cacc835fe21358768daf9ccb550559f",
-      "Book": "58940095d04b1e45c8762ca3c209c04bab6e7df2",
-      "Demi": "bb13b59a63bd637cfc46e33887ebe88c916a779a"
+      "font-size.main.xs": "f0027b05c66c375e52b5b713a75532ae829a49e2",
+      "font-size.main.sm": "d1578dbcdb43cf7fcdf88eccec8e0a6f398bd5fe",
+      "font-size.main.md": "65bfc8b90d878984e5d14003122da9930711ab8c",
+      "font-size.main.ml": "27e1f92cb3719ee9f8abb7fd7229879ab5a2a9f1",
+      "font-size.main.lg": "29d6ba971360c008e7ac27ce1193c7d10582f339",
+      "font-size.accent.sm": "4c5b667747cf3d9428dec334098e97b027e5608f",
+      "font-size.accent.md": "b81a4fed6b347cf85ad6d9fd9b735079573ea5ea",
+      "font-size.accent.lg": "aa61c3603b978df161cb7efaca316542633d6ea4",
+      "font-size.accent.xl": "539bf2f66fc19f20c6979c6c91fc73cdef420066",
+      "base.main": "7011ec624860cc6e2f634170a47c8fa61ec69581",
+      "base.accent": "e011737dd3b1ae487567d4ae80f85457eb6f4bd8",
+      "Book": "6be0d169730e3344b52c670161b512bfb6f42dbe",
+      "Demi": "56f035b3f93cb5cf3a432bf7d80141c394c30547"
     },
     "$figmaCollectionId": "VariableCollectionId:11004:83727",
-    "$figmaModeId": "11004:0"
+    "$figmaModeId": "11004:0",
+    "group": "ALT"
   },
   {
     "id": "c5961ee3862628a78e1a3db69b66797ac5498b0d",

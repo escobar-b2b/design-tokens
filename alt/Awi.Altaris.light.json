@@ -3555,11 +3555,11 @@
       },
       "chips": {
         "active": {
-          "value": "{core.white.a8}",
+          "value": "{core.brand-30.300}",
           "type": "color"
         },
         "default": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.brand-30.a20}",
           "type": "color"
         }
       }

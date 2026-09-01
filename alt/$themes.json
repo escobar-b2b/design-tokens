@@ -10398,7 +10398,10 @@
       "semantic.progress.step": "S:14c13c145d16e164d24430fe9e85b90b1dc8ee27,",
       "semantic.progress.border.fill": "S:880e1c4733c9533bf6fdd402af7a12635815ce36,",
       "semantic.label.text": "S:f6565243bade7794d14752ac5089a26cd080347a,",
-      "semantic.label.fill": "S:c97e6a82369bf5b246d93dc4d8168f9069dc3c06,"
+      "semantic.label.fill": "S:c97e6a82369bf5b246d93dc4d8168f9069dc3c06,",
+      "contextual.achivments.chips.active": "S:cf068b2b9b6ac710c5f2651ce5ff0886f5457ccd,",
+      "contextual.achivments.chips.default": "S:431de01e64324548b109a6634030ebfe6bcef2c1,",
+      "semantic.icon.success.default": "S:8064225a55dfe90993487b8c871a92b341bbea96,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

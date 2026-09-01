@@ -8878,6 +8878,12 @@
           "value": "{core.brand-30.500}",
           "type": "color"
         }
+      },
+      "success": {
+        "default": {
+          "value": "{core.validation.success.500}",
+          "type": "color"
+        }
       }
     },
     "text": {

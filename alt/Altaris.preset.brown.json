@@ -2876,6 +2876,14 @@
           "type": "color"
         }
       }
+    },
+    "icon": {
+      "success": {
+        "default": {
+          "value": "{core.validation.success.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "contextual": {

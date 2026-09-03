@@ -346,7 +346,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "{font-size.main.ml}",
-        "lineHeight": "16px",
+        "lineHeight": "{line-height.main.sm}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0.64px"
       },
@@ -357,7 +357,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "15px",
-        "lineHeight": "15px",
+        "lineHeight": "{line-height.main.sm}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0.6px"
       },
@@ -368,7 +368,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{Bold}",
         "fontSize": "13px",
-        "lineHeight": "13px",
+        "lineHeight": "{line-height.main.sm}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0,52px"
       },
@@ -3407,7 +3407,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{font-size.accent.lg}",
-        "lineHeight": "36px",
+        "lineHeight": "{line-height.accent.lg}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
@@ -3418,7 +3418,7 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Extrabold}",
         "fontSize": "{font-size.accent.xl}",
-        "lineHeight": "44px",
+        "lineHeight": "{line-height.accent.lg}",
         "textCase": "{text-case.uppercase}",
         "letterSpacing": "0%"
       },
@@ -3440,7 +3440,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.accent.md}",
-        "lineHeight": "28px",
+        "lineHeight": "{line-height.accent.lg}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
       },
@@ -3451,7 +3451,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{font-size.accent.md}",
-        "lineHeight": "28px",
+        "lineHeight": "{line-height.accent.lg}",
         "textCase": "{text-case.none}",
         "letterSpacing": "-0.56px"
       },

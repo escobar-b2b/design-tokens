@@ -48,11 +48,11 @@
   "line-height": {
     "main": {
       "sm": {
-        "value": "127%",
+        "value": "130%",
         "type": "lineHeights"
       },
       "lg": {
-        "value": "164%",
+        "value": "160%",
         "type": "lineHeights"
       }
     },

@@ -5731,7 +5731,7 @@
       },
       "border": {
         "default": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "active": {

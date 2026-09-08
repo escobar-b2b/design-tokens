@@ -48,7 +48,7 @@
         "type": "sizing"
       },
       "lg": {
-        "value": "{size.800}",
+        "value": "{button.icon.size.md}",
         "type": "sizing"
       }
     },

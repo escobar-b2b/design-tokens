@@ -116,7 +116,7 @@
         "type": "sizing"
       },
       "lg": {
-        "value": "{size.800}",
+        "value": "{depth.1200}",
         "type": "sizing"
       }
     },

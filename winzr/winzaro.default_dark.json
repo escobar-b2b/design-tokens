@@ -579,6 +579,10 @@
           "default": {
             "value": "radial-gradient(70% 48% at 48% 25%, {core.grey.500} 0%, {core.grey.700} 100%)",
             "type": "color"
+          },
+          "hover": {
+            "value": "radial-gradient(70% 48% at 48% 25%, {core.grey.600} 0%, {core.grey.800} 100%)",
+            "type": "color"
           }
         },
         "border": {

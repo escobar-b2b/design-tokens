@@ -658,6 +658,76 @@
         }
       }
     },
+    "achivments": {
+      "chips": {
+        "active": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "fiill": {
+          "default": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "inactive": {
+            "value": "{core.brand-60.a10}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a15}",
+            "type": "color"
+          }
+        },
+        "slate-on-card": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        },
+        "nornal": {
+          "fiill": {
+            "default": {
+              "value": "{core.brand-60.700}",
+              "type": "color"
+            },
+            "received": {
+              "value": "{core.brand-60.700}",
+              "type": "color"
+            },
+            "progress": {
+              "value": "{core.brand-60.700}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{core.brand-60.a20}",
+              "type": "color"
+            },
+            "progress": {
+              "value": "{core.validation.info.a20}",
+              "type": "color"
+            },
+            "received": {
+              "value": "{core.validation.success.a20}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
+          "type": "color"
+        }
+      }
+    },
     "registration": {
       "banner": {
         "background": {
@@ -882,66 +952,6 @@
             "value": "{semantic.background.5}",
             "type": "color"
           }
-        }
-      }
-    },
-    "achivments": {
-      "card": {
-        "fiill": {
-          "default": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "inactive": {
-            "value": "{core.brand-60.a10}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{core.white.a15}",
-            "type": "color"
-          }
-        },
-        "slate-on-card": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        },
-        "nornal": {
-          "fiill": {
-            "default": {
-              "value": "{core.brand-60.700}",
-              "type": "color"
-            },
-            "received": {
-              "value": "{core.brand-60.700}",
-              "type": "color"
-            },
-            "progress": {
-              "value": "{core.brand-60.700}",
-              "type": "color"
-            }
-          },
-          "border": {
-            "default": {
-              "value": "{core.brand-60.a20}",
-              "type": "color"
-            },
-            "progress": {
-              "value": "{core.validation.info.a20}",
-              "type": "color"
-            },
-            "received": {
-              "value": "{core.validation.success.a20}",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "banner": {
-        "fill": {
-          "value": "linear-gradient(51deg, {core.brand-10.500} 7%, {core.brand-60.600} 96%)",
-          "type": "color"
         }
       }
     },

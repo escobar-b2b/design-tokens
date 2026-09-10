@@ -9097,6 +9097,20 @@
         "element": {
           "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
           "type": "color"
+        },
+        "element-1": {
+          "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
+          "type": "color",
+          "description": "Используется для формирования градиента, при для вомоджной последующей кастомизации был запрос разделить этот градиент, создав дополнительный уровень токенов, который потом подвязывается алиасом к токену(формирует его) semantic.border.active.element"
+        },
+        "element-2": {
+          "value": "{core.white.a40}",
+          "type": "color",
+          "description": "Используется для формирования градиента, при для вомоджной последующей кастомизации был запрос разделить этот градиент, создав дополнительный уровень токенов, который потом подвязывается алиасом к токену(формирует его) semantic.border.active.element"
+        },
+        "element-3": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
         }
       },
       "static": {

@@ -7885,8 +7885,22 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, {core.brand-60.900} , {core.white.a40} , {core.brand-30.500} 93%)",
+          "value": "linear-gradient(311deg, {semantic.border.active.element-1} , {semantic.border.active.element-2} , {semantic.border.active.element-3} 93%)",
           "type": "color"
+        },
+        "element-3": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "element-2": {
+          "value": "{core.white.a40}",
+          "type": "color",
+          "description": "Используется для формирования градиента, при для вомоджной последующей кастомизации был запрос разделить этот градиент, создав дополнительный уровень токенов, который потом подвязывается алиасом к токену(формирует его) semantic.border.active.element"
+        },
+        "element-1": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "Используется для формирования градиента, при для вомоджной последующей кастомизации был запрос разделить этот градиент, создав дополнительный уровень токенов, который потом подвязывается алиасом к токену(формирует его) semantic.border.active.element"
         }
       },
       "static": {

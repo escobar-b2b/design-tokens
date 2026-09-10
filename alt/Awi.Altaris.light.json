@@ -112,7 +112,7 @@
         "type": "sizing"
       },
       "md": {
-        "value": "{size.600}",
+        "value": "{size.500}",
         "type": "sizing"
       },
       "lg": {

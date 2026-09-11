@@ -672,7 +672,7 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.brand-60.700}",
+            "value": "linear-gradient(146deg, {core.brand-30.500} 3.28%, {core.brand-30.700} 99.04%)",
             "type": "color"
           },
           "inactive": {

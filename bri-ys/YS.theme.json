@@ -5068,7 +5068,7 @@
     "link": {
       "default": {
         "default": {
-          "value": "{core.additionals.gold}",
+          "value": "{semantic.text.static.primary}",
           "type": "color",
           "description": "{semantic.text.default.primary}"
         },

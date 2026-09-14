@@ -2803,7 +2803,11 @@
               "type": "color"
             },
             "get": {
-              "value": "{core.brand-60.700}",
+              "value": "{core.brand-30.600}",
+              "type": "color"
+            },
+            "get-copy": {
+              "value": "{core.brand-30.600}",
               "type": "color"
             }
           },

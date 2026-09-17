@@ -2487,15 +2487,15 @@
     },
     "brand-preset": {
       "primary": {
-        "value": "#ecfd00",
+        "value": "#FA1D1D",
         "type": "color"
       },
       "secondary": {
-        "value": "#d7dee5",
+        "value": "#FED400",
         "type": "color"
       },
       "tertiary": {
-        "value": "#5a7c90",
+        "value": "#5A5A91",
         "type": "color",
         "description": "tertiary"
       },
@@ -2504,7 +2504,7 @@
         "type": "color"
       },
       "grey": {
-        "value": "#212c31",
+        "value": "#6E6C7B",
         "type": "color",
         "description": "500"
       },

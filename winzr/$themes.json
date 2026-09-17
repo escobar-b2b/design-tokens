@@ -2249,7 +2249,8 @@
       "contextual.strip.card.stroke.active": "S:919412d9fc22a43426f098665f79b90f6f6d9c54,",
       "contextual.achivments.chips.default": "S:0b9fb451ea7432c51b4a73889586ed022250bf28,",
       "contextual.achivments.chips.active": "S:eeb1fe68f94c27c44036bca756bd0be20f3909af,",
-      "semantic.status.error.border.primary": "S:8b018292b37c8d4536311ce8265442a390df6ef4,"
+      "semantic.status.error.border.primary": "S:8b018292b37c8d4536311ce8265442a390df6ef4,",
+      "shadow.semantic.drop.accent-15": "S:a96a1619cc1230ea7bfe233dca85c06413ddfae5,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

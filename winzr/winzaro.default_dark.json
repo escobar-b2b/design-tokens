@@ -2183,14 +2183,8 @@
       "type": "lineHeights"
     },
     "main": {
-      "xs": {
-        "value": "130%",
-        "type": "lineHeights"
-      },
-      "sm": {
-        "value": "150%",
-        "type": "lineHeights"
-      }
+      "value": "150%",
+      "type": "lineHeights"
     }
   },
   "text-decoration": {
@@ -2219,7 +2213,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.xs}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2228,7 +2222,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{font-size.main.xs}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2237,7 +2231,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.main.xs}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2246,7 +2240,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.sm}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2255,7 +2249,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{font-size.main.sm}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2264,7 +2258,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.main.sm}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2273,7 +2267,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.md}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2282,7 +2276,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{font-size.main.md}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2291,7 +2285,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.main.md}",
-        "lineHeight": "{line-height.main.xs}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2300,7 +2294,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.lg}",
-        "lineHeight": "{line-height.main.sm}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2309,7 +2303,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{font-size.main.lg}",
-        "lineHeight": "{line-height.main.sm}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2318,7 +2312,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.main.lg}",
-        "lineHeight": "{line-height.main.sm}"
+        "lineHeight": "{line-height.main}"
       },
       "type": "typography"
     },
@@ -2356,7 +2350,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.sm}",
-        "lineHeight": "{line-height.main.xs}",
+        "lineHeight": "{line-height.main}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
@@ -2366,7 +2360,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.normal}",
         "fontSize": "{font-size.main.md}",
-        "lineHeight": "{line-height.main.xs}",
+        "lineHeight": "{line-height.main}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
@@ -2376,7 +2370,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{font-size.main.md}",
-        "lineHeight": "{line-height.main.xs}",
+        "lineHeight": "{line-height.main}",
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"

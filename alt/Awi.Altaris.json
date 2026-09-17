@@ -6724,7 +6724,7 @@
       }
     },
     "overlay": {
-      "value": "{core.grey.a60}",
+      "value": "{core.grey.a90}",
       "type": "color"
     },
     "divider": {

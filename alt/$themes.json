@@ -5673,7 +5673,10 @@
       "semantic.progress.step": "S:dfb3f465e475ad8953a984964265761d0eafcd66,",
       "semantic.progress.border.fill": "S:2bf9d677c91457695739cc69c22a25bc5af02e24,",
       "semantic.label.text": "S:5325eb1ae30967b29ee73f48177c4b1c0aa6b0b5,",
-      "semantic.label.fill": "S:36594b568fa633282d35f88a27a14bce4094f235,"
+      "semantic.label.fill": "S:36594b568fa633282d35f88a27a14bce4094f235,",
+      "semantic.icon.success.default": "S:fcc85e64c932546a3da88e946f9efbeeefee79d4,",
+      "semantic.border.active.element-2": "S:baf6d806cd45a95c922758cb4f3c47025b93921b,",
+      "semantic.border.active.element-3": "S:4bfab3ee0a54ca3473a2df5e75f41e86772a429b,"
     },
     "$figmaVariableReferences": {
       "main": "d9282728d881ecd433e9fdd04a237d5e275336e8",

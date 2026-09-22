@@ -5097,7 +5097,7 @@
           "type": "color"
         },
         "fill-filled": {
-          "value": "{core.brand-60.900}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },

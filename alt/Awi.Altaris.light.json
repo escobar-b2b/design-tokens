@@ -8726,7 +8726,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a50}",
+            "value": "{core.white.a70}",
             "type": "color"
           },
           "hover": {

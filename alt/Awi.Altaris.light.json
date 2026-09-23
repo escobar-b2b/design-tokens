@@ -8715,7 +8715,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {

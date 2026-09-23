@@ -6446,7 +6446,7 @@
       },
       "additional-block": {
         "fill": {
-          "value": "{core.brand-30.a30}",
+          "value": "{core.brand-30.a15}",
           "type": "color"
         },
         "border": {

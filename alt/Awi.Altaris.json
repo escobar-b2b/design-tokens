@@ -6291,7 +6291,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{core.brand-60.700}",
           "type": "color"
         },
         "text": {
@@ -8688,7 +8688,7 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.800}",
             "type": "color"
           },
           "hover": {
@@ -8706,7 +8706,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.800}",
             "type": "color"
           },
           "hover": {

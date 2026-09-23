@@ -2669,6 +2669,12 @@
             "value": "{semantic.text.default.heading}",
             "type": "color"
           }
+        },
+        "bg": {
+          "primary": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
         }
       }
     },

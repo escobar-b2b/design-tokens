@@ -4058,7 +4058,7 @@
         },
         "fill": {
           "default": {
-            "value": "{core.brand-30.25}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           },
@@ -4101,7 +4101,7 @@
       },
       "model-overview": {
         "background": {
-          "value": "{core.brand-30.25}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {

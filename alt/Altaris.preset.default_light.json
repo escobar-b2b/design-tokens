@@ -84,7 +84,7 @@
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{base.accent} * 2.5",
+        "value": "{base.accent} * 2",
         "type": "fontSizes"
       }
     }

@@ -1883,7 +1883,14 @@
       }
     },
     "notification": {
-      "value": "{shadow.drop.medium}",
+      "value": {
+        "x": "{depth.0}",
+        "y": "{depth.0}",
+        "blur": "{depth.200}",
+        "spread": "0px",
+        "color": "{core.brand-60.a10}",
+        "type": "dropShadow"
+      },
       "type": "boxShadow"
     },
     "messages": {
@@ -3730,7 +3737,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-30.25}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "popover-action": {

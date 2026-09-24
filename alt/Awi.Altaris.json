@@ -78,7 +78,7 @@
         "type": "fontSizes"
       },
       "xl": {
-        "value": "{base.accent} * 2",
+        "value": "{base.accent} * 2.5",
         "type": "fontSizes"
       }
     }
@@ -5514,7 +5514,7 @@
         },
         "number": {
           "text2": {
-            "value": "{semantic.text.brand.on-brand-secondary}",
+            "value": "{semantic.text.brand.on-brand}",
             "type": "color"
           },
           "text": {

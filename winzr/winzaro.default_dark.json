@@ -3228,16 +3228,16 @@
             {
               "x": "-0.5px",
               "y": "0.5px",
-              "blur": "{blur.0}",
-              "spread": "{depth.0}",
+              "blur": "",
+              "spread": "",
               "color": "{core.brand-10.700}",
               "type": "dropShadow"
             },
             {
               "x": "{depth.0}",
-              "y": "-0.5",
-              "blur": "{blur.0}",
-              "spread": "{depth.0}",
+              "y": "-0.5px",
+              "blur": "",
+              "spread": "",
               "color": "{core.white.a100}",
               "type": "dropShadow"
             }

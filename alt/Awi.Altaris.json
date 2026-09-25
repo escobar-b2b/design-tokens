@@ -7582,12 +7582,6 @@
         "lineHeight": "{line-height.main.sm}"
       },
       "type": "typography"
-    },
-    "gap": {
-      "rows": {
-        "value": "{spacing.0}",
-        "type": "spacing"
-      }
     }
   },
   "heading": {

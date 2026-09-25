@@ -2695,33 +2695,33 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.secondary.fill.default}",
+            "value": "{semantic.background.brand.secondary.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.secondary.fill.hover}",
+            "value": "{semantic.background.brand.secondary.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{contextual.button.secondary.fill.default}",
+            "value": "{semantic.background.brand.secondary.disabled}",
             "type": "color"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.brand-60.900}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.disabled.secondary}",
+            "value": "{core.brand-60.900a40}",
             "type": "color"
           }
         },
@@ -8688,19 +8688,19 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-60.800}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-30.300}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-30.600}",
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-30.700a70}",
             "type": "color"
           }
         },
@@ -9022,19 +9022,19 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-30.300}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.700a70}",
+            "value": "{core.white.a0}",
             "type": "color"
           }
         },

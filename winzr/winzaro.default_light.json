@@ -1541,11 +1541,11 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.grey.500}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             },
             "hover": {
-              "value": "{core.grey.400}",
+              "value": "{core.brand-60.400}",
               "type": "color"
             },
             "disabled": {
@@ -1843,7 +1843,7 @@
     },
     "tab-bar": {
       "fill": {
-        "value": "{core.grey.800a80}",
+        "value": "{core.white.a100}",
         "type": "color"
       },
       "border": {
@@ -1856,13 +1856,13 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.text.default.heading}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{semantic.text.default.secondary}",
+          "value": "{core.brand-60.400}",
           "type": "color"
         },
         "active": {
@@ -3150,10 +3150,10 @@
         "value": [
           {
             "x": "{depth.0}",
-            "y": "{depth.300}",
-            "blur": "{blur.300}",
+            "y": "{depth.200}",
+            "blur": "{blur.200}",
             "spread": "{depth.0}",
-            "color": "{core.grey.a50}",
+            "color": "{core.brand-60.a10}",
             "type": "dropShadow"
           }
         ],

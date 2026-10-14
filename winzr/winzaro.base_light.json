@@ -1675,7 +1675,7 @@
     },
     "background": {
       "1": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "+ for block pages"
       },

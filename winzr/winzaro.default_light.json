@@ -1915,14 +1915,14 @@
       },
       "primary": {
         "fill": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-60.500}",
           "type": "color",
           "description": "badge"
         }
       },
       "outlined": {
         "border": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.brand-60.500}",
           "type": "color",
           "description": "badge"
         }

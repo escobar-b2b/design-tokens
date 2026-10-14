@@ -2815,7 +2815,7 @@
       },
       "static": {
         "default": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.banner-cart.primary}",
           "type": "color"
         },
         "hover": {

@@ -3,6 +3,8 @@
     "winzaro.base_dark_old",
     "winzaro.default_dark_old",
     "winzaro.base_dark",
-    "winzaro.default_dark"
+    "winzaro.default_dark",
+    "winzaro.base_light",
+    "winzaro.default_light"
   ]
 }

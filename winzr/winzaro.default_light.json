@@ -2105,7 +2105,7 @@
     "special-menu-item": {
       "fill": {
         "default": {
-          "value": "{core.brand-60.50}",
+          "value": "{core.brand-60.a10}",
           "type": "color"
         },
         "hover": {

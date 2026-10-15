@@ -1477,13 +1477,13 @@
         },
         "background": {
           "active": {
-            "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} , {core.grey.900} )",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           }
         },
         "tabs": {
           "background": {
-            "value": "{core.grey.a30}",
+            "value": "{core.brand-60.a10}",
             "type": "color"
           }
         }
@@ -2068,7 +2068,7 @@
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{core.white.a100}",
+          "value": "{core.brand-60.500}",
           "type": "color",
           "description": "Toggle-button"
         }
@@ -2085,14 +2085,14 @@
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{semantic.border.default.default}",
+          "value": "{semantic.divider.default.transparency}",
           "type": "color",
           "description": "Toggle-button"
         }
       },
       "text": {
         "normal": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color",
           "description": "Toggle-button"
         },

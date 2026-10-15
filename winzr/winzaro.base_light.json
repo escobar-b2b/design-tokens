@@ -1582,7 +1582,7 @@
       },
       "for-gradients": {
         "1": {
-          "value": "#4C186D",
+          "value": "#F6EAF4",
           "type": "color",
           "description": "+ Bonus popover"
         },
@@ -1602,12 +1602,12 @@
           "description": "+ for gradient 11"
         },
         "5": {
-          "value": "#502C15",
+          "value": "#FFECEF",
           "type": "color",
           "description": "+ for collections"
         },
         "6": {
-          "value": "#324E3F",
+          "value": "#E8F8F3",
           "type": "color",
           "description": "+ for collections"
         }

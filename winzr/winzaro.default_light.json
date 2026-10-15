@@ -691,11 +691,11 @@
         },
         "3": {
           "fill": {
-            "value": "radial-gradient(167% 126% at 97% 4%, {core.brand-preset.for-gradients.6} 0%, {core.white.a100} 48%)",
+            "value": "radial-gradient(167% 126% at 97% 4%, {core.brand-30.100} 0%, {core.white.a100} 48%)",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-preset.for-gradients.6}",
+            "value": "{core.brand-30.100}",
             "type": "color"
           }
         },
@@ -711,11 +711,11 @@
         },
         "5": {
           "fill": {
-            "value": "radial-gradient(167% 126% at 97% 4%, {core.brand-30.800} 0%, {core.white.a100} 48%)",
+            "value": "radial-gradient(167% 126% at 97% 4%, {core.brand-preset.for-gradients.5} 0%, {core.white.a100} 48%)",
             "type": "color"
           },
           "border": {
-            "value": "{core.brand-30.800}",
+            "value": "{core.brand-preset.for-gradients.5}",
             "type": "color"
           }
         }

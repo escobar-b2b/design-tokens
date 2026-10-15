@@ -1597,7 +1597,7 @@
           "description": "+ label"
         },
         "4": {
-          "value": "#343951",
+          "value": "#1D274E",
           "type": "color",
           "description": "+ for gradient 11"
         },
@@ -1668,7 +1668,7 @@
         "description": "+ badge 5"
       },
       "11": {
-        "value": "linear-gradient(180deg, {core.grey.700} 0%, {core.brand-preset.for-gradients.4} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-preset.for-gradients.4} 100%)",
         "type": "color",
         "description": "+ for card bd\n"
       }
@@ -1714,7 +1714,7 @@
         "description": "+ shop prices"
       },
       "slate-for-cards": {
-        "value": "{core.grey.800}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "+ slate for cards BG "
       }

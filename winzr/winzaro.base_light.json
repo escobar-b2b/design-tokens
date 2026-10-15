@@ -628,17 +628,9 @@
     },
     "brand-60": {
       "50": {
-        "value": "{core.brand-preset.tertiary}",
+        "value": "#F2F5FC",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.94",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "\n0.94"
       },
       "100": {
         "value": "{core.brand-preset.tertiary}",
@@ -1648,7 +1640,7 @@
         "description": "+ some type of cart winning now, tickets pack"
       },
       "4": {
-        "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.brand-60.600} 100%)",
+        "value": "linear-gradient(225deg, {core.brand-60.400} 0%, {core.grey.600} 100%)",
         "type": "color",
         "description": "+ thumb view more, refferal card, payment bonus"
       },
@@ -1668,7 +1660,7 @@
         "description": "+ badge 5"
       },
       "11": {
-        "value": "linear-gradient(180deg, {core.brand-60.700} 0%, {core.brand-preset.for-gradients.4} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.400} 0%, {core.grey.500} 100%)",
         "type": "color",
         "description": "+ for card bd\n"
       }
@@ -1690,7 +1682,7 @@
         "description": "+ for icons, some dropdowns"
       },
       "5": {
-        "value": "{core.grey.a30}",
+        "value": "{core.brand-60.a25}",
         "type": "color"
       },
       "slate-1": {

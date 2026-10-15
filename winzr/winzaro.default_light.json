@@ -3418,7 +3418,7 @@
                 "y": "{depth.0}",
                 "blur": "{blur.300}",
                 "spread": "{depth.0}",
-                "color": "{core.grey.a15}",
+                "color": "{core.brand-60.a10}",
                 "type": "dropShadow"
               }
             ],

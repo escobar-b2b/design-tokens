@@ -3050,7 +3050,8 @@
       "shadow.homepage.winning-now.item.hover": "S:f5d2eca9dfa9940c75e4f2b3ff1d283cbf9c8d86,",
       "shadow.semantic.inner.accent-60": "S:14270a0dd3eecced808aa51af0dd9a925309aeb2,",
       "shadow.dropdown-menu": "S:a9fe0ca7679d9197975345a53ddab0942d6b871c,",
-      "shadow.semantic.drop.accent-15": "S:a83bbcd8f9b372314e42efdc629288aa336dd7c1,"
+      "shadow.semantic.drop.accent-15": "S:a83bbcd8f9b372314e42efdc629288aa336dd7c1,",
+      "contextual.homepage.random-game.shadow-color": "S:d7635f727e43c37a10de8d1c491e26e4f28ee3fe,"
     },
     "selectedTokenSets": {
       "winzaro.base_light": "enabled",

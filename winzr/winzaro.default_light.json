@@ -894,7 +894,7 @@
     "accordion": {
       "background": {
         "fill": {
-          "value": "{core.brand-60.a15}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -1778,7 +1778,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.brand-60.a15}",
         "type": "color"
       },
       "block": {
@@ -3098,8 +3098,8 @@
       "sm": {
         "value": {
           "x": "{depth.0}",
-          "y": "{depth.200}",
-          "blur": "{blur.200}",
+          "y": "{depth.50}",
+          "blur": "{blur.100}",
           "spread": "{depth.0}",
           "color": "{core.grey.a5}",
           "type": "dropShadow"

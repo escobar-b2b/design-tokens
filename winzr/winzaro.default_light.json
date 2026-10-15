@@ -771,6 +771,12 @@
             "type": "color"
           }
         }
+      },
+      "random-game": {
+        "shadow-color": {
+          "value": "{core.brand-60.a15}",
+          "type": "color"
+        }
       }
     },
     "strip": {

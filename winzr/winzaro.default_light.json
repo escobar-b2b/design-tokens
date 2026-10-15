@@ -1778,7 +1778,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.brand-60.a15}",
+        "value": "{core.brand-60.50}",
         "type": "color"
       },
       "block": {
@@ -1788,7 +1788,7 @@
         }
       },
       "border": {
-        "value": "{semantic.divider.default.transparency}",
+        "value": "{semantic.divider.default.primary}",
         "type": "color"
       }
     },
@@ -2846,7 +2846,7 @@
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.white.a8}",
+          "value": "{core.grey.200a40}",
           "type": "color"
         },
         "secondary": {

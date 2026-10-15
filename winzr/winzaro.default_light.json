@@ -658,7 +658,7 @@
       },
       "bonus-popover": {
         "fill": {
-          "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.1} 0%, {core.brand-60.700} 50%)",
+          "value": "radial-gradient(84.54% 92.08% at 82.5% 12.91%, {core.brand-preset.for-gradients.1} 0%, {core.white.a100} 50%)",
           "type": "color"
         },
         "border": {
@@ -1742,7 +1742,7 @@
     },
     "tooltip": {
       "fill": {
-        "value": "{core.grey.500}",
+        "value": "{core.white.a100}",
         "type": "color"
       }
     },
@@ -3123,7 +3123,7 @@
           "y": "{depth.400}",
           "blur": "{blur.600}",
           "spread": "{depth.0}",
-          "color": "{core.grey.a50}",
+          "color": "{core.brand-60.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

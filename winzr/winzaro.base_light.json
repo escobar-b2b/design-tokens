@@ -1587,12 +1587,12 @@
           "description": "+ Bonus popover"
         },
         "2": {
-          "value": "#1748E3",
+          "value": "#3761E2",
           "type": "color",
           "description": "+ label"
         },
         "3": {
-          "value": "#A454FF",
+          "value": "#B16EFD",
           "type": "color",
           "description": "+ label"
         },
@@ -1658,7 +1658,7 @@
         "description": "+ footer banner apps"
       },
       "7": {
-        "value": "linear-gradient(225deg, {core.brand-10.400} 0%, {core.brand-10.700} 100%)",
+        "value": "linear-gradient(225deg, {core.brand-10.300} 0%, {core.brand-10.600} 100%)",
         "type": "color",
         "description": "+ badge primary"
       },

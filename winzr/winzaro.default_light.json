@@ -2479,7 +2479,7 @@
       },
       "default": {
         "primary": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.600}",
           "type": "color"
         },
         "secondary": {

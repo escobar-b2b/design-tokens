@@ -1630,7 +1630,7 @@
   "semantic": {
     "gradients": {
       "2": {
-        "value": "linear-gradient(91deg, {core.brand-10.a25} 1%, {core.brand-30.a20} 92%)",
+        "value": "linear-gradient(91deg, {core.brand-10.a10} 1%, {core.brand-30.a15} 92%)",
         "type": "color",
         "description": "+ menu banner"
       },

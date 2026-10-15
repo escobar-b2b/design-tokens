@@ -1635,7 +1635,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{semantic.border.default.default}",
+          "value": "{core.brand-10.a10}",
           "type": "color"
         }
       },
@@ -2846,7 +2846,7 @@
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.grey.200a40}",
+          "value": "{core.brand-60.a20}",
           "type": "color"
         },
         "secondary": {

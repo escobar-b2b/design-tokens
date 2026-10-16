@@ -1609,11 +1609,11 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.600}",
+          "value": "{core.white.a100}",
           "type": "color"
         },
         "border": {
-          "value": "{semantic.divider.default.transparency}",
+          "value": "{semantic.divider.default.primary}",
           "type": "color"
         },
         "item": {

@@ -3120,8 +3120,8 @@
       "ml": {
         "value": {
           "x": "{depth.0}",
-          "y": "{depth.400}",
-          "blur": "{blur.600}",
+          "y": "{depth.200}",
+          "blur": "{blur.400}",
           "spread": "{depth.0}",
           "color": "{core.brand-60.a10}",
           "type": "dropShadow"

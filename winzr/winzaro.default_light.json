@@ -577,7 +577,7 @@
       "card": {
         "fill": {
           "default": {
-            "value": "radial-gradient(70% 48% at 48% 25%, {core.brand-30.50} 0%, {core.white.a100} 100%)",
+            "value": "{semantic.gradients.3}",
             "type": "color"
           },
           "hover": {

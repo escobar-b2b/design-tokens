@@ -581,7 +581,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "radial-gradient(70% 48% at 48% 25%, {core.brand-10.50} 0%, {core.white.a100} 100%)",
+            "value": "linear-gradient(220deg, {core.white.a100} 7%, {core.brand-30.50} 44%, {core.white.a100} 75%, {core.brand-30.50} 88%)",
             "type": "color"
           }
         },

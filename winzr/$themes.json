@@ -3051,7 +3051,8 @@
       "shadow.semantic.inner.accent-60": "S:14270a0dd3eecced808aa51af0dd9a925309aeb2,",
       "shadow.dropdown-menu": "S:a9fe0ca7679d9197975345a53ddab0942d6b871c,",
       "shadow.semantic.drop.accent-15": "S:a83bbcd8f9b372314e42efdc629288aa336dd7c1,",
-      "contextual.homepage.random-game.shadow-color": "S:d7635f727e43c37a10de8d1c491e26e4f28ee3fe,"
+      "contextual.homepage.random-game.shadow-color": "S:d7635f727e43c37a10de8d1c491e26e4f28ee3fe,",
+      "semantic.border.default.transparency": "S:9858ed251912c8a9ecfac6bfcd31e66191d03f79,"
     },
     "selectedTokenSets": {
       "winzaro.base_light": "enabled",

@@ -1901,7 +1901,7 @@
       "thumb-providers": {
         "background": {
           "fill": {
-            "value": "{contextual.thumb-games.empty.fill}",
+            "value": "{semantic.background.slate-2}",
             "type": "color"
           },
           "border": {

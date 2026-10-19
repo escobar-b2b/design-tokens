@@ -923,7 +923,7 @@
         },
         "secondary": {
           "track": {
-            "value": "{core.brand-60.300}",
+            "value": "{core.brand-60.400}",
             "type": "color"
           },
           "container": {
@@ -1059,7 +1059,11 @@
       "mob": {
         "menu-btn": {
           "fill": {
-            "value": "{core.grey.500}",
+            "value": "{core.brand-60.a15}",
+            "type": "color"
+          },
+          "fill-copy": {
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "icon": {
@@ -1073,7 +1077,7 @@
         },
         "navmenu": {
           "fill": {
-            "value": "{core.grey.700}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

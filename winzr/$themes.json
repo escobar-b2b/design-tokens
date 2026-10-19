@@ -3052,7 +3052,8 @@
       "shadow.dropdown-menu": "S:a9fe0ca7679d9197975345a53ddab0942d6b871c,",
       "shadow.semantic.drop.accent-15": "S:a83bbcd8f9b372314e42efdc629288aa336dd7c1,",
       "contextual.homepage.random-game.shadow-color": "S:d7635f727e43c37a10de8d1c491e26e4f28ee3fe,",
-      "semantic.border.default.transparency": "S:9858ed251912c8a9ecfac6bfcd31e66191d03f79,"
+      "semantic.border.default.transparency": "S:9858ed251912c8a9ecfac6bfcd31e66191d03f79,",
+      "contextual.ingame.mob.menu-btn.fill-copy": "S:e44d2df6b612f4687f1ef6946385b9e4aa418696,"
     },
     "selectedTokenSets": {
       "winzaro.base_light": "enabled",

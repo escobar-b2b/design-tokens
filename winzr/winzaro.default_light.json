@@ -917,17 +917,17 @@
             "type": "color"
           },
           "container": {
-            "value": "{core.brand-60.a10}",
+            "value": "{core.grey.a5}",
             "type": "color"
           }
         },
         "secondary": {
           "track": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.300}",
             "type": "color"
           },
           "container": {
-            "value": "{core.white.a15}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         }

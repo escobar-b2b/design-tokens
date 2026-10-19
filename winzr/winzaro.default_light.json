@@ -1778,7 +1778,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.brand-60.50}",
+        "value": "{core.grey.600}",
         "type": "color"
       },
       "block": {
@@ -1788,7 +1788,7 @@
         }
       },
       "border": {
-        "value": "{semantic.divider.default.primary}",
+        "value": "{semantic.divider.default.transparency}",
         "type": "color"
       }
     },

@@ -937,15 +937,15 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.600}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           },
           "active": {
-            "value": "{core.grey.600}",
+            "value": "{core.brand-60.a15}",
             "type": "color"
           }
         }

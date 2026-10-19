@@ -4047,29 +4047,7 @@
             "value": "{contextual.achivments.card.slate-on-card}",
             "type": "color",
             "description": "Lootboxes"
-          },
-          "hover": {
-            "value": "{contextual.achivments.card.slate-on-card}",
-            "type": "color",
-            "description": "Lootboxes"
           }
-        },
-        "stroke": {
-          "default": {
-            "value": "{core.white.a10}",
-            "type": "color",
-            "description": "Lootboxes"
-          },
-          "hover": {
-            "value": "{core.brand-30.a15}",
-            "type": "color",
-            "description": "Lootboxes"
-          }
-        },
-        "status": {
-          "value": "{contextual.achivments.card.slate-on-card}",
-          "type": "color",
-          "description": "Lootboxes"
         }
       },
       "steps": {
@@ -4171,10 +4149,6 @@
         }
       },
       "support-block": {
-        "fill": {
-          "value": "{core.brand-60.700}",
-          "type": "color"
-        },
         "border": {
           "value": "{core.brand-60.400}",
           "type": "color"
@@ -4300,10 +4274,6 @@
           },
           "on-review": {
             "value": "{core.validation.warning.a30}",
-            "type": "color"
-          },
-          "declined": {
-            "value": "{core.grey.100a10}",
             "type": "color"
           }
         }
@@ -4442,10 +4412,6 @@
         },
         "progress": {
           "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{semantic.text.default.heading}",
           "type": "color"
         }
       }
@@ -4721,10 +4687,6 @@
           "value": "{semantic.icon.default.primary}",
           "type": "color"
         },
-        "secodary": {
-          "value": "{semantic.icon.default.secondary}",
-          "type": "color"
-        },
         "tertiary": {
           "value": "{semantic.icon.default.tertiary}",
           "type": "color"
@@ -4734,22 +4696,10 @@
             "value": "{semantic.icon.default.primary}",
             "type": "color"
           },
-          "secondary": {
-            "value": "{semantic.icon.default.secondary}",
-            "type": "color"
-          },
           "tertiary": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           }
-        },
-        "disabled-primary": {
-          "value": "{semantic.icon.static.primary}",
-          "type": "color"
-        },
-        "disabled-tertiary": {
-          "value": "{semantic.icon.static.tertiary}",
-          "type": "color"
         }
       }
     },
@@ -4777,11 +4727,6 @@
             "type": "color"
           },
           "badge": {
-            "fill": {
-              "value": "{semantic.text.danger.default}",
-              "type": "color",
-              "description": "badge"
-            },
             "text": {
               "value": "{core.white.a100}",
               "type": "color",
@@ -4795,10 +4740,6 @@
         },
         "bg": {
           "value": "{core.grey.a90}",
-          "type": "color"
-        },
-        "overlay": {
-          "value": "linear-gradient(180deg, {core.grey.a0} 0%, {core.grey.900} 100%)",
           "type": "color"
         },
         "navmenu": {
@@ -4925,12 +4866,6 @@
             "type": "color"
           }
         },
-        "background": {
-          "fill": {
-            "value": "{semantic.background.5}",
-            "type": "color"
-          }
-        },
         "special-menu-item": {
           "fill": {
             "value": "{core.grey.a50}",
@@ -5049,10 +4984,6 @@
       "notification": {
         "fill1": {
           "value": "{core.brand-10.500}",
-          "type": "color"
-        },
-        "fill2": {
-          "value": "{semantic.gradients.5}",
           "type": "color"
         },
         "text": {

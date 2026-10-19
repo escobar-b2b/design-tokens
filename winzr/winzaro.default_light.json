@@ -2781,7 +2781,7 @@
       },
       "default": {
         "default": {
-          "value": "{core.white.a20}",
+          "value": "{core.brand-60.a15}",
           "type": "color"
         },
         "secondary": {

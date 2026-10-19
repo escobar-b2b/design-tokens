@@ -1795,7 +1795,7 @@
     "news": {
       "card": {
         "fill": {
-          "value": "{semantic.background.slate-1}",
+          "value": "{semantic.background.slate-2}",
           "type": "color",
           "description": "status-inactive"
         }

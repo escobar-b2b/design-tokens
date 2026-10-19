@@ -3,8 +3,7 @@
     "id": "706cdeb5b99eadda274bb52ecdb39e9d20424ec5",
     "name": "Altaris",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.default": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:fb3e9594b152f409a5d1f54f10a3de806b7d2346,",
@@ -2075,8 +2074,7 @@
     "name": "Altaris.preset",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.default": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:85b415173f238f3a3987583f9a432af1948da06c,",
@@ -4211,8 +4209,7 @@
     "id": "e22e53727044a4811884a288fe0858c1cc146ad6",
     "name": "Altaris.preset.light",
     "selectedTokenSets": {
-      "Awi.Altaris.light": "enabled",
-      "Altaris.preset.default_light": "enabled"
+      "Awi.Altaris.light": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.default": "S:c4b77b458360e49b3b3b2dce8af668d215eb90a8,",
@@ -7896,7 +7893,6 @@
     "name": "Violet",
     "group": "ALT",
     "selectedTokenSets": {
-      "Altaris.preset.violet": "enabled",
       "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
@@ -8437,8 +8433,7 @@
     "name": "Brown",
     "group": "ALT",
     "selectedTokenSets": {
-      "Awi.Altaris": "enabled",
-      "Altaris.preset.brown": "enabled"
+      "Awi.Altaris": "enabled"
     },
     "$figmaStyleReferences": {
       "contextual.button.primary.fill.hover": "S:33fc3249b3ba7d5fdb50a24894b69616e59b0ee1,",

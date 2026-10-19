@@ -876,7 +876,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.grey.600}",
+          "value": "contextual.cashbox.bonus.fill",
           "type": "color"
         }
       }

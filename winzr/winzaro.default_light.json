@@ -553,7 +553,7 @@
       "player-number": {
         "border": {
           "active": {
-            "value": "{semantic.divider.default.transparency}",
+            "value": "{core.brand-10.300}",
             "type": "color"
           },
           "default": {
@@ -563,11 +563,11 @@
         },
         "fill": {
           "active": {
-            "value": "{core.grey.100a10}",
+            "value": "{semantic.background.1}",
             "type": "color"
           },
           "default": {
-            "value": "{semantic.background.5}",
+            "value": "{semantic.background.1}",
             "type": "color"
           }
         }

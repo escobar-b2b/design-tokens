@@ -1600,7 +1600,7 @@
             "type": "color"
           },
           "next": {
-            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a20} 0%, {core.brand-60.a0} 100%)",
+            "value": "radial-gradient(50% 50% at 50% 50%, {core.brand-60.a15} 0%, {core.brand-60.a0} 100%)",
             "type": "color"
           },
           "completed": {

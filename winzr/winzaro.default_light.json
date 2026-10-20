@@ -308,7 +308,7 @@
         },
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "hover": {

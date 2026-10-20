@@ -808,7 +808,7 @@
       },
       "card": {
         "status": {
-          "value": "{core.brand-60.500}",
+          "value": "{core.grey.a10}",
           "type": "color",
           "description": "Lootboxes"
         },
@@ -826,7 +826,7 @@
         },
         "fill": {
           "default": {
-            "value": "{core.grey.700}",
+            "value": "{core.white.a100}",
             "type": "color",
             "description": "Lootboxes"
           }
@@ -857,7 +857,7 @@
           "description": "Lootboxes"
         },
         "background": {
-          "value": "{core.grey.700}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -1560,6 +1560,32 @@
             },
             "disabled": {
               "value": "{core.white.a0}",
+              "type": "color"
+            }
+          }
+        },
+        "fixed": {
+          "content": {
+            "default": {
+              "value": "{semantic.text.banner-cart.secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{semantic.divider.default.transparency}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a100}",
               "type": "color"
             }
           }

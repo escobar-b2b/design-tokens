@@ -1559,6 +1559,32 @@
               "type": "color"
             }
           }
+        },
+        "fixed": {
+          "content": {
+            "default": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            }
+          },
+          "border": {
+            "default": {
+              "value": "{semantic.divider.default.transparency}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.white.a100}",
+              "type": "color"
+            }
+          }
         }
       }
     },

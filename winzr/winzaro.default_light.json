@@ -1458,7 +1458,7 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.grey.400}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "transparent": {
@@ -3180,7 +3180,7 @@
         "y": "{depth.100}",
         "blur": "{blur.400}",
         "spread": "{depth.0}",
-        "color": "{core.grey.a80}",
+        "color": "{core.grey.a20}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

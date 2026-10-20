@@ -622,8 +622,9 @@
     "mobile-application": {
       "card": {
         "fill": {
-          "value": "{core.grey.700}",
-          "type": "color"
+          "value": "radial-gradient(41% 27.45% at 50% 2%, {core.brand-60.400} 0%, {core.grey.700} 100%)",
+          "type": "color",
+          "description": "{core.grey.700}"
         }
       },
       "banner": {

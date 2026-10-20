@@ -622,7 +622,7 @@
     "mobile-application": {
       "card": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "radial-gradient(54% 46% at 50% 2%, {core.brand-preset.for-gradients.5} 0%, {core.white.a100} 100%)",
           "type": "color"
         }
       },

@@ -726,7 +726,7 @@
           "type": "color"
         },
         "fill-2": {
-          "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} 0%, {core.brand-60.900} 100%)",
+          "value": "radial-gradient(41% 72% at 44% 74%, {core.brand-preset.for-gradients.5} 0%, {core.white.a100} 100%)",
           "type": "color"
         }
       },
@@ -1610,7 +1610,7 @@
         },
         "background": {
           "fill": {
-            "value": "radial-gradient( {core.brand-60.400} 0% , {core.brand-60.700} 100%)",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         }

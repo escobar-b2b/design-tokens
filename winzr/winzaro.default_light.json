@@ -1213,7 +1213,7 @@
           "border": {
             "selected": {
               "default": {
-                "value": "{core.brand-10.600}",
+                "value": "{core.brand-10.500}",
                 "type": "color"
               },
               "hover": {
@@ -1247,7 +1247,7 @@
           "bullet": {
             "selected": {
               "default": {
-                "value": "{core.brand-10.600}",
+                "value": "{core.brand-10.500}",
                 "type": "color"
               },
               "hover": {
@@ -1263,15 +1263,15 @@
           "fill": {
             "selected": {
               "default": {
-                "value": "{core.brand-60.700}",
+                "value": "{core.white.a100}",
                 "type": "color"
               },
               "hover": {
-                "value": "{core.brand-60.700}",
+                "value": "{core.white.a100}",
                 "type": "color"
               },
               "disabled": {
-                "value": "{core.brand-60.700}",
+                "value": "{core.white.a100}",
                 "type": "color"
               }
             },

@@ -1850,7 +1850,7 @@
     "thumb-games": {
       "empty": {
         "fill": {
-          "value": "{core.brand-60.600}",
+          "value": "{core.grey.500}",
           "type": "color"
         }
       },

@@ -3053,7 +3053,12 @@
       "shadow.semantic.drop.accent-15": "S:a83bbcd8f9b372314e42efdc629288aa336dd7c1,",
       "contextual.homepage.random-game.shadow-color": "S:d7635f727e43c37a10de8d1c491e26e4f28ee3fe,",
       "semantic.border.default.transparency": "S:9858ed251912c8a9ecfac6bfcd31e66191d03f79,",
-      "contextual.ingame.mob.menu-btn.fill-copy": "S:e44d2df6b612f4687f1ef6946385b9e4aa418696,"
+      "contextual.ingame.mob.menu-btn.fill-copy": "S:e44d2df6b612f4687f1ef6946385b9e4aa418696,",
+      "contextual.tabs.item.fixed.content.default": "S:7577f7299470d2a1ac049efd7ec187542d98be1f,",
+      "contextual.tabs.item.fixed.content.active": "S:dae264a9ed2e44f98322d93a8647680ef8888f02,",
+      "contextual.tabs.item.fixed.content.hover": "S:0facd0f5d7dbfd6d3b21e8de96cb4a9cc9dbfc63,",
+      "contextual.tabs.item.fixed.border.default": "S:dbd52efed768807de030f3217ba2600627e56ae3,",
+      "contextual.tabs.item.fixed.border.active": "S:7e955d4fddf96f472b09f38ca455d42ef96ffd9a,"
     },
     "selectedTokenSets": {
       "winzaro.base_light": "enabled",

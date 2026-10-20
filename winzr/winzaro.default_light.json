@@ -1567,7 +1567,7 @@
         "fixed": {
           "content": {
             "default": {
-              "value": "{semantic.text.banner-cart.secondary}",
+              "value": "{semantic.text.banner-cart.tertiary}",
               "type": "color"
             },
             "active": {

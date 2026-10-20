@@ -5,6 +5,19 @@
     "Awi.Altaris",
     "Altaris.preset.joker_refactoring",
     "Awi.Altaris.light",
-    "Altaris.preset.joker"
+    "Altaris.preset.joker",
+    "Awi.Altaris_refactoring",
+    "Altaris.preset.brown",
+    "Altaris.preset.default",
+    "Altaris.preset.default_light",
+    "Altaris.preset.garnet",
+    "Altaris.preset.green-dark",
+    "Altaris.preset.green.json",
+    "Altaris.preset.green2",
+    "Altaris.preset.green3",
+    "Altaris.preset.green_light",
+    "Altaris.preset.orange",
+    "Altaris.preset.violet",
+    "Altaris.preset.yellow"
   ]
 }

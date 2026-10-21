@@ -2252,7 +2252,13 @@
       "semantic.status.error.border.primary": "S:8b018292b37c8d4536311ce8265442a390df6ef4,",
       "shadow.semantic.drop.accent-15": "S:a96a1619cc1230ea7bfe233dca85c06413ddfae5,",
       "contextual.mobile-application.banner.fill": "S:eb939dc4e3c89ebd2955adba636969f97b15e9f4,",
-      "contextual.achievements.card.fill.hover": "S:dfb0db762994d3d63a365aae108a4ae201b49852,"
+      "contextual.achievements.card.fill.hover": "S:dfb0db762994d3d63a365aae108a4ae201b49852,",
+      "contextual.homepage.random-game.shadow-color": "S:82537ce2b28610ba66ee3a22feaa9d20883633eb,",
+      "contextual.tabs.item.fixed.content.default": "S:b2bccc98b15af09111061074673e91ac4e43fcff,",
+      "contextual.tabs.item.fixed.content.active": "S:8e6a7d37a9aac2660b8f2a697f21782c8bf50a4a,",
+      "contextual.tabs.item.fixed.content.hover": "S:f06bd2acf5d045e57e4dceb083a3a2be1c137ea6,",
+      "contextual.tabs.item.fixed.border.default": "S:6565d6a06b3c9f56740d7e6f0527d3cc7442446d,",
+      "contextual.tabs.item.fixed.border.active": "S:7ad47a6b4417e683a4114f3e0b0b67c8ebe0d0b2,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

@@ -2158,6 +2158,50 @@
           "type": "color"
         }
       }
+    },
+    "verification": {
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.grey.25}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{core.grey.400}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          },
+          "blured-elements": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{core.grey.400}",
+            "type": "color"
+          }
+        }
+      },
+      "frame": {
+        "line": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        }
+      }
     }
   },
   "font-size": {

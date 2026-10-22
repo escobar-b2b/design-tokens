@@ -456,6 +456,50 @@
         }
       }
     },
+    "verification": {
+      "illustration": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.700}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.grey.600}",
+            "type": "color"
+          }
+        },
+        "elements": {
+          "primary": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.grey.100}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "blured-elements": {
+            "value": "{core.brand-60.a25}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{core.grey.400}",
+            "type": "color"
+          }
+        }
+      },
+      "frame": {
+        "line": {
+          "value": "{core.grey.100}",
+          "type": "color"
+        }
+      }
+    },
     "lottery-tournament": {
       "ticket-number": {
         "fill": {

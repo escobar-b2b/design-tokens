@@ -1,6 +1,8 @@
 {
   "tokenSetOrder": [
     "Awi.Altaris2",
+    "Awi.Altaris",
+    "Awi.Altaris_test",
     "Awi.Altaris.light",
     "Altaris.preset.default",
     "Altaris.preset.blue",

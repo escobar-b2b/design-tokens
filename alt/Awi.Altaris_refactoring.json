@@ -726,7 +726,7 @@
       },
       "warning": {
         "value": {
-          "color": "{contextual.notifications.toast.type-color.warning}",
+          "color": "{semantic.status.warning.icon.primary}",
           "width": "{depth.50}",
           "style": "solid"
         },
@@ -4597,7 +4597,7 @@
           }
         },
         "validation-text": {
-          "value": "{semantic.text.danger.default}",
+          "value": "{semantic.status.error.text.primary}",
           "type": "color"
         },
         "action-right": {
@@ -4712,7 +4712,7 @@
           },
           "badge": {
             "fill": {
-              "value": "{semantic.text.danger.default}",
+              "value": "{semantic.status.error.text.primary}",
               "type": "color",
               "description": "badge"
             },

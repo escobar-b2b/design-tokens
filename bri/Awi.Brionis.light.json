@@ -65,6 +65,10 @@
         "value": "130%",
         "type": "lineHeights"
       }
+    },
+    "row": {
+      "value": "100%",
+      "type": "lineHeights"
     }
   },
   "main": {

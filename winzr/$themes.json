@@ -2258,7 +2258,15 @@
       "contextual.tabs.item.fixed.content.active": "S:8e6a7d37a9aac2660b8f2a697f21782c8bf50a4a,",
       "contextual.tabs.item.fixed.content.hover": "S:f06bd2acf5d045e57e4dceb083a3a2be1c137ea6,",
       "contextual.tabs.item.fixed.border.default": "S:6565d6a06b3c9f56740d7e6f0527d3cc7442446d,",
-      "contextual.tabs.item.fixed.border.active": "S:7ad47a6b4417e683a4114f3e0b0b67c8ebe0d0b2,"
+      "contextual.tabs.item.fixed.border.active": "S:7ad47a6b4417e683a4114f3e0b0b67c8ebe0d0b2,",
+      "contextual.verification.illustration.background.fill": "S:84176cea9b7aebc5955ba9d02765d5a0b3b8df28,",
+      "contextual.verification.illustration.background.fill-2": "S:37c0b967870d90a1754404a7b619497009652609,",
+      "contextual.verification.illustration.elements.primary": "S:d8c6f3e99a56adc2241a6b488f8d296c731b3b9c,",
+      "contextual.verification.illustration.elements.secondary": "S:0f3fd4909a3c1495daed24c7ddaa7f673fb1e6ed,",
+      "contextual.verification.illustration.elements.tertiary": "S:0aa85ba51ca581cca788100dfd482fe2dd983d9a,",
+      "contextual.verification.illustration.elements.blured-elements": "S:df6e738ccd3df4dae099d822bf1e1afb507003a8,",
+      "contextual.verification.illustration.text.primary": "S:ba065baa38bb8c70970b3c52322faa21de7ba1e5,",
+      "contextual.verification.frame.line": "S:dd7a115f371d9d0351a97ab080324194defff04f,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

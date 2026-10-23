@@ -3453,10 +3453,6 @@
           "primary": {
             "value": "{core.brand-60.a15}",
             "type": "color"
-          },
-          "secondary": {
-            "value": "{core.brand-60.a15}",
-            "type": "color"
           }
         }
       },

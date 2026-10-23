@@ -5612,6 +5612,10 @@
         "type": "lineHeights"
       }
     },
+    "row": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
     "accent": {
       "sm": {
         "value": "115%",

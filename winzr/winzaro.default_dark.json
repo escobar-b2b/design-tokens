@@ -2642,10 +2642,26 @@
         "text": {
           "value": "{core.additionals.silver}",
           "type": "color"
+        },
+        "fill": {
+          "value": "{core.additionals.silver}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.additionals.silver}",
+          "type": "color"
         }
       },
       "bronze": {
         "text": {
+          "value": "{core.additionals.bronze}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{core.additionals.bronze}",
+          "type": "color"
+        },
+        "border": {
           "value": "{core.additionals.bronze}",
           "type": "color"
         }

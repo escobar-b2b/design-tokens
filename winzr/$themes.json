@@ -2266,7 +2266,12 @@
       "contextual.verification.illustration.elements.tertiary": "S:0aa85ba51ca581cca788100dfd482fe2dd983d9a,",
       "contextual.verification.illustration.elements.blured-elements": "S:df6e738ccd3df4dae099d822bf1e1afb507003a8,",
       "contextual.verification.illustration.text.primary": "S:ba065baa38bb8c70970b3c52322faa21de7ba1e5,",
-      "contextual.verification.frame.line": "S:dd7a115f371d9d0351a97ab080324194defff04f,"
+      "contextual.verification.frame.line": "S:dd7a115f371d9d0351a97ab080324194defff04f,",
+      "semantic.status.bronze.fill": "S:550de30c6d687a744bcd4c9a25688fe2c57d3889,",
+      "semantic.status.bronze.border": "S:46a31f44e3f4d11c9123aff44c23840b8e5ee90a,",
+      "contextual.input.fill.notification": "S:d810842cabad151d52be65eb621f1129aa2ba081,",
+      "semantic.status.silver.fill": "S:6165f53bdcf3964a1c2f00de3f3f01caf52fca1b,",
+      "semantic.status.silver.border": "S:93e2ddab87dc7fbcdc4acb90f2cd93778752fb84,"
     },
     "$figmaVariableReferences": {
       "main": "dee7f1c76de5a0edfbc683dfd29945c8005ba070",

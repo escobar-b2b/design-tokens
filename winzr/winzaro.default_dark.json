@@ -1015,6 +1015,10 @@
             "value": "{contextual.input.fill.primary.default}",
             "type": "color"
           }
+        },
+        "notification": {
+          "value": "{core.grey.700}",
+          "type": "color"
         }
       },
       "border-color": {

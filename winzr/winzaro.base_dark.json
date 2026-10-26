@@ -1547,7 +1547,7 @@
         "description": "basic.silver"
       },
       "bronze": {
-        "value": "#EB7F44",
+        "value": "#B65019",
         "type": "color",
         "description": "basic.bronze"
       },

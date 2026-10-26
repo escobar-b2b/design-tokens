@@ -103,6 +103,10 @@
         "value": "124%",
         "type": "lineHeights"
       }
+    },
+    "row": {
+      "value": "100%",
+      "type": "lineHeights"
     }
   },
   "button": {

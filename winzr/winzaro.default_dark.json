@@ -2743,7 +2743,7 @@
       "info": {
         "text": {
           "primary": {
-            "value": "{core.validation.info.400}",
+            "value": "{core.validation.info.500}",
             "type": "color"
           }
         },
@@ -2759,7 +2759,7 @@
         },
         "icon": {
           "primary": {
-            "value": "{core.validation.info.600}",
+            "value": "{core.validation.info.500}",
             "type": "color"
           }
         }

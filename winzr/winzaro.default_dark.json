@@ -2819,7 +2819,7 @@
       },
       "disabled": {
         "primary": {
-          "value": "{core.white.a25}",
+          "value": "{core.white.a40}",
           "type": "color"
         },
         "on-brand": {

@@ -1482,8 +1482,9 @@
         },
         "background": {
           "active": {
-            "value": "linear-gradient(180deg, {core.brand-60.700} 17%, {core.brand-60.600} 47%, {core.brand-60.700} 86.25%)",
-            "type": "color"
+            "value": "linear-gradient(149deg, {core.brand-60.700} 45%, {core.brand-60.600} 98%)",
+            "type": "color",
+            "description": "linear-gradient(149deg, {core.brand-60.700} 45%, {core.brand-60.600} 98%)"
           }
         },
         "tabs": {

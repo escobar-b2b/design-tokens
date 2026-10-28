@@ -1482,7 +1482,7 @@
         },
         "background": {
           "active": {
-            "value": "radial-gradient(129.96% 100% at 50% 0%, {core.brand-60.400} , {core.grey.900} )",
+            "value": "linear-gradient(180deg, {core.brand-60.700} 17%, {core.brand-60.600} 47%, {core.brand-60.700} 86.25%)",
             "type": "color"
           }
         },

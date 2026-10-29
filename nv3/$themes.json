@@ -2804,7 +2804,8 @@
       "shadow.semantic.inner.placeholder": "S:3a3bf2a7290c2ff5982e8e74ffcf5e042d5d7b67,",
       "contextual.achivments.chips.active": "S:f9bba491f998672236a959d802b27fc4c2d807bf,",
       "contextual.achivments.chips.default": "S:20621ce3b07473051727da291333bb05a3c87925,",
-      "contextual.achivments.card.nornal.fiill.get-copy": "S:a640708269fbcec590290b610f8dcca934568fbd,"
+      "contextual.achivments.card.nornal.fiill.get-copy": "S:a640708269fbcec590290b610f8dcca934568fbd,",
+      "semantic.gradients.12": "S:6fa6173c5b023f5aa592e99dd0b21aa64578c3ad,"
     },
     "$figmaVariableReferences": {
       "main": "51bc90e7ad5e6d28b4e38eac7edc059a195d9b52",

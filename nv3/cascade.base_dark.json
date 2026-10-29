@@ -2481,6 +2481,20 @@
           }
         }
       },
+      "silver-a10": {
+        "value": "{core.additionals.silver}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "basic.silver"
+      },
       "bronze": {
         "value": "#EB7F44",
         "type": "color",
@@ -2499,6 +2513,20 @@
             }
           }
         }
+      },
+      "bronze-a10": {
+        "value": "{core.additionals.bronze}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "basic.bronze"
       },
       "vip": {
         "value": "#FFC94B",
@@ -2523,6 +2551,20 @@
             }
           }
         }
+      },
+      "gold-a10": {
+        "value": "{core.additionals.gold}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "vip"
       },
       "pending": {
         "value": "#E5BF00",
@@ -2693,6 +2735,11 @@
       },
       "11": {
         "value": "{core.brand-60.50}",
+        "type": "color",
+        "description": "gradients.Black 600"
+      },
+      "12": {
+        "value": "linear-gradient(180deg, {core.grey.500} 0%, {core.grey.800} 100%)",
         "type": "color",
         "description": "gradients.Black 600"
       }

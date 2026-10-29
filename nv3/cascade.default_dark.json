@@ -4191,6 +4191,26 @@
           }
         }
       },
+      "gold": {
+        "text": {
+          "primary": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "primary": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "primary": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          }
+        }
+      },
       "error": {
         "text": {
           "primary": {

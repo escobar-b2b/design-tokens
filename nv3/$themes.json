@@ -2805,7 +2805,22 @@
       "contextual.achivments.chips.active": "S:f9bba491f998672236a959d802b27fc4c2d807bf,",
       "contextual.achivments.chips.default": "S:20621ce3b07473051727da291333bb05a3c87925,",
       "contextual.achivments.card.nornal.fiill.get-copy": "S:a640708269fbcec590290b610f8dcca934568fbd,",
-      "semantic.gradients.12": "S:6fa6173c5b023f5aa592e99dd0b21aa64578c3ad,"
+      "semantic.gradients.12": "S:6fa6173c5b023f5aa592e99dd0b21aa64578c3ad,",
+      "semantic.status.gold.text.primary": "S:c12a0bab99f466f7c9a76a450808b82d1f473f56,",
+      "semantic.status.gold.fill.primary": "S:3d732b326ac1fce9c7c057b7358d84754a2976d0,",
+      "semantic.status.gold.fill.secondary": "S:9b8afa67a18dce6e034152eaebd893fdcaf4c8f4,",
+      "semantic.status.gold.border.primary": "S:f8d95f1d5b463f8b9f5aa43bb5181982d95b2ba9,",
+      "semantic.status.silver.text.primary": "S:b065b71f906f81c5cfad27b50cc540447fd9e82b,",
+      "semantic.status.silver.fill.primary": "S:64685122f55361bf44961b165e0b5995bc838f4c,",
+      "semantic.status.silver.fill.secondary": "S:0bd21db24d058d33d38e5766c523027add64ffeb,",
+      "semantic.status.silver.border.primary": "S:b06c1ee5eda9512c7dc388616bfc092ad4594671,",
+      "semantic.status.bronze.text.primary": "S:e41bee8a4f664ded230f0301f46ae20b3b3f68d0,",
+      "semantic.status.bronze.fill.primary": "S:a26784b0bcfadbc9c362a58c6378b006e4f61516,",
+      "semantic.status.bronze.fill.secondary": "S:6d16fa0985b1aef1011be6e0c494b97dacd7058b,",
+      "semantic.status.bronze.border.primary": "S:971caaa0e3aef8aee77fda2c2de21eefe817fdaa,",
+      "core.additionals.silver-a10": "S:95ef8700d6c6d0beabe7297007e363fd494710db,",
+      "core.additionals.bronze-a10": "S:3e02820b4fc3daea7385739f3898bbb1b8c910ae,",
+      "core.additionals.gold-a10": "S:ac8e54e03d6fe4b48b5ca0fac707c62c4941e39f,"
     },
     "$figmaVariableReferences": {
       "main": "51bc90e7ad5e6d28b4e38eac7edc059a195d9b52",

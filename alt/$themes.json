@@ -5679,7 +5679,16 @@
       "semantic.label.fill": "S:36594b568fa633282d35f88a27a14bce4094f235,",
       "semantic.icon.success.default": "S:fcc85e64c932546a3da88e946f9efbeeefee79d4,",
       "semantic.border.active.element-2": "S:baf6d806cd45a95c922758cb4f3c47025b93921b,",
-      "semantic.border.active.element-3": "S:4bfab3ee0a54ca3473a2df5e75f41e86772a429b,"
+      "semantic.border.active.element-3": "S:4bfab3ee0a54ca3473a2df5e75f41e86772a429b,",
+      "semantic.status.gold.text.primary": "S:8c5982430c74186d9723104d6806d316b0255d72,",
+      "semantic.status.gold.fill.primary": "S:648ff13e2c9ff1c77b4062d45eedc4bf4df38801,",
+      "semantic.status.gold.border.primary": "S:e4ff814cb3d9ce5864f0c5deb7bc27652175631a,",
+      "semantic.status.silver.text.primary": "S:ffcc347ab3a4e022c2864e30c724b096d0cf031f,",
+      "semantic.status.silver.fill.primary": "S:7932a51d1d07d859fa48d7d9bd014544f91881f9,",
+      "semantic.status.silver.border.primary": "S:41f4ea1ce458c81dc9cc30e3535c6fb76f0607eb,",
+      "semantic.status.bronze.text.primary": "S:8bdebdcda3bdc69e55acc18a498469a2a309d5b2,",
+      "semantic.status.bronze.fill.primary": "S:7186b0bab70eedbf1107975f9739a80b2c7d9770,",
+      "semantic.status.bronze.border.primary": "S:099f7808d18756b501a4895227cf01b081c10be5,"
     },
     "$figmaVariableReferences": {
       "main": "d9282728d881ecd433e9fdd04a237d5e275336e8",
@@ -5915,11 +5924,7 @@
       "font-size.accent.sm": "4c5b667747cf3d9428dec334098e97b027e5608f",
       "font-size.accent.md": "b81a4fed6b347cf85ad6d9fd9b735079573ea5ea",
       "font-size.accent.lg": "aa61c3603b978df161cb7efaca316542633d6ea4",
-      "font-size.accent.xl": "539bf2f66fc19f20c6979c6c91fc73cdef420066",
-      "base.main": "7011ec624860cc6e2f634170a47c8fa61ec69581",
-      "base.accent": "e011737dd3b1ae487567d4ae80f85457eb6f4bd8",
-      "Book": "6be0d169730e3344b52c670161b512bfb6f42dbe",
-      "Demi": "56f035b3f93cb5cf3a432bf7d80141c394c30547"
+      "font-size.accent.xl": "539bf2f66fc19f20c6979c6c91fc73cdef420066"
     },
     "$figmaCollectionId": "VariableCollectionId:11004:83727",
     "$figmaModeId": "11004:0",

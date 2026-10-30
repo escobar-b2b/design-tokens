@@ -9312,7 +9312,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.3",
+                  "value": "0.5",
                   "space": "lch"
                 }
               }
@@ -9350,7 +9350,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.3",
+                  "value": "0.5",
                   "space": "lch"
                 }
               }
@@ -9388,7 +9388,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "0.3",
+                  "value": "0.5",
                   "space": "lch"
                 }
               }

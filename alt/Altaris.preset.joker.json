@@ -8149,15 +8149,52 @@
       }
     },
     "label": {
-      "text": {
-        "value": "{core.brand-30.200}",
-        "type": "color",
-        "description": "Lootboxes"
+      "transparent": {
+        "text": {
+          "value": "{core.brand-30.200}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.brand-30.a8}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       },
-      "fill": {
-        "value": "{core.brand-30.a8}",
-        "type": "color",
-        "description": "Lootboxes"
+      "primary": {
+        "text": {
+          "value": "{core.brand-10.50}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.brand-10.500}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
+      },
+      "secondary": {
+        "text": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "text": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "Lootboxes"
+        },
+        "fill": {
+          "value": "{core.brand-60.400}",
+          "type": "color",
+          "description": "Lootboxes"
+        }
       }
     }
   },

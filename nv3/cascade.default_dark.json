@@ -3483,31 +3483,11 @@
           "value": "{core.validation.danger.600}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "primary": {
         "fill": {
           "value": "{semantic.gradients.7}",
-          "type": "color",
-          "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
           "type": "color",
           "description": "badge"
         }
@@ -3517,31 +3497,11 @@
           "value": "{core.validation.danger.600}",
           "type": "color",
           "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
         }
       },
       "transparent-light": {
         "fill": {
           "value": "linear-gradient(89deg, {core.brand-10.a30} 38%, {core.brand-30.a30} 100%)",
-          "type": "color",
-          "description": "badge"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color",
-          "description": "badge"
-        },
-        "icon": {
-          "value": "{core.white.a70}",
           "type": "color",
           "description": "badge"
         }
@@ -4059,7 +4019,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.brand-30.a30}",
           "type": "color"
         },
         "disabled": {

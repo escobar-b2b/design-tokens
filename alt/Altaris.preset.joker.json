@@ -7625,6 +7625,11 @@
       "page": {
         "value": "{semantic.gradients.11}",
         "type": "color"
+      },
+      "slate-3": {
+        "value": "{core.brand-60.a15}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "gradients": {

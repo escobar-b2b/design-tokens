@@ -7781,6 +7781,11 @@
       "slate-card": {
         "value": "{core.brand-60.700}",
         "type": "color"
+      },
+      "slate-3": {
+        "value": "{core.grey.700}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "icon": {

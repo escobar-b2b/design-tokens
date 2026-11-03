@@ -8807,6 +8807,11 @@
       "slate-card": {
         "value": "{core.white.a100}",
         "type": "color"
+      },
+      "slate-3": {
+        "value": "{core.brand-30.a20}",
+        "type": "color",
+        "description": "text input 2"
       }
     },
     "icon": {

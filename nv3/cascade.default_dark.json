@@ -4019,7 +4019,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-30.a30}",
+          "value": "{core.grey.300}",
           "type": "color"
         },
         "disabled": {
@@ -4056,6 +4056,10 @@
         },
         "secondary": {
           "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.brand-60.300}",
           "type": "color"
         },
         "on-brand": {

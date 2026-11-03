@@ -8809,7 +8809,7 @@
         "type": "color"
       },
       "slate-3": {
-        "value": "{core.brand-30.a20}",
+        "value": "{core.brand-60.a10}",
         "type": "color",
         "description": "text input 2"
       }
@@ -9289,24 +9289,24 @@
       },
       "primary": {
         "text": {
-          "value": "{core.brand-30.200}",
+          "value": "{core.white.a100}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.brand-30.a8}",
+          "value": "{semantic.gradients.4}",
           "type": "color",
           "description": "Lootboxes"
         }
       },
       "secondary": {
         "text": {
-          "value": "{core.brand-30.200}",
+          "value": "{semantic.text.default.heading}",
           "type": "color",
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.brand-30.a8}",
+          "value": "{core.brand-30.500}",
           "type": "color",
           "description": "Lootboxes"
         }

@@ -2893,6 +2893,10 @@
         "transparency": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
         }
       }
     },

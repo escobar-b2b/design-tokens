@@ -1756,7 +1756,6 @@
   {
     "id": "62674037309e87eecf5a9e69406be2b80e4fa311",
     "name": "dark",
-    "group": "cascade",
     "selectedTokenSets": {
       "cascade.default_dark": "enabled",
       "cascade.base_dark": "enabled"
@@ -3040,6 +3039,18 @@
       "base.accent": "0ad29f4dde3a4a8c7967d60ca46e92162cb9736a"
     },
     "$figmaCollectionId": "VariableCollectionId:57972:267254",
-    "$figmaModeId": "57972:0"
+    "$figmaModeId": "57972:0",
+    "group": "cascade"
+  },
+  {
+    "id": "112db9e17c1864bc0165fda56b9e5a8b7b84c85f",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "cascade.default_light": "enabled",
+      "cascade.base_light": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "cascade"
   }
 ]

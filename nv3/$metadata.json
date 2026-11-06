@@ -2,6 +2,8 @@
   "tokenSetOrder": [
     "nv.default",
     "nv.base",
+    "cascade.base_light",
+    "cascade.default_light",
     "cascade.default_dark",
     "cascade.base_dark"
   ]

@@ -2587,7 +2587,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#523DC2",
+        "value": "#C3B3F0",
         "type": "color",
         "description": "tertiary.    "
       },
@@ -2739,34 +2739,34 @@
         "description": "gradients.Black 600"
       },
       "12": {
-        "value": "linear-gradient(180deg, {core.grey.500} 0%, {core.grey.800} 100%)",
+        "value": "linear-gradient(180deg, {core.brand-60.100} 0%, {core.white.a100} 100%)",
         "type": "color",
         "description": "gradients.Black 600"
       }
     },
     "background": {
       "1": {
-        "value": "{core.brand-60.800}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "uses for cards bg"
       },
       "2": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "basic.replaceable.sand 1100"
       },
       "3": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.100}",
         "type": "color",
         "description": "not used\n#3D3B4F\n"
       },
       "4": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.brand-60.100}",
         "type": "color",
         "description": "not used\ngradient.Black 600\nold #060423\n"
       },
       "5": {
-        "value": "{core.grey.a30}",
+        "value": "{core.brand-60.100}",
         "type": "color"
       },
       "6": {
@@ -2774,12 +2774,12 @@
         "type": "color"
       },
       "slate-1": {
-        "value": "{core.grey.700}",
+        "value": "{core.brand-60.100}",
         "type": "color",
         "description": "The slate second level on main(white) background"
       },
       "slate-2": {
-        "value": "{core.grey.600}",
+        "value": "{core.white.a100}",
         "type": "color",
         "description": "The slate third level on main(white) background"
       },
@@ -2789,22 +2789,22 @@
         "description": "should be used as a surface color for text, labels"
       },
       "page": {
-        "value": "{core.grey.900}",
+        "value": "{core.brand-60.100}",
         "type": "color",
         "description": "should be used as a surface color for text, labels"
       },
       "slate-4": {
-        "value": "{core.brand-60.a10}",
+        "value": "{core.brand-60.100}",
         "type": "color",
         "description": "text input 2"
       },
       "slate-5": {
-        "value": "{core.brand-10.800}",
+        "value": "{core.brand-10.50}",
         "type": "color",
         "description": "text input 2"
       },
       "slate-for-cards": {
-        "value": "linear-gradient(120deg, {core.brand-60.700} , {core.brand-60.800} 100%)",
+        "value": "linear-gradient(120deg, {core.white.a100} , {core.brand-60.100} 100%)",
         "type": "color",
         "description": "text input 2"
       }

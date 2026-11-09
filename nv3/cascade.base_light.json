@@ -2574,7 +2574,7 @@
     },
     "brand-preset": {
       "grey": {
-        "value": "#2c2b5b",
+        "value": "#3C355E",
         "type": "color",
         "description": "500"
       },
@@ -2587,7 +2587,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "#401ecc",
+        "value": "#523DC2",
         "type": "color",
         "description": "tertiary.    "
       },

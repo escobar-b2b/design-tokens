@@ -436,7 +436,7 @@
       "tertiary": {
         "fill": {
           "default": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.brand-60.200}",
             "type": "color"
           },
           "hover": {
@@ -1597,7 +1597,7 @@
     },
     "content": {
       "fill": {
-        "value": "{core.white.a100}",
+        "value": "{semantic.background.page}",
         "type": "color"
       }
     },
@@ -1813,7 +1813,7 @@
           "type": "color"
         },
         "fill-current": {
-          "value": "linear-gradient(80deg, {core.brand-30.500} 70%, {core.brand-30.400} 100%)",
+          "value": "{contextual.header.background.fill}",
           "type": "color"
         }
       },
@@ -2492,7 +2492,11 @@
         },
         "background": {
           "fill": {
-            "value": "{semantic.background.brand.secondary.default}",
+            "value": "{core.brand-30.500}",
+            "type": "color"
+          },
+          "fill-2": {
+            "value": "{core.white.a8}",
             "type": "color"
           }
         }

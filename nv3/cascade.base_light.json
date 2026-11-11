@@ -2804,7 +2804,7 @@
         "description": "text input 2"
       },
       "slate-for-cards": {
-        "value": "linear-gradient(120deg, {core.white.a100} , {core.brand-60.100} 100%)",
+        "value": "linear-gradient(120deg, {core.brand-30.400} , {core.brand-30.500} 100%)",
         "type": "color",
         "description": "text input 2"
       }

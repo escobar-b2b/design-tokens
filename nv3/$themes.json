@@ -4055,7 +4055,8 @@
       "shadow.semantic.inner.white": "S:1399492d7b3361536ae8c5a5381ee3787edd60fa,",
       "shadow.semantic.inner.accent-60": "S:8ce83922d6f74f8dd2d41a6c28142343ebe70ca8,",
       "shadow.semantic.inner.secondary-60": "S:2e331288a8e83650961a8cf502ea22fdc81e7c42,",
-      "shadow.semantic.inner.placeholder": "S:c43b3fff0bb603be3581c8ea881b5b0e1589cc6d,"
+      "shadow.semantic.inner.placeholder": "S:c43b3fff0bb603be3581c8ea881b5b0e1589cc6d,",
+      "contextual.shop.card.background.fill2": "S:ad5e51613db32724445103c7c0bc15f17cfd78cf,"
     },
     "selectedTokenSets": {
       "cascade.default_light": "enabled",

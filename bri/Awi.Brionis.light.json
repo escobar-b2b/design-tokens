@@ -1749,6 +1749,10 @@
           "active": {
             "value": "{core.white.a100}",
             "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
           }
         },
         "text": {

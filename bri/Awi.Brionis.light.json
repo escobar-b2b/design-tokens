@@ -1725,6 +1725,10 @@
           "fill": {
             "value": "{semantic.gradients.3}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.a10}",
+            "type": "color"
           }
         }
       },

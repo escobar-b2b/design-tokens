@@ -3634,6 +3634,16 @@
             "value": "{core.white.a100}",
             "type": "color",
             "description": "Segment Control"
+          },
+          "active": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
+          },
+          "default": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Segment Control"
           }
         }
       },

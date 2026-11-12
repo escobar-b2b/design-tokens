@@ -1112,10 +1112,7 @@
       "shadow.button.ghost.active": "S:6b5f69dd9df9916b033315b79bc50f92e1b3f773,",
       "shadow.button.ghost.disabled": "S:1798d49ce94f9a113bf2450ce2fe10c24039a6e5,"
     },
-    "selectedTokenSets": {
-      "winzaro.base_dark_old": "enabled",
-      "winzaro.default_dark_old": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:68978:60413",
     "$figmaModeId": "68978:0",
     "$figmaVariableReferences": {

@@ -6460,5 +6460,31 @@
         "type": "typography"
       }
     }
+  },
+  "error-pages": {
+    "accent": {
+      "mob": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Medium}",
+          "fontSize": "56px",
+          "lineHeight": "100%",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "web": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Medium}",
+          "fontSize": "130px",
+          "lineHeight": "100%",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      }
+    }
   }
 }

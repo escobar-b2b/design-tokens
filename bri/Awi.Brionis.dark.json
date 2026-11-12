@@ -650,6 +650,18 @@
           "type": "dropShadow"
         },
         "type": "boxShadow"
+      },
+      "disabled": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{depth.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "border.input.disabled"
       }
     },
     "modal": {
@@ -766,6 +778,19 @@
           "color": "{core.white.a0}",
           "type": "dropShadow"
         },
+        "type": "boxShadow"
+      },
+      "header": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.025}",
+            "blur": "{depth.0}",
+            "spread": "{depth.0}",
+            "color": "{core.brand-60.a70}",
+            "type": "innerShadow"
+          }
+        ],
         "type": "boxShadow"
       }
     },
@@ -1743,6 +1768,10 @@
             "type": "color"
           }
         }
+      },
+      "fill": {
+        "value": "{core.grey.600}",
+        "type": "color"
       }
     },
     "notifications": {
@@ -3297,6 +3326,44 @@
             }
           }
         }
+      },
+      "sport": {
+        "item": {
+          "fill": {
+            "1": {
+              "value": "{core.brand-preset.sport.1}",
+              "type": "color"
+            },
+            "2": {
+              "value": "{core.brand-preset.sport.2}",
+              "type": "color"
+            },
+            "3": {
+              "value": "{core.brand-preset.sport.3}",
+              "type": "color"
+            },
+            "4": {
+              "value": "{core.brand-preset.sport.4}",
+              "type": "color"
+            },
+            "5": {
+              "value": "{core.brand-preset.sport.5}",
+              "type": "color"
+            },
+            "6": {
+              "value": "{core.brand-preset.sport.6}",
+              "type": "color"
+            },
+            "7": {
+              "value": "{core.brand-preset.sport.7}",
+              "type": "color"
+            },
+            "8": {
+              "value": "{core.brand-preset.sport.8}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "referal": {
@@ -4050,6 +4117,10 @@
         },
         "special": {
           "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "active": {
+          "value": "radial-gradient(99% 99% at 54% 50%, {core.brand-preset.for-gradients.2} 0%, {core.brand-10.500} 100%)",
           "type": "color"
         }
       }
@@ -5604,6 +5675,12 @@
         "value": "3px",
         "type": "spacing"
       }
+    },
+    "general": {
+      "padding-top": {
+        "value": "{blur.100}",
+        "type": "spacing"
+      }
     }
   },
   "header": {
@@ -5752,6 +5829,16 @@
       },
       "inside-horisontal": {
         "value": "{spacing.100}",
+        "type": "spacing"
+      }
+    },
+    "textarea": {
+      "padding-horizontal": {
+        "value": "{spacing.400}",
+        "type": "spacing"
+      },
+      "padding-vertical": {
+        "value": "{spacing.300}",
         "type": "spacing"
       }
     }
@@ -6340,6 +6427,32 @@
         "letterSpacing": "0%"
       },
       "type": "typography"
+    }
+  },
+  "error-pages": {
+    "accent": {
+      "mob": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Medium}",
+          "fontSize": "56px",
+          "lineHeight": "100%",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      },
+      "web": {
+        "value": {
+          "fontFamily": "{accent}",
+          "fontWeight": "{Medium}",
+          "fontSize": "130px",
+          "lineHeight": "100%",
+          "letterSpacing": "{letter-spacing.2}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography"
+      }
     }
   }
 }

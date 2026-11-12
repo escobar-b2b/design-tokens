@@ -995,6 +995,12 @@
         }
       }
     },
+    "banner": {
+      "fill": {
+        "value": "{core.brand-30.600}",
+        "type": "color"
+      }
+    },
     "switcher": {
       "item": {
         "fill": {

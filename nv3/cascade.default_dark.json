@@ -994,7 +994,7 @@
       },
       "banner": {
         "fill": {
-          "value": "{semantic.gradients.7}",
+          "value": "{core.white.a0}",
           "type": "color"
         }
       }
@@ -3748,6 +3748,12 @@
           "value": "{core.white.a50}",
           "type": "color"
         }
+      }
+    },
+    "banner": {
+      "fill": {
+        "value": "{core.brand-60.100}",
+        "type": "color"
       }
     }
   },

@@ -2762,10 +2762,6 @@
               "disabled": {
                 "value": "{core.white.a0}",
                 "type": "color"
-              },
-              "validation": {
-                "value": "{core.white.a0}",
-                "type": "color"
               }
             },
             "unselected": {
@@ -2779,10 +2775,6 @@
               },
               "disabled": {
                 "value": "{core.grey.100}",
-                "type": "color"
-              },
-              "validation": {
-                "value": "{core.validation.danger.600}",
                 "type": "color"
               }
             }
@@ -2798,10 +2790,6 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{contextual.selection-controls.controls.checkbox.check.selected.default}",
-                "type": "color"
-              },
-              "validation": {
                 "value": "{contextual.selection-controls.controls.checkbox.check.selected.default}",
                 "type": "color"
               }
@@ -2826,10 +2814,6 @@
               "disabled": {
                 "value": "{core.brand-10.a10}",
                 "type": "color"
-              },
-              "validation": {
-                "value": "{core.validation.danger.600}",
-                "type": "color"
               }
             },
             "unselected": {
@@ -2842,10 +2826,6 @@
                 "type": "color"
               },
               "disabled": {
-                "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
-                "type": "color"
-              },
-              "validation": {
                 "value": "{contextual.selection-controls.controls.checkbox.fill.unselected.hover}",
                 "type": "color"
               }

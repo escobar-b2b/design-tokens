@@ -4372,6 +4372,10 @@
           "default": {
             "value": "{core.grey.600}",
             "type": "color"
+          },
+          "warning": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
           }
         }
       },

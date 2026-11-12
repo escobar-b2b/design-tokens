@@ -2468,6 +2468,12 @@
         "validation-text": {
           "value": "{semantic.status.error.text.primary}",
           "type": "color"
+        },
+        "helper-text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
         }
       },
       "fill": {

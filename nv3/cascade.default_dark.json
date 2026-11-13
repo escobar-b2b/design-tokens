@@ -882,6 +882,14 @@
               "type": "color"
             }
           }
+        },
+        "error": {
+          "background": {
+            "fill": {
+              "value": "{semantic.background.5}",
+              "type": "color"
+            }
+          }
         }
       },
       "illustration": {

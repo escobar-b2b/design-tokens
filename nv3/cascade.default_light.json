@@ -752,11 +752,11 @@
             "type": "color"
           },
           "dark": {
-            "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.400} 100%)",
+            "value": "linear-gradient(180deg, {core.brand-30.500} 0%, {core.brand-30.300} 100%)",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-60.300}",
+            "value": "{core.brand-10.400}",
             "type": "color"
           },
           "active-vip": {

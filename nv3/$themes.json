@@ -4056,7 +4056,11 @@
       "shadow.semantic.inner.accent-60": "S:8ce83922d6f74f8dd2d41a6c28142343ebe70ca8,",
       "shadow.semantic.inner.secondary-60": "S:2e331288a8e83650961a8cf502ea22fdc81e7c42,",
       "shadow.semantic.inner.placeholder": "S:c43b3fff0bb603be3581c8ea881b5b0e1589cc6d,",
-      "contextual.shop.card.background.fill2": "S:ad5e51613db32724445103c7c0bc15f17cfd78cf,"
+      "contextual.shop.card.background.fill2": "S:ad5e51613db32724445103c7c0bc15f17cfd78cf,",
+      "contextual.verification.verification-status.error.background.fill": "S:3e3cd0912a21b44a37d4897dde0147bcc10621ba,",
+      "contextual.banner.fill": "S:fc58493e8a628575b211f6a9d79926c5e1eb1cba,",
+      "contextual.filter&sort.item.icon.active-copy": "S:b3bc9fd2a2e76abcd53b5646224e999268d24df5,",
+      "contextual.vip-club.card.background.fill-2": "S:91765b37f0c0ae6864df94db3a1ea4cdcde9992d,"
     },
     "selectedTokenSets": {
       "cascade.default_light": "enabled",

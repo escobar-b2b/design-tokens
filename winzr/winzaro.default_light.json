@@ -1110,10 +1110,6 @@
             "value": "{core.brand-60.a15}",
             "type": "color"
           },
-          "fill-copy": {
-            "value": "{core.brand-60.a15}",
-            "type": "color"
-          },
           "icon": {
             "value": "{core.white.a100}",
             "type": "color"

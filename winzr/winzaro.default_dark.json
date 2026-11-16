@@ -2460,6 +2460,26 @@
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
+    },
+    "single-line": {
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "{font-size.main.lg}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "{font-size.main.sm}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      }
     }
   },
   "heading": {

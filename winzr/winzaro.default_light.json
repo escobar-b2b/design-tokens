@@ -2328,6 +2328,26 @@
       },
       "type": "typography"
     },
+    "single-line": {
+      "sm": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "{font-size.main.sm}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "{font-size.main.lg}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      }
+    },
     "sm-strong": {
       "value": {
         "fontFamily": "{main}",

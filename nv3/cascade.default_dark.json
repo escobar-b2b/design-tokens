@@ -3760,7 +3760,7 @@
     },
     "banner": {
       "fill": {
-        "value": "{core.brand-60.100}",
+        "value": "{core.white.a0}",
         "type": "color"
       }
     }

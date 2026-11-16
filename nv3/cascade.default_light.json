@@ -1352,7 +1352,7 @@
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.brand.on-brand}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         }
@@ -1405,7 +1405,7 @@
         },
         "text": {
           "default": {
-            "value": "{core.grey.500}",
+            "value": "{core.white.a100}",
             "type": "color"
           }
         },
@@ -1462,7 +1462,7 @@
     "accordion": {
       "background": {
         "fill": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       },
@@ -2852,6 +2852,12 @@
               "value": "{core.brand-30.500}",
               "type": "color"
             }
+          },
+          "icon": {
+            "active": {
+              "value": "{core.brand-30.500}",
+              "type": "color"
+            }
           }
         },
         "banner": {
@@ -4067,7 +4073,7 @@
       "default": {
         "text": {
           "primary": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "secondary": {
@@ -4503,7 +4509,7 @@
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.brand-60.200}",
+          "value": "{core.brand-60.100}",
           "type": "color"
         },
         "secondary": {
@@ -5128,7 +5134,7 @@
           "y": "{depth.200}",
           "blur": "{blur.400}",
           "spread": "{depth.0}",
-          "color": "{core.grey.a10}",
+          "color": "{core.brand-30.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

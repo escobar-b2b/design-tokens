@@ -5688,7 +5688,18 @@
       "semantic.status.silver.border.primary": "S:41f4ea1ce458c81dc9cc30e3535c6fb76f0607eb,",
       "semantic.status.bronze.text.primary": "S:8bdebdcda3bdc69e55acc18a498469a2a309d5b2,",
       "semantic.status.bronze.fill.primary": "S:7186b0bab70eedbf1107975f9739a80b2c7d9770,",
-      "semantic.status.bronze.border.primary": "S:099f7808d18756b501a4895227cf01b081c10be5,"
+      "semantic.status.bronze.border.primary": "S:099f7808d18756b501a4895227cf01b081c10be5,",
+      "semantic.background.slate-3": "S:f68542bfcb9796c5c07afaf20296e683fdb0372e,",
+      "semantic.label.transparent.text": "S:2682c486e23bc9b57a2b0b9eaaeade207887a37c,",
+      "semantic.label.transparent.fill": "S:3ac815557000336ecc8a23faee7d92b0c8545729,",
+      "semantic.label.primary.text": "S:8e07d2da8ce8e08f39df0dcbef7d905e37b5146c,",
+      "semantic.label.secondary.text": "S:6afaa600debb53594f86e8b37aabb8ae518928ae,",
+      "semantic.label.secondary.fill": "S:47e2e040e1ca26d8369821271b9a882fb852f6e1,",
+      "semantic.label.tertiary.text": "S:03fcb52bba875a2a31a1e665c3a0180ddee0a1a0,",
+      "semantic.label.tertiary.fill": "S:676728e72b77ec12d893a6c3f8845f7ffc6965b9,",
+      "text.single-line.sm-strong": "S:b403d8ce663698c5c2c336216ac67a05a8b8c7a7,",
+      "text.single-line.ml": "S:4bcb8c065b0309f705f4929e19950f44bcc2c118,",
+      "text.single-line.ml-strong": "S:0af2ff6c61f27549bc015cfaab3afcba41922999,"
     },
     "$figmaVariableReferences": {
       "main": "d9282728d881ecd433e9fdd04a237d5e275336e8",

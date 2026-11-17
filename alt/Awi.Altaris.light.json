@@ -8934,7 +8934,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-30.700}",
+          "value": "{core.brand-30.800}",
           "type": "color"
         },
         "secondary": {

@@ -1234,6 +1234,20 @@
             }
           }
         },
+        "a10": {
+          "value": "{core.brand-preset.validation.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Primary.emerald 500 20%"
+        },
         "a40": {
           "value": "{core.brand-preset.validation.success}",
           "type": "color",

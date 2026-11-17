@@ -10431,7 +10431,10 @@
       "semantic.status.bronze.text.primary": "S:84f78b2264e2d89b03c6390fa75a87808c261944,",
       "semantic.status.bronze.fill.primary": "S:cdfb46d6c6824bc048088f941118454f5cbd7169,",
       "semantic.status.bronze.border.primary": "S:4d0408581937892c11b1891d13362a7873d66e3c,",
-      "semantic.background.slate-3": "S:8a03dd0170d7a2b72d35ec1752fc5e5b60b53da6,"
+      "semantic.background.slate-3": "S:8a03dd0170d7a2b72d35ec1752fc5e5b60b53da6,",
+      "text.single-line.ml-strong": "S:bf4d3a1e13d6adeac792ca155886563b68d28c24,",
+      "text.single-line.ml": "S:08178a66f41084a45df2c838af290e14a73ca6f5,",
+      "text.single-line.sm-strong": "S:861b1d2af1ad4eb34cc0318a59b52b4eb4ecb749,"
     },
     "selectedTokenSets": {
       "Awi.Altaris": "enabled",

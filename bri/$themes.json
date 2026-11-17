@@ -6485,7 +6485,8 @@
       "contextual.verification.illustration.background.fill-2": "S:e37802c521d6d56bfad4271f1117d6068227547a,",
       "contextual.verification.illustration.elements.blured-elements": "S:0f957081820077b826afe83518c99896b8974bc9,",
       "contextual.verification.illustration.text.primary": "S:ef0acba03b272dddec8649374853201f6aea6e9b,",
-      "contextual.loyalty.block.fill": "S:8f53ca9ea4049237ecbd20ca0fb3cf16934aa387,"
+      "contextual.loyalty.block.fill": "S:8f53ca9ea4049237ecbd20ca0fb3cf16934aa387,",
+      "text.single-line.lg": "S:e74e789946b2776018380f827cdd68f4111ea617,"
     },
     "$figmaVariableReferences": {
       "main": "8857d3a176488155aede40f58b0b056c4b2819d3",

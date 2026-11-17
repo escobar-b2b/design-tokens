@@ -5286,6 +5286,17 @@
       },
       "type": "typography"
     },
+    "single-line": {
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Regular}",
+          "fontSize": "{font-size.main.lg}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      }
+    },
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",

@@ -145,6 +145,17 @@
     "stronger": {
       "value": "{Bold}",
       "type": "fontWeights"
+    },
+    "single-line": {
+      "lg": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{Regular}",
+          "fontSize": "{font-size.main.lg}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      }
     }
   },
   "error-pages": {

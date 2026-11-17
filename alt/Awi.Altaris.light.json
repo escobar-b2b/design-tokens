@@ -102,6 +102,10 @@
       "lg": {
         "value": "124%",
         "type": "lineHeights"
+      },
+      "md": {
+        "value": "110%",
+        "type": "lineHeights"
       }
     },
     "row": {
@@ -1212,21 +1216,6 @@
               "blur": "{blur.100}",
               "spread": "{depth.0}",
               "color": "{core.grey.100}",
-              "type": "innerShadow"
-            },
-            "type": "boxShadow"
-          }
-        }
-      },
-      "deals": {
-        "slate-1": {
-          "active": {
-            "value": {
-              "x": "{depth.0}",
-              "y": "{depth.0}",
-              "blur": "{blur.100}",
-              "spread": "{depth.0}",
-              "color": "{core.brand-30.50}",
               "type": "innerShadow"
             },
             "type": "boxShadow"
@@ -4919,13 +4908,6 @@
           "divider": {
             "value": "{core.white.a20}",
             "type": "color"
-          },
-          "text": {
-            "accent": {
-              "value": "{semantic.text.default.primary}",
-              "type": "color",
-              "description": "Bonus/Talisman"
-            }
           }
         }
       },

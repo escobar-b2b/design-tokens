@@ -3066,6 +3066,10 @@
       "lg": {
         "value": "120%",
         "type": "lineHeights"
+      },
+      "md": {
+        "value": "110%",
+        "type": "lineHeights"
       }
     }
   },
@@ -3089,17 +3093,6 @@
         "lineHeight": "{line-height.accent.lg}",
         "letterSpacing": "0%",
         "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "lg": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{font-size.accent.md}",
-        "lineHeight": "{line-height.accent.sm}",
-        "textCase": "{text-case.none}",
-        "letterSpacing": "0%"
       },
       "type": "typography"
     },

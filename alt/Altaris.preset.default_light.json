@@ -108,6 +108,10 @@
       "lg": {
         "value": "127%",
         "type": "lineHeights"
+      },
+      "md": {
+        "value": "110%",
+        "type": "lineHeights"
       }
     }
   },

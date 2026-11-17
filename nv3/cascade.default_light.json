@@ -966,7 +966,7 @@
     "mobile-application": {
       "switcher": {
         "fill": {
-          "value": "{core.brand-60.100}",
+          "value": "{core.brand-60.50}",
           "type": "color"
         },
         "switcher-button": {
@@ -1206,7 +1206,7 @@
           "description": "Lootboxes"
         },
         "fill": {
-          "value": "{core.white.a15}",
+          "value": "{core.grey.500}",
           "type": "color",
           "description": "Lootboxes"
         }
@@ -1462,7 +1462,7 @@
     "accordion": {
       "background": {
         "fill": {
-          "value": "{core.brand-60.200}",
+          "value": "{core.white.a100}",
           "type": "color"
         }
       },
@@ -1617,7 +1617,7 @@
     },
     "content": {
       "fill": {
-        "value": "{core.brand-60.50}",
+        "value": "{core.brand-60.100}",
         "type": "color"
       }
     },
@@ -2918,6 +2918,14 @@
               "value": "{core.white.a0}",
               "type": "color"
             }
+          }
+        }
+      },
+      "general": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-30.a60}",
+            "type": "color"
           }
         }
       }
@@ -4328,7 +4336,7 @@
       },
       "active": {
         "element": {
-          "value": "linear-gradient(113deg, {core.brand-30.600} 0%, {core.brand-30.500} 48.56%, {core.brand-30.100} 100%)",
+          "value": "linear-gradient(113deg, {core.brand-30.500} 0%, {core.brand-30.400} 48.56%, {core.brand-30.100} 100%)",
           "type": "color"
         }
       },
@@ -5156,7 +5164,7 @@
           "y": "{depth.50}",
           "blur": "{blur.100}",
           "spread": "{depth.0}",
-          "color": "{core.grey.a10}",
+          "color": "{core.brand-60.a10}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

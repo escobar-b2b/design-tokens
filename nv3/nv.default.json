@@ -2887,7 +2887,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.grey.a10}",
+          "value": "{core.white.a0}",
           "type": "color"
         },
         "switcher-button": {

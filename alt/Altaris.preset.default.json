@@ -305,6 +305,35 @@
         "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography"
+    },
+    "single-line": {
+      "ml-strong": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{font-size.main.ml}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      },
+      "ml": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.normal}",
+          "fontSize": "{font-size.main.ml}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      },
+      "sm-strong": {
+        "value": {
+          "fontFamily": "{main}",
+          "fontWeight": "{text.strong}",
+          "fontSize": "{font-size.main.sm}",
+          "lineHeight": "{line-height.row}"
+        },
+        "type": "typography"
+      }
     }
   },
   "popup": {

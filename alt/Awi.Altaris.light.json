@@ -8924,7 +8924,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.400}",
+          "value": "{core.grey.500}",
           "type": "color"
         },
         "tertiary": {
@@ -8934,7 +8934,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-30.700}",
           "type": "color"
         },
         "secondary": {

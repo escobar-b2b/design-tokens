@@ -4107,7 +4107,7 @@
         },
         "bg": {
           "secondary": {
-            "value": "{core.brand-60.100}",
+            "value": "{core.grey.500}",
             "type": "color"
           },
           "primary": {
@@ -5169,7 +5169,7 @@
           "y": "{depth.400}",
           "blur": "24px",
           "spread": "{depth.0}",
-          "color": "{core.grey.a10}",
+          "color": "{core.brand-30.a15}",
           "type": "dropShadow"
         },
         "type": "boxShadow"

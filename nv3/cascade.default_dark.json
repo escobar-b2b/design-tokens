@@ -3173,6 +3173,12 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "welcome-bonus": {
+        "fill": {
+          "value": "{core.grey.700}",
+          "type": "color"
+        }
       }
     },
     "shop": {

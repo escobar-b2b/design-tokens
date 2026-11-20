@@ -3083,6 +3083,12 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "welcome-bonus": {
+        "fill": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
       }
     },
     "shop": {

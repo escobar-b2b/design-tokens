@@ -721,6 +721,10 @@
             "received": {
               "value": "{core.validation.success.a20}",
               "type": "color"
+            },
+            "get": {
+              "value": "{core.brand-60.a10}",
+              "type": "color"
             }
           }
         }

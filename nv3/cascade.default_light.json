@@ -704,7 +704,7 @@
               "value": "{core.white.a100}",
               "type": "color"
             },
-            "get-copy": {
+            "get": {
               "value": "{core.white.a100}",
               "type": "color"
             }

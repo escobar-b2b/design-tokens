@@ -704,7 +704,7 @@
               "value": "{core.brand-30.600}",
               "type": "color"
             },
-            "get-copy": {
+            "get": {
               "value": "{core.brand-30.600}",
               "type": "color"
             }

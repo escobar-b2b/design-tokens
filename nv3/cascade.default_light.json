@@ -2829,6 +2829,10 @@
         "banner": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "normal": {
+          "value": "{core.grey.a10}",
+          "type": "color"
         }
       },
       "item": {

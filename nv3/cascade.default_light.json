@@ -1483,11 +1483,11 @@
     },
     "table": {
       "fill": {
-        "value": "{core.brand-60.100}",
+        "value": "{core.white.a60}",
         "type": "color"
       },
       "header": {
-        "value": "{core.brand-60.100}",
+        "value": "{core.white.a70}",
         "type": "color"
       }
     },

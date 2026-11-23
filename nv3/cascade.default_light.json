@@ -2831,7 +2831,7 @@
           "type": "color"
         },
         "normal": {
-          "value": "{core.grey.a10}",
+          "value": "{core.brand-30.a30}",
           "type": "color"
         }
       },
